@@ -6708,7 +6708,7 @@ body.admin-bar #main_header {
 }
 
 body.is-scrolling #main_header {
-	background: #5f4b8b;
+	background: #000000;
 }
 
 @media (max-width: 1024px) {
@@ -6725,7 +6725,7 @@ header .header-top {
 
 @media (max-width: 1024px) {
 	header .header-top {
-		background: #001f3e;
+		background: #ffa903;
 		justify-content: flex-start;
 	}
 }
@@ -6907,7 +6907,7 @@ header .header-top .header-right .search-wrapper .search-icon {
 }
 
 #main-menu .menu-inner-wrapper {
-	background: #001326;
+	background: #0e3fa9;
 	padding: 60px 40px 0;
 }
 
