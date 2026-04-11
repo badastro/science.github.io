@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20250719T225100" id="311bf653-30ed-4d65-a49b-1d9bc7012bab">
+    <XRef DateTime="20250719T224917" id="326d3bbb-277d-4966-b8b4-fc0c38660087"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Action" id="4aba5458-643f-4e12-a238-e395c28c0674">
+      <Text Style="Underline+AllCaps">Fade in</Text>
+      <Text Style="AllCaps">:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="73ff32c7-ac68-429a-8aa9-94262ad4af8e">
+      <SceneProperties Length="1" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CASHIER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CUSTOMER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Asian supermarket - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="947f113a-a9d3-45ab-b021-ea13e0487cd6">
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">The Ides of 2020</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ea805990-9990-44da-8ef8-61eba7716acd">
+      <Text Style="AllCaps">Chyron:</Text>
+      <Text> Paris...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4da6b77c-00fa-4f52-9a55-c9f89017a2dd">
+      <Text>Rolling towards the camera on a checkout conveyor belt are a bag of cilantro, cucumbers, daikon, carrots, pork cold cuts, and finally a couple of banquettes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2175eb72-9f6f-4c25-b399-091eabc9abde">
+      <Text>An offscreen customer places a checkout divider between the two baguettes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="95223e21-f3da-43be-b668-5f70a9a85414">
+      <Text Style="AllCaps">chyron </Text>
+      <Text>crosses out</Text>
+      <Text Style="AllCaps">: </Text>
+      <Text Style="Strikeout">Paris</Text>
+      <Text>. The </Text>
+      <Text Style="AllCaps">Chyron</Text>
+      <Text> now reads: Division Ave in Wyoming. The </Text>
+      <Text Style="AllCaps">chyron</Text>
+      <Text> slowly adds: , Michigan.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="69c674ce-465a-4d7d-80e0-62886ebfa984">
+      <Text Style="AllCaps">Cut wide</Text>
+      <Text> to show </Text>
+      <Text Style="AllCaps">Quynh nguyen</Text>
+      <Text> (Vietnamese woman, 40s). She is irritated at a costumer (Chinese woman, 80s) behind her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="21e52b8b-5b41-4189-877d-a2d03b392d5c">
+      <Text>Quynh</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="53511f60-c0e1-473f-bee8-45b8d6d36f7f">
+      <Text Style="Italic">Tai </Text>
+      <Text AdornmentStyle="-1" Style="Italic">sao</Text>
+      <Text Style="Italic"> ban </Text>
+      <Text AdornmentStyle="-1" Style="Italic">lai</Text>
+      <Text Style="Italic"> </Text>
+      <Text AdornmentStyle="-1" Style="Italic">làm</Text>
+      <Text Style="Italic"> the (Viet: “Why did you do that?”)? Ban </Text>
+      <Text AdornmentStyle="-1" Style="Italic">có</Text>
+      <Text Style="Italic"> the </Text>
+      <Text AdornmentStyle="-1" Style="Italic">nau</Text>
+      <Text Style="Italic"> bánh </Text>
+      <Text AdornmentStyle="-1" Style="Italic">mì</Text>
+      <Text Style="Italic"> </Text>
+      <Text AdornmentStyle="-1" Style="Italic">không</Text>
+      <Text Style="Italic"> (Viet: “Can you even make banh mi?”)?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="09bd9f44-fb6f-4087-a990-84fffb898433">
+      <Text>Customer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c3ff1071-4a01-436a-b594-818ec2680c79">
+      <Text AdornmentStyle="-1" Font="Sans Mono CJK Final Draft">越南面包适合所有人</Text>
+      <Text Font="Sans Mono CJK Final Draft"> (</Text>
+      <Text AdornmentStyle="-1">Yuènán</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">miànbāo</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">shìhé</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">suoyou</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">rén</Text>
+      <Text>) </Text>
+      <Text Style="Italic">(Mandarin: “Banh mi is for everyone”)</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9edc4ccc-3e80-4939-a2b3-14c5d7486ad7">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0b07ba8a-d45d-4c4e-be46-840c59ea6941">
+      <Text AdornmentStyle="-1" Style="Italic">Tên</Text>
+      <Text Style="Italic"> </Text>
+      <Text AdornmentStyle="-1" Style="Italic">thuc</Text>
+      <Text Style="Italic"> </Text>
+      <Text AdornmentStyle="-1" Style="Italic">dân</Text>
+      <Text Style="Italic"> (Viet: “Colonizer”)</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3c2c4f61-9c43-4e19-b62a-91f98fcd4eac">
+      <Text>The </Text>
+      <Text Style="AllCaps">cashier</Text>
+      <Text> (Malaysian, 20s) bags the groceries. Then double bags it then ties the plastic bags impossibly tight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d19e3ba-097b-4e11-a0d2-87a064829484">
+      <Text>Cashier</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="70d609e7-5c75-42e3-a8a4-dba645d866e2">
+      <Text AdornmentStyle="-1" Style="Italic">Respecte</Text>
+      <Text Style="Italic"> </Text>
+      <Text AdornmentStyle="-1" Style="Italic">tes</Text>
+      <Text Style="Italic"> </Text>
+      <Text AdornmentStyle="-1" Style="Italic">aînés</Text>
+      <Text Style="Italic"> (French: “Respect your elders”), </Text>
+      <Text>Quynh</Text>
+      <Text Style="Italic">.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="86532b21-407e-40df-8af6-4fe25bec80a8">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="60301ab1-5bcf-4f81-9558-d60c22751146">
+      <Text>Ban </Text>
+      <Text AdornmentStyle="-1">đã</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">không</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">tôn</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">trong</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">lenh</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">phong</Text>
+      <Text> toa </Text>
+      <Text Style="Italic">(Viet: “You did not respect the lockdown”)</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="97d4352e-4b43-4eb2-90ed-537aa1fc6941">
+      <Text>The cashier hands Quynh her groceries.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8d94d42c-f931-480a-a90d-194f9b40ca63">
+      <Text>A TV on the wall displays footages from Centers for Disease Control and Prevention and states the date: March 15, 2020. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="216d68d7-79c6-45ba-9e5f-03e78ed1016a">
+      <Text>Quynh walks out of the supermarket...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="41da828b-d512-41f3-b769-688f1fb10b67">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AGENT ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Asian supermarket - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e3dce4b3-03aa-4e00-bcd1-85d1700ab69d">
+      <Text>...into an oncoming </Text>
+      <Text Style="AllCaps">apocalypse</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="1a318341-1823-44b7-a96a-e496ade0f210">
+      <SceneProperties Length="1" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CASHIER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CITIZENS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MONSTERS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Division Ave in Wyoming, Michigan - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e3dce4b3-03aa-4e00-bcd1-85d1700ab69d">
+      <Text>The local Asians run for their lives as shadowy figures chase them, claiming they have the “China virus.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3a929f44-c84e-4909-8508-e9d4014917a7">
+      <Text>Citizens</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="21e89aa6-e993-41f0-93e8-62493e87d031">
+      <Text Style="AllCaps">It’s the ide of 2020
+Run for your fucking lives</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a5192135-a04c-4a58-940d-052dd8035df7">
+      <Text>Monsters</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="82066bb5-e998-4edb-bad6-89fc9cc90114">
+      <Text Style="AllCaps">China, China virus!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1ccdcc4e-776b-4b0e-b36e-f927f874e1a1">
+      <Text>A figure knocks Quynh onto the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="589c97ae-bf86-416e-8e64-956b253c4422">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="60b82c4c-a1b8-4ada-a34f-95f710596afd">
+      <Text AdornmentStyle="-1">Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e87ed6dc-bb61-4b93-b55c-10c6dfc10c32">
+      <Text>Quynh takes a bag and chokes the figure, comedically tying the bag impossibly tight.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="83e8e40c-c4c4-4745-b88f-2c40b82a71b3">
+      <Text>Quynh gets up with her groceries and runs into her 1990s Toyota Camry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="83e8e40c-c4c4-4745-b88f-2c40b82a71b3">
+      <Text>From inside the car, more figures pop up from outside her driver’s side window.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="006921fb-0cea-4a70-a1d0-bfd74b260fc6">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="6b14bf40-e086-4621-8ce7-5d865ff09a00">
+          <Text>Monsters</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="9ead043a-4a3d-4c42-81f4-b940788a0c24">
+          <Text>China virus!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="d46c696a-92f0-413b-8a66-2436f2c576b3">
+          <Text>Monsters</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="bf942499-b5c9-405e-8f0b-3354342b2917">
+          <Text>Chino!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="76f2742a-a8a2-4a1f-8d52-eb9dcf591d84">
+      <Text>QuYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2df3f906-2885-471a-b339-281f97e3e358">
+      <Text>No </Text>
+      <Text AdornmentStyle="-1">no</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">no</Text>
+      <Text>, I- I am Vietnamese!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2d65cde5-c0db-4a7e-9cf0-306a40e8d16c">
+      <Text>In the distance, the cashier tiptoes away from the commotion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5b2faa5f-292b-49eb-b0ba-ba1c6dfd910f">
+      <Text>Quynh points to the cashier.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8c0cd2c3-3c7d-494c-8e60-e5bd0d5c9e25">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="08afd689-a0c7-43c9-a486-42aa59c77c1e">
+      <Text>Chino, China, Chinese, Chinese!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e44bed2d-6d89-42da-97d5-0e51d181ba27">
+      <Text>Cashier</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="54213764-e37c-4716-8fc4-2fbbe88c62ea">
+      <Text Style="Italic">Orang Vietnam </Text>
+      <Text AdornmentStyle="-1" Style="Italic">adalah</Text>
+      <Text Style="Italic"> yang paling </Text>
+      <Text AdornmentStyle="-1" Style="Italic">teruk</Text>
+      <Text Style="Italic"> (Malay: “</Text>
+      <Text AdornmentStyle="-1" Style="Italic">Viets</Text>
+      <Text Style="Italic"> are the worst”)</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f5a04bb4-bfec-4654-840b-ab0e4d61504c">
+      <Text>The figures tackle the cashier out of sight.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f5a04bb4-bfec-4654-840b-ab0e4d61504c">
+      <Text>The older customer runs up and beats the downed figures with a baguette.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3fec8714-c681-4c7c-9f57-842735504400">
+      <Text>Quynh starts the car and drives away.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6f316aba-0323-40f2-bfa3-9acbd1fb8049">
+      <SceneProperties Length="2/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AGENT ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Division Ave - continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c3227579-a7b7-4021-82f7-04bb762a1c78">
+      <Text>The car passes a street sign that reads: Division Ave.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cd1a0dda-fa90-487a-9e74-66f10151a801">
+      <Text Style="Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">The Ides of 2020</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="3eebaec0-1c1d-4a77-93db-8388d3894e46">
+      <SceneProperties Length="1/8" Page="3" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">Title Sequence</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0c976016-40f4-4402-91ec-fd9e05793215">
+      <SceneProperties Length="1/8" Page="3" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Title: Banh Mi</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="bc52e844-27cd-45d9-b9c2-26b3a89ffab5">
+      <SceneProperties Length="2/8" Page="3" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Division Ave - 3 Years Later - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1150dab5-392c-4717-9918-2e6205b0bf07">
+      <Text Style="AllCaps">Chyron:</Text>
+      <Text> March 15, 2023.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="45e1440c-d592-476b-a5a1-507a38da08b5">
+      <Text>Businesses is more run-down than ever around the street sign.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6d9186f5-8c0e-468c-aa4b-a067b2f429ce">
+      <Text>Quynh drives in the Camry. Her daughter </Text>
+      <Text Style="AllCaps">Tina Vo</Text>
+      <Text> (15) sits in the passenger’s seat, holding her saxophone case.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f459d628-44d9-484e-b785-5ae335f7fd36">
+      <SceneProperties Length="1 3/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TINA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Toyota Camry - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f208abdd-5519-4fac-9845-ec8f22fa058a">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1e1a38c3-4baa-4780-a978-5c3091b35b76">
+      <Text>Here is where it all ended 3 years ago. A lot of businesses shuttered. The supermarket. The fish market. The barbershop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9f47f594-e6c6-4260-83ab-5f96615e5c79">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ec763085-c4c4-4cf1-aef3-2808d54e9648">
+      <Text>I do not miss her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e9a2fecd-d8a6-46ae-9e7c-17d964736405">
+      <Text>Quynh pretends to clip Tina’s hair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f0685981-b9c3-4546-aa6c-75ce118b37f9">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e05eca99-c4b6-4cd6-8193-76d145010605">
+      <Text>Tiny Tina.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bf3ccf33-fb47-4ac8-8182-814d7313caaf">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0eb34bf0-4f24-4c23-a6ef-9301a83e8476">
+      <Text>Don’t!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9b06aadd-be84-4c3b-8f96-191291c415fc">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1e1a38c3-4baa-4780-a978-5c3091b35b76">
+      <Text>It was the apocalypse!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="570f699b-c94a-430a-85ae-e14a9a70b173">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="19822dba-0ea7-4c3a-887c-3903e0bae18c">
+      <Text>All this has got to be exaggerated.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="78869d66-da35-4513-8dd8-f2a1afa60c10">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="343c7c9b-fb8c-43b7-a802-fe149b923596">
+      <Text>It’s for effect. It’s like what your brother does: </Text>
+      <Text Style="Italic+AllCaps">screenwriting</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a83c0483-847b-4846-a0d5-9b598facd22a">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a49c627d-6daa-42cb-ab68-4f089ca7acbe">
+      <Text>I’m pretty sure he writes stage.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa43b92a-2f93-4eba-99b0-e07b28cbb073">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2c31ee94-feeb-460c-81d2-05853a95c5b4">
+      <Text>Is... that why we don’t see his musicals on TV? He should consider it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ba2644d0-0afd-404f-8ddf-6230adb9c633">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cad77b32-82e3-4572-b79d-d3ebe4185965">
+      <Text>He should first write something that passes a Bechdel test.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="45217040-9f53-4ef6-954e-45a1a9ac4ae2">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3f10ad9d-a754-412d-8946-51affb0b7604">
+      <Text>What test? Is that what you’re studying for right now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fd914cc0-4753-48f5-b766-426e28f52ddc">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="099ecb5b-85ee-4905-b3f8-1ad68d065d00">
+      <Text>We learnt it in honors English. Basically we fail it if we talk about boys.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9930bb09-b01b-4635-82d6-7d9d781c5583">
+      <Text>QuyNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6170c4b2-2a8c-4d1a-b4c3-47645dfdd678">
+      <Text>Are you talking to a boy?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10632377-44a8-411b-b50e-f6e1d5be79b5">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4455d325-b945-4fba-bd65-87654c79746d">
+      <Text>No... It’s impossible to make friends on Zoom...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0335e211-f792-48ae-94c1-be4aa713c920">
+      <Text>QuynH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9083352f-b348-43db-883a-73976262e2ce">
+      <Text>Shall we get zooming to your first in-person thing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f860751d-c703-45c5-bfa8-a0991451f34c">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6797214f-ffb1-4b26-9686-5544ad709e49">
+      <Text>To the ballpark!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="28a24e52-7162-4276-b241-b0688683a451">
+      <Text>Tina pulls out her saxophone reed and plays it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0f4730bb-f8c5-4f99-ae00-f036fa7089eb">
+      <Text>Quynh drives towards...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c050066b-d3fa-4062-90c3-ea5ca1cf6f19">
+      <SceneProperties Length="3/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TINA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Grand Rapids - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fc3c0878-137b-47bd-a940-1d6b599e5c0e">
+      <Text>...a midwestern city full of hip shops, dumb cops, creative people, crazy fishermen, and eccentric squirrels.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d76d894f-5229-44c0-aa1c-1f37db9312ab">
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">616 Grand Rapids</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="29527b81-b6b7-49c9-9474-2db31b7b35e7">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3b8ac329-3568-46c7-9bbf-208c6d8753fe">
+      <Text Style="AllCaps">Come on, mom, we’re gonna be late</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a8f3d23e-c130-4925-9d4d-9768da558eb1">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b0ac36ea-70cd-4b7c-8cf9-414376f3fa5e">
+      <Text Style="AllCaps">we got to pick up your </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">bo</Text>
+      <Text Style="AllCaps"> from harbor freight</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c050066b-d3fa-4062-90c3-ea5ca1cf6f19">
+      <SceneProperties Length="2/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CITIZENS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>int. harbor freight - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="425d41f4-8e71-414a-8e62-cbec4478ea60">
+      <Text>A tool and equipment retailer cannot get more amusing for Quynh’s husband and Tina’s dad named </Text>
+      <Text Style="AllCaps">Quang Vo</Text>
+      <Text> (40s).</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="52e4d699-fd73-4d32-9f0f-43174a075dde">
+      <Text>Citizens</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="70f28a82-365c-4681-9dd5-7de1458c672a">
+      <Text Style="AllCaps">Harbor freight</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b12a1134-f9da-4a7d-8b72-47ebfee9304d">
+      <Text>Quang scooches past customers and gets in line to checkout. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c050066b-d3fa-4062-90c3-ea5ca1cf6f19">
+      <SceneProperties Length="3/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="QUANG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. harbor freight - Minutes Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e22640b1-88da-4004-9cec-169d4fae8021">
+      <Text>Quang exits the store.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e22640b1-88da-4004-9cec-169d4fae8021">
+      <Text>Quynh almost runs him over.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bd014f85-8526-4f70-bd14-ec42dc585bec">
+      <Text>QUANG</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8f72b889-016c-4ee0-81c4-3aee77716402">
+      <Text>(Midwestern politeness)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b92cd8dd-a694-4d8e-8de0-1b30f571b15b">
+      <Text Style="AllCaps">Hey, why don’t I look where I’m goin’</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0f79b538-c714-457d-8880-32e1ff492879">
+      <Text>Quang gets into the back seat of the Camry.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c050066b-d3fa-4062-90c3-ea5ca1cf6f19">
+      <SceneProperties Length="1" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CITIZENS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUANG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH, CITIZENS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TINA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Grand Rapids - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8f00fb04-ff80-4e3d-80a3-46aad434ea8b">
+      <Text>Citizens shop, sightsee, and move about.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9824b1a1-5313-47fd-b360-e02223ebca46">
+      <Text>Citizens</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1c4a608f-a01b-4575-b8d9-e5afbe7bccba">
+      <Text Style="AllCaps">6 1 6 grand rapids
+Where anything can happen</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3e53533c-9be9-46df-bde1-ba5a13fc2534">
+      <Text>The Vos drive by Grand River.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="33fb8124-2bfb-4672-9726-11f5f3e041d0">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="04468856-aec8-4bcd-a8ff-0687ec722cb2">
+      <Text Style="AllCaps">Is it fishing season?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b08fcaf3-3612-4805-a673-b4cc2299995a">
+      <Text>The fishermen catch salmon and trout.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4b8db58a-31f2-4f2d-810a-a9a1ed0ee2bd">
+      <Text>CitIZENS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="73a4ba7f-d38e-45ab-9c1e-fe744490d32b">
+      <Text Style="AllCaps">6 1 6 grand rapids
+where everyday is fishing season</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="803b8ed1-7966-4b30-a968-c8996b85ae65">
+      <Text>The Grand River instantly become ice and it lightly snows.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bdd9582d-309d-447c-86a7-d9d3e79b73be">
+      <Text>The fishermen slip and slide.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e1c64e49-87cc-4fc0-9aed-d5ececbd46dc">
+      <Text>CitizENS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="075ecb67-380b-4f48-a052-d24678d1749f">
+      <Text Style="AllCaps">6 1 6 grand rapids
+where each day is every season</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0ad0afaf-6ab8-4e52-ae6c-340d0ef28504">
+      <Text>They drive through various highways and freeways.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e92a5035-8754-443d-845f-208fb9e1363f">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f9e0f043-e7ec-420c-826e-858ab1328a16">
+      <Text Style="AllCaps">Where in g R are we going?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d544e8c9-5ccc-46c1-967c-abd2730cb802">
+      <Text>Quynh, citizens</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0bbce8a2-bbad-461e-9534-25ecb6850dcd">
+      <Text Style="AllCaps">6 1 6 grand rapids
+it probably has no less than
+616 communities
+From kentwood
+to Wyoming
+The city not the state</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6033f9f2-8ecb-4bda-9cb1-f02421f53fda">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cd7357c8-dbd5-4e4a-a8de-0ffd5b8b5bdc">
+      <Text Style="AllCaps">We’re just south of g r</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="598ea968-2456-4f08-8d1d-1c92708acf40">
+      <Text>QuYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7c81d073-4342-4b2b-8bfd-4a90cb206b34">
+      <Text Style="AllCaps">We’re going to comstock park
+which isn’t too far!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="357cf92d-ab30-4a68-890a-05d3f6f3afea">
+      <Text>A group of deer, turkeys, and racoons run into the road.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e1ee37eb-4425-437b-8f70-71f3730321b6">
+      <Text>The Camry almost runs the animals over.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="121a7a73-331f-4c12-8c73-af6e596fd87b">
+      <Text>Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e08c0277-1f4f-471d-b18c-3a857eccdeff">
+      <Text Style="AllCaps">But anything can happen</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="bb50e674-e03e-4a0b-86e4-92f5ca1e96ec">
+      <SceneProperties Length="3/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="COMPANY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Sixth Street Bridge - Another Time</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="63b33316-23c6-4220-8a4f-4bd074c3d13f">
+      <Text>Quynh, Quang, Tina, and the citizens of Grand Rapids dance on the iconic blue bridge.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fef38c6f-fcc4-441d-8409-af50b78057c4">
+      <Text>company</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c95f4f31-2b42-448f-b8bb-f4522221af57">
+      <Text Style="AllCaps">6 1 6 grand rapids
+Where anything can happen
+6 1 6 grand rapids
+where everything is</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="29250dc2-7889-458d-a5c9-540341c7283a">
+      <Text>Everyone poses.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d76d894f-5229-44c0-aa1c-1f37db9312ab">
+      <Text Style="Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">616 Grand Rapids</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="ffad3010-8141-43c8-b2fe-906bd2ab0ed1">
+      <SceneProperties Length="2/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNOUNCER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ballpark - Field - Hours Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d74aff3f-a08b-4e76-a788-58f83467b857">
+      <Text>It is a charity game to fight melanoma. A high school pep band is on the field. Tina has her alto saxophone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ee59b998-6df4-496f-b4e9-61fef04e7568">
+      <Text>Announcer (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a66a77b2-e6a3-451b-b910-1b19925f9f7a">
+      <Text>Now rise for the national anthem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5e1f6159-1729-4033-8fc2-226c076b2443">
+      <Text>The band plays the national anthem.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0f94adfc-dc86-4153-bd1f-4ec408506cb4">
+      <SceneProperties Length="5/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Ballpark - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9cd5142d-eed6-4dfb-b612-f98e4e441ca5">
+      <Text>Alan gets out of his car and walks by the ballpark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d76d894f-5229-44c0-aa1c-1f37db9312ab">
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Home Run</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5cb22f3f-32a7-4bf2-b332-f1d7ee6a53b9">
+      <Text>Alan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1734127f-624f-4691-a0bb-87e25314fb30">
+      <Text Style="AllCaps">the home of the brave.
+Unlike me.
+
+This is my home
+There are many people I’ve ignored
+They see me as pride and joy
+They ask, “how’s new york?”
+I want to make sure that before
+the signs and my cries
+My family knows why
+I am a big disappointment
+</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fd9e1cb2-a7ba-45a1-8ba8-9f1da3e8f575"/>
+    <Paragraph Type="Character" id="99d319c9-793b-4da6-8a3a-37bcef597708">
+      <Text>Alan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1901b8cf-e07e-4b53-a6b0-1fdd9a6c9b88">
+      <Text Style="AllCaps">So i’ll run home!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="794223f8-7583-4cad-8e4b-033e86ec1cfb">
+      <Text>A home-run ball lands and knocks out Alan.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d76d894f-5229-44c0-aa1c-1f37db9312ab">
+      <Text Style="Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Home Run</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6e171475-bf08-400a-9bf8-54b36de79528">
+      <Text>The screen goes to </Text>
+      <Text Style="AllCaps">black</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="85379030-00bf-43bd-92dc-249e86cccbcb">
+      <SceneProperties Length="6/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUANG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TINA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">Ballmark</Text>
+      <Text> - Medical ROom - Hours later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="930ea551-c86a-49fc-ae81-92b79f488f33">
+      <Text>A nurse tends to Alan who now has a black eye.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="104569e6-4df8-4bbd-b836-2c728e91de25">
+      <Text>Alan wakes up to Quynh, Quang, and Tina.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4452483a-b184-4482-ac7f-eb7d7b728d62">
+      <Text>QuYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="28db0d6a-c083-4fef-a310-0ad5f830cd31">
+      <Text>Welcome back, son.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="62d18a54-daf7-4700-b1d8-dd8fe071f13f">
+      <Text>Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="66669ce6-3e96-4c8c-9404-4d4da29c357b">
+      <Text>You got the home run.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a6a4260e-05a0-4868-96b0-ad5f288bb344">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c0356f00-2519-4376-9b00-8445faf0d8c2">
+      <Text>Coming home, I see?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7cea24bd-40e8-4f35-a2d8-c24fd3c42e74">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd9b3079-9263-42b0-bef7-7c69289a358d">
+      <Text>How’s screenwriting?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="96d5a1ce-6aeb-46d3-9c73-793555e371ab">
+      <Text>Tina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="da226946-12bf-4a7e-b3f8-dbc0b7d5ac43">
+      <Text>Playwriting.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1f33e89a-8a4a-49a2-8d82-8790a0b392f4">
+      <Text>Alan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f076c427-fc98-4350-86a1-87065eed7599">
+      <Text>Same thing at this point. Dead in the water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dc896c32-e258-4ba1-ad2a-4fe39486ab47">
+      <Text>Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13b7aa1a-3846-4225-adf3-6834c05b4a8b">
+      <Text>At least you’re alive and under 26, so you got our healthcare. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="87955d66-da47-41f4-8b28-c48fb26e2d0e">
+      <Text>QUYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13b7aa1a-3846-4225-adf3-6834c05b4a8b">
+      <Text>You’re welcome to join us on the assembly line.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d2e6506b-f865-40c7-95ac-c3838bcbc5ea">
+      <Text Style="AllCaps">Pre-lap</Text>
+      <Text>: The sound of machinery.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="dad752c3-42c6-48d0-bb47-edfd1ee4e166">
+      <SceneProperties Length="3/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNOUNCER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. auto Factory - Assembly line - The Next Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b3b5113b-ef2a-46a2-a648-f133023905f3">
+      <Text>Quynh and Quang, in their goggles and workmen uniform, are the only two workers on the assembly line as everything is now automated. They mostly watch over the machines and parts.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="38af5438-a627-43da-8e1b-d2f2001aa88a">
+      <Text>The assembly line suddenly shuts down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="85d6070b-633a-4f70-a613-ee5491858972">
+      <Text>AnnOUNCER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="65e679a3-2e3c-4548-9e01-49472c248d6d">
+      <Text>The only two humans here please remote to the managerial office.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3d3f929e-be00-4024-b2dd-ddac8373698c">
+      <Text>Quynh and Quang put down their goggles and head out.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="eb3f2d34-6c29-4104-8bdc-36ac6caf350a">
+      <SceneProperties Length="1 1/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="QUANG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH &amp; QUANG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SUPERVISOR">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. auto Factory - Office - Minutes Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dab63d67-3a87-4ec0-9c31-29f7fce35ccf">
+      <Text>A supervisor sits behind a desk while Quynh and Quang sit together in front.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e0c4d518-8643-43fb-9a03-51f0f8386abf">
+      <Text>Supervisor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d6e186b8-f4a2-434c-8642-939b9b8fb182">
+      <Text>You know why I ask you two here today?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d511e10e-2e88-4047-9b73-9e21e90cc08b">
+      <Text>Quynh &amp; Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fe5422fc-344d-453e-819e-a0f125689525">
+      <Text>Are we finally replaced by robots?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c73085a5-003d-4af2-84eb-08689374f976">
+      <Text>Supervisor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="67910a0d-3496-4f65-98ed-bfc97bfce9c6">
+      <Text>You’re not getting replaced.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4f9e25b2-7c40-42d8-9e26-6bd310dd37eb">
+      <Text>Quynh</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5ca3ae44-e99b-45e1-aa2a-54ec2921e678">
+      <Text>This is like the 17th time you’ve called us in to surprise us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9d1ae8bf-924a-40f6-a084-3a2710ea94b5">
+      <Text>Supervisor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a911c913-2114-43ed-b6b5-8a78b9e1b77c">
+      <Text>Well, you’re not getting replaced. The location of our auto factory is.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="76eab9b9-f7d1-46a5-8e24-878fe859dc6f">
+      <Text>Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="adf07ea1-eac3-4030-90a1-27ce0df86d0b">
+      <Text>Where?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="47f2faa7-b2ef-40a9-bf61-22ec54d37d37">
+      <Text>SUPERVISOR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a21f001c-82ca-49f2-97db-f621b73bb7da">
+      <Text>Mexico.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="50d8553a-3325-403e-ab61-89c84af5fecd">
+      <Text>QuYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8d3cdfe7-348d-4bc6-b3aa-84c58bec8a7e">
+      <Text>You’ve laid off our Mexican coworkers and now you’re going to move to their turf?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c804a99b-72d6-4a0e-a9e4-9148d2d9247b">
+      <Text>Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5f2a4812-0f78-4f0c-bcd0-62f2c930ee07">
+      <Text>This is outrageous!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="374a246e-2cca-4d93-adc9-ffe155ebfb53">
+      <Text>SUPERVISOR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b87ced43-d5b3-4426-aeb7-e5c6960365f4">
+      <Text>What’s outrageous is this country’s treatment of blue collar middle managers!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="13f0cde3-b7a7-4eec-9e7e-f5dac99897a6">
+      <Text>Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fd088c95-7d77-45ff-9169-648e9b5409a4">
+      <Text>I’m gonna make your collar blue.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bf0ce355-0c9e-470e-839b-017b80151eb8">
+      <Text>Supervisor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eeaadee0-e20e-4a3a-a05d-0c77e040ad05">
+      <Text>I’m going to be replaced by Mexicans, too. And there’s nothing you can do to stop this. I’m sorry, Quynh and Quang. You have my most loyal employees and I’m grateful for the drive you two had these two decades.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6a9c58b6-15bf-4413-9c8a-5a4a3a991e8b">
+      <Text>Quynh and Quang sit, seething with frustration.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="112e3cb0-8162-4ec8-8995-69d767a634e3">
+      <SceneProperties Length="3/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="QUANG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH &amp; QUANG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Camry - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3369e097-8c7e-4535-b3c5-b024679ca61a">
+      <Text>Quang drives while Quynh is in the driver’s seat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b847f8b0-a471-4d66-9150-273bd4c60cf8">
+      <Text>Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="10497987-b7dd-4ab9-9354-1e6073add7c7">
+      <Text>What are we gonna do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1de9b0e1-f7fa-4938-8b3d-a432ae657c08">
+      <Text>QuYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c70e5781-cdec-423d-9f4d-107b151f5a92">
+      <Text>Only thing we can do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e23c30a-5370-43fc-b609-45fb3b35dd6c">
+      <Text>QUYNH &amp; QUANG</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aab231ea-a8b6-4205-b033-ac81e791ef34">
+      <Text>Escape to Paris...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="36167fdc-7800-46a7-a32f-4db02752fdd9">
+      <Text>Pre-lap: The Paris by Night variety show</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="98fe0f41-948c-4c50-8a51-9d2aa5612dae">
+      <SceneProperties Length="5/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ALAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUYNH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Home - Living ROom - EVening</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d2d2523a-778f-4ce4-8b20-e7fba6c8253c">
+      <Text>On TV is an episode of the Vietnamese variety show called Paris by Night.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b285cd1b-d9ec-42ee-a2c3-3193cd797efe">
+      <Text>On the sofa, Quynh watches intently as Quang sleeps by her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="521618d5-2bc7-449c-a38e-748d8d83417e">
+      <Text>Alan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="07cd4b56-3183-4349-9ec5-72966dc4d373">
+      <Text>Watch their lips.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7ac935ce-5312-4947-b7ae-257c5c4164bf">
+      <Text>QuYNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4929225b-efe0-4eff-ae8d-7f1cff21928c">
+      <Text>Lips?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c1cddc0d-5364-4110-9f0a-64626783e1ac">
+      <Text>AlaN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8c2863d4-5cbf-40be-a638-447dea21dbb4">
+      <Text>They’re lip-syncing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2052010f-e0c7-4383-bc8b-02a6bc98a29d">
+      <Text>Quynh</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f27fd4a6-ebe6-4b4b-8f3c-fce7e12d8855">
+      <Text>Seems real to me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="32ba3331-20bc-4a9c-b861-a1d7c490967e">
+      <Text>Alan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="84a3da3e-a301-473f-8883-edd1c20877a3"/>
+    <Paragraph Type="Action" id="d76d894f-5229-44c0-aa1c-1f37db9312ab">
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Paris by Night</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9656b6c7-9277-4f6f-bc69-f2b19894563f">
+      <Text>QuyNH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0da50213-5839-4d60-93d6-5b29e9518109"/>
+    <Paragraph Type="Action" id="30538ae2-a067-4fc5-ae23-7598651bfeba">
+      <Text Style="Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Paris by Night</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a23b2ba2-18da-4439-8f19-d4480a409df8">
+      <SceneProperties Length="2/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Home - Kitchen - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d76d894f-5229-44c0-aa1c-1f37db9312ab">
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dough Bread Mi</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="698c7af5-429e-4f30-9175-c1f478df007e">
+      <Text Style="Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dough Bread Mi</Text>
+      <Text Style="Underline+AllCaps">” Song</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="85379030-00bf-43bd-92dc-249e86cccbcb">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. City Hall - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8b7a86be-f57a-4e9c-8b6d-14ed31e70d51">
+      <Text>There is a sign outside that reads: Town Hall</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="ad7cb50f-9f24-4255-9537-df6289600250">
+      <SceneProperties Length="2/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="COUNCILPERSONS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="QUANG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. City Hall - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3644073f-f8ca-4f1f-91b0-33da1feceb48">
+      <Text>Many locals gather in front of the board of councilpersons.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e658f162-4170-46ee-9ac0-aaadeee8a890">
+      <Text>Quang</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6e7be2d6-c766-4f72-ae80-ed8fd7bc48dd">
+      <Text>Our jobs are getting shipped to Mexico.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ad10023a-e848-4edc-80fa-713a4968d043">
+      <Text>Councilpersons</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="738977a7-90fa-42a5-ba13-c220bd31d1f2">
+      <Text>We will incentivize </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a5a73dc8-bcf3-4a91-aae7-7606e03b98de">
+      <SceneProperties Length="2/8" Page="11" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Abandoned supermarket - Evening</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d39d38a6-2cb9-434c-abb1-ca7618ce6425">
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Mi</Text>
+      <Text Style="Underline+AllCaps">” Piece</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4da6b77c-00fa-4f52-9a55-c9f89017a2dd">
+      <Text>On an inactive checkout conveyor belt are a roll of cilantro, cucumbers, daikon, carrots, and pork cold cuts.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e0a90072-8f46-4587-8020-72c930758caa">
+      <Text>Quynh places a baguette at the end.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c2dbeba8-d9e3-4c85-bcee-3dc2869a28c6">
+      <SceneProperties Length="2/8" Page="11" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Abandoned Supermarket - Minutes Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e66f7c57-97a3-4f8c-9c24-5dd1527911e8">
+      <Text>In place of a rundown abandoned supermarket, Quynh imagines her future musical restaurant called Dough Bread Mi.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f2c785b-9e79-4fab-a1b4-4fdd3ab7eb7c">
+      <Text Style="Underline">End of </Text>
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Mi</Text>
+      <Text Style="Underline+AllCaps">” Piece</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="08168047-9bc6-42f6-8779-00c575630b88">
+      <Text Style="Underline+AllCaps">End of Pilot</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">     BANH MI   	           </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">"Dough Bread Mi"    </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="766" Left="2" Mode="Maximized" Top="2" Width="1160"/>
+
+  <TextState Scaling="100" Selection="6013,6013" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Banh mi</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="24,24" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Acadia</Character>
+      <Character>Cát</Character>
+      <Character>Phone</Character>
+      <Character>Host</Character>
+      <Character>AcADIA &amp; Cát</Character>
+      <Character>CUC</Character>
+      <Character>Researcher 1</Character>
+      <Character>Researcher 2</Character>
+      <Character>Kooky</Character>
+      <Character>Horseshoe Crabs</Character>
+      <Character>Officer</Character>
+      <Character>ATV</Character>
+      <Character>AcaDIA &amp; CÁT
+</Character>
+      <Character>Producer</Character>
+      <Character>Quynh</Character>
+      <Character>Monsters</Character>
+      <Character>Cashier</Character>
+      <Character>Customer</Character>
+      <Character>Quang</Character>
+      <Character>Tina</Character>
+      <Character>Citizens</Character>
+      <Character>Councilpersons</Character>
+      <Character>Announcer</Character>
+      <Character>Alan</Character>
+      <Character>Quynh, citizens</Character>
+      <Character>Quynh &amp; Quang</Character>
+      <Character>Supervisor</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Phone)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+      <SceneIntro>XT</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>LIVING ISLAND</Location>
+      <Location>HAIPHONG HOSPITAL</Location>
+      <Location>UNDERWATER</Location>
+      <Location>OCEAN</Location>
+      <Location>CÁT'S ROOM IN HAIPHONG HOSPITAL</Location>
+      <Location>FOSSIL ISLAND</Location>
+      <Location>SEA</Location>
+      <Location>TALK SHOW SET, STAGE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LAB</Location>
+      <Location>CÚC PHUONG NATIONAL PARK, VIETNAM</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LIBRARY</Location>
+      <Location>CÚC PHUONG NATIONAL PARK DOCK</Location>
+      <Location>FOSSIL ISLAND BEACH</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION STAIRCASE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION PARKING LOT</Location>
+      <Location>HIGHWAY</Location>
+      <Location>FOSSIL ISLAND CLIFF</Location>
+      <Location>PORT NEWARK</Location>
+      <Location>EAST COAST</Location>
+      <Location>
+</Location>      <Location>ASIAN SUPERMARKET</Location>
+      <Location>TOYOTA CAMRY</Location>
+      <Location>DIVISION AVE IN WYOMING, MICHIGAN</Location>
+      <Location>DIVISION AVE</Location>
+      <Location>ABANDONED SUPERMARKET</Location>
+      <Location>CITY HALL</Location>
+      <Location>PINERY PARK STADIUM - SEATS</Location>
+      <Location>PINERY PARK STADIUM - FIELD</Location>
+      <Location>GRAND RAPIDS</Location>
+      <Location>BALLMARK - MEDICAL ROOM</Location>
+      <Location>AUTO FACTORY - ASSEMBLY LINE</Location>
+      <Location>AUTO FACTORY - OFFICE</Location>
+      <Location>HOME - LIVING ROOM</Location>
+      <Location>HOME - KITCHEN</Location>
+      <Location>TITLE SEQUENCE</Location>
+      <Location>TITLE: BANH MI</Location>
+      <Location>BALLPARK</Location>
+      <Location>HARBOR FREIGHT</Location>
+      <Location>SIXTH STREET BRIDGE</Location>
+      <Location>CAMRY</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>MINUTES LATER</TimeOfDay>
+      <TimeOfDay>HOURS LATER</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="7/25/25" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Acadia"/>
+    <Member Actor="" Character="Cát"/>
+    <Member Actor="" Character="Phone"/>
+    <Member Actor="" Character="Host"/>
+    <Member Actor="" Character="AcADIA &amp; Cát"/>
+    <Member Actor="" Character="CUC"/>
+    <Member Actor="" Character="Researcher 1"/>
+    <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="Horseshoe Crabs"/>
+    <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="AcaDIA &amp; CÁT&#xA;"/>
+    <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Quynh"/>
+    <Member Actor="" Character="Monsters"/>
+    <Member Actor="" Character="Cashier"/>
+    <Member Actor="" Character="Customer"/>
+    <Member Actor="" Character="Quang"/>
+    <Member Actor="" Character="Tina"/>
+    <Member Actor="" Character="Citizens"/>
+    <Member Actor="" Character="Councilpersons"/>
+    <Member Actor="" Character="Announcer"/>
+    <Member Actor="" Character="Alan"/>
+    <Member Actor="" Character="Quynh, citizens"/>
+    <Member Actor="" Character="Quynh &amp; Quang"/>
+    <Member Actor="" Character="Supervisor"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="ALAN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="ANNOUNCER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CASHIER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CITIZENS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="COMPANY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="COUNCILPERSONS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CUSTOMER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MONSTERS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="QUANG" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="QUYNH" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="QUYNH &amp; QUANG" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="QUYNH, CITIZENS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SUPERVISOR" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="TINA" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="c182cd4e-ef72-4f4c-b3ca-a866f235b80d" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="9f25c9a1-6c03-4a2d-a974-0d73c8d529c8" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>

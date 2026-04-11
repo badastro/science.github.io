@@ -1,0 +1,2140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20241117T042414" id="fca4576e-d56d-4a24-a56b-d3a1cc53dda2">
+    <XRef DateTime="20241117T042405" id="d9e4a862-33c3-4655-be89-51b71d2b8a57"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Shot" id="aa24a6d5-2a2c-45ae-bc01-1e4e06dbda89">
+      <Text>The Living Fossils Exhibit in The Zoo Aquarium</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1c551860-a684-437c-8aa9-38fabb2a314c">
+      <Text>A </Text>
+      <Text Style="AllCaps">mangrove horseshoe crab</Text>
+      <Text> swims or floats in a touch pool.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="73138d8a-9bef-4a18-a7c4-90ac7451cdd3">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="592ff999-c15a-46e1-a63e-ecfeef0217fc">
+      <Text>Never change, aquarium. No one wants anything to do with me...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ec72b324-b4b2-4812-bec8-810477c4d1df">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text>, a child who’s too curious for her own good or too good for her elementary school uniform really, enters with her </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Bo</Text>
+      <Text> (father). </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Bo</Text>
+      <Text> proudly wears a “chaperone dad” sticker. They notice </Text>
+      <Text Style="AllCaps">mangrove</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8c08d90e-410c-4900-80a7-22b4e9e883e7">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0169b0c3-2f43-48de-b680-d6f7dd39fd24">
+      <Text>Woah...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="458bf9bb-55bd-4448-900b-24db7790716c">
+      <Text>CuC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="25540e6d-89ab-40eb-9871-27190f376efa">
+      <Text>Oh! Do they change colors too, </Text>
+      <Text AdornmentStyle="-1">Bo</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7838b978-a661-474e-abc6-ea7129db59e9">
+      <Text AdornmentStyle="-1">Bo</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="2a5b8971-1f6d-4f0a-98b0-22ac0501bde4">
+      <Text>(Shaking his head “no”)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0a69b301-fdc1-4dab-9e51-65e35796fa71">
+      <Text>You see an octopus do it once and now you think all creatures can.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9a294b4c-f54f-4147-a86d-d52e7f072ed5">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7cb75c56-e436-451c-a16b-1cd8a16fc4a1">
+      <Text>I bet I can make this one change.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="998033d9-67fb-4bfb-bb27-519c9f0a11cd">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4eb4c448-cc10-4d5c-8c24-41fe1ebcaa64">
+      <Text>(Reading a sign)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="57170fa5-e5dc-47f8-b71f-eadb99f8d29b">
+      <Text>The Living Fossils exhibit.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="90c82192-f86d-4b16-b65e-123cf4cd9f37">
+      <Text>(Reading the placard)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d11dc2a7-7b37-4919-a418-eebac5af41bb">
+      <Text>This is a Mangrove horseshoe crab raised in Haiphong, Vietnam...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8a7a4229-5b94-48d7-8f2f-248154372c4b">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6c8df2be-f639-4f26-a043-8738ddc2a28a">
+      <Text>That’s where mom lives!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="819d5267-dc4c-49f8-90ca-dfb9778722a8">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d11dc2a7-7b37-4919-a418-eebac5af41bb">
+      <Text>Um- The horseshoe crabs, who dwell in Southeast Asia and Eastern North America, are known as </Text>
+      <Text Style="Italic">living fossils</Text>
+      <Text> for having been around yet remaining unchanged for a very long time. The oldest known fossil was discovered in 2008 in Manitoba, Canada. The fossil dates back to the Ordovician period, approximately 445 million years ago-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ee3d1f45-28db-4bc3-937c-e7ab6e625780">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3e9979c2-946b-4dac-bca2-1cd16d03e411">
+      <Text>Ha! That’s how old you are!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10c69e63-49aa-40c5-b036-ff1faceca21e">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4efe3a3f-6312-4cf9-a4e0-ad033ca0f09d">
+      <Text>No, Cuc... I was born </Text>
+      <Text Style="Bold">500</Text>
+      <Text> million years ago. Thank you very much.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d56c7ca1-25e9-4546-a348-a55e4594cc82">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b28aa9a3-c13e-40a4-912f-83f36569e0d3">
+      <Text>You’re a dinosaur, </Text>
+      <Text AdornmentStyle="-1">Bo</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c44ac391-4dc3-4e8d-adea-e2d16b6b7905">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5878781c-44b3-414f-8a45-69fa3216a046">
+      <Text>I don’t think dinosaurs were around that far back then.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="beb6c0b4-1e9b-47fb-b2d9-58b236c4a1ae">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> pouts.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d4e9dfba-58b6-44bc-b501-7a4bb870bc05">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bdc2fd7a-8e1c-4744-a39d-cfc032c94f4b">
+      <Text>But... Dinosaurs were my friends and family. A secret that the dinosaurs didn’t tell anyone is that they had feathers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d287d530-9ba6-455a-917e-7ed679d0951f">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b5ee6851-da69-4c07-87c9-c7e17d1e2420">
+      <Text>So... “T Rex” is “Tacky Rex?”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="54ec9aec-95fa-4e80-976a-4fcd8b96929b">
+      <Text>BO</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8420b21e-807f-4185-9735-b701bf973ac1">
+      <Text>(Sniffling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d316ddfb-2a17-440f-8e9b-72ebac2e7a4e">
+      <Text>Your first dad joke... You should be wearing the “chaperone dad” sticker.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d4f9833f-5ddb-4fc5-a127-b18a931da1de">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="41b50df9-dbbb-4a38-8a59-d69f40d087ca">
+      <Text>I bet horseshoe crabs are ready to have feathers!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ce6f7dac-02d3-4cc4-b479-3685b1f093ff">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ed00b6dc-3215-43be-b74f-53a821c89df5">
+      <Text>I ain’t changing for nobody.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2d3972c7-6fd8-4086-ac45-2e217919d908">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> understands </Text>
+      <Text Style="AllCaps">Mangrove</Text>
+      <Text>. She does not know what to make of them. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0accf75c-7e52-48d2-bf98-804bb6a22917">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="616d5bbf-6622-468f-8bc0-376714762f12">
+      <Text>Mangrove... just talked.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="335001a3-5e1b-4f76-8d09-525bd8680fa2">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="10a14903-844a-400b-bb66-f1e01ea4bc77">
+      <Text>I’m sure they’ll evolve to speak human languages if you stay another moment, my </Text>
+      <Text AdornmentStyle="-1">widdle</Text>
+      <Text> biologist. Come on, our guide only gave the class a ten-minute bathroom break before continuing on the tour.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9f0ede6b-0867-4d5e-9478-cd0dca0c0aef">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b7b13028-14ca-404f-bc10-74300a44a4e8">
+      <Text>Mangrove... talk.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="43ae6768-c8b3-478a-8203-ab31c42397b3">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="10a14903-844a-400b-bb66-f1e01ea4bc77">
+      <Text>We won’t want to miss the belugas now do we?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="5d2458c6-9efc-4683-8d86-fc7b31e6ac89">
+      <Text>(Whale-</Text>
+      <Text AdornmentStyle="-1">ish</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="10a14903-844a-400b-bb66-f1e01ea4bc77">
+      <Text>Do </Text>
+      <Text AdornmentStyle="-1">YoU</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">wAnNa</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">HeAr</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">WhAlEs</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">SpEaK</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eb802c32-fea1-473d-ae63-8331e2086fe2">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b38160d5-7873-4553-b56f-0b6015bc285c">
+      <Text>Are they dolphin unicorns?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bdb754f3-9411-4f14-b169-e92a65b0f5db">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8247cd5c-8612-4acb-9391-48b839f91bde">
+      <Text>Unicorns are not real.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="23dc8880-7415-474a-8b07-06af924f3120">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59644f5e-a447-4a50-af5f-2487a97f8cf6">
+      <Text>Unicorns are real!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="db19f058-e5c3-4c0c-89fd-d85331509557">
+      <Text AdornmentStyle="-1">Bo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="35871bab-626d-4fcf-b523-86d0961bd72a">
+      <Text>Sweetie! I wouldn’t question my... um... </Text>
+      <Text AdornmentStyle="-1">widdle</Text>
+      <Text> fantasy writer. Some belugas have horns?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e3b85a60-3973-4e84-a94b-ac8342fba0c4">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b0944bf3-fe5b-4853-a515-e2b03b55e228">
+      <Text>That’d be the narwhals.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="790dc920-13be-4a59-8b53-619308b2ec7e">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="639a4cf2-127e-4ed2-a9d0-854f03221192">
+      <Text>Are they here?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f99cfd17-39b8-4fe9-95c7-4173457e7130">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9826bc9f-9675-47b9-bb03-1bcd4f8c7427">
+      <Text>No because narwhals always die in captivity.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c6131bf9-c826-4ac1-9662-07f051f72543">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d94d9966-63df-44db-8e6f-ed4af1d42280">
+      <Text>(Crying)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="75d99299-85ff-402e-9951-3c136487d1fd">
+      <Text>The unicorns are dead...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8df214a9-175c-4507-b42d-11ad62483b4e">
+      <Text AdornmentStyle="-1">Bo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4114a4ed-0ed8-455b-8204-7cfca4cbd850">
+      <Text>How... How did we go from nonexistent to dead?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9b801302-8875-49b8-bb3b-05686bdc7be1">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="52bc42d4-f780-42aa-bf90-90190246134d">
+      <Text>Haha I’m dying.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c8aeb313-ce4f-4669-b6c9-198b27de25ac">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> manhandles </Text>
+      <Text Style="AllCaps">Mangrove</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="a69727b6-4650-41af-99a3-df6f27658faa">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="29bd1aab-3d33-40cb-9012-ec6da3da4151">
+          <Text>CUC</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="fbc21cf7-80bc-465e-88af-be294cdeb0ff">
+          <Text>Don’t die! Don’t die! Don’t die! Don’t die!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="7de77815-35e1-441a-adf1-c0f3bd214c89">
+          <Text>MANGROVE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="0517cc30-eef7-41f5-a350-994f270f8873">
+          <Text>Ta sap </Text>
+          <Text AdornmentStyle="-1">chet</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">roi</Text>
+          <Text>, con a (</Text>
+          <Text Style="Italic">Viet: </Text>
+          <Text>“</Text>
+          <Text Style="Italic">I’ll actually die, kid</Text>
+          <Text>”)!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="abaf2bd5-a901-44cd-b32d-e65e3951cb50">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eea28150-7489-4565-abb4-27d445433284">
+      <Text>You speak Vietnamese, too!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="de0d29d6-c334-48dc-bdb1-16ed1b171c36">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="73e7a6f0-6562-4711-a5bf-e358dc3c8f31">
+      <Text>I was born there!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="73336258-8230-4790-8789-cf658b92219e">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d4a66318-8e4b-420a-97c2-647b51b7f7f1">
+      <Text>Let go of the poor thing!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="24c6757b-28fa-4363-b72d-e7b3c0142706">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> lets go of </Text>
+      <Text Style="AllCaps">Mangrove</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1f2e234d-e9c9-4925-982b-d43cf2aa0346">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb39c197-1cc4-426b-9bb9-8dc715f717b3">
+      <Text>I may be unevolved, but I ain’t poor!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cd9f88e2-8606-4cc8-9024-de421356ac98">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4a444ddf-5cff-46bc-929e-92aa29a7afc4">
+      <Text>We shouldn’t speak Viet around your classmates.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d1ae8ed-6991-4906-9180-280f2c7c199b">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e087fe85-a54c-4e9a-b1ec-02b851346ba5">
+      <Text>Just like how we shouldn’t wear what we want!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="264f6535-5ee8-4252-9169-4ff50ba87dc2">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="60e00b6e-c345-4bdc-a51d-1527a7174601">
+      <Text>Not again with your uniform.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="68c04943-9e68-49ca-8d70-31af4cc9db4f">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a1995094-2fc9-4b49-839f-b24a94ce26ab">
+      <Text>I wanna be a dinosaur like you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="769cf027-68c7-490b-bcf0-316dcd06b2db">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5ee68f7e-26fb-426c-9be0-6f1f4587501e">
+      <Text>Tacky has no place in school.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ac4ea4ee-7aa3-4bf8-9347-52168bf0bf2c">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9eec4e6b-668a-4f3f-9bab-894b14ff36ad">
+      <Text>We’re not inside a school.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cdcb7753-7402-44a5-8020-8b04ae8ffd85">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a0540f91-3dea-49fd-a891-d1c4faf45795">
+      <Text>This is still a school trip.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="92cb5a77-c2b1-4d87-9362-6d62a88cc798">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9cbf58d3-3b64-49e9-a2e6-0f0046d54bd2">
+      <Text AdornmentStyle="-1">Bo</Text>
+      <Text>... What kind of dad are you?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e33ff06e-45cc-4cb7-970b-76da9d2abae2">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f964e45c-b83c-4cd8-8d44-85e1e5b55d9c">
+      <Text>A free-spirited father doesn’t make for a good chaperone. You will learn...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="944f1a23-597f-4ed9-b1b4-927812ecb170">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f44a7555-1432-482e-9669-8580a7a7b81d">
+      <Text>Ain’t nothing new to learn under the sun.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b4d864fc-b06b-4f3e-bcab-0bc2c213baed">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a4d9c192-cb86-4335-9b74-a989b50f6631">
+      <Text>My classmates learn nothing when we feel like nothing. No light. Nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7aa49d40-385f-4bc6-b46e-9ee4e8e585ba">
+      <Text AdornmentStyle="-1">Bo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c5e26d78-1e5e-4a62-b17f-a22d07a9a51a">
+      <Text>What can help change your mind?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="70029fdd-eb4e-495e-8840-f2273ac8e336">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9627413a-080b-4783-81cc-a32ad5ef1d2d">
+      <Text>I will go if I grow feathers!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c1bff363-8d4f-4949-a434-0bcce4f45fc1">
+      <Text AdornmentStyle="-1">Bo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5bae34bc-4ac9-4c54-b84e-c88a5b26ea7b">
+      <Text>Feathers? Hmm, the gift shop! Don’t stray far.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c132075d-6c7f-488e-9cd6-a5a09982cf9c">
+      <Text AdornmentStyle="-1" Style="AllCaps">Bo</Text>
+      <Text> exits.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1a457934-8f02-4683-a1ca-af8c59769080">
+      <Text>ManGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f0be5420-6285-4c57-8004-8beff706b3b7">
+      <Text>A gift shop? Now, that’s tacky.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bbff715f-74db-4fc5-a1f5-626172fbab22">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1c05b9fd-dee5-48e1-af89-ae82cca4ba31">
+      <Text>Are you a gifted horseshoe crab?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="501a0c1c-0151-45e5-8cb0-a4b6e292230c">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1eefae37-76f8-4144-90f9-2e41e3fc9735">
+      <Text>I am one out of a hundred who survive to adulthood out of a million eggs. Sure?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b7919cf8-cf16-4faa-9750-ddc649036243">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="99777eed-d0c0-4ef0-aefb-d2128c311335">
+      <Text>Wait... Where do the other millions of you go?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="17e27e3b-bc9f-4cd9-b447-a0344dfee02a">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a4a43b38-7482-4e7d-a021-a17d5003a609">
+      <Text>Who knows? How many are in your school of fishes?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b7976922-38d6-4b72-98bb-be41f5a4bfc0">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a7bce299-16c7-4c55-ab3e-628a3f62043f">
+      <Text>My class? 25.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4e5dbb6f-8196-460e-bbee-9eb411906375">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="02572c07-fe47-44fd-a40b-d0a5110d5e90">
+      <Text>Where did 24 kids go?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b4632e66-f916-43b3-9c0f-2b8ed8ffa94d">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f521d679-3cf2-4164-8027-b601cb0b3c51">
+      <Text>Who knows?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a6b27255-ed22-4746-b2d6-cb2fb429e71c">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e472f81e-1014-4616-820b-1e9b39c1fc99">
+      <Text>Do they have feathers?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0396bfd2-521a-4099-9031-d09103f0d004">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c59adad0-2722-4c44-ac9e-cf77a8cd8982">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5878bcd6-2b75-4327-88eb-046e41c20231">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8f3d22c6-3adc-4b69-be74-288cca261a21">
+      <Text>Why do you wanna grow feathers?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="24dbb669-ae2b-4830-a5c9-9f6b868b0030">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9ce70038-53c1-49bc-b1a7-e768f69cc5f7">
+      <Text>Not really. I just don’t wanna wear my school uniform.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="98e37dd8-ed45-4135-86c3-8f5d41dea9bb">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="38992812-f56c-4491-aa23-c982e740c94a">
+      <Text>Then don’t.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9e43b823-1081-42f6-8912-6854e4d1a646">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="566a7c17-e118-47e1-a2e8-4466a42ff624">
+      <Text>But I’ll get in trouble!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="585507b8-791f-4f5e-a635-9afb4c01a2e6">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8e3f4fbb-37b9-4d05-a471-a2cb286bb893">
+      <Text>You’ll lose your camouflage?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f7853b0e-6421-4026-8113-2a5c4b6e7737">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f3c13eea-e3fb-41a6-8d66-15b803a41529">
+      <Text AdornmentStyle="-1">Camou</Text>
+      <Text>- what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4d497c1-3c4c-4a70-8e73-850aa26d4644">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d9dad832-6ca9-419e-94df-b27b7a697b76">
+      <Text>With camouflage, you can hide from monsters.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="62a235e2-ca0d-4d79-a34d-3b7450b5d8bd">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2d0c68c4-c917-4e6f-9f79-b669726bcb3d">
+      <Text>The uniform hides me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d2a97e1f-a916-4bbf-bcb4-61ebb4e5a8c0">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1563534a-d744-4c3e-ac2c-f72cc6aa8c83">
+      <Text>Good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="548364fc-ad76-41ab-85bc-36015b445c1b">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba7eab5e-8e55-456e-9b02-978efa045042">
+      <Text>I don’t want it to hide me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="24a23c26-bb49-4db0-9316-5d961bdd23c1">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d9dad832-6ca9-419e-94df-b27b7a697b76">
+      <Text>Are you scared you’ll be eaten?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="153b2fd9-9a5e-4f61-822f-805d0e197273">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9d3d5b5e-b352-4c10-89d6-5f106983def3">
+      <Text>No?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cc9be651-9516-4990-a788-ac6723cdaca7">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3ee62915-c45e-4ef9-81cc-8a6a6edff417">
+      <Text>Well, me and millions of my siblings were. But I was one </Text>
+      <Text AdornmentStyle="-1">outta</Text>
+      <Text> a hundred to face my fears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ea269813-58bc-4faa-bc59-12da50c7502e">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6a724613-8a24-4217-a4a9-02871bbbf98d">
+      <Text>I’m scared to be alone... like you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2f89d485-9ff8-4489-b983-a4b40370aefc">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0a16b9e4-071a-4db6-a9d4-4e314539412a">
+      <Text>If anything, my social skills can evolve.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8da000cf-def4-4623-8767-2c5906fec1ed">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f3f06ea1-b92f-4249-b1f5-c465cef37c57">
+      <Text>Why are you here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="79068341-c158-4317-acb5-8befea2f4c2d">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a6089638-db45-4dd0-8212-775eff1c5f80">
+      <Text>I may have strayed too far. I thought some monster ate me but they spit me out here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f3db700-f664-488b-b567-917a158804ed">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4d734d68-f5ff-4016-bd6b-a68630160bc0">
+      <Text>I shouldn’t stray too far...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2da1306b-75e8-470c-a60c-1b8d6e21e204">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="246df998-b14a-4f8d-b42d-817c938970ab">
+      <Text>Good advice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="397d3622-577e-443f-9043-baf43a4abfaa">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="60f42122-77c8-46a3-8c1f-d822a665ca2c">
+      <Text>Maybe, I’ll change how I feel about this uniform someday...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e0b451ca-a459-4946-813a-0d5ebdbb8dad">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="354d4e2c-bb9e-474e-81b0-3abcd6b96a2f">
+      <Text>While you do that, I’m calling up some living fossil friends who can </Text>
+      <Text Style="Italic">change your tune</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="abea89f8-acfd-4729-897b-baf85087bd2f">
+      <Text>A water tank nearby holds (or projects) a wide array of other living fossil animals.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="8f8f0bb8-a0a0-4d8c-ae96-6ae31a6d311d">
+      <SceneProperties Length="3 2/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CUC">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CUC &amp; MANGROVE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MANGROVE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline">“</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Change for No one</Text>
+      <Text Style="Bold+Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0be0d5d1-e315-4b16-ba6e-71c96dde069a">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="eb7f0330-335c-4680-9f16-39b9d4e1da50">
+      <Text>Gimme a beat, </Text>
+      <Text Style="Bold+AllCaps">snapping turtles</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5b084053-82e4-4aab-a059-4866dcd1b9f4">
+      <Text>Jazzy, the snapping turtles snap their mouths or fingers.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="af88362b-d0b3-4c6f-9cdb-fda3fb344ad6"/>
+    <Paragraph Type="Character" id="3de04872-8fc4-4c13-bf2a-a2f8da64428d">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9827f0ee-eb6b-4993-b969-293fc53b36dc">
+      <Text>Get wild as a </Text>
+      <Text Style="Bold+AllCaps">crocodile</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9827f0ee-eb6b-4993-b969-293fc53b36dc">
+      <Text>Turn red as a </Text>
+      <Text Style="Bold+AllCaps">red pandas
+</Text>
+      <Text>Get purple like a </Text>
+      <Text Style="Bold+AllCaps">purple frog</Text>
+      <Text>
+be ancient like a </Text>
+      <Text Style="Bold+AllCaps">jellyfish</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a16dca24-1649-4da8-b801-7401d051ef5d">
+      <Text>Get out of the cave, troglodyte!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d7bbd16-da50-4a92-862d-99e10d21a3d9">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8fbfbe42-ba0a-44ba-a497-ff8c5cb96f21">
+      <Text>(Reading another placard)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dcc943e7-bead-4b57-b6af-77fe147a429c">
+      <Text>I don’t know what that means, trilobite?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ab7b8b40-39b8-473a-83f0-c24ce248fa82">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4402bd7e-7154-45fa-a02c-08ed2128cb91">
+      <Text>All lifeforms
+need to Face the sun
+drop the uniform
+Change for no one</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ab9d78d0-9d4b-45e8-b751-082735775f74">
+      <Text>A </Text>
+      <Text Style="AllCaps">platypus</Text>
+      <Text> swims by.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="73fcc5af-8c53-435c-9d18-5ada89c5cef0">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8079cf42-1fc9-4128-aef7-2b21bf2054ee">
+      <Text>There’re freaking beaver tail and fur on this duck 
+The </Text>
+      <Text Style="Bold+AllCaps">platypus</Text>
+      <Text> never gives a fu-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c9eb1607-6775-481a-bb1d-15ca54777017">
+      <Text>A nautilus swims by, seemingly hypothesizing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="97767ff8-054c-4364-876e-87b34f04ddc4">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7bcbc153-9ea8-4dd2-994f-b4f3c28dcb6a">
+      <Text>Look into the nautilus
+End this fuss, end this fuss</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="42194e3c-c73e-4bf3-b6f5-5dfaa5a7aa81">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="186e8042-c016-4278-b70b-35e66f2ea104">
+      <Text>Fine, I trust you I trust you</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ab7b8b40-39b8-473a-83f0-c24ce248fa82">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4ea2810a-5d72-426c-a588-d9f6ea2b0507">
+      <Text>Us artforms
+cannot be outdone
+Do not conform
+Change for no one</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a71152ba-9e18-40ca-843f-b7ff3cc63614">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0e407738-a2d5-4eac-869f-53ae0d718deb">
+      <Text>But for Some living fossils
+i do question their non-evolutionary choices
+The white </Text>
+      <Text Style="Bold+AllCaps">elephant sharks</Text>
+      <Text> in the room</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0e407738-a2d5-4eac-869f-53ae0d718deb">
+      <Text>Is The look on them </Text>
+      <Text Style="Bold+AllCaps">goblin sharks</Text>
+      <Text>
+I can’t even with the </Text>
+      <Text Style="Bold+AllCaps">Coelacanths</Text>
+      <Text>
+and don’t get me started with the </Text>
+      <Text Style="Bold+AllCaps">aardvarks</Text>
+      <Text>
+Barf...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="92e098a4-9a9b-4587-86fd-e0ddd815e09c">
+      <Text>A hagfish swims by.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a3c93e42-bc9e-4c07-86c6-ee588d67e76b">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7a4098d3-4329-48ad-8115-462fa7289977">
+      <Text>Yeah and the </Text>
+      <Text Style="Bold+AllCaps">hagfishes</Text>
+      <Text> can be old hags</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e8d4ad8a-16eb-4654-a1a8-809e93b15983">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f1cc101e-868f-4cd3-9277-ca77dae1a337">
+      <Text>You’re rude as an </Text>
+      <Text Style="Bold">elephant shrew</Text>
+      <Text>! Now use that evolved mouth of yours and apologize at once!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ec6e6f61-e12f-4e10-b1fb-d8a4df39ba05">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="349261df-c8dd-4e6f-9e8d-13f63804bdb4">
+      <Text>I’m sorry, hag.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fc640c20-f5f6-4c06-884d-609260dad377">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> looks at </Text>
+      <Text Style="AllCaps">Mangrove</Text>
+      <Text> with scorn.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4e28ce6a-53ca-46f4-a912-4da57b19bc58">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="763f6ed0-ec1d-4f92-97b4-97c24dc304a1">
+      <Text>I can be such a hypocrite.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="52bf0a4c-4552-43cd-b7f7-178f2b3032f4">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ed08b143-02b8-43b5-bf15-31266904ff50">
+      <Text>Are hippos living fossils, too?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c0020ec-73ac-4546-a937-7cb1d435da24">
+      <Text>MANGROVE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0711fb66-f887-4f0d-8eac-6a2a7975eb7a">
+      <Text>Nope. They evolved from the </Text>
+      <Text AdornmentStyle="-1">anthracotheriidae</Text>
+      <Text> (an-</Text>
+      <Text AdornmentStyle="-1">thra</Text>
+      <Text>-co-</Text>
+      <Text AdornmentStyle="-1">ther</Text>
+      <Text>-</Text>
+      <Text AdornmentStyle="-1">ee</Text>
+      <Text>-uh-D). </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93fc0639-9677-4de7-9a22-9758122d7f84">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bce05b77-e3f4-41e5-8dcb-a8a53d91a719">
+      <Text>Ant-</Text>
+      <Text AdornmentStyle="-1">wah</Text>
+      <Text>-D?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="a31629ac-e12b-42b6-a34c-f8ebe7a7c555">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="728349cc-10cd-4a0b-ac8c-287b315b1f94">
+          <Text>Mangrove</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="263700d4-8761-498b-b448-bab1c156c867">
+          <Text AdornmentStyle="-1">Anywho</Text>
+          <Text>...</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="79a74fce-b0d3-4a60-ba80-f0de6bdc20bc">
+          <Text>CUC</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="4ca0ae1f-bee7-4d69-8d19-4462b5fab449">
+          <Text>Change the tune?</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="e56fff0d-071b-4fb0-af19-88451bed36b8">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> holds </Text>
+      <Text Style="AllCaps">Mangrove</Text>
+      <Text> like a guitar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10d91295-6a49-4379-b6a8-afacafd4bfbe">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="3a7548d2-1836-4e12-9792-01c816c958c9">
+      <Text>Be nice to everyone
+Change for no...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="05940e64-c5d4-4592-a507-80bd706f6d18">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="fcdd17cf-9da6-463e-bb0a-bfdc28449242">
+      <Text>One!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0e0dfe9d-88bc-47ac-b06f-325ee63751ae">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="756b3b6d-c18b-4981-9d0a-1d413e5d8ff5">
+      <Text>Two, one two three four</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1234c058-d4dc-4880-b9d4-71df275c1f2f">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> strums a solo on </Text>
+      <Text Style="AllCaps">Mangrove</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="87dd7a5d-d259-412f-b7e5-3374863f8c8b">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d884b01e-3ab4-445a-bed9-bcf8126e89ba">
+      <Text>You can survive the way you are
+why stop the fun
+when you stray far</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d98c7073-bc6e-40c9-b583-9112075d6ce2">
+      <Text>Cuc &amp; Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="baf397e0-cec8-415a-88b3-5d421c7ea72d">
+      <Text>Change for no one!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a2445e22-c535-48ed-9caf-c060eb2227d2">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> has </Text>
+      <Text Style="AllCaps">mangrove</Text>
+      <Text> pose in the pool.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="2502d682-05c1-4175-bd10-512b8da4c672">
+      <Text Style="Bold+Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Change for No One</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9accd5fc-c3c4-4f24-8045-2f9a3a613cec">
+      <Text AdornmentStyle="-1" Style="AllCaps">Bo</Text>
+      <Text> returns with a peacock-like jacket.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a15ae0ed-6017-4eb0-b4a2-6f6cf26ea921">
+      <Text AdornmentStyle="-1">Bo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f008f180-5580-48d4-89ec-307a618d753f">
+      <Text>You still want to grow feathers?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b3b3df22-7b59-459c-a560-43c09f4b0b02">
+      <Text>Cuc</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8a2fc89f-bc70-4fed-ac19-313960f139cf">
+      <Text>(to </Text>
+      <Text Style="AllCaps">Mangrove</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d5138fe7-bd21-41ac-bf9b-aa10704a6412">
+      <Text>I’ll accept a change of clothes.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="2cc7902f-2402-4e33-8b59-5cf5d15fdff3">
+      <Text>(to </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Bo</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c0557e17-8ed2-46d3-8992-39b8795ca4df">
+      <Text>Did you fight a bird to get this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="66022cac-18ab-428c-b6c6-8a0217ea9729">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c6230f1e-fa87-4cbb-9a92-20846c1fb06f">
+      <Text>We’re not animals-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="24733b0c-2555-414d-9a8e-e705e958a85f">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e3a0db81-66e3-4e44-a345-5d0378a1a516">
+      <Text>Yes we are! We are not living fossils, we change. But we can choose how and what to change.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="684d9a3a-ce31-4f0c-bfd5-157b7e358e30">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1a88831e-be74-4547-927a-11b7c6237772">
+      <Text>What’s gotten into you, my </Text>
+      <Text AdornmentStyle="-1">widdle</Text>
+      <Text> philosopher? </Text>
+      <Text AdornmentStyle="-1">Anywho</Text>
+      <Text>, I just asked the store clerk to trade my bills. And not the duck-kind-of bills. Can you guess what pattern this bird is?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f65608e-55a1-410c-9afd-f7240d01ce8f">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3256ff34-5ecc-4052-a888-6bd372320f09">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b7ff8abc-66da-41ee-ada3-5103555930f9">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="01569fb1-c5a3-459b-919d-d05a34cb9f59">
+      <Text>A peacock!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e274ef2c-739a-4b26-89a1-91319e1c2fb7">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="96186cb8-74f7-458d-9fb8-e3dec6ae0a7c">
+      <Text>Peacocks make the best peacoats.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a3a05141-06ed-4ab0-b91e-0c9a8a056468">
+      <Text AdornmentStyle="-1" Style="AllCaps">Bo</Text>
+      <Text> puts the coat on </Text>
+      <Text Style="AllCaps">Cuc</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fa4139e0-0ddc-4d3d-9692-9b2332869348">
+      <Text AdornmentStyle="-1">BO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5d482825-b84f-4604-939b-da233e11c0a7">
+      <Text>I decree you “Best Dad Jokes.” </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="29dc3e75-f552-4779-896b-4bbcecf2a4fb">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aeeb0ba8-238b-4846-919a-9bba46771ac0">
+      <Text>Dad, no joke... Do platypuses change colors?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="2e516a0a-f7ae-424a-bf5d-0dbb341ccb49">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="08a6cd16-d86b-437f-9af1-f5297c16a646">
+          <Text AdornmentStyle="-1">Bo</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="5c0a279e-2e75-4689-abdd-d97958eae9e8">
+          <Text>Platypuses...
+Let’s see!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="be4b0dc9-ce02-4b6a-85d7-c3594b83b38d">
+          <Text>Mangrove</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="561a9fa9-18f2-4827-9a19-d4b1c59ac87c">
+          <Text>I just sang you a song about how platypuses cannot-</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="1c1986df-9ad6-4179-ae73-09204002fb8f">
+      <Text AdornmentStyle="-1" Style="AllCaps">Bo</Text>
+      <Text> runs out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8b85725e-d6e2-412f-9452-565c69eda69e">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e186c70e-5a2e-4723-8aa3-fd32c74f7bcc">
+      <Text>You sure can change colors.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c79ab143-7b0a-41eb-a08d-d3fdf3e6ff36">
+      <Text>CUC</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="88340267-2009-4dce-811a-8be53431f4e8">
+      <Text>And you can change your mind.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="77d7f7b0-e1cc-4770-9fd4-06f3d9f94379">
+      <Text Style="AllCaps">Cuc</Text>
+      <Text> blushes. She sprinkles her coat feathers into the touch pool before running after </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Bo</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9650f935-e075-4446-aafd-cd968379112a">
+      <Text Style="AllCaps">Mangrove</Text>
+      <Text> wears the feathers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1053ad30-39af-4839-a041-994c771895fe">
+      <Text>Mangrove</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59e64ca7-602f-4334-9ee7-58ed2134c871">
+      <Text>It certainly doesn’t hurt to grow feathers. Wow. This is nice for a change...</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="9499d320-e53c-46c7-9fe8-748748d9f2fe">
+      <Text>End of Play</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="-0.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	The Living Fossils by David Quang Pham	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="1.50" Type="Left"/>
+          <Tabstop Position="7.50" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords>
+      <Word>Anytown</Word>
+      <Word>USA</Word>
+    </IgnoredWords>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="768" Left="0" Mode="Maximized" Top="0" Width="1160"/>
+
+  <TextState Scaling="100" Selection="4923,4923" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.38" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="6.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="7.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Character" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Act Info" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Break">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Act Break"/>
+    <Behavior PaginateAs="Action" ReturnKey="Act Break" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Titled">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Titled"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Scene Info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Lyrics"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End Of Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End Of Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">Name of Play</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">__________________________</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-3.00" Leading="Regular" LeftIndent="4.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-3.00" Leading="Regular" LeftIndent="4.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">A full-length play</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-3.00" Leading="Regular" LeftIndent="4.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-3.00" Leading="Regular" LeftIndent="4.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">By Your Name here</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="4.10" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="4.10" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="4.10" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="4.10" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="4.10" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="4.10" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="4.10" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Contact:</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Your Name</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Address</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Phone</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Email</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	&lt;&lt; OR &gt;&gt;</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Represented by:</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Mary Agent</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	The Mary Agency</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	123 Main Street</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Anytow</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">n, USA  11111</Text>
+        <Tabstops>
+          <Tabstop Position="5.50" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">CAST OF CHARACTERS</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">		BOB, an elderly doctor</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">		SUE, a young professor</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">		JOHN, a brilliant student</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">		MARY, a successful attorney</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">SETTINGS</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">		Bob's office</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">		Sue's classroom</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">		John's kitchen</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">		Mary's back yard</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">PRODUCTION NOTES</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Time and place information goes here, along with anything else 	that will help the reader understand the script.</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	Production notes go here.</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">ACKNOWLEDGEMENTS</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="8.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style="">	The author would like to thank various people for their support 	and encouragement.</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Anton</Character>
+      <Character>Bo</Character>
+      <Character>Co</Character>
+      <Character>Cuc</Character>
+      <Character>CUC &amp; Mangrove</Character>
+      <Character>Hai</Character>
+      <Character>Hair</Character>
+      <Character>Mangrove</Character>
+      <Character>Mangrove Hai</Character>
+      <Character>Reporter</Character>
+      <Character>Young Cuc</Character>
+      <Character>Mangrove
+</Character>
+      <Character>Mangrovee</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(OFF)</Extension>
+      <Extension>(OFFSTAGE)</Extension>
+      <Extension>(Phone)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". "/>
+    <Locations>
+      <Location>A BIOMEDICAL LAB</Location>
+      <Location>"CHANGE FOR NO ONE"</Location>
+    </Locations>
+    <TimesOfDay Separator=" - "/>
+    <Transitions>
+      <Transition>AT RISE:</Transition>
+      <Transition>BLACKOUT.</Transition>
+      <Transition>FADE UP:</Transition>
+      <Transition>LIGHTS DIM.</Transition>
+      <Transition>LIGHTS FADE.</Transition>
+      <Transition>LIGHTS OUT.</Transition>
+      <Transition>LIGHTS UP ON:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="No" BottomOfPage="No" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="No"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Stage Action"/>
+        <ActivateIn Element="Scene Citation"/>
+        <ActivateIn Element="Notations"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Anton"/>
+    <Member Actor="" Character="Bo"/>
+    <Member Actor="" Character="Co"/>
+    <Member Actor="" Character="Cuc"/>
+    <Member Actor="" Character="CUC &amp; Mangrove"/>
+    <Member Actor="" Character="Hai"/>
+    <Member Actor="" Character="Hair"/>
+    <Member Actor="" Character="Mangrove"/>
+    <Member Actor="" Character="Mangrove Hai"/>
+    <Member Actor="" Character="Reporter"/>
+    <Member Actor="" Character="Young Cuc"/>
+    <Member Actor="" Character="Mangrove&#xA;"/>
+    <Member Actor="" Character="Mangrovee"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier New" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="BO" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CUC" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CUC &amp; MANGROVE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MANGROVE" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="6e70d0f9-0e3f-4b73-881b-b51c00374051"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="90" Id="8f57d454-1cd2-45e3-88ca-ea15ba1b6cf1" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="d384ac64-8c78-4906-affb-a1de2a7604f7" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="818bb6bc-6f64-48e2-a6eb-2c306120a852" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+    <DisplayBoard Height="10000" Id="ef7b231f-4145-4fa0-809e-8da4ceba0528" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#000095002900" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#E20017003200" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#0000B800C800" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#B80075004D00" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#8700B700BB00" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#FF007D002200" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#FF003F00E600" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#B900C5003200" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#E900B7003C00" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#00008B009200" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#AF0026009300" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="14" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="16" Style="Bold"/>
+      <TagCategory Color="#0000C4007F00" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="17" Style="Bold"/>
+      <TagCategory Color="#FF001A002100" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#990033000000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="18"/>
+      <TagCategory Color="#0000CC00FF00" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="20"/>
+      <TagCategory Color="#99000000FF00" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="21"/>
+      <TagCategory Color="#3300CC006600" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="22"/>
+      <TagCategory Color="#000099009900" Id="148267ae-50ae-4746-8202-659fb7447b55" Name="Miscellaneous" Number="23"/>
+      <TagCategory Color="#000000006600" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="24"/>
+      <TagCategory Color="#D7008300FF00" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="29" Style="Bold"/>
+      <TagCategory Color="#0000CF00FF00" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#7A008100FF00" Id="4a84b619-62f9-4c04-8e46-bf2cd0b7f582" Name="Art Department" Number="15" Style="Bold"/>
+      <TagCategory Color="#FF007E007900" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="25" Style="Bold"/>
+      <TagCategory Color="#7300FC00D600" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="27" Style="Bold"/>
+      <TagCategory Color="#ED00E6000000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="26" Style="Bold"/>
+      <TagCategory Color="#FF008A00D800" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#7300FD00FF00" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="28" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="6e70d0f9-0e3f-4b73-881b-b51c00374051"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>

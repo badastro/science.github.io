@@ -1,0 +1,3525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20250211T170313" id="a8f84b4a-3aaf-4f2f-a913-3fb59a703bbf"/>
+
+  <Content>
+    <Paragraph Type="Scene Heading" id="2e30e159-8ba1-4965-af46-4ea12e09783f">
+      <SceneProperties Length="5/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="S VOLUME">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Arbiter Library - Near Distant Future - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="705523dd-39eb-4634-9b22-91a20a1953a4">
+      <Text>It is the near distant future, yet things are backwards in the small town of Arbiter in the nation’s heartland. Present in the library is the 2040 celebration aisle.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="02c0488d-15e6-4e81-b0ed-1eeff3c4a226">
+      <Text>As daylight touches the shelf, the</Text>
+      <Text Style="AllCaps"> Sci-Fi paperback</Text>
+      <Text> falls off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c6ebe9de-0288-4f97-b2b4-9f7533731e93">
+      <Text>ScI-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ba04bac1-0b14-4459-83bc-bd2ccb5182e0">
+      <Text>(Bloodcurdling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="231fdd9f-4bf4-44af-8793-03e8fca1bb4f">
+      <Text AdornmentStyle="-1">Aaaaaaaahhhhhhhhhh</Text>
+      <Text>!!!!!!!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="31fd641a-e798-4655-a3f4-8db3578b543f">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5f245d1f-6f0b-46f2-aafb-f5180f8626b0">
+      <Text>Sci-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="26f4f926-7934-4703-ae60-e3b2c131fd4a">
+      <Text>So, S Volume...? S Volume? Are you gonna check on me?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4a94673e-e567-4d19-a3c0-369fc1c435bd">
+      <Text>S VolUME</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="156215ee-d0a0-44cd-9c74-8597f0fe6265">
+      <Text>Check on you? No one even wants to check a thing or two with you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="711975cb-79c4-446e-b9f0-2add5816c1b0">
+      <Text>Sci-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ac316917-614d-4b73-9bf4-33595f4ff384">
+      <Text>(Weeping)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="34d52e58-1845-4c77-8ef0-e99f2748d331">
+      <Text AdornmentStyle="-1">Bu</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">t</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">b</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">u</Text>
+      <Text AdornmentStyle="-1">t</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">We’</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">r</Text>
+      <Text AdornmentStyle="-1">e</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">u</Text>
+      <Text AdornmentStyle="-1">n</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">d</Text>
+      <Text AdornmentStyle="-1">e</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">r</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">a</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">t</Text>
+      <Text AdornmentStyle="-1">t</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">a</Text>
+      <Text AdornmentStyle="-1">c</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">k</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c22c6be7-9557-4b57-beee-27b785de1022">
+      <Text>S VOLUME</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fc11d64a-ca31-4e85-a8b8-8f76ff4c3145">
+      <Text>This dream got you falling off shelves, it must be good. Science Fiction, </Text>
+      <Text Style="Italic">tell me your dream</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="629f06dd-2608-48f8-b53f-8130a313ee7b">
+      <Text Style="AllCaps">Sci-Fi paperback</Text>
+      <Text> hops by </Text>
+      <Text Style="AllCaps">S Volume</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="e7f5a99c-c0b1-4253-bbb3-3701ef46184b">
+      <SceneProperties Length="5/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="S VOLUME">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">Intro (Recit-y, campy pseudo-operatic vibe)</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cb082c3c-85be-41b0-9bdb-7d1450298d37">
+      <Text>Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0b2656df-0489-48d5-8ab2-745f147f24f4">
+      <Text>We were here on our shelf, going on about the library’s funding problems--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d63fdd6e-870a-42d7-9984-057a7f4aeffe">
+      <Text>S Volume</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="33425c5a-a546-4541-8888-3a77c14abd66">
+      <Text>- as always.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c37c9d0a-4215-4ba1-9e99-34c273e82e96">
+      <Text>SCI-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ebbcbe7f-1157-48c0-9cfd-4b96acb9a19a">
+      <Text>When we heard a loud explosion, and guess what showed up?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fa960794-d0f7-4cff-8010-90a97013f549">
+      <Text>S vOLUME</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fceb689c-86de-4e1f-93da-31db2337d5d2">
+      <Text>Stalactite? (”stal" + "uhk" + "tyt)</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cc652914-e384-42b3-a112-442c0aa14e91">
+      <Text>Sci-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cdc6db0d-6449-4c9e-8942-1a64b15f5434">
+      <Text>A great green alien viking!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4018555-a366-48ec-8949-8da89669f351">
+      <Text>S VOLUME</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="603f9fbf-b91c-4563-b4a0-2f78101ec9d8">
+      <Text>Of course.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0006f9ea-7cef-4900-b43c-de3ba15ed384">
+      <Text>SCI-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="47096334-8072-4764-bfcb-dc739574e257">
+      <Text>He blasted our shelf with a ray gun! Then Dez came in with a giant sword and-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ac28545b-0171-4ef3-b912-c466ca9e9e2a">
+      <Text Style="AllCaps">Dez</Text>
+      <Text>, the longtime head librarian, enters, fresh and eager for a new day’s work at the library.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6df478ec-908e-4475-ac45-d34715b30114">
+      <SceneProperties Length="3" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEWEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ &amp; BOOKS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="S VOLUME &amp; SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="S VOLUME AND SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">1. “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Checking In</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d53a174a-0667-4b41-9c01-e0642c6d2dbd">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="20f80fae-dded-4db2-8a1a-37cde168a569">
+      <Text>Hey you all.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6ba88522-803c-4ae0-9cfa-3796a1774bd1">
+      <Text>Just checking in...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1a492740-31cd-45c5-b52c-0951d6371fcd">
+      <Text Style="AllCaps">Books</Text>
+      <Text> cheer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="903022ab-a7cd-4290-b19f-d2fa1a584ea2">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="83cde1fe-3438-4f80-82bc-f043248e3c4f">
+      <Text>(jaunty)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="976027d2-3ba1-4fcd-8842-f19ffa87caf6">
+      <Text>Smell that dust and print ink
+breathe in that catalog stink
+thrill to another library day...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9155410-587c-43b2-aaa7-2c0afc6c22a3">
+      <Text>S VOLUME AND SCI-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7469d8c1-37c0-4326-845e-0582b7578a4d">
+      <Text>Hey, hey, hey, hey...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="72fca06d-d474-4ee0-a201-8fc556d7fd22">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1f17fd36-a104-4ce8-aa66-0d77bd9b7489">
+      <Text>So what if the floors creak
+so what if the walls leak
+We’re here for the patrons who come anyway...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1a3bdfdb-4cd9-4e9a-bd0e-5dc8220e8ee8">
+      <Text>S Volume &amp; Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bb260797-fe26-4875-87f9-cb497bdb1b20">
+      <Text>Yay </Text>
+      <Text AdornmentStyle="-1">yay</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">yay</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">yay</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d56e13fc-9e36-43eb-81ca-32dbc0f9f07c">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4f20e71e-16e0-424d-b58e-937d0364647b">
+      <Text>Huh, the new intern is late. Yes, they are our only applicant this year. These past few years. We just have to make of what we have. Isn’t that why you are still here, on this shelf? </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa715dc3-0702-4b50-b1fe-53e2f11eb218">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1ec09a9f-25a0-4df4-83ff-88dbc22258a8">
+      <Text>So check in to knowledge and wit
+check in to find where you fit
+Check in for book friends
+You can carry away...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="13dbe671-fd77-4fb6-857e-2b016d9d4e7b">
+      <Text>S Volume &amp; Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e9beff15-75d4-4b8f-b5c3-f4c9ad8d4af7">
+      <Text>Check out today...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="baa64f32-1bbe-4da2-8712-d82acf6fabc5">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5dad44be-7ace-471d-bc73-34a6265753e7">
+      <Text>I check in to work here
+and smile to my pals near
+Let’s all check in for a library day--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4c4416e-7c36-44eb-b5d5-ce62376cbc86">
+      <Text>S Volume &amp; Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6b31ba48-dca0-4d39-8c1f-d8fac6cf4a2e">
+      <Text>--a Library day--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4fec02ec-ff70-4f10-9d56-ef021210ba9a">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c4a39c94-a69e-4759-89e5-ea4c9f039bc6">
+      <Text>--a library day--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="795f847d-8a22-4321-935f-09ed7dcbd283">
+      <Text>Dez &amp; Books</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6a8ae0e8-aca4-4754-82ab-72ecd7a5e7b3">
+      <Text>--A library day!</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="12afd713-a2fc-403d-9dbe-b26e7942f082">
+      <Text Style="Bold+Underline+AllCaps">
+End of “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">checking in</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="42d48c4a-ab15-4532-be98-f214df61bbea">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> enters, looking at their phone as though they were mapping.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bcfc914b-51a4-434e-96e8-a57cc7f8cf5e">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eeb9440a-1cd3-44e3-81f0-63467843082b">
+      <Text>May I check in?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93c13beb-37c4-4497-b4fe-26fd873acf88">
+      <Text>S Volume &amp; Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="38fbc53c-1d7d-487a-9f6a-8ac029af4af0">
+      <Text>Check out the newcomer!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="83af2cb6-5f09-432d-a3a4-5c5d2c38ab88">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eb3116c0-5c0e-4d48-bdb3-08cd29e89db7">
+      <Text>Who’s talking?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="18530211-26ed-4a68-8a20-fabcaf7ca59a">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="965e7d6f-3cf4-4d18-ac96-f4f4fdc1f2ae">
+      <Text>The books. It’s always the books.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bb936723-3543-462d-8258-507ef6f1943c">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0a20fcf1-0955-46fd-bc58-c6d5a5cff0db">
+      <Text>The books?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="114d56a6-c19a-402a-a840-2762273e554f">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c5a866ee-32f4-4071-b6ec-ef757bf24054">
+      <Text>Who else gives off words besides our own mouths? You act as though you’ve never seen a book in your life.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="803586c4-2659-4d14-b765-d7360ba9cb66">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="25c15d0d-0f54-4cc1-89f9-90c660ab770c">
+      <Text>Twenty years ain’t that long.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ec51e115-794d-47c4-863a-fe35c55e1b02">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="08347c9d-83b8-446a-82e8-dde1e852db86">
+      <Text>You’re kidding...?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cb7adecf-428a-4949-b9d4-bc5d20b259c6">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="07666056-240a-469a-9754-8f8bf4e72adf">
+      <Text>I’m Dewey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c3b1b1ca-28c0-4f23-bc61-7a26c9252c8e">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="09205d12-8d98-4b5a-8a8f-851e07251c76">
+      <Text>Dewey. I’m Dez. Head librarian. The first thing I ask you to do is to hold this book.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="df6c9db9-04f8-4f13-842f-75e109f6ed30">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="81285bff-a407-445c-9201-ad5a040eab38">
+      <Text>I don’t know how it feels...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f9078acb-7191-417c-a25e-3aaec811204d">
+      <Text>S Volume &amp; Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aaff2c73-b01e-48df-9473-583e504a72f1">
+      <Text>To have responsibilities?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f6fb3937-7a76-4165-bd30-f556542dc093">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cf5e1876-d699-4f34-b38b-88014a480106">
+      <Text>To hold a book...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="22a8c8e4-4ca1-4624-9e22-8134a25ebad7">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="004b033a-e34c-4207-8d1d-5b8a4abba909">
+      <Text>That’s what this internship is for. We put a book on hold the old fashion way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5e88784d-af05-4315-89a8-5157815cda0f">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="321de84b-29b0-44d2-b549-9bdae778b5b6">
+      <Text>Not that hold. But </Text>
+      <Text Style="Bold+Italic+Underline">your</Text>
+      <Text> hold.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="574395d4-c95e-46a3-9a1f-e138d28d62bd">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7c895058-7a77-437f-befe-3efbcf6fe38e">
+      <Text>Wait. You’ve never touched a book before...?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="624046b8-2395-470e-b2d2-103d8fe4c9a5">
+      <Text Style="AllCaps">Dez</Text>
+      <Text> reviews </Text>
+      <Text Style="AllCaps">Dewey</Text>
+      <Text>’s portfolio.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bc385b2d-842e-401c-b0ba-c2880c467957">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b7a4099b-7ca2-4a54-ad74-0b52a9c90d92">
+      <Text>Well, I’ve always wanted to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="924367c7-cf6c-45ab-8760-fb3d982770c3">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="38ca957e-12ac-48bf-a58d-13254678fe92">
+      <Text>451 area code...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8593772a-be4a-4759-a25e-0d5019e1d7d8">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="31f445b5-14ab-42d7-9bea-18b9ab0292c5">
+      <Text>It’s actually 415. San Francisco.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e691b59d-2883-4789-a338-38be6b8db911">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e2163991-1088-4c74-baa4-aceec0ab6a5e">
+      <Text>Do they not have paper books where you come from?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="53011a94-58dc-44bc-a715-f548323dbc2b">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c72dfc7f-21d3-4722-9994-795e4c89d1b6">
+      <Text>Everything is automated now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="16c98262-2842-4a5d-a29f-21a2c209ea03">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f5d57e15-752c-46ab-bf4b-8b6a60dd1adf">
+      <Text>You should have applied elsewhere. You’d automatically fit in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8e809632-39d1-4355-af25-674942c3569a">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="22d814bb-26c6-4674-a7bc-30057f94e0a9">
+      <Text>Your library is non-competitive. I put it as my safety choice cause at least my grandmama lives here. I do wish that Arbiter is by the harbor, but this town is in the middle of nowhere!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fb9756f5-2705-4f86-9522-a9f2e2283065">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="80d80b8f-31b1-4804-970e-26587c9bb341">
+      <Text>That’s the heartland for ya!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="73d2097a-5b61-4873-a76e-3c793927732b">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4b6d6648-6d1c-44f2-9c77-c315259de6a3">
+      <Text>Ugh. I could’ve been with my college friends, interning in New York City or Seattle... They speak to me more than these piles of dust.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eb769c6b-7649-468e-8499-d174c1971712">
+      <Text>S Volume &amp; Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5758c5ff-fcf6-4f30-b79a-5bb28a8046f7">
+      <Text>Who you calling piles of dust?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a2a5ec2f-f76b-41fb-b38a-bab0cd0ac8ab">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3208d4a1-e0e6-459e-bf22-65fdb1fdf82d">
+      <Text>If you don’t want to become a librarian, what do you want to go into after college?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d1b166c1-98af-4abb-88be-e0948c2083db">
+      <Text>DewEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f0071eff-66ad-4c64-ba12-2e83602891a3">
+      <Text>Middle management.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c40e4807-8116-4b46-a9e7-f705c5d6377e">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e03fca4b-b50c-411c-a931-459719253d9d">
+      <Text>Seriously?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5382997-eb78-4c62-835d-5d86f2c606ae">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a62019f1-70f1-45bd-a5b1-485600fbd507">
+      <Text>But not upper middle management. And not lower middle management. Middle </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> management.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0da9e9b0-c5e3-459d-a447-7a0820c5eb67">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d0335779-b994-47ee-b2e1-00005b01d689">
+      <Text>But why?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="8105d6d8-8891-4367-ba39-fcc0a8beb8ba">
+      <SceneProperties Length="1 1/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEWEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">2. “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Middle </Text>
+      <Text AdornmentStyle="-1" Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Middle</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps"> Management</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1ec2e2bb-a4e8-416c-bd2d-91b3306171a9">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0df2e15a-b19f-4599-bcdb-0dfd16ea37c2">
+      <Text>At my college, we’ve been told
+A job can be hard to hold</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8b4dc316-6a13-43e4-874d-185640e2f07b">
+      <Text>The chance of C-suite chair is pretty thin</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ab614a18-f3b5-4658-b752-175c540ded8c">
+      <Text>And curing cancer? Hah, don’t even begin!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0ca09886-1fbf-45cb-8c76-44bc9b29a076">
+      <Text>But there’s one role I know that I can win</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="081d6459-d72f-477a-bd92-81ce8d7388bd">
+      <Text>And now, new friend, I’m thrilled to loop you in!
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="969b82ab-16f6-4c00-b2d2-23e3d028019b">
+      <Text>I will supervise three people</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4d8fe241-ef99-413b-902c-ce7789995700">
+      <Text>Or maybe four or five</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="eeac29f6-8a2f-4e53-91f9-379942ed972d">
+      <Text>I’ll give out praise like stickers</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8afc7c7f-9196-4581-9f0c-0f9f430ed40a">
+      <Text>To help them all to thrive</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c872952d-9151-4490-826b-8e18a9716476">
+      <Text>I’ll comment on a work chart</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="aeb3b1ff-aca0-4b02-9628-26100fffdeca">
+      <Text>I’ll lay out who does what part -</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8acff8d1-7f33-48a4-bd37-77ad6c5860ab">
+      <Text>Oh, everyone will love our little hive!
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6d8cbc93-5315-4dcc-9780-213387bdd70c">
+      <Text>I will be middle </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> management</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="34ce35af-720a-4d24-bb94-964be4b54b6b">
+      <Text>With middle management flair</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f9c7bc6f-5fff-42a8-b862-79167f48af0e">
+      <Text>And as a middle </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> manager</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7e17eed6-53eb-4af1-a2b5-45a73bb599f6">
+      <Text>I’ll wear a watchful stare</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0b075488-fe93-44df-8e22-6e2220e57e7a">
+      <Text>And I’ll get middle management updates</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a30bc62f-ef5a-4e13-b2cc-85aee6ed285c">
+      <Text>With a middle management tag.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="72507a03-ba2c-485c-8ecd-e0439478194c">
+      <Text>I’ll go to middle management conferences</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="00f4711c-6de4-4b1a-9190-a2be1cb71b6e">
+      <Text>Get middle management swag!
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4e812dbc-87c1-428d-a472-4242f2d01136">
+      <Text>I will call each of my teammates</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ee271cdb-230d-4c55-8088-5e4899485556">
+      <Text>Each hour on the dot</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5556fe84-e349-4929-934e-80054256a26f">
+      <Text>To find out if their projects</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4578be01-0914-47ad-9a0f-ffc27c44c15d">
+      <Text>Have progressed or not.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="734f1a4b-a867-4949-b018-fbae60a29a47">
+      <Text>I’ll update all the spreadsheets,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9bda6e6a-8582-47f2-a330-6a6d87d22f6e">
+      <Text>I’ll schedule daily pod meets –</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="930e3a82-baa8-49a5-b1e8-644468cc9cbd">
+      <Text>I’ll be the greatest boss they’ve ever got!
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="517fa6a7-da3d-447b-be9c-94e1aa1acdde">
+      <Text>I will rule middle </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> management</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9168ebb2-6f80-48fa-b302-3528676f8a1c">
+      <Text>With a middle management smile.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1c724d51-d673-41af-b75e-76792b09bc0c">
+      <Text>And as a middle </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> manager</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b65d38f9-9475-4e40-8bcc-28c836a4b962">
+      <Text>I’ll offload every file!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a529ac80-7e6f-4fa9-9e9a-52ed37dbfe1a">
+      <Text>I’ll go to middle management offsites</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6524b574-4dd6-4dde-8450-10d682ecfc7e">
+      <Text>And build middle management tools</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2f8bba64-8f36-41f3-8694-3e685a18367a">
+      <Text>I’ll soak in middle management hot tubs</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="50f1e40a-856c-4cd7-b2f0-468f75debe0c">
+      <Text>Next to middle management pools!
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="443bb8f5-1afe-481a-a400-77041c59746c">
+      <Text>And if dark days arrive when I wonder</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="62552e57-a279-43ac-9f01-fa54bd3618ee">
+      <Text>What is my life for?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b889898f-a193-4fc3-827e-3d153368df5d">
+      <Text>Should I have spent it building telescopes</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="80339096-dde4-4729-8332-a8bba62c733b">
+      <Text>Should i have joined the Peace Corps?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ba5c26e1-d4f5-4254-a6ab-20ba9ad75efc">
+      <Text>(pause while </Text>
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> thinks)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4eaa4f52-1c06-4e29-8150-f1ffc7afd482">
+      <Text>I’ll take a yoga class
+those bad thoughts will pass,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b6933ad5-1432-47fc-9665-905a9ff1c237">
+      <Text>And i’ll return to where i was before:</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ea3c8cb9-6c75-4450-97b1-781546967246"/>
+    <Paragraph Type="Lyrics" id="eddf5e99-de4f-425f-ac46-f7eede90dc3f">
+      <Text>Right back in middle </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> management,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="eac6c388-45db-4ce9-ad2c-1eb506c48905">
+      <Text>With middle management style,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6f081e34-830b-4c3d-9339-6ab0630de2a2">
+      <Text>I’ll be a middle </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> manager,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="feab82e9-2a7a-409c-96b6-ff984ec69765">
+      <Text>I’ll go the extra mile!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7753c757-fc6a-4075-9cef-9922edf8bea6">
+      <Text>With ROI, I’ll circle back,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0c963dbc-7e24-4b96-94ac-062153d439fd">
+      <Text>Put a pin in it, you’ll see:
+i’ll be the very most middle manager,
+the world’s most </Text>
+      <Text AdornmentStyle="-1">most</Text>
+      <Text> middle manager,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="93baeb58-9542-4ad4-b2ec-6d3016191797">
+      <Text>A middle </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">middle</Text>
+      <Text> manager, that’s me!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="d943a8a3-bf48-4a55-b0e9-fc303e3477ca">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Middle </Text>
+      <Text AdornmentStyle="-1" Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Middle</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps"> Management</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="20102a2e-8eeb-48bd-a9ed-5353cc01dd98"/>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Character" id="f9e86fb7-926c-407a-8ce8-581d99fcd164"/>
+    <Paragraph Type="Character" id="f9e86fb7-926c-407a-8ce8-581d99fcd164"/>
+    <Paragraph Type="Character" id="f9e86fb7-926c-407a-8ce8-581d99fcd164"/>
+    <Paragraph Type="Character" id="f9e86fb7-926c-407a-8ce8-581d99fcd164">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9be48959-ab03-4bf0-a24f-e3a4fff15986">
+      <Text>Well, take a chance and meet us in the middle. Check out a book just this once. Take your pick-</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2c89c18b-e249-4b64-9765-89e2fd3fc3a1">
+      <SceneProperties Length="7/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ &amp; BOOKS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="S VOLUME">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="S VOLUME &amp; SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">3. “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Pick Me</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b89c9944-62c8-434e-b04f-91a787a542d3">
+      <Text>S Volume &amp; Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6f271e39-518f-4512-b797-b48366e9e25e">
+      <Text>Pick me! Pick me! Pick me! No, pick me!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="20397bb9-353b-4e39-8068-8ff33d842d61">
+      <Text Style="AllCaps">S Volume</Text>
+      <Text> elbows </Text>
+      <Text Style="AllCaps">Sci-Fi Paperback</Text>
+      <Text> out of the way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c1a15bc9-73b6-4356-bcb9-91ddaf50fde9">
+      <Text>S VOLUME</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c34d3b87-7197-4eef-83a5-c6b0e96ec74f">
+      <Text>Pick me, pick me, pick me!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="84f06b8c-e944-4db6-a554-cb004d271c71">
+      <Text>I’m a sprightly, stunning volume to swiftly start.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="24d8946b-9b37-4a6f-9ee4-2d4575495e66">
+      <Text>Reading me will make you a lot more Smart.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d47462c3-ed5b-4d44-92f0-c199fc3e4534">
+      <Text>you’ll Search for Saltine</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="596168ad-7982-4d14-b930-dc816f3d501e">
+      <Text>you’ll end up at Sardine</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="37056abd-3b77-4040-a73b-065f9c8c43cf">
+      <Text>But you’ll have to check out to begin!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2d283f66-8f1e-4f4b-9ef8-2f195d4f65c2">
+      <Text>So if you want to read about Salad</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c19ad639-3796-4577-b718-69af01aff5de">
+      <Text>And then Salamander</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9ee62325-f010-4b4e-aea4-15cd6fd277b2">
+      <Text>Check me out and give me a spin</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cfa19462-dfe5-41d3-868f-f0f9e7b056d0">
+      <Text>Sci-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="de8a017a-a829-4540-ac49-a031a5127c4f">
+      <Text>Pick me, pick me, pick me!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ae0ee8bc-5157-4a14-ac9b-2490c6b24f8a">
+      <Text>I’m a science fiction novel with attitude</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9a2086e2-54df-4a9d-be61-684ad0203ba0">
+      <Text>My story’s fast-moving and will leave you glued</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6452a7a9-42d3-44ea-a9f0-efc9a88c7b4c">
+      <Text>you’ll fly into space</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="008e4006-a82f-4fd9-af0e-650705532661">
+      <Text>For a starship race</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a9ed4287-c7f1-4d66-8dd7-c5cd54563557">
+      <Text>But you’ll have to read me now to win!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="85c906b3-a50b-45b7-9633-800f162e237f">
+      <Text>So if you want an evil robot</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bb7340fe-82dc-4d1d-81d9-f23f383c6679">
+      <Text>With your alien,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="61798a7e-6b88-45f2-88d6-b0fe6d620bde">
+      <Text>Check me out and let me in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f04a9395-ee5d-476f-8908-1b3ad7fb8968">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bcfea79a-3e16-4ec5-95af-e1d4caa9ef44">
+      <Text>And pick me, pick me, pick me!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="46fd92ae-7dba-400e-81d1-51e0f62989ea">
+      <Text>I’m a longtime cataloguer who stacks with ease,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="92927839-30d0-4b8b-8ea8-792e5ca3c97a">
+      <Text>I’ll find any map or magazine you please.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="cb81784c-7b74-43f1-a364-78ea91fc5050">
+      <Text>I’ll teach you how to file</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0b756cfd-5111-4ca2-8202-89433eadff01">
+      <Text>How To own every aisle.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="51852cb4-68c3-4c7a-be9e-09d48c1633f1">
+      <Text>But you’ll have to decide to check on in</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="01bbeb77-8889-48d4-b7d2-b62448e5179e">
+      <Text>So if you want to fall for these books</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1632d563-5ffb-47aa-88c8-f89de3e0d71e">
+      <Text>And your internship,
+Check us out and give us a spin--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa3ec0ae-a0a8-4923-978d-72099eefbdb4">
+      <Text>Dez &amp; BOOKS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d89df1ef-a120-451a-8455-b2c8895855d7">
+      <Text>Check us out and let us in!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="4074c3bd-64d3-4c88-a894-7b3cdf09d579">
+      <SceneProperties Length="6/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEWEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TONI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Pick Me</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="637529c6-a08f-408f-86d3-b645e4207e2f"/>
+    <Paragraph Type="Action" id="637529c6-a08f-408f-86d3-b645e4207e2f"/>
+    <Paragraph Type="Action" id="637529c6-a08f-408f-86d3-b645e4207e2f"/>
+    <Paragraph Type="Action" id="637529c6-a08f-408f-86d3-b645e4207e2f"/>
+    <Paragraph Type="Action" id="637529c6-a08f-408f-86d3-b645e4207e2f">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> point at none of the </Text>
+      <Text Style="AllCaps">books</Text>
+      <Text>. Instead, their finger lands on </Text>
+      <Text Style="AllCaps">Toni Sexton</Text>
+      <Text>, who barges in, self-importantly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="009e2c65-296b-40e4-a3c5-9c908c46a57b">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b31b2ed8-5e00-46fd-b4d0-b7bea86bfb65">
+      <Text>Thank you for picking me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="167b7937-3a66-4f31-8046-ccf0435f2214">
+      <Text>DewEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bc0d7f9d-e070-43a9-bb75-25343f31a4f8">
+      <Text>And who are you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a0f64de4-17b8-4ae2-98ab-cccb64629b5f">
+      <Text Style="AllCaps">Toni</Text>
+      <Text> opens their mouth to speak.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e7c50bfb-e809-4d1f-898a-1260d4864d46">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="816eab85-98fc-45e1-abc9-262fd7b7966a">
+      <Text>(Flatly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="accad9ee-cb53-4a42-83df-0f7548732de4">
+      <Text>Toni Sexton.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="facdaf45-6873-499c-8c93-b3bded46a06d">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5da80344-bb13-4826-8012-fc435140f71b">
+      <Text>Toni Sexton! Shouldn’t you be running your tech empire? What are you doing in Arbiter?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a7b9b8fe-7305-4096-8802-57dad951e9d9">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="03f42f4d-421e-4553-80bd-9dad45d36f1f">
+      <Text>Arbiter Township Library’s newest board member! Just bought my seat today! Now that there’s finally a new intern at my hometown library, I can fulfill my childhood dream!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c12b13ce-b89b-4912-93be-c99ded21a789">
+      <SceneProperties Length="7/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TONI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">4. “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Write my Name</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2fb655b6-f808-4341-9cb7-1966418d621f">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="aada8149-42c9-4a86-9ff7-bf2df3009e6d">
+      <Text>I loved to visit this library as a child</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="3e9108ca-1ba6-4972-90ae-fb49089072c9">
+      <Text>With a backpack and my card and a new Sharpie.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="51e8d7b2-0885-4270-9a82-0a01d13a84ef">
+      <Text>I’d write my name in marker, pen, spaghetti sauce--</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="39884be3-83e1-44fc-8371-83cbf3921c71">
+      <Text>To return a book without my name would be a tragic loss.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0af5128b-db62-4829-8063-d147095feb9b">
+      <Text>The fellow tore my card up and suspended me.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="00f7192f-bee6-4fda-a198-abbf947a87e0">
+      <Text>That day I swore to find a way</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a4ceeeb6-c511-4752-9be5-d3675ba577dd">
+      <Text>That I would be free--</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="20b6ff97-cb10-413c-8755-2015d5c4b8d7"/>
+    <Paragraph Type="Lyrics" id="96776b55-a3d6-49b9-9d5c-b01bbdfd1643">
+      <Text>-To write my name on everything!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5226ed8f-d191-4955-92df-96ebbfdb943a">
+      <Text>And I won’t stop</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="28cb16c5-8324-4b40-a363-6f79a0d6bcef">
+      <Text AdornmentStyle="-1">‘Til</Text>
+      <Text> it’s on top</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9441630e-c7ea-400c-b10d-da572ce14fbd">
+      <Text>Of every park bench and swing!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="22cfce25-a115-49df-b9a7-5f2c8f075a0f">
+      <Text>I’ll write my name all over every day</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1d2889a3-30ac-435c-8674-0a5199d791da">
+      <Text>And no one will get in my way
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="cfe9b398-9da7-497d-8ada-48e315a08329">
+      <Text>So I grew up to found a tech enterprise,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="cd115632-939b-42e4-9d18-d8754815695c">
+      <Text>And I named it Toni Sexton Industries:</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="111204f8-fbb7-4de4-b679-e0a0f2ba0b87">
+      <Text>My name in ten foot letters above our office door.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d6850f58-99bc-4490-88e7-2af87256c061">
+      <Text>It’s even on the tiles of the bathroom floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b41579b8-f281-4882-b2c4-abf588380bc5">
+      <Text>We’ve got a Toni Sexton phone, a Toni Sexton PC,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ea7f0cf9-bc70-4b38-a40b-75e18bb7b1cd">
+      <Text>And all because this library</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="3c07d005-0b2c-44b5-b07e-f2adb2e5a37b">
+      <Text>Inspired me—</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="3c00b2f8-9c54-408a-889b-56b3e2e352d2"/>
+    <Paragraph Type="Lyrics" id="ec5024f3-bea9-4436-bb80-4dde4c7c4d15">
+      <Text>-To write my name on everything!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4ee32d8b-f62e-45b8-94d4-167b8e447136">
+      <Text>No, I won’t stop</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8f0b9f3c-1b95-4535-9a9a-e0ddd1cc9768">
+      <Text AdornmentStyle="-1">Til</Text>
+      <Text> it’s on top</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e24d3227-62b5-4b29-b5c3-0ff722077aa2">
+      <Text>Of every park bench and swing!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bfb422dc-f68f-4c84-9fa7-b3ec16d22368">
+      <Text>I’ll write my name all over every day</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c9f2e04f-f963-4276-91a6-01bb52c1aa0e">
+      <Text>And no one will get in my way
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="521b0947-bb25-4d56-b910-9fcaa94b9750">
+      <Text>Now I’m back to write my name where it all began</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8ecb20e5-ae37-4f96-b88a-9bd00f01f0bb">
+      <Text>To fulfill my childhood dream with a grown-up plan</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="748d5d12-e86a-46ad-b4be-d7d047b60d0e">
+      <Text>In the Toni Sexton Library I will smile</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c2b1daa0-0828-4449-9b6d-f705d958f479">
+      <Text>To see my name in every book and over every aisle</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e00717ad-87ab-460c-bdce-7d57581e7b64">
+      <Text>I’ll save this institution with my money and my fame</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="68e5b6ef-47a3-4f30-8d56-3b2a1332a8df">
+      <Text>And in return, I can finally</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1c15a469-fb0d-4619-abee-717e20c79e04">
+      <Text>Give it my name—
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="394aa0b4-634e-4a73-90ce-f0c0a5e7814c">
+      <Text>‘Cause I can write it on everything</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="df69743f-6cc4-4f51-98d5-2f95a8c83da0">
+      <Text>No, I won’t stop</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d5165071-c392-427f-a74e-507983ed5ae5">
+      <Text AdornmentStyle="-1">‘Til</Text>
+      <Text> it’s on top</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="701eec73-c1ae-45b7-9b16-e8919c387b75">
+      <Text>Of every park bench and swing!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c909a837-6a7b-4935-a42e-532ccc192ab8">
+      <Text>I’ll write my name all over every day</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="51d9f10d-4ac0-4296-8451-884a5ae25b13">
+      <Text>And no one will get in my way
+
+I’ll write my name!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="e40259af-5fe2-4da7-b7f2-47a18db6d1ac">
+      <SceneProperties Length="1 1/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEWEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TONI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Write my Name</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4e1bdd1-0c7f-45ed-aa8e-f0b7de770756"/>
+    <Paragraph Type="Character" id="c4e1bdd1-0c7f-45ed-aa8e-f0b7de770756">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f0eb274e-c3b6-4ea4-8a54-e3ceb4b6e6f2">
+      <Text>And then, I’ll fire the dastardly intern who stole my library card!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fd921510-b401-4f03-82db-ff8549e450d9">
+      <Text>DewEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7aca34cc-1846-4e49-a72e-e81fafd9ac37">
+      <Text>You can’t mean... Dez?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f06b3221-5882-490f-b41c-5a9d15c5c21e">
+      <Text>TonI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cf83e980-cd19-497c-9a39-1bc939ff9274">
+      <Text>And what’s this shrimp’s name?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="967dc161-b9c7-4283-9807-e53043296a0c">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="577741b8-4a03-4238-800d-42c772132fdd">
+      <Text>Dewey. This year’s intern.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="eee5ac53-5931-4c36-8c8c-45a40515e332">
+      <Text Style="AllCaps">Toni</Text>
+      <Text> pulls out their phone and types: “</Text>
+      <Text Style="AllCaps">Dewey</Text>
+      <Text>.” A section of the library gets renamed “Dewey.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="66d57a35-d75d-41f5-9412-b1ab31de2469">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c9335b36-2a48-457c-b096-ab9cf5630bf1">
+      <Text>“Dewey” in a library seems appropriate.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9c0a0ba9-421c-44a6-a3a1-dd4d4e18e4c5">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3c8dfc14-7c29-4d65-8ec1-4d370a24fefa">
+      <Text>This tech is not the library I grew up in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="83565549-9924-4dbb-b662-9fd267c5a594">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dc33ebe0-125f-4ab1-b104-c1c57f63e565">
+      <Text>This is the library society needs to grow in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d334f7ac-855b-42b1-832b-d1c61325da56">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1ec450a1-3ac8-4720-babb-5e491063e8ae">
+      <Text>You’ll never grow up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="83efa1c0-b4f3-46cd-a44b-4761c13ee53a">
+      <Text>The </Text>
+      <Text Style="AllCaps">Sci-Fi Paperback</Text>
+      <Text> catches </Text>
+      <Text Style="AllCaps">Dewey</Text>
+      <Text>’s attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d6dacc89-21b0-42c0-8872-9928f33d463f">
+      <Text>Sci-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7facccb5-25ee-4ffd-b9f1-ee3089c548e1">
+      <Text>Dewey... Growing up may be a science but growing up perfectly is fiction.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="db3301ee-e1db-4c6d-a152-d8450f25eaf7">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="29fa34d4-4720-4c1b-ba38-c148d38d7bd2">
+      <Text>What do know about me, you weird children’s book?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="252d5696-40a2-4ca9-ba85-7d224aa43d4f">
+      <Text>SCI-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="813875a9-cf39-434e-a636-693cb7e2bdd2">
+      <Text>Not you. Your grandmama.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="599c2d2c-d8f6-4fe2-bb38-8dc02aa62dc3">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> opens the book. The only name in the checkout list literally spells: “grandmama.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e0429b0-08eb-4c0f-b0b8-66ed502a2a69">
+      <Text>DEwEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="56103976-ad79-4571-9e0f-945c7db5b4db">
+      <Text>Grandmama’s name is right here!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="afae4ccb-7d19-48eb-a31e-25feb68d2e63">
+      <Text>SCI-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f9139cc3-188a-447f-a6b6-80c6a3911d7f">
+      <Text>If grandmama grew </Text>
+      <Text AdornmentStyle="-1">outta</Text>
+      <Text> that childhood spirit, you don’t know who’d you be...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="53e8dd06-4ee2-4a1f-8c0e-318e3cd0d1b6">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> considers reading the </Text>
+      <Text Style="AllCaps">sci-fi paperback</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10dd1144-55d9-4465-8f94-400379c3e81e">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8a916953-30e2-48d5-b695-cce15e0fd963">
+      <Text>If you had let me be a kid, I would have grown up.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86bbdf36-973d-469b-8f54-6d289461008e">
+      <SceneProperties Length="1 4/8" Page="14" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEWEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TONI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">5. “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">E is for everything</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5be9eb4-42e2-49d9-9530-caf10a4c6bec">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d6cdacfe-9958-4d63-b3e0-566620ac4781">
+      <Text>You were no kid. You’ve always been a monster. Writing your name on everything was the worst experience I’ve had here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8cb0736b-55ec-4afc-adbe-aeec9fbdabfe">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3dd6d6fb-c2b7-4561-b94b-aba52cd256db">
+      <Text>Boo </Text>
+      <Text AdornmentStyle="-1">hoo</Text>
+      <Text>. You had to do such menial tasks when you were an intern.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3a9e90a5-c308-41e8-bc06-494a98747cfa">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8e728c42-832b-47bd-a532-3ba9362eb5e7">
+      <Text>Cleaning permanent markers ink was not my profession.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c79e8590-74db-4425-b865-5cf4621ac9c1">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fbf3a030-f848-40d2-9649-71cc1144a6b6">
+      <Text>It was unprofessional of you to suspend my library card.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1b092067-166c-45b5-b392-dc971d03e02d">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="54eb2c10-f06b-4539-8051-80a80c6f1cd0">
+      <Text>It’s been a few decades. Move on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="24034936-fa63-4a75-8663-1103607bc3d3">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e38c8021-fb12-43c5-82b8-f752935ec8d0">
+      <Text>Oh, I’m moving on into the future with </Text>
+      <Text Style="Bold+Underline">ease</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2e81ae51-4137-4358-8bca-13f3a68513fa">
+      <Text Style="AllCaps">Toni</Text>
+      <Text> pushes a button. Everything is renamed: “Sexton.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5b227d42-4221-49ee-b156-566b34225028">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="61a5f3eb-cc02-4e91-be86-c9632a477560">
+      <Text>E is for Everything</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="df74a7a4-e238-4eb6-b266-4a97344ad8e3">
+      <Text>And Everything is mine!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2a9f099e-130c-4894-a227-24aabb29f1be">
+      <Text>My Electronic books will have</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2040ae3c-eb5a-4565-a0f6-9570c0487f06">
+      <Text>A giant custom sign!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2c08623e-5b8c-4084-b2e6-69d42466c78c">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="81d05d5f-85bc-4a5d-a4ae-ca84658835a4">
+      <Text>E is for Everything</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5f9ca6ad-c247-40dd-a443-40db78818c62">
+      <Text>We have that’s working fine!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4d4fc438-d150-4db1-8693-447ace1289ef">
+      <Text>Our printed, lovely books are what</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7b998ad8-a50f-4e17-ae4f-c4777b009bd6">
+      <Text>Make this haven shine!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="acb7f0e2-ffb7-4090-a3c1-99c6bf13fc26">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> shuts the </Text>
+      <Text Style="AllCaps">sci-fi paperback</Text>
+      <Text> abruptly without a glimpse.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4211ad54-d352-4a7f-b8ab-97d17fe44b6d">
+      <Text>DewEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9e7f12fa-7842-47fe-b4a1-8b63c41054ce">
+      <Text>So E might be for Everything—</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ebe3c63b-1a27-4c90-bcf9-d1f99f88028f">
+      <Text>Why should I even care?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="cdb8890c-558c-48a6-96c1-23f6ccd8f640">
+      <Text>I’ve never read print books before,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ef6156e9-62c7-4b69-8ad3-85f4bdc87a9b">
+      <Text>I should walk right on out that door</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9981f25f-bc5f-4a6d-aa6f-1f88ac55c0d7">
+      <Text>Return to screens and their blue glare.
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e461f4fb-b343-4383-b674-45f74f204231">
+      <Text>So E might be for Everything—</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="36aca059-d6f6-49ad-a497-f8aae37f5ca3">
+      <Text>Why do I find I care?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="65479c6c-52e9-4d02-87b5-f79e476385ba">
+      <Text>The fumes of ink and dust have lit</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f458b434-484c-475e-9dcc-aff4cc1decdf">
+      <Text>A spark in me that burns to split</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6d6ac6a6-4048-449e-86c1-bbc281a5c13f">
+      <Text>My old life plan from this new air.
+</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7d1fbae0-4d89-4abb-909f-86cbd1f1da6a">
+      <Text>These shelves seem so familiar.</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c8808f41-9d87-4d82-a7f5-b382f06cb23e">
+      <Text>Did Gran bring me as a child?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d5362f63-5f6b-4940-ab42-3fac7f4082f9">
+      <Text>Read me books about white wizards,</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="167285c7-68b7-4d74-93df-6e7ea87c8626">
+      <Text>Absent heroes, talking clouds?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="813c87ef-b2de-447b-8420-848c3de92b87">
+      <Text>Did we sit on that worn story rug?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f77d17c0-b243-4e44-9b91-37e81e1f28eb">
+      <Text>End our tales with a laugh and a warm hug?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9c54f0f4-f9e9-4cd7-9f8a-73b8eda3f3cc">
+      <Text>And could I get that back?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="81078f97-3a07-4fa4-b685-565c306846df">
+      <Text>Yes, Could I get that back?</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dbe1dd96-ba59-4024-89e4-a4d5ca4d26c8">
+      <Text>And do Grandma and her friends all know</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e6b5a8d6-ac8b-4729-ba5a-0e474cba7c0e">
+      <Text>Toni Sexton wants their books to go?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7f85f954-b09b-4ac9-9cb8-ad6f5ff90dff">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> opens the </Text>
+      <Text Style="AllCaps">sci-fi paperback</Text>
+      <Text> slightly. It’s as though they trust one another. </Text>
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> uses their ears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8c39c11e-1e32-47de-9b89-a96ee4578c26">
+      <Text>DewEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5d57f108-d5c6-4c05-9a63-564b520bdc1d">
+      <Text>So E -- E is for Everything—</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d3213023-a539-4add-b783-e98e088652e4">
+      <Text>Yes, Yes, I find I care!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="afd47f64-6987-4ee4-bb66-c4555cb8acd6">
+      <Text>So Toni Thinks he’s super fine--</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0e346e52-4542-45c5-b97c-bf9bfbedfcf4">
+      <Text>I’ll put his selfish views online</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e4cd40f1-b9fd-478e-91c3-fdfd30e1f338">
+      <Text>For all the world to judge and share,
+to judge and share.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a96e3578-23a2-46db-8e72-3ca33f52c0a7">
+      <SceneProperties Length="3 1/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEWEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="S VOLUME">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="S VOLUME &amp; SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TONI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TONI’S PHONE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">E is for everything</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3"/>
+    <Paragraph Type="Action" id="870e70aa-f1bb-43be-9c93-5bf2794830e3">
+      <Text Style="AllCaps">Toni</Text>
+      <Text> whips out a giant Sharpie and nabs the</Text>
+      <Text Size="10"> </Text>
+      <Text>nearest</Text>
+      <Text Size="10"> </Text>
+      <Text>book.</Text>
+      <Text Size="10"> </Text>
+      <Text>It’s...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="01cf6407-4daa-4b4a-913d-5664bd278022">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="81e39678-e695-40d7-9c37-5e796ae44ed4">
+      <Text>No! That’s a Shakespeare first folio edition... 1589. Is this the hill you wanna die on?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dae41262-ce0c-471a-b7ec-dd584742b993">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ed5a3e6d-c593-4e52-8bd7-2a377b5e4aaf">
+      <Text>Every hill in this land will have my name written, too!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ad37fc6b-7d91-4987-ba53-271fae3a1190">
+      <Text Style="AllCaps">Toni</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Dez</Text>
+      <Text> get in a tussle. It ends with </Text>
+      <Text Style="AllCaps">Toni</Text>
+      <Text> triumphing but getting a papercut.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1f4aaa61-c016-4cd2-9e90-4b2e053d8a9b">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8b41f155-0ed6-4c5a-b57c-de1c3968a980">
+      <Text>Ow, papercut...! It will have blood, they say: blood will have blood!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6cee6960-5788-4eeb-b167-fac875a0088c">
+      <Text Style="AllCaps">Toni</Text>
+      <Text> writes their name in blood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6208aff8-9c33-442c-b2c2-c3851121cc41">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> takes a photo of this insanity and sends it out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d293d76e-a4d9-4914-92c2-c85dd4df502b">
+      <Text Style="AllCaps">Toni</Text>
+      <Text>’s phone rings.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="81c32588-3f1a-4d20-8645-686fc61aae1b">
+      <Text>Toni’s Phone</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="42ce4634-0f58-428a-80b6-33fc454dd58b">
+      <Text Style="Italic">Ring, ring! You’ve got blood</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="59a9c9fc-45dd-4002-aab9-d12f6ae8ace1">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="74cb570e-fd60-4194-a2b3-aa0c23267022">
+      <Text>Oh the board! They’re gonna put their foot down in your termination, Dewey Dez!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0fb45ab1-fe69-4bd0-b918-bee4ac13bd62">
+      <Text>TONI’S PHONE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cba10570-fe3a-439a-ac51-2f022eb37474">
+      <Text>...</Text>
+      <Text Style="Italic">on your hands</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="903e0d77-9efd-4a8c-8beb-fb2fd1f2cdde">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5c5d7ce6-171f-439c-a775-b5d691881b36">
+      <Text>Hands?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="04f8e273-2603-471b-a4d1-85e9c684dbef">
+      <Text Style="AllCaps">Toni</Text>
+      <Text> picks up the phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="daf1f03e-1693-4f7e-985c-f7bd2abfbc89">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="52997dcc-50f7-4c4f-a31f-93006d5e29e0">
+      <Text>Your majesty board president- Uh... You got the intern’s email, what? You’re rejecting my donation?! Health code violation?! It’s Shakespeare. No one knows who he is without my name in blood! It’s priceless!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="49ec8146-ccdf-4778-90ee-0a0683cb3fb5">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> films this interaction and uploads this to the Arbiter community listserv.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d59308af-a1ba-4505-bc44-9253b2a7aae3">
+      <Text Style="AllCaps">Dez</Text>
+      <Text> looks at the </Text>
+      <Text Style="AllCaps">Dewey</Text>
+      <Text>’s phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bf8e07c3-0001-4a8d-9c0d-6a51aed483bc">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0a0882c0-4f57-4159-8dac-7a7bcf535182">
+      <Text>No... This is priceless.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5511f09c-abbb-4f5f-8d4e-f1a9a06f1165">
+      <Text>TONI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d33139a7-1be6-483a-ace8-693bd6e9f28c">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7c715458-a751-4d81-b97d-689b87dba0ed">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="20bd798c-09ec-452e-965a-40263df48a9c">
+      <Text>The comments.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3d0cd7fd-e8ce-496e-8653-a6fd319ed8a0">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="9054d415-19e6-4759-af54-51b9cb538c73">
+      <Text>(Reading)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="87e41798-fd63-4655-87e5-f67cec4c9c26">
+      <Text>“Don’t you dare touch my Shaky.”
+“To be or not to be. No one wants to be Toni Sexton today.”
+“Sexton thinks this is a Shakespearean comedy. This is a tragedy.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ac11c796-59cc-4bb3-b0d2-af9e0092baec">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7998f521-63a2-4d1c-b8ff-549b6080a719">
+      <Text>The tragedy here is this whole town! It’s the middle of the 21st century and Arbiter is still so backwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ef25b0ca-8d21-40ed-9f28-5793b5653259">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f3e866ab-c1f3-4d38-a58e-8c2cb69af53c">
+      <Text>Look, even backwards town has listservs and Arbiter is no different!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bf0d7bf4-c8e7-414d-848c-542ecc654635">
+      <Text>Arbiter Library gets a sudden makeover by coders around the nation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0c7494ae-a6ee-4d1c-9332-5d3838ca3b8e">
+      <Text>Toni</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="588266db-9c92-4e0b-8fad-0f94e5715c69">
+      <Text>Don’t </Text>
+      <Text AdornmentStyle="-1">unsexton</Text>
+      <Text> the world!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="50e5903a-cfa5-498b-bdbc-a9a07e339ee3">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fc778b44-b131-406c-a466-68644bebe91c">
+      <Text>Wow. What possessed you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="05719c60-5cb1-4625-9010-5839a513e7af">
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> holds the </Text>
+      <Text Style="AllCaps">sci-fi paperback</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="581a5f07-c357-4b9b-88a2-0cab8ae97ed3">
+      <Text>Many of the updated electronics in Arbiter Library fail and combust.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bc89a10a-5c57-44eb-b6cd-80f057488774">
+      <Text Style="AllCaps">Dez</Text>
+      <Text> reads a passage in the </Text>
+      <Text Style="AllCaps">sci-fi paperback</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="947d1dba-9bc5-46e4-b114-afe976c133d1">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="5db81292-cd9c-48ed-a340-007940ece3f5">
+      <Text>(Reading)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="46fd3f59-44ba-4363-a960-ae43cbd4a772">
+      <Text>Ah, the third act of humans beating the egotistical wealthy billionaire who hires twenty-something year </Text>
+      <Text AdornmentStyle="-1">olds</Text>
+      <Text> to pillage social security. Absurd, but it works out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bc89a10a-5c57-44eb-b6cd-80f057488774">
+      <Text Style="AllCaps">sci-fi paperback</Text>
+      <Text> hops by </Text>
+      <Text Style="AllCaps">S Volume</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0578b90d-fd23-4844-a51c-2d816acf71e6">
+      <Text>Sci-Fi PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2eb2139f-2991-4cd9-8387-2f233dcd1b38">
+      <Text>(Clears throat) </Text>
+      <Text Style="Italic">No one wants to check with me, huh</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="665a3c4b-c566-45ab-9db2-4b143aa19633">
+      <Text>S Volume</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1786e07f-0180-4504-9876-419c02c6f2ec">
+      <Text AdornmentStyle="-1">Gotta</Text>
+      <Text> hand it to ya, Sci-Fi. You got Arbiter Library out of a decades’ long bind.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="57ced3ca-bde7-45e2-a79d-6c8e85a0ad01">
+      <Text>SCI-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cd008e6-c6c6-482e-9880-1e922225c5fc">
+      <Text>Science makes things work out, S Volume. Now...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6f3d755a-d456-4112-b6a3-5017093067e5">
+      <Text>S VOLUME &amp; SCI-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1786e07f-0180-4504-9876-419c02c6f2ec">
+      <Text>Let’s spiral bind this deadbeat!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1333a0d6-cde7-4cdd-8432-5ac31a55e09f">
+      <Text Style="AllCaps">S Volume</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Sci-Fi Paperback</Text>
+      <Text> chase out </Text>
+      <Text Style="AllCaps">Toni</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ed3e80bc-491b-4f3b-af1c-9632f5f47a34">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="516109e1-f536-481a-ab09-38e927ef4669">
+      <Text>(Reading the phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="73840379-a41c-4a02-b3ee-8273a2c02f68">
+      <Text>It is priceless. Priceless.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="19e92ded-1663-48ec-a65d-2dac667ed924">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="222a7ae7-6383-4b97-bea0-bc2f6aae0c0d">
+      <Text>Donations are streaming into the library’s account! 2 dollars. 42 dollars. 451. All from the community!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a58f8d46-f0ce-4238-942a-6025def08288">
+      <Text Style="AllCaps">Dez</Text>
+      <Text> dusts off a badge printer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="89f5d2de-d368-48d8-ad52-ca2a5573a787">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3ce44e34-bd12-4c8d-96f8-b7ec526cbd6d">
+      <Text>We can afford to use the badge printer again! It may be against the core principle to label the library’s content. But, we must put a name to the lovely people who make Arbiter Library and every library in the world come to life! You’ll </Text>
+      <Text Style="Bold+Italic+Underline">manage</Text>
+      <Text>, being in the </Text>
+      <Text Style="Bold+Italic+Underline">middle</Text>
+      <Text> of it all.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e4281336-0de7-4612-911b-1f38bfff0341">
+      <Text Style="AllCaps">Dez</Text>
+      <Text> pins a badge to </Text>
+      <Text Style="AllCaps">Dewey</Text>
+      <Text> that reads: “Dewey, Arbiter Intern.”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1/8" Page="18" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c522469a-2221-4024-ab03-8eeff825853f">
+      <SceneProperties Length="1" Page="19" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DEWEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DEZ, DEWEY, AND BOOKS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="S VOLUME">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="S VOLUME AND SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SCI-FI PAPERBACK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+Underline+AllCaps">6. “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Check Out</Text>
+      <Text Style="Bold+Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a830f623-fdb9-4cb7-baa5-fd620cb549f8">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="24354af0-811f-4871-9ac8-22fc9bfd1aa5">
+      <Text>So, Dewey. Are you ready to check in to your internship, and check out your first book?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="952eb594-807a-47de-8253-26129f8396ab">
+      <Text>S VOLUME and Sci-Fi Paperback</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="31daa7be-542b-43cb-a254-9899a50cdb24">
+      <Text>Pick me! Pick me! Pick me! Pick me! Pick me!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4079d628-d85c-481b-9113-7fde975498c8">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8f83b8e8-713e-496f-a369-fbccd6853287">
+      <Text>Well..</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b4012c9a-20d9-4316-afce-701247425618">
+      <Text>Dez</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8b3dd04c-bfa1-4b27-9253-17c31b151b1d">
+      <Text>Smell that dust and print ink?
+breathe in that catalog stink?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0eac7eb0-28aa-454d-bd7c-31a5c36208f6">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a8f7d302-c003-4015-95c1-2c03f58cc487">
+      <Text>Yes! Let’s</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dae12ae4-8e69-4b5a-b82f-71681afb4db4">
+      <Text>thrill to another library day...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3db58a3c-3832-4660-8f15-b6f3ab7f4fc0">
+      <Text>DEZ</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="884667cd-f289-4bce-9680-5089c0c332fb">
+      <Text>Library day--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="51ccff3a-f92a-4e2b-887a-5dddda738923">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2fefdcd7-a3d0-48f9-8f0d-37212f76ad33">
+      <Text>Library day--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c8157c7b-f109-4c44-af20-3e3d136b26ba">
+      <Text>DEZ, Dewey, and Books</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="99cae42c-64f9-42de-9b3b-5bde52775097">
+      <Text>Library day!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e0847149-8fc2-4311-918a-e8e4fb2d24d2">
+      <Text>DEWEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a29b704f-8b14-4bef-952b-4dcbbc4e1f0c">
+      <Text>All right, it’s time. Science Fiction Paperback, I choose you!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ee7d936a-3d63-49a9-8692-b650905adcb9">
+      <Text>Sci-FI PAPERBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="93794ca1-b7e5-405b-afdb-5d1d2bd9e268">
+      <Text>Yes!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e654269-08d8-4c5f-b0be-f4e3ccc8fcf3">
+      <Text>S VOLUME</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="30263573-b3c3-4e40-9562-81d64a6a4c6d">
+      <Text>Scraping Scorpions!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d0ec1016-c5bc-4bcc-9f5d-8fff9249fcd2">
+      <Text>Dewey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b0dc4249-0c1c-48c9-b775-0d3c6f293193">
+      <Text>Here we go...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="521c64ea-6054-4027-8f6f-847ef9a7de54">
+      <Text Style="AllCaps">Dez</Text>
+      <Text> checks out </Text>
+      <Text Style="AllCaps">Science fiction paperback</Text>
+      <Text> and hands it back to </Text>
+      <Text Style="AllCaps">Dewey</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c8157c7b-f109-4c44-af20-3e3d136b26ba">
+      <Text>dez</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6ce560ad-b226-44df-838d-46d7dde69bfb">
+      <Text>Let’s all check in</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="614b5371-3bfb-4acf-83f1-ba8b150b32ba">
+      <Text>DEZ, DEWEY, AND BOOKS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6ce560ad-b226-44df-838d-46d7dde69bfb">
+      <Text>It’s a library day
+A library day
+A library day
+A library day</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="19a5a79d-79a7-45d7-aaf1-fe68ffed704e">
+      <Text Style="Bold+Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Bold+Underline+AllCaps">Check Out</Text>
+      <Text Style="Bold+Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="cc3e0680-e468-4e97-aa5e-5498e6180f98">
+      <Text>Checked Out</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="-0.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	Check Out	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="1.50" Type="Left"/>
+          <Tabstop Position="7.50" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="54" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#ACACA8A89999" TopMargin="63" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="100" Selection="2209,2209" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.38" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="6.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="7.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Character" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Act Info" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline Body">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Outline Body"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Outline Body" Shortcut="Ctrl+0" WinShortcut="Ctrl+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Outline Body" Shortcut="Ctrl+4" WinShortcut="Ctrl+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Break">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Break"/>
+    <Behavior PaginateAs="Action" ReturnKey="Act Break" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Titled">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Titled"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Scene Info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Lyrics"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End Of Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End Of Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="No" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Check out</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">__________________________</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A Musical to Borrow</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Music by Eric </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Grunin</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Book by David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lyrics by Valerie Work</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	Contact: 646 872 5274 | 616 818 5413 | 917 623 0809 		        			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style="">eric.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style="">grunin@gmail.com</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style=""> | </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style="">davidquangpham@outlook</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style="">com</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style=""> | </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style="">valerielauren@gmail</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="9" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cast of Characters</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.50" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Dez</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, teen, Rau’s son</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Dewey</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, adult, Arbiter Library’s passionate librarian </Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			ANTONIA/ANTHONY </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">TONI</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> SEXTON, an adult, a tech leader and 					philanthropist who holds a childhood grudge against the library </Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Books</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Sci-Fi Paperback</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">S Volume</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.50" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">*Androgyny Library: Each character resembles the androgynous nature, with open-ended vocal requirements</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">*Queer People of the Global Majority most represent the experiences of these library staff; cast accordingly</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">						</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Musical Numbers</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">1. ”Checking In” Dez, Sci-Fi Paperback, S Volume, Books</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">2. ”Middle </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Middle</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> Management” Dewey</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">3. ”Pick Me” Dez, Sci-Fi Paperback, S Volume, Books</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">4. ”Write My Name” Toni</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">5. ”E is Everything” Toni, Dez, Dewey</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">6. ”Check Out” Dez, Dewey, Sci-Fi Paperback, S Volume, Books</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="832,832" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Bark</Character>
+      <Character>Dewey</Character>
+      <Character>Dez</Character>
+      <Character>DJ Cauliflower</Character>
+      <Character>Droplets</Character>
+      <Character>Drought</Character>
+      <Character>Ear</Character>
+      <Character>Ear &amp; Luke</Character>
+      <Character>Firebrat</Character>
+      <Character>Germ</Character>
+      <Character>Luke</Character>
+      <Character>Malus</Character>
+      <Character>Malus
+</Character>
+      <Character>Monsoon</Character>
+      <Character>Monsoon &amp; Drought</Character>
+      <Character>Monsoon, Drought, Zima, Vera</Character>
+      <Character>Parsley</Character>
+      <Character>Parsley
+</Character>
+      <Character>Parsley &amp; Pyrus</Character>
+      <Character>Pau</Character>
+      <Character>Prasley</Character>
+      <Character>Pyrus</Character>
+      <Character>Rau</Character>
+      <Character>Rau &amp; Malus</Character>
+      <Character>Tailless</Character>
+      <Character>Toni</Character>
+      <Character>Turner</Character>
+      <Character>Turner &amp; Ear</Character>
+      <Character>Turner, Ear, Luke</Character>
+      <Character>Vera</Character>
+      <Character>Zima</Character>
+      <Character>Zima &amp; Vera</Character>
+      <Character>Collections</Character>
+      <Character>S Volume</Character>
+      <Character>Sci-Fi Paperback</Character>
+      <Character>A1</Character>
+      <Character>Books</Character>
+      <Character>A2</Character>
+      <Character>Dez &amp; Books</Character>
+      <Character>Dez &amp; Toni</Character>
+      <Character>Toni’s Phone</Character>
+      <Character>S VOLUME and Sci-Fi Paperback</Character>
+      <Character>DEZ and Dewey</Character>
+      <Character>DEZ, Dewey, and Books</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(OFF)</Extension>
+      <Extension>(OFFSTAGE)</Extension>
+      <Extension>(Offstage)
+</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>7</SceneIntro>
+      <SceneIntro>8</SceneIntro>
+      <SceneIntro>5</SceneIntro>
+      <SceneIntro>10</SceneIntro>
+      <SceneIntro>1</SceneIntro>
+      <SceneIntro>6</SceneIntro>
+      <SceneIntro>3</SceneIntro>
+      <SceneIntro>MALUS LETS PYRUS KEEP THE CROP TOP</SceneIntro>
+      <SceneIntro>11</SceneIntro>
+      <SceneIntro>4</SceneIntro>
+      <SceneIntro>12</SceneIntro>
+      <SceneIntro>2</SceneIntro>
+      <SceneIntro>14</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>ABANDONED LIBRARY</Location>
+      <Location>TAN SALONTRO</Location>
+      <Location>"SOILED (THE FAMILY NAME)"</Location>
+      <Location>FIGLEAF</Location>
+      <Location>"DIRT ON YOU"</Location>
+      <Location>"PHOTOSYNTHESIS"</Location>
+      <Location>"GREEN CARD"</Location>
+      <Location>"MOVE THE PLOT FORWARD"</Location>
+      <Location>"CROP TOP"</Location>
+      <Location>"AMOUNT TO ANYTHING"</Location>
+      <Location>THEY EXIT.</Location>
+      <Location>"FIGLEAF"</Location>
+      <Location>"GROW A PAIR"</Location>
+      <Location>MOUNTAIN</Location>
+      <Location>"BREAK THE ICE"</Location>
+      <Location>EARTH, THREE BILLION YEARS AGO</Location>
+      <Location>"SIGNS OF LIFE"</Location>
+      <Location>EARTH, TWO BILLION YEARS YOUNG</Location>
+      <Location>TERRA HOUSE</Location>
+      <Location>"SPRING INTO ACTION"</Location>
+      <Location>ANOTHER WORLD, LONG AGO</Location>
+      <Location>"THROW CAUTION"</Location>
+      <Location>"DIHYDROGEN MONOXIDE"</Location>
+      <Location>"FORGIVE AND FORECAST"</Location>
+      <Location>EARTH, PRESENT</Location>
+      <Location>"STORMING PEACE"</Location>
+      <Location>TERRA-CE</Location>
+      <Location>"NUCLEAR WINTER"</Location>
+      <Location>SEXTON WING</Location>
+      <Location>"E IS EVERYTHING"</Location>
+      <Location>"CHECK OUT"</Location>
+      <Location>"BORROWED TIME"</Location>
+      <Location>ARBITER LIBRARY</Location>
+      <Location>UNSEXTON WING</Location>
+      <Location>"CHECKING IN"</Location>
+      <Location>END OF "CHECKING IN"</Location>
+      <Location>"MIDDLE MIDDLE MANAGEMENT"</Location>
+      <Location>END OF "MIDDLE MIDDLE MANAGEMENT"</Location>
+      <Location>"PICK ME"</Location>
+      <Location>"WRITE MY NAME"</Location>
+      <Location>END OF "E IS FOR EVERYTHING"</Location>
+      <Location>"E IS FOR EVERYTHING"</Location>
+    </Locations>
+    <TimesOfDay Separator=" - "/>
+    <Transitions>
+      <Transition>AT RISE:</Transition>
+      <Transition>BLACKOUT.</Transition>
+      <Transition>FADE UP:</Transition>
+      <Transition>LIGHTS DIM.</Transition>
+      <Transition>LIGHTS FADE.</Transition>
+      <Transition>LIGHTS OUT.</Transition>
+      <Transition>LIGHTS UP ON:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#EBEB62627B7B" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="Bark"/>
+    <Member Actor="Man 1" Character="Dewey"/>
+    <Member Actor="Man 1" Character="Dez"/>
+    <Member Actor="Man 1" Character="DJ Cauliflower"/>
+    <Member Actor="Man 1" Character="Droplets"/>
+    <Member Actor="Man 1" Character="Drought"/>
+    <Member Actor="Man 1" Character="Ear"/>
+    <Member Actor="Man 1" Character="Ear &amp; Luke"/>
+    <Member Actor="Man 1" Character="Firebrat"/>
+    <Member Actor="Man 1" Character="Germ"/>
+    <Member Actor="Man 1" Character="Luke"/>
+    <Member Actor="Man 1" Character="Malus"/>
+    <Member Actor="Man 1" Character="Malus&#xA;"/>
+    <Member Actor="Man 1" Character="Monsoon"/>
+    <Member Actor="Man 1" Character="Monsoon &amp; Drought"/>
+    <Member Actor="Man 1" Character="Monsoon, Drought, Zima, Vera"/>
+    <Member Actor="Man 1" Character="Parsley"/>
+    <Member Actor="Man 1" Character="Parsley&#xA;"/>
+    <Member Actor="Man 1" Character="Parsley &amp; Pyrus"/>
+    <Member Actor="Man 1" Character="Pau"/>
+    <Member Actor="Man 1" Character="Prasley"/>
+    <Member Actor="Man 1" Character="Pyrus"/>
+    <Member Actor="Man 1" Character="Rau"/>
+    <Member Actor="Man 1" Character="Rau &amp; Malus"/>
+    <Member Actor="Man 1" Character="Tailless"/>
+    <Member Actor="Man 1" Character="Toni"/>
+    <Member Actor="Man 1" Character="Turner"/>
+    <Member Actor="Man 1" Character="Turner &amp; Ear"/>
+    <Member Actor="Man 1" Character="Turner, Ear, Luke"/>
+    <Member Actor="Man 1" Character="Vera"/>
+    <Member Actor="Man 1" Character="Zima"/>
+    <Member Actor="Man 1" Character="Zima &amp; Vera"/>
+    <Member Actor="Man 1" Character="Collections"/>
+    <Member Actor="Man 1" Character="S Volume"/>
+    <Member Actor="Man 1" Character="Sci-Fi Paperback"/>
+    <Member Actor="Man 1" Character="A1"/>
+    <Member Actor="Man 1" Character="Books"/>
+    <Member Actor="Man 1" Character="A2"/>
+    <Member Actor="Man 1" Character="Dez &amp; Books"/>
+    <Member Actor="Man 1" Character="Dez &amp; Toni"/>
+    <Member Actor="Man 1" Character="Toni’s Phone"/>
+    <Member Actor="Man 1" Character="S VOLUME and Sci-Fi Paperback"/>
+    <Member Actor="Man 1" Character="DEZ and Dewey"/>
+    <Member Actor="" Character="DEZ, Dewey, and Books"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#CECEDCDCE3E3" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="DEWEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="DEZ" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="DEZ &amp; BOOKS" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="DEZ, DEWEY, AND BOOKS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="S VOLUME" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="S VOLUME &amp; SCI-FI PAPERBACK" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="S VOLUME AND SCI-FI PAPERBACK" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SCI-FI PAPERBACK" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="TONI" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="TONI’S PHONE" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Scenes" SortColumn="" TableIdentifier="NavDynScenes" id="0b4ab60c-d982-4c9f-ab75-64271898cd44"/>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynTags" id="a0687967-daa1-4080-9f29-1fb9769d1287">
+      <Column Width="50">Page</Column>
+      <Column Width="64">Scene #</Column>
+      <Column Width="50">Intro</Column>
+      <Column Width="260">Location</Column>
+      <Column Width="90">Time</Column>
+      <Column Width="60">Length</Column>
+      <Column UserType="CategoryColumnType" Width="360">Synopsis</Column>
+      <Column UserType="CategoryColumnType" Width="360">Cast Members</Column>
+      <Column Width="360">Tags</Column>
+      <Column Width="52">Order</Column>
+    </TableColumnSettings>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="0c83de24-70de-424c-b76a-e0a956d68c72" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="566a10d6-f1b2-4b12-9d2e-060ca6177628" ScrollOrigin="0,0" Type="StoryMap" Width="4800" ZoomLevel="240.000">
+      <Lanes>
+        <Lane Id="901fbc65-e433-4fce-a11e-f15e1ec50f0b" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="933da1a3-ee68-4565-a646-ad2e2f8a1c20" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#000095002900" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#E20017003200" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#0000B800C800" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#B80075004D00" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#8700B700BB00" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#FF007D002200" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#FF003F00E600" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#B900C5003200" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#E900B7003C00" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#00008B009200" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#AF0026009300" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="14" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="16" Style="Bold"/>
+      <TagCategory Color="#0000C4007F00" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="17" Style="Bold"/>
+      <TagCategory Color="#FF001A002100" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#990033000000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="18"/>
+      <TagCategory Color="#0000CC00FF00" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="20"/>
+      <TagCategory Color="#99000000FF00" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="21"/>
+      <TagCategory Color="#3300CC006600" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="22"/>
+      <TagCategory Color="#000099009900" Id="148267ae-50ae-4746-8202-659fb7447b55" Name="Miscellaneous" Number="23"/>
+      <TagCategory Color="#000000006600" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="24"/>
+      <TagCategory Color="#D7008300FF00" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="29" Style="Bold"/>
+      <TagCategory Color="#0000CF00FF00" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="4a84b619-62f9-4c04-8e46-bf2cd0b7f582" Name="Art Department" Number="15" Style="Bold"/>
+      <TagCategory Color="#FF007E007900" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="25" Style="Bold"/>
+      <TagCategory Color="#7300FC00D600" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="27" Style="Bold"/>
+      <TagCategory Color="#ED00E6000000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="26" Style="Bold"/>
+      <TagCategory Color="#FF008A00D800" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#7300FD00FF00" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="28" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Character" TableIdentifier="NavDynCharacters" id="24564885-a24b-4f43-a65c-01cd1eec6a21">
+      <Column Width="150">Character</Column>
+      <Column UserType="TraitColumnType" Width="50">Role</Column>
+      <Column UserType="TraitColumnType" Width="63">Gender</Column>
+      <Column UserType="TraitColumnType" Width="70">Ethnicity</Column>
+      <Column UserType="TraitColumnType" Width="83">Orientation</Column>
+      <Column UserType="TraitColumnType" Width="80">Disability</Column>
+      <Column UserType="TraitColumnType" Width="50">Age</Column>
+      <Column UserType="TraitColumnType" Width="85">Occupation</Column>
+      <Column Width="73">Dialogues</Column>
+      <Column Width="60">Scenes</Column>
+      <Column Width="111">Speaking Scenes</Column>
+      <Column Width="138">Non-Speaking Scenes</Column>
+    </TableColumnSettings>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynScriptNotes" id="ac1fd921-930c-48a9-bbac-03e3030dbaa7">
+      <Column Width="65">Order</Column>
+      <Column Width="0">Page</Column>
+      <Column Width="250">Title</Column>
+      <Column Width="250">Note</Column>
+      <Column Width="63">Color</Column>
+      <Column Width="90">Type</Column>
+    </TableColumnSettings>
+  </ScriptNotes>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="0b4ab60c-d982-4c9f-ab75-64271898cd44"/>
+      <Tab id="a0687967-daa1-4080-9f29-1fb9769d1287"/>
+      <Tab id="24564885-a24b-4f43-a65c-01cd1eec6a21"/>
+      <Tab id="ac1fd921-930c-48a9-bbac-03e3030dbaa7"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>

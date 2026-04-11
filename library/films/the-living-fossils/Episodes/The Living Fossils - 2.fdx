@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20251212T184728" id="6b27bc46-320f-42ec-a591-7b32e0147123">
+    <XRef DateTime="20250719T224917" id="326d3bbb-277d-4966-b8b4-fc0c38660087"/>
+    <XRef DateTime="20250719T225100" id="311bf653-30ed-4d65-a49b-1d9bc7012bab"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Scene Heading" id="bad90678-48d4-40db-8da0-db77ff971d2f">
+      <SceneProperties Length="4/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AGENT ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. East Coast - Day &amp; Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4f556c05-a30b-43c0-9ffc-f325fcc12058">
+      <Text>There is an overlay of a map tracking their journey from New England down to Port Newark.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7673249b-546b-4252-aa38-dc28f3018977">
+      <Text>There is a montage of scenes on their ride south.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7673249b-546b-4252-aa38-dc28f3018977">
+      <Text>In a creek, Acadia catches a couple crayfish while Kooky reveals dozens underneath her belly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7673249b-546b-4252-aa38-dc28f3018977">
+      <Text>In another stream, a fisherman reels in Kooky, who slaps them with their legs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7673249b-546b-4252-aa38-dc28f3018977">
+      <Text>In the evening, they stop by a carnival. They go to a fishing game where Kooky dives in and scares the kids away. An anxious </Text>
+      <Text Style="AllCaps">game host</Text>
+      <Text> gives a stuffed snail to an indifferent Acadia. Acadia eats cotton candle into the shape of a horseshoe. Kooky rips a hole in the stuffed snail as they walk away from the carnival.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7673249b-546b-4252-aa38-dc28f3018977">
+      <Text>In the ATV at night, Acadia reads a book to Kooky. She flips a page. </Text>
+      <Text Style="AllCaps">It jumps to</Text>
+      <Text> Acadia asleep as Kooky flips pages with her legs.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="67ed9d34-4ca9-4ecc-9536-bf7230db8d2b">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AGENT ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. New Jersey Border - Dawn</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8654d44a-34fc-4ae4-a2b2-a75ff23bf896">
+      <Text>The ATV drives past a sign that says “Welcome to New Jersey.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8261d3f8-8ef6-4fad-a441-3e9795fc195d">
+      <Text>In the backseat is the mangled stuffed snail.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="93e1b507-0654-4e4a-bd40-364a1b59625e">
+      <Text>The montage ends when highway patrol lights catch the ATV.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3803e6b9-5b63-4972-8e9d-f88450cd79a0">
+      <Text Style="Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Downstream</Text>
+      <Text Style="Underline+AllCaps">” piece</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5f0041a2-b42b-410d-a91b-110396cf0103">
+      <SceneProperties Length="2 4/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AGENT ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ATV">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="OFFICER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. the side of the Highway - Dawn</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="44bf665c-54fd-4efa-9cf6-2cd75f5db1f0">
+      <Text>The </Text>
+      <Text Style="AllCaps">officer</Text>
+      <Text> gets off their motorbike and walks up to the ATV.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="90ea916a-5b2b-4b9f-bbc9-e70a1b0bc023">
+      <Text>Officer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="96c16f7b-9700-4cce-aad8-a32a45c9540b">
+      <Text>You know why I pulled you over...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9ada58ea-1b0a-4102-a012-dcc74f9a406b">
+      <Text>The officer realizes Acadia is not old enough to drive.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="21e776ea-a935-4d07-b285-a72142fdbfd4">
+      <Text>OFFICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="09bfc680-5649-49ca-92c1-2f47a872c56f">
+      <Text>You’d know consequences if you were old enough to take a driver’s test.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="44d21522-ce26-41f7-84f4-d07692a5b14e">
+      <Text>Kooky</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bc2f6f26-8d6d-4d0b-b473-0ee180fa6163">
+      <Text>You’re not old enough to what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="362285de-b613-41eb-8c4d-af4e65eb8886">
+      <Text>Officer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="71426479-2238-45dd-b8d0-8e361692bfa7">
+      <Text>There’s been a report of a stolen ATV from Bang-Levin Station.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="05768286-81a1-4d17-9273-1bbf56bcda57">
+      <Text>KooKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="49582c54-6405-4e85-8b1f-927cf34830cc">
+      <Text>So you did steal this animal?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3cd35c84-219e-4ee5-ae23-eed517e1db0f">
+      <Text>Acadia pretends she cannot get out of her seatbelt.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="04b80faa-d69d-46f7-a0a8-c60a90f0c1d1">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="90a118d8-d6e7-4f99-8e74-8f9d8953b481">
+      <Text>No... We can’t get outta our seatbelts! This self-driving ATV kidnapped us!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c356fe58-2b11-494a-bced-9276b6d26a6e">
+      <Text>OfFICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7ff0d98c-0164-4dcf-95d8-9eea9b74ec55">
+      <Text>Us?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3259598d-ae67-434e-a7be-793588c2854b">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6b791608-c9a9-428f-947c-253fe2dbaf9e">
+      <Text>My horseshoe crab friend and I, officer! We’re being held against our will.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7d49175b-4a3a-4460-906b-5b7113ba6c96">
+      <Text>The officer reaches for the seatbelt buckle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b2f6bdbf-2dce-45d7-bcc2-4adf6ea1d3ed">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eef4a604-a875-4fc8-bb1d-e395811bd83a">
+      <Text>Don’t touch. It bites.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="97d6da6c-f141-4d26-b4b0-265d6b402b27">
+      <Text>KOOKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8747e3cf-1f2f-4082-ad4f-4a9596d02ad8">
+      <Text>Bark, bark, bark!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="651c4d18-1b68-46b1-a0bd-67f1e12a689c">
+      <Text>OfFICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd9f65a7-a1dc-4337-92c2-df52d3b8ba4b">
+      <Text>What the?! These self-driving cars! I’m gonna grab my tools!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cf122944-5190-44df-ad9a-743f6a336ef8">
+      <Text>The officer goes to their motorbike.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c663a053-5fc6-40a4-9287-2f73d9c93014">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bcfdd4a5-cebf-48f1-b917-4b5b3ec11f5f">
+      <Text>ATV to Port Newark, </Text>
+      <Text Style="AllCaps">asap</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1aef9cf7-3e1b-44e3-a0d5-b2bb0656d3e4">
+      <Text>ATV</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f817e6ff-c6e2-4ea6-abdb-83c129a4ab48">
+      <Text>ATV remains non-operational until nearby emergency or law enforcement lights are off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c0ff4577-b31f-4fc0-941b-268069ef7a2b">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca6b0212-8e21-4861-9162-8008f3834bdf">
+      <Text>What software is this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4247717c-509b-4ecd-ba65-b520e0235bbb">
+      <Text>AtV</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="98d26a82-e06e-4d1f-a225-da869855c81c">
+      <Text>This software is patched for the police state.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="37228e96-0075-460f-95f7-94e5b212dad3">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d78eeebb-bf53-4daa-ae10-f27622914498">
+      <Text>Ugh, New Jersey...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bac97e6a-6f95-4611-8237-2ab8d582a552">
+      <Text>Kooky</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13f0f04d-b325-48c8-b20b-ff819de914ec">
+      <Text>Unbuckle me, I’ve got an idea!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d6b5b355-08ec-4ebc-8f4b-0d82e4c0b3a3">
+      <Text>Acadia unbuckles </Text>
+      <Text Style="AllCaps">Kooky</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4ac3cadc-3329-4443-9d2c-2a0cc6dd3c27">
+      <Text>Kooky</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a651b57d-5f4c-4235-afe1-36e75fec2b1f">
+      <Text>Throw me at that creature!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="64aea1d4-00a5-4212-8a31-6174bd23977f">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="adaa9229-80d1-4b3e-a868-fc76605c2682">
+      <Text>The motorcycle? Alright. Yeet!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f65f4a01-d0db-4165-bf78-a12315c725d8">
+      <Text>The officer returns with a seatbelt cutter.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="14eaf2ba-847a-4388-8600-dadf669b8077">
+      <Text>OFFICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="baf97773-4a19-4cf1-a38b-d558308d1e68">
+      <Text>Where’s your fossil friend?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e2a9f744-e31b-4d6a-8021-41ed765852ca">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a07db6ba-9290-4465-ac55-902400e9bc19">
+      <Text>She ate her way out. I’m also in the process.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fc4f94a4-f974-44fb-b110-17edc8f21123">
+      <Text>Officer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6e498b22-811a-40cf-9460-c0aaa679556a">
+      <Text>No need. I got a seatbelt cutter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ee20dcc2-12aa-459f-91d5-9f88693c9dd4">
+      <Text Style="AllCaps">Cut to </Text>
+      <Text>the motorbike tires where </Text>
+      <Text Style="AllCaps">Kooky</Text>
+      <Text> is crawling by.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e7c3dba-8f82-414b-b45e-77e0427a35f3">
+      <Text>Acadia (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cbedb5da-870e-47bf-a5d7-cb76697728d2">
+      <Text>Not to cut you off but...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f3098021-3431-49d7-86ea-3bb1e95515c9">
+      <Text Style="AllCaps">Back to</Text>
+      <Text> the ATV, the police lights stop working.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5cbfb9dc-af91-4f12-9ca0-64edeb773b7f">
+      <Text>OfFICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="95220853-6d80-424b-8e8b-21acac242c80">
+      <Text>Huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a9358f7-7c55-4868-bcb0-67bde5bf0dd4">
+      <Text>The ATV starts up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b85e9dbd-c48a-4467-a9a9-46845dd0a088">
+      <Text>ATV</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8584a817-8dac-4dea-aeb7-198d8ac05cbf">
+      <Text>Buckle up!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="87f7e15c-91dc-4d2b-b04b-9e96696a8646">
+      <Text>The ATV speeds off. On the back, Kooky extends their tail in a disrespectful manner like the middle finger.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="63af4ff2-409b-44df-89f7-298506d764e5">
+      <Text>KoOKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="43b2223b-4076-4dd6-a327-1d26868cb00a">
+      <Text>Nah nah nah nah nah!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ec38c16-4a9b-4074-b9ba-1aa13231a76b">
+      <Text>OffICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0f2ae4b2-c672-455c-a789-0972dc1470fb">
+      <Text>No trilobites gonna flip me off!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a3bc0974-24db-45c4-8f84-b9e4f178d903">
+      <Text>The officer runs to their motorbike.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6c944734-f2fe-479d-b1f1-c41e1431b7eb">
+      <Text>Officer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5acde6d6-a60c-4ccc-8546-462edf42e3ff">
+      <Text>We’ve got a runner!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3492cfea-8c2c-4f64-b920-4eb80a72823b">
+      <Text>The officer gets on the motorbike. The tires have been slashed, deflating. The officer and motorbike fall over. They get up and pull out the motorbike radio.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2188c7e7-8bc7-480b-9b7d-9461fb02258a">
+      <Text>OffICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3a6ef979-9978-410c-af5c-5d23c70a3e80">
+      <Text>We’ve got a slasher-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="08a088f5-1552-4f14-b11d-d3e37fc53787">
+      <Text>The officer pulls up the radio. Its cord has been bitten off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="67ec8cb6-1c10-49d4-b794-267e71385892">
+      <Text>OffICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9102f57a-2021-41df-96fe-1c08f9569f7a">
+      <Text>Bite me!!!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="eb48302a-20f8-47cc-90c8-ad6ee477e9f8">
+      <Text>The officer goes mad seeing the ATV escape into the horizon.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="834c8d60-89f8-4b0d-9984-652f2499428b">
+      <SceneProperties Length="5/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AGENT ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Port Newark - Outskirts - Dawn</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c93155b0-00a2-417b-9f04-e315fea7a381">
+      <Text>The ATV parks itself in the parking lot looking overhead of the seaport.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="712c2f44-bb04-40cd-bbe3-ccadef05bb5e">
+      <Text>Acadia is by the ATV scanning distant ships with her phone. Kooky is on her shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4b7eb02e-8d12-421d-ac8a-6c35ad72e160">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="503c2c09-23f1-4c3a-b05c-23dc0319a3f1">
+      <Text>Europe, South America, Antarctica-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1a80ae9f-219b-4ca0-a490-930f503feda3">
+      <Text Style="AllCaps">Through the phone: </Text>
+      <Text>a cargo ship is electronically analyzed and labeled: “Yokohama, Haiphong, Cape Town”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e3cb6603-6336-4071-b0f8-d3fdf78cc314">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6c42259c-4d94-449b-ba1d-05151587d032">
+      <Text>Haiphong!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="643b4cac-af64-4891-92fa-9c58fd6d400c">
+      <Text>Acadia lowers the phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2c793512-054a-43cd-a2d6-95ddc806dd2b">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="64c91978-3eed-489f-a8eb-780778e38f70">
+      <Text>This is it! That’s how we’ll get back to Vietnam.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="d7b31df2-bf2a-4f22-8b12-568c705ef290">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="1824fbbb-bc7c-4bee-a51e-18fc20e3218e">
+          <Text>ACADIA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="57b727a4-c4c1-4b96-ad4b-8ac583729b0a">
+          <Text>After all these years...</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="68ccf86f-f4e9-4305-86e1-d13f3d185058">
+          <Text>Kooky</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="82e67077-1c78-42ba-9ec9-c63a4af2f7ad">
+          <Text>After all these weeks...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="8feeea9c-926b-4b27-a977-610de0638d82">
+      <Text>With Kooky on her shoulder, Acadia runs towards the seaport.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="cd98755b-ad3b-4a83-bd2a-fc62af8a90cf">
+      <SceneProperties Length="3/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AGENT ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Port Newark - Minutes Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="beea609d-569d-4b36-bde1-011fd3aeaeb5">
+      <Text>Acadia avoids detection from every seaport personnel. She hides in a barrel. She pops out to see the target cargo ship and notices a crane picking up containers in a specific area.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="05284d12-ca28-4438-9844-3704c39a4530">
+      <Text>KookY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="44769358-e295-49e1-be95-7547b87222d9">
+      <Text>What animal is that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="42c5a0c2-d1bf-48f4-a478-1b8637f5e39b">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4d83fd40-3dcb-48cd-8474-c43b4e8fa27f">
+      <Text>It’s a crane.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eca0d044-752c-4131-881c-21529be19c52">
+      <Text>KookY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="93d6cc04-e347-4b6a-b427-9c1c753c2226">
+      <Text>Cranes the size of whales? Woah.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="38e268a0-781e-4064-8e3a-7533ee0d684a">
+      <Text>Acadia goes to a container with an opened top. She climbs up and falls in.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f8855ff3-f178-4d46-adb3-2625d23baf3d">
+      <SceneProperties Length="1 3/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AARDVARK">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AARDVARKS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Container - COnTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="97b9b093-efce-4185-a440-35849d504bc9">
+      <Text>In the shadows, clanking is heard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ad018e5f-2428-4708-8e10-12294713706b">
+      <Text>Acadia puts herself and Kooky in the corner.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7de3a7fb-7e39-470c-9d8d-b122107663de">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9cbf386c-d7af-4e57-a448-f8be6432b757">
+      <Text>What’s that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5c5de021-071e-4781-821c-9c2d333ef529">
+      <Text>KooKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ee849ccc-90c0-433b-a7eb-31c0f61a9d1b">
+      <Text>Are we predator or prey?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="23d613f0-fdc9-4d62-a590-7b4c1e5de4de">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4397425-b5af-4952-9c7c-6e039782f673">
+      <Text>Pray it’s a pray...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="69bbd17b-d83c-4c18-8d31-084fe6069350">
+      <Text>An </Text>
+      <Text Style="AllCaps">aardvark</Text>
+      <Text> hops into the light. They approach Acadia.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4579ada8-3cb4-4367-bd93-78e8ae2579f6">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8ba7e4b-9a67-4a20-99ec-08e199886c64">
+      <Text>An aardvark?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="76342753-d833-46ec-8d0c-d4c6a342c6e8">
+      <Text>KookY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4d922efb-2366-41bf-b24d-141be31ea8dd">
+      <Text>I wish I had a snout like that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8775a24a-e643-484c-a873-7c2642e2c2c7">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="249a29f9-3f2a-41ec-9974-e874ca0242cb">
+      <Text>Speaking of ugly...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3008639b-e672-4164-98c0-c1b7e9c48956">
+      <Text>Aardvark</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8ac00327-e002-4b16-a7bc-c8b43752dc94">
+      <Text>Who you calling ugly?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="29e412ed-4b09-474b-b541-81c7e5691679">
+      <Text>The aardvark go back into the shadows.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4725dc1d-8bcb-41da-9cb3-8c68d7336fa6">
+      <Text>KoOKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="62212a30-8ede-4b0f-b925-19c40810619d">
+      <Text>You don’t speak to other species that way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4ba3dec3-6fbe-4f57-9eff-51b4d43c6a89">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2cf3485d-0330-44f6-a60b-46017b32153f">
+      <Text>I learned it from you! I... I can understand aardvarks, too? What is going on?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="83e4bb77-32b1-4054-8292-a71ebd887c87">
+      <Text>KoOKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e256cb4-ffe7-44b5-b0d7-cf1fa92deec9">
+      <Text>At least they don’t have an army.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f69545b-d141-4d14-ae66-45d94403d0f4">
+      <Text>Various unseen aardvarks banter.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3cc3cf7e-76eb-4682-908b-6072a33c4c0e">
+      <Text>AarDVARKs (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b637e207-b1ce-4949-9fd2-02bef476891c">
+      <Text>That human called you ugly? Our nose is so perfect we haven’t change a thing about it for millions of years. We cannot say the same for this homo sapien’s nostrils.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a1880ba8-0c5f-4bf3-af9c-216ae0d721c8">
+      <Text>From the shadows, more </Text>
+      <Text Style="AllCaps">aardvarks</Text>
+      <Text> pop out. They are adorable.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0db38714-682e-40c5-b4c2-bf38b22118f7">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9ed92cd3-4152-445b-91b0-ad20eb28bc63">
+      <Text>Aardvarks?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3f973f19-3277-4cff-9cd7-8d512b8793b7">
+      <Text>KOOKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0ff58cce-bc49-4cbe-9b88-ebf3616d6749">
+      <Text>What a wonderful kind of day!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="14b5a0c1-ee49-432a-9283-c298c2b216c5">
+      <Text>The crane hovers over the container.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="46c0fc8f-6feb-4019-b2b5-a7107e4fba6b">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cf755de-42f4-453f-8669-f12f7926d891">
+      <Text>So much work and play...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5b87e464-4090-4b4c-a6ae-f2411e2db242">
+      <Text>The crane picks up the container and away Acadia, Kooky, and the aardvarks go.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="d2b8ea08-38b8-4b5a-926f-a9b5131e3064">
+      <SceneProperties Length="2/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AGENT ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. cargo ship - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b299de15-04c1-4f4b-beea-393184f2ade7">
+      <Text>The crane places the container on the cargo ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a5bc6b6b-4b51-4a6d-a7cb-7cf4a014c84d">
+      <Text>Acadia (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="946856ce-5b6e-46e0-a23c-f6cd07154614">
+      <Text>We’re on...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="087cf9c9-df26-458b-9430-42e1445a53e9">
+      <Text>The </Text>
+      <Text Style="AllCaps">ship crew</Text>
+      <Text> locks the container in place.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="72fcbe78-7090-45f3-aecc-f02731b9450d">
+      <SceneProperties Length="3/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Container - COnTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0df0ccbb-4003-47a0-bc6f-42295e73dc86">
+      <Text>Acadia realizes Kooky is no longer on her shoulder. She turns to see Kooky chilling with the aardvarks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0f0ccebe-7221-4b5d-b2b8-05dce29a427e">
+      <Text>KooKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="561d4cbb-00ce-4a88-a15e-78f58f8e54a9">
+      <Text>So nice to make your acquaintance. You eat ants? What are they? I eat crustaceans. I guess you can say they are underwater bugs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="20c4e9df-68dd-48a6-8e8f-a3082dd37cbb">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9b6d6164-3b3f-48ac-bc71-838ba00a8a80">
+      <Text>Gross...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="68e4cb8c-2d37-4e63-9727-4d4be2c91107">
+      <Text>Acadia peaks out of the container. She sees the cargo ship bridge.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="93c09af4-b906-4454-88cb-454327a9ea21">
+      <SceneProperties Length="3/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DINO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Cargo Ship - Bridge - COnTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bba1ec40-5775-49ea-bfce-a5a53aa4cdd4">
+      <Text Style="AllCaps">Through Binoculars: </Text>
+      <Text>we see containers getting secured left and right and Acadia quickly ducking when we see her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="58c4143b-5c08-4ae5-afc6-1a95f1c3b640">
+      <Text Style="AllCaps">Captain Dino</Text>
+      <Text> (50s) puts down their binoculars and looks at a printed diagram with graphics of living fossil animals on the cargo ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6c403a1d-fa50-4372-8b26-2c135e4e0bab">
+      <Text>They press down on controls to start the radio.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4cad731-8d0d-441b-bafb-512a79a87af5">
+      <Text>Dino</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="38b76f73-121f-473b-86b4-a25c8dba1971">
+      <Text>Captain Dino to all crew. The list checks out. We accounted for every living fossil animals. Set course for Cape Town promptly at noon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="84a84b19-5710-49f6-8eff-c7754c16085e">
+      <Text>Dino takes their hand off the buttons.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="b1a82221-ceb6-4998-bb17-4db5f03ca7cd">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Cargo Ship - Noon</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d76d894f-5229-44c0-aa1c-1f37db9312ab">
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Downstream</Text>
+      <Text Style="Underline+AllCaps">” Reprise</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5a71b7fe-db60-49da-823e-129a9df466aa">
+      <Text>The ship releases steam and honks its horns.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bffcef9f-37b0-4d42-aa3e-626261242bab">
+      <Text>The crew retrieves the giant anchor.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="dac5d6b3-32e7-4cb9-9ae2-69cc950f9ed4">
+      <SceneProperties Length="4/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Container - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bacfe273-320b-42d5-9781-f98bb2b37d46">
+      <Text>A bag of ants is thrown into the container and explodes all over Acadia.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b90224af-7d03-4deb-8bba-5acc73d323a7">
+      <Text>Acadia is about to scream, but Kooky covers her face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="20849cb3-4416-41f7-9a2d-32447727edef">
+      <Text>KookY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dc20a076-ca31-4996-ac1b-dc9afc5613e7">
+      <Text>Don’t curse!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="eeb97743-6bd7-4230-8add-b8a618e35236">
+      <Text>Acadia mumbles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="90d26c8e-d4df-455c-b9ff-2241fb35b2c6">
+      <Text>The aardvarks surround Acadia, but Kooky whacks them with her tail.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d31cc517-a94d-4d95-8e10-85cd246dca62">
+      <Text>KOOKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="351e7efc-dc3e-4037-b99c-ae5bb7046d90">
+      <Text>Don’t touch her unless you have consent!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cf780aa7-10e9-4614-b525-e891cf9ec86e">
+      <Text>Acadia pushes Kooky off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1f4f65d1-0565-4449-a43f-4145efd9b072">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db04a8ae-c919-4fb7-9785-58bce52864c7">
+      <Text>You have my consent to eat these ants on me!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="734a0be4-854c-4df2-8fd7-47708cb5429c">
+      <Text>The aardvarks gently pick off the ants from Acadia.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f4729cb9-e81b-49b4-b450-e1d710e191ac">
+      <SceneProperties Length="2/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Cargo Ship - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bd583053-0450-4484-b5c7-4c1fde31fe56">
+      <Text>The sun watches over the ship setting course away from mainland North America.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5cc28e2d-4f10-4d02-9f85-f6ca58b38bcb">
+      <Text>Acadia (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="58945c33-2843-4eca-a1cb-a233681a582e">
+      <Text>Ew ew ew ew ew ew ew ew ew ew ew!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cd133243-1ceb-42ef-adec-dc466d214d8e">
+      <Text>The sun transitions into...</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="c4620fca-7631-4181-9b42-a74433e356e2">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="dadd5239-6861-403b-a9d4-c0df8aaedbd3">
+      <SceneProperties Length="2/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Cargo Ship - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9d24e4ab-731a-4b15-86ca-a5593dc816a6">
+      <Text>...the gibbous moon as it watches over the lonesome ship in the middle of the ocean. The moon transitions into...</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="d476a8d8-90ee-483f-aa42-8a59921eaf19">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cb60cca9-bb39-47ce-bd98-651e7e0fd363">
+      <Text Style="Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Downstream</Text>
+      <Text Style="Underline+AllCaps">” Reprise</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5c7806b7-b372-43e2-9371-2ce074d042d8">
+      <SceneProperties Length="6/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Container - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7ce51ce9-0c07-4286-b2db-58d22c7511cd">
+      <Text>...Kooky resting on top of some sleeping aardvarks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4b90d07d-5c3e-4f4a-b47b-783192553e7a">
+      <Text>Meanwhile, Acadia stares at the moon. She hears the waves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="19ebc707-c4aa-432d-b277-fb6a6d360291">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="47511e49-cc79-4c9f-b41d-ed1c24df2651">
+      <Text>Nothing here, </Text>
+      <Text Style="Italic">me (Viet: mom)</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1f5e1f99-d46e-4b04-800b-916c727540ab">
+      <Text>Using her tail, Kooky messes with Acadia’s phone but it states that there is no signal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bdce248d-62ad-4827-937f-74fb09739852">
+      <Text>Kooky</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6fc98ebf-210e-448b-8acb-c10977c40dd2">
+      <Text>Any source of Wi-Fi?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3ab02f7c-653c-4f59-bd39-e2a3c2b7084f">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ae3308c3-34af-467d-a2b9-279a7298971f">
+      <Text>No internet is nice for a change. I missed when mom took my phone away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5fd4d733-46c2-4d59-acdb-43d0132ec8b2">
+      <Text>It rains.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="91a4b081-b487-490b-ab3d-edd04a0775ee">
+      <Text>Kooky (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cda5ebcd-0865-49e7-9729-27fcd14390fa">
+      <Text Style="Italic">Nuoc co nguon (Viet)</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="67814686-e234-4ddb-a4fd-59397cb60c40">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6f9c1e2f-8fc4-4c4e-b49d-ee966213acb1">
+      <Text>“Water has a source.” No cap, Kooky. Let me put my phone away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1e2989f6-4601-4ff3-bb25-8e831378e48e">
+      <Text>Acadia stows away her phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9f0b0a13-c529-44fc-902a-afd36e4a9ce8">
+      <Text Style="Underline+AllCaps">“</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Spirit Animals</Text>
+      <Text Style="Underline+AllCaps">” Piece</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="814435b7-b8c4-45d2-811e-2a21a9bca688">
+      <Text>Lightning overhead. The resting aardvarks briefly appear as apparitions of ancient African people from all sorts of generations resting together.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8168883a-27b3-4728-b45f-f1a2081eb012">
+      <Text>Acadia freaks out and opens the container to run out.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="41dcf5bf-56cc-4dda-ab25-6fa0469280b1">
+      <SceneProperties Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Cargo Ship - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f1c1e109-7d42-4962-96ca-34ac75b8d4b0">
+      <Text>Acadia tries to avoid the crew patroling the deck. She opens and hides in another container.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="e781feb3-319b-49e5-a531-03a245f69173">
+      <SceneProperties Length="2/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Container - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a5af125c-5bd0-4767-b615-2eff1fba5d66">
+      <Text Style="AllCaps">Platypuses</Text>
+      <Text> crawl about.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="84630452-cdd5-4d2b-a0df-6b878bf26c6d">
+      <Text>Lightning overhead. The platypuses briefly appear as apparitions of ancient Australians.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="e1a698a5-daee-4351-b66f-1b6d0662f265">
+      <SceneProperties Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Cargo Ship - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e2d53be3-fbdb-45e6-b008-440e113ea86d">
+      <Text>Acadia runs out of the container without closing it properly.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5bca1b0d-e851-4433-a1d3-1fd0792b25d9">
+      <SceneProperties Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Container - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5e2f7e12-41a3-4bfe-a2dd-0404488c219c">
+      <Text>Acadia runs into another container.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f6a2f769-d031-4d47-89b2-fdf61238978d">
+      <SceneProperties Length="3/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Cargo Ship - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="642eb2a7-3f79-4db5-9730-739cb43305e4">
+      <Text>Elsewhere, Kooky crawls around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="747b85c4-eebc-4434-8740-da0718a67f40">
+      <Text>KookY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bf8a9bf7-4ecb-4475-916e-c811ec5836fc">
+      <Text>Acadia! Acadia!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9d3ea760-50bb-4b27-92d0-e4b6b28e2fdb">
+      <Text>Captain Dino’s legs stop by Kooky. His arms reaches down to pick up Kooky.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ed49698d-5eb3-4284-8517-e4bcd82af15b">
+      <Text>KookY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2fdb5088-3917-474d-9d4a-9b277ece208f">
+      <Text>You’re not Acadia!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="488887a8-edd9-44d3-b0b2-d39e2a633c86">
+      <Text>Kooky is pulled out of view.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="bfd30d37-139d-42f8-b9ff-91d7966102d0">
+      <SceneProperties Length="3/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AMAMI RABBITS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Container - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9778e617-cd56-44a0-be2e-315e34fcba7a">
+      <Text>Acadia turns to see Amami rabbits approach her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9961bd3c-bb55-4ce7-9b54-b8d960de7dad">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7edac58f-654f-4998-8a72-9f60b47c678d">
+      <Text>At least you’re cute...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="931665ae-4657-461e-9cf1-ff767ccf78e2">
+      <Text>Lightning overhead. The Amami rabbits briefly appear as apparitions of ancient Japanese samurais.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2a0a8171-d5f1-4595-9f73-e45f99c7cf58">
+      <Text>Amami Rabbits</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1e1456f5-4fdf-4412-8914-a3ec1086177b">
+      <Text Font="Sans Mono CJK Final Draft" Style="Italic">あなたは誰ですか</Text>
+      <Text Style="Italic"> (Japanese: Who are you?”)</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d6dece9d-aace-45f2-bf0f-10239c58c2b6">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="657159a6-43c8-4e95-a7fc-4c3e0e9410ea">
+      <Text>Eek!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7cfcdcf1-0121-46da-a993-9016bd5adb38">
+      <Text>Acadia runs out of the container and...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="50493ab0-16a3-49d8-abfb-5f08d71d1017">
+      <SceneProperties Length="1 5/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACADIA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="DINO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KOOKY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Cargo Ship - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fe09f841-00dd-4afb-b30a-ca6257760adf">
+      <Text>...runs into Captain Dino. Acadia falls back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2f6b1150-3f6f-4f15-a4e3-2059d9e6642b">
+      <Text>Lightning overhead. Dino now has Kooky on his shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="19c45092-4151-4b38-af6c-ed106e36215c">
+      <Text>Kooky</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="127ecfeb-0198-4265-85df-7b1f36d8e4c9">
+      <Text>Oh captain my captain. Kinda cute.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fed6e67c-6949-4bae-87c5-4150410c8e0f">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="46c78d15-f030-453b-82f1-41bc52b7e183">
+      <Text>What are you doing here?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="25548bb2-3f7c-4340-8643-ca8f90253232">
+      <Text>Dino</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="128af345-3990-422e-afa4-25a020e05ca0">
+      <Text>I’m... the captain?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="de58194d-4f39-4017-a4b6-c14d46ab844b">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9750832d-7abb-4cb9-98f1-22a4a82ec660">
+      <Text>No... The kooky trilobite on your shoulder!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2bf415f5-4ef0-43e3-9a4e-5036ddaa276a">
+      <Text>Dino</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a7438e3e-4fad-4f50-84bf-6f73ccad9a3a">
+      <Text>Horseshoe crabs weren’t on the list. Neither were you. What is a child doing here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="30fde936-6bae-42c5-832e-e82625e10775">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="69173138-689b-4707-8159-da12c49d09dc">
+      <Text>I’m not a child!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d5b9ab65-96d5-4a18-ba61-c50fdcda4849">
+      <Text>KooKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="93457dbe-633b-458f-b4f7-513c3edf203d">
+      <Text>Yes, you are.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="96be637e-268d-429e-8adc-60dc27385c7f">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="195e673a-86b3-483d-aef9-29ded190413c">
+      <Text>Shut up!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9359d491-9818-4ad8-9848-ee062e71240d">
+      <Text>DinO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="81a1cfb7-ac7f-4c83-9ef5-bbebcdfb56c9">
+      <Text>Excuse me? You learn such manners from your parents?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bac6d54c-f828-4a1a-8560-38147fc79bd5">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="623d2ef0-8249-4f53-a94b-ebb3a405b137">
+      <Text>I don’t have parent</Text>
+      <Text Style="Bold+Italic">s</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="65f8e248-e81a-41d4-b619-fb830c5885b9">
+      <Text>Dino</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1cdf1776-0bf1-4712-a604-0747cee3d8b1">
+      <Text>Caregivers?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1cc274e3-4909-4519-87db-5d5c2fe9d179">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="05c83a4e-48ce-4f81-9b4f-db8ebd630bc7">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8bcea58e-dc8e-484b-addc-ea683dc997e3">
+      <Text>KookY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="302c055e-f446-4fa9-a6b2-926a72c28e56">
+      <Text>I care about you. I’m a caregiver.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="885ef8df-c2e3-4ddf-b1fe-cc6b5bc9ed51">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e2736e6c-dea2-4453-841d-ca3504b58020">
+      <Text>Shut up...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2d8416e2-d570-4489-842e-e0f0429cddd1">
+      <Text>Dino</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bee5612c-4778-439f-86fa-e932a49254a2">
+      <Text>Ex- Explain yourself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="92399ea3-e4c4-49f1-892b-29928af1256d">
+      <Text>ACADIA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8a17a3bc-2348-4001-a9c6-7b6faff75929">
+      <Text>Free trip to Asia?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e826ce32-8058-4a5b-887a-aadeb5bd96b1">
+      <Text>Dino</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7bff4aed-91b5-42a8-9659-ad65b029425c">
+      <Text>Can you do this free trip without freeing the animals?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="37544f5c-1480-4838-987c-e8ccb2af2967">
+      <Text>Animals go from sounding like animals to speaking multiple human languages.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="20cf0ab4-5d7a-47f7-ba2b-276b5128039c">
+      <Text>Dino</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4daf2cec-b799-4ada-a5b4-13e9489ffcf2">
+      <Text>The living fossils will overrun the ship!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9fbc0d8-318c-4d15-a180-39aa2decb5df">
+      <Text>KoOKY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2d28f9a6-b06f-4194-80d9-f59346681121">
+      <Text>Our ancestors...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4393bf7f-1cc7-431d-b73e-2242d87f6498">
+      <Text>Acadia</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7489f7a3-4017-4d8c-b5d2-9d583f95e710">
+      <Text>Ancestors...?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="765d19b3-df5d-469c-9c86-ac04742a60b6">
+      <Text>The liberated animals go wild in the rain on the cargo ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="69b9e49c-f3ef-4dfa-8c7d-e58c8143378e">
+      <Text>Rain showers Acadia as she tries to consider her next move.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ac208411-9817-4c39-ad4c-5895c19178b3">
+      <Text>Lightning overhead.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c422da37-ac5d-44b4-807c-96f582b365bc">
+      <Text Style="Underline+AllCaps">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Spirit Animals</Text>
+      <Text Style="Underline+AllCaps">” Piece</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0853fdaf-8ed0-41b5-b164-d15f32a799ea">
+      <Text>The screen goes to </Text>
+      <Text Style="AllCaps">black</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="08168047-9bc6-42f6-8779-00c575630b88">
+      <Text Style="Underline+AllCaps">End of Episode</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">The Living Fossils</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	    "___"    </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">i.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">The Living Fossils</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">"           "</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">12/12/2025</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In Loving Memory of</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Carly Christine Glynn</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Series</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A young biochemist must face her wild past and challenge her scientific future when she teams up with a Vietnamese horseshoe crab to find her mother, who was lost at sea near Fossil Island.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Episode</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </Content>
+    <TextState Scaling="100" Selection="507,507" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Aardvark</Character>
+      <Character>AarDVARKs</Character>
+      <Character>Acadia</Character>
+      <Character>Acadia &amp; Cát</Character>
+      <Character>Acadia &amp; CÁT
+</Character>
+      <Character>Amami Rabbits</Character>
+      <Character>ATV</Character>
+      <Character>Crowd</Character>
+      <Character>Cát</Character>
+      <Character>Dino</Character>
+      <Character>Dàn Xuân Thanh</Character>
+      <Character>guard</Character>
+      <Character>Horseshoe Crabs</Character>
+      <Character>Host</Character>
+      <Character>Kid</Character>
+      <Character>Kids</Character>
+      <Character>Kooky</Character>
+      <Character>MOrgan</Character>
+      <Character>Nurse</Character>
+      <Character>Officer</Character>
+      <Character>Phone</Character>
+      <Character>Producer</Character>
+      <Character>Reporter</Character>
+      <Character>Researcher 1</Character>
+      <Character>Researcher 2</Character>
+      <Character>Waiter</Character>
+      <Character>Young Acadia</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Phone)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>LIVING ISLAND</Location>
+      <Location>HAIPHONG HOSPITAL</Location>
+      <Location>UNDERWATER</Location>
+      <Location>OCEAN</Location>
+      <Location>CÁT'S ROOM IN HAIPHONG HOSPITAL</Location>
+      <Location>FOSSIL ISLAND</Location>
+      <Location>SEA</Location>
+      <Location>TALK SHOW SET, STAGE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LAB</Location>
+      <Location>CÚC PHUONG NATIONAL PARK, VIETNAM</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LIBRARY</Location>
+      <Location>CÚC PHUONG NATIONAL PARK DOCK</Location>
+      <Location>FOSSIL ISLAND BEACH</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION STAIRCASE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION PARKING LOT</Location>
+      <Location>HIGHWAY</Location>
+      <Location>FOSSIL ISLAND CLIFF</Location>
+      <Location>PORT NEWARK</Location>
+      <Location>EAST COAST</Location>
+      <Location>FOSSIL ISLAND BAY / EXT. UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LOBBY</Location>
+      <Location>FOSSIL ISLAND - BAY &amp; UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION - LAB</Location>
+      <Location>BANGOR RACEWAY</Location>
+      <Location>CONTAINER</Location>
+      <Location>CARGO SHIP - BRIDGE</Location>
+      <Location>CARGO SHIP</Location>
+      <Location>GREEN ROOM</Location>
+      <Location>FOSSIL ISLAND - UNDERWATER</Location>
+      <Location>HANOI-HAIPHONG EXPRESSWAY</Location>
+      <Location>FISH MARKET RESTAURANT</Location>
+      <Location>BAKERY</Location>
+      <Location>LAN HA BAY</Location>
+      <Location>GULF OF TONKIN - CAT</Location>
+      <Location>GULF OF TONKIN - CÁT BÀ ARCHIPELAGO</Location>
+      <Location>ELEMENTARY SCHOOL</Location>
+      <Location>FOSSIL ISLAND - BAY</Location>
+      <Location>FOSSIL ISLAND - BEACH</Location>
+      <Location>SAILBOAT - CABIN</Location>
+      <Location>SAILBOAT</Location>
+      <Location>THE SEA</Location>
+      <Location>THE SAILBOAT</Location>
+      <Location>MONKEY ISLAND - BEACH</Location>
+      <Location>HAIPHONG HOSPITAL - HALLWAY</Location>
+      <Location>MONKEY ISLAND - CIVILIZATION</Location>
+      <Location>HAIPHONG HOSPITAL - EMERGENCY ROOM</Location>
+      <Location>EMERGENCY ROOM / U.S. NAVY OFFICE</Location>
+      <Location>HAIPHONG HOSPITAL - LAB</Location>
+      <Location>HAIPHONG HOSPITAL - DR. THANH'S OFFICE</Location>
+      <Location>NORTHEASTERN UNITED STATES</Location>
+      <Location>BANGOR INTERNATIONAL AIRPORT</Location>
+      <Location>PHO RESTAURANT IN BANGOR, MAINE</Location>
+      <Location>GOVERNMENT OFFICE</Location>
+      <Location>AIRBUS</Location>
+      <Location>BANGOR INTERNATIONAL AIRPORT - ARRIVAL GATE</Location>
+      <Location>Acadia'S BEDROOM</Location>
+      <Location>TRAN'S HOME</Location>
+      <Location>HAIPHONG</Location>
+      <Location>THE CITY OF HAIPHONG</Location>
+      <Location>KARAOKE BAR</Location>
+      <Location>LAN HA BAY - CLIFFSIDE</Location>
+      <Location>SWING SET</Location>
+      <Location>SHACK</Location>
+      <Location>ACADIA NATIONAL PARK</Location>
+      <Location>ATV</Location>
+      <Location>MONKEY ISLAND</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>MINUTES LATER</TimeOfDay>
+      <TimeOfDay>HOURS LATER</TimeOfDay>
+      <TimeOfDay>AN HOUR LATER</TimeOfDay>
+      <TimeOfDay>MIDMORNING</TimeOfDay>
+      <TimeOfDay>SHORTLY AFTER</TimeOfDay>
+      <TimeOfDay>NOON</TimeOfDay>
+      <TimeOfDay>INTERCUT</TimeOfDay>
+      <TimeOfDay>DAY &amp; NIGHT</TimeOfDay>
+      <TimeOfDay>STRATOSPHERE VIEW</TimeOfDay>
+      <TimeOfDay>ANOTHER DAY</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+      <Transition>Zoom in:</Transition>
+      <Transition>Cutaway to:</Transition>
+      <Transition>Return to:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="12/5/25" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="625">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Aardvark"/>
+    <Member Actor="" Character="AarDVARKs"/>
+    <Member Actor="" Character="Acadia"/>
+    <Member Actor="" Character="Acadia &amp; Cát"/>
+    <Member Actor="" Character="Acadia &amp; CÁT&#xA;"/>
+    <Member Actor="" Character="Amami Rabbits"/>
+    <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="Crowd"/>
+    <Member Actor="" Character="Cát"/>
+    <Member Actor="" Character="Dino"/>
+    <Member Actor="" Character="Dàn Xuân Thanh"/>
+    <Member Actor="" Character="guard"/>
+    <Member Actor="" Character="Horseshoe Crabs"/>
+    <Member Actor="" Character="Host"/>
+    <Member Actor="" Character="Kid"/>
+    <Member Actor="" Character="Kids"/>
+    <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="MOrgan"/>
+    <Member Actor="" Character="Nurse"/>
+    <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Phone"/>
+    <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Reporter"/>
+    <Member Actor="" Character="Researcher 1"/>
+    <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Waiter"/>
+    <Member Actor="" Character="Young Acadia"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="AARDVARK" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="AARDVARKS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="ACADIA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="AMAMI RABBITS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="ATV" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="DINO" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="KOOKY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="OFFICER" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="Order" TableIdentifier="NavDynScenes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="c182cd4e-ef72-4f4c-b3ca-a866f235b80d" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="9f25c9a1-6c03-4a2d-a974-0d73c8d529c8" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab Selected="Yes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>

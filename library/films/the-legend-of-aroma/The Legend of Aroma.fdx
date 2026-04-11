@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20250719T225100" id="311bf653-30ed-4d65-a49b-1d9bc7012bab">
+    <XRef DateTime="20250719T224917" id="326d3bbb-277d-4966-b8b4-fc0c38660087"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Action" id="7ec7d420-048c-403d-83d8-e4bf1f83af4e">
+      <Text Style="AllCaps">Black.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e6304861-67bb-4470-9929-04eb374b70d5">
+      <Text Style="AllCaps">We hear</Text>
+      <Text> the sounds of wildlife breathing in a </Text>
+      <Text Style="AllCaps">rain forest</Text>
+      <Text>: bears, birds, insects, nature, humans. Then the voice of a woman, warm, nurturing, and intimate... followed by the voice of a six-year-old girl, sharp, curious, and amused.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b901c84a-75f1-41a7-90f7-533501dc735e">
+      <Text>MoTHER TONGUE (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f6c60efb-6b8d-4ba3-b2d9-1a83bdcb2bdf">
+      <Text>[Says “Bless You” in multiple languages and has it reverberate] Smell that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2bc959fc-cfa8-44af-8e87-ff93c219abdc">
+      <Text>Young AROMA (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="392b8358-fa31-4cc0-8a65-e592f4ddfb3f">
+      <Text>I smell nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="52ac9e64-13c5-4092-a3f2-9737aa011ee1">
+      <Text>MOTHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9ef1cb6e-46cb-4f9d-bd8e-d18c7ee7f5b6">
+      <Text>You’ve got to take it all in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7b0e9f79-4fa4-4925-9e6e-fb3091bf201e">
+      <Text>Young AroMA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59cf996f-5891-4f98-b320-2b9e9e4cbd4f">
+      <Text>All?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="34387387-ea26-4e16-967f-060d0f45f193">
+      <Text>MotHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3b94b92-ff0e-428f-b385-5913457abf9c">
+      <Text>The world, silly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2ee6a8ff-aa36-4779-a647-f5e8d2cdd2fa">
+      <Text Style="AllCaps">We hear</Text>
+      <Text> Aroma breathe in before holding in a sneeze.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d41e07f6-10cd-452e-b0e0-299513d0797f">
+      <Text>Young Aroma (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ef0e1983-5a7f-48e9-a0a1-dc386c9fc606">
+      <Text>Ah- Ah-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f58f436-f654-4c42-88a0-5de4df99cbc3">
+      <Text>Mother TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="84645468-7bed-44e1-9c40-1949dc093744">
+      <Text>No need to hold it in. Let it out.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="68b4bc0a-b249-4a55-b532-fd7ea286fab3">
+      <Text>Smash to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="dea451bf-e71c-479a-9fc8-1af0440e78b4">
+      <SceneProperties Length="3 2/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BIRDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MOTHER TONGUE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MOTHER TONGUE &amp; YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Snot Forest - Dawn</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="65a1a662-4ccd-4a8f-9118-369772da5725">
+      <Text>A cloud of sneezing birds soar by blinding daylight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bb708658-a0f9-4965-b440-40ec79a4f923">
+      <Text>Birds</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="64729d70-81ed-41d7-a923-08c467355436">
+      <Text>Achoo! Achoo! Achoo!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a96a7d2-cb9d-49cf-89b5-a69373c96d12">
+      <Text>The camera passes through the birds, showing an aerial shot of an enchanted forest with a mountain range in the distance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="37cf7d76-6ff9-46cb-be3a-cbf95fa45272">
+      <Text>MOTHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4c43ca4b-3abb-4a1a-9bd4-feecf178ab38">
+      <Text>Bless you, Aroma. And everyone. For the world is right under our noses. Septum Mountains split Snot Forest east and west. Our forest huffs and puffs and blossoms with </Text>
+      <Text AdornmentStyle="-1">boogerflies</Text>
+      <Text> and mucus wombats...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4f356f04-3194-4045-9300-4b5b40f4c632">
+      <Text>We push into the woods, witnessing dragonflies flit through the trees, deer bound through the meadow, and wombats burrow into the dirt. We go to the “Snot Forest” signpost where “The Neck of the Woods” arrow points left, the “Philtrum Valley” arrow points right, and the “Septum Mountains” arrow points elsewhere. Above the signpost is a sleeping </Text>
+      <Text Style="AllCaps">skunk</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b62ff31a-db06-4464-b24a-25d4514400e4">
+      <Text>Young Aroma (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fa87d81e-fb87-4473-88cd-0c9f25f32c89">
+      <Text>And skunk!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d07a7c37-c544-4bd7-bad3-6e1792799fe4">
+      <Text>The skunk is awakened by hammering below. He looks down to see </Text>
+      <Text Style="AllCaps">Mother Tongue</Text>
+      <Text> (30s), who stands remarkably tall with her peachy skin clad in a poppy fuchsia and tangerine robe. Her sheeny beret shields her dazingly red hair. She is hammering in wooden arrows to the signpost, each with odorous names like </Text>
+      <Text AdornmentStyle="-1">FraGrant</Text>
+      <Text>, Peppermint,  Pungent, Resin, and Toast.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fff5453c-65e3-461e-b282-c6e74aef911f">
+      <Text>Mother Tongue looks down to see </Text>
+      <Text Style="AllCaps">Aroma (6)</Text>
+      <Text>, dressed in an earth-toned robe and olive beret, hammer in the “Sweet” arrow. However, “Sweet” is upside down and pointing away from Aroma. Mother Tongue turns “Sweet” right side up and has it face Aroma. Mother Tongue smiles proudly at her daughter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fff5453c-65e3-461e-b282-c6e74aef911f">
+      <Text>Aroma pulls out a dark wooden arrow. Mother Tongue’s smile fades into fear as she gently takes it from Aroma’s hand. Mother Tongue looks upon the “Rancid” arrow, written in Aroma’s childish handwriting.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f574822c-1b7a-4c4f-8ca5-90b8213c345d">
+      <Text>With a stomp, Mother Tongue telepathically digs a hole and drops the “Rancid” arrow into it. She levels with Aroma.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9c56229f-aa87-445c-8110-88c40da25387">
+      <Text>MoTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="923b7642-cd50-4077-996e-bb0bc8bb392d">
+      <Text>The bad things in this world must stay under our feet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="14397ef0-808a-49a4-8d58-64f14630a819">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="71112094-6094-47a7-9921-68cce6437dec">
+      <Text>It defeats the meaning of being good?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6cee7b41-9546-4fb2-8510-9094665c921b">
+      <Text>Mother Tongue points to the new signpost arrows.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d9ce25d-872c-4358-bdeb-4a67502c32b6">
+      <Text>MothER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8161da37-0f20-474c-a9b4-19147cc195e7">
+      <Text>These are the good beings. The ones we trade with.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cabdf79f-1271-4956-b560-65fa42381528">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f0de3ad3-8a06-41b9-ac57-f61b857e03a6">
+      <Text>One two three four five six Odors!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="33f65c63-3a7e-43ba-9672-a839bab2e5ab">
+      <Text>With Aroma’s countdown and focus on each arrow, it takes us through </Text>
+      <Text Style="AllCaps">quick flashes</Text>
+      <Text> of vibrant creature-like alchemists and herbalists who embody odors:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="927c831c-ed47-433f-b8e7-33b85dbc6382">
+      <Text>- FraGrant, a floral alchemist with a business acumen</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d51346fe-4036-46c2-9df1-7a5c00c4ddc9">
+      <Text>- Peppermint, a holiday-spirited elfish factory worker</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1d24fe6a-991b-49fe-886c-e4cb60fd2bc6">
+      <Text>- Pungent, a cheesy cheesemaking ogre</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6c85d742-eee3-4594-b082-ab59525a1c48">
+      <Text>- Resin, a tree-like being with an ironic affinity for fire</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="359d4018-9b90-4494-abe8-e3f99735bde0">
+      <Text>- Sweet, a passive aggressive fairy</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="baa1f249-43ea-455c-a130-1ec988c63729">
+      <Text>- Toast, a metalworker who juggles between popcorn and bread</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0f40df9d-11b8-4a3b-af3f-21bba95b2908">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c0a6241e-6f61-4eca-949e-d8cfcd1982a0">
+      <Text>We grant them spells...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eb56e063-b0e3-4082-84b7-61313226b8b2">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a82f21fd-88de-4729-ad96-f767db48972e">
+      <Text>They give us smells.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fd6da9ff-b261-40ef-b0cf-4ac186c229ad">
+      <Text>Mother Tongue pulls out six potions, each marked by their maker. She pulls the lid off all of them with a single swipe. They all puff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bce32313-263e-4b4c-adb4-048c029a803c">
+      <Text>The puff reaches the skunk’s nose. He lllooovvveees the scents, wiggling his tail.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cadcf433-db06-4f39-a580-6fdada0ae220">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d9422b4c-f4f7-48c2-a2a9-48c3074569a7">
+      <Text>Well, potions... But yeah, smelly potions. These bring prosperity to our village.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5c8670a1-aaf2-4945-816d-6312504fa339">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cff81c60-cac1-499f-b962-dbad75069fd0">
+      <Text>Would prosper-i-uh get boring? Maybe we can spice things up with--</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d43f6a99-fad4-4c16-98e8-3bd119617648">
+      <Text>Aroma gets the “Rancid” arrow. Mother Tongue slaps it down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66f9b6d7-1f5e-440e-b550-352995a0c485">
+      <Text Style="AllCaps">Images slam onto the screen</Text>
+      <Text>. Zoom into a dark figure stirring chaos.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c08828c6-e996-47e5-9087-9e809350ccc4">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6fc873d1-132a-45c2-ae37-2fc1c475c011">
+      <Text>The bad Odors betrayed the sanctity of smells. We would be nothing but traitors if we grant them any of our spells.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="10eabaa9-9edc-488d-8471-9442a5a7e1ee">
+      <Text Style="AllCaps">Back to reality.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9fdea296-e542-49e6-8459-4239be1e7389">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="35971d3b-5c8a-4396-a991-2966f7d310b1">
+      <Text>Will I make a good sorcerer if I can be good friend and trade with every Odor, good and bad--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7976c944-b120-4cec-ada1-d4dd6b137b6b">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="69db4ed1-418d-4bb0-9cf1-67eb76f4282c">
+      <Text>Good grief, Aroma. We can only be good sorcerers when we surround ourselves with good Odors. We must present spells with pleasant smells.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ff769d42-fd60-4be4-a7bf-c2ee513146c3">
+      <Text>With a reluctant stomp, Aroma buries the “Rancid” arrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bda1efd3-0ed5-4beb-8e81-a6c73c785474">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="72303c04-8018-4f31-97aa-0c2c13e0c778">
+      <Text>Feel the magic to heal all who are sick.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="99a2488f-5fe6-4d84-8999-4b73e56b45f1">
+      <Text>MothER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6812ef96-ed5f-4ac9-a6cf-ff79b1996e53">
+      <Text>Sick rhymes. Now, time to say goodbye to Snot Forest. Let’s head back to our Neck of the Woods before nighttime.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ba988de3-4c97-45b1-aca5-b39dc22866eb">
+      <Text>Mother Tongue takes Aroma’s hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d353b238-b6c8-4020-bb24-f7e5437013c9">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ae3b5948-6905-43a5-9cf0-57c89bbd1502">
+      <Text>To...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="be86003a-a0f9-4ee3-b365-7214eccc82fc">
+      <Text>Mother Tongue &amp; Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="525d62f5-4dcc-4733-a786-25b9da212066">
+      <Text>...good health.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="72b4d96d-7e47-4605-a3e2-238ae1b96985">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a4832bc4-8d10-4e70-b2b6-21d4a06d91df">
+      <Text>Running is good for it!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e6f71ec7-98cf-4850-868e-92b10b9f5367">
+      <Text>Aroma dashes away in the direction towards The Neck of the Woods. In her mad dash, she periodically stops and twirls in slow-motion to sniff the flowers and anything interesting. Mother Tongue hovers close to the ground after her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2cfe9e3d-466c-4566-8af9-17a50516610f">
+      <Text>The skunk scurries down the signpost to the “Rancid” arrow burial site. He digs it up. With the “Rancid” arrow in his mouth, he trails behind Aroma and Mother Tongue.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8ca88046-1b25-40a5-93c7-e23a38f46a7a">
+      <Text>MotHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="634476e5-8d82-4488-9a52-c258dedc50b2">
+      <Text>I am proud to call The Neck of the Woods my home. As Mother Tongue, I speak for everyone, all tastebuds from all walks of life, here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a2c4ef2b-76cc-46c9-8d92-d92df03c2386">
+      <Text>Time passes as the camera zips through the trees and meadows until we reach a village.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="af266545-a3a0-4321-9390-8455c9671a66">
+      <SceneProperties Length="2/8" Page="4" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. The Neck of the Woods Village - Dusk</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b5ca3af2-bff8-47e7-b86a-e4cd2f8dbea6">
+      <Text>The Neck of the Woods has a thriving community of personified villagers (tastebuds). The camera zips by homes, markets, and enters the gates of Oral Palace, where Aroma runs through.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a6aaf646-ae23-4e31-bdce-02cd6bd65539">
+      <SceneProperties Length="5/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MOTHER TONGUE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Oral Palace - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="26176af9-892d-4b21-bdef-f8adfd3045cc">
+      <Text>Aroma turns around towards the gates.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4e629ada-f634-4446-84ab-12e010664124">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4128c496-a4e8-4ae9-a9fe-23c01f963461">
+      <Text>(Exhausted)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6090fefc-fd1a-4713-b18d-d47eb0976acc">
+      <Text>I win, Mother Tongue...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ee7c9334-d194-4505-8002-fad83cee9da9">
+      <Text>Mother TONGUE (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0dc81426-4c6e-4a99-b1aa-6ff4622c5dc1">
+      <Text>Don’t speak with a forked tongue.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="db9bda38-5fa4-41e9-914e-e370a54cf2e0">
+      <Text>The palace doors abruptly open with Mother Tongue inside. She is holding her Sniff Staff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="db9bda38-5fa4-41e9-914e-e370a54cf2e0">
+      <Text>Aroma turns to see her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="801c57ae-662c-4b92-9822-9c78eb420b2b">
+      <Text>Mother Tongue tosses a fork and knife.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c374152-8514-4e10-9ef7-0a26e300ee91">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8ff4b406-af12-4cf6-9943-bfaa1f9ea35c">
+      <Text>Here’s your fork and knife. It’s dinnertime.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3d37b759-1e50-4411-af2b-e1efe2a2c7dc">
+      <Text>Aroma runs to Mother Tongue’s Sniff Staff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8522970e-01d7-499f-b128-7ef7bf4502ce">
+      <Text>YouNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="232ec741-abb3-4118-8003-b80d4a2a89c2">
+      <Text>When will you toss me this? </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="951636fb-d50e-451c-8099-7e501cb47959">
+      <Text>MotHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0d521499-5830-4592-bcf1-21b101681485">
+      <Text>When the time is right, you’ll earn the Sniff Staff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="481ebfc1-d3dd-4fb2-9a3d-963ad4b28d9d">
+      <Text>Aroma breathes in through nose in disappointment. They enter the palace and shut the doors behind them.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="b2ea9d99-e2ba-4412-bd2b-2adb75cbdf56">
+      <SceneProperties Length="2 7/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MOTHER TONGUE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Oral Palace - Aroma’s Room - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9615233c-320d-42ca-a3b7-d9c3c07614bd">
+      <Text>Aroma lies underneath a blanket in bed, observing the uvula-</Text>
+      <Text AdornmentStyle="-1">esque</Text>
+      <Text> moon out the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2feeef08-8f57-448f-bfbe-87dbe1d7a1c5">
+      <Text>Mother Tongue stares at the bookshelf, uninterested. An idea sparks. She telepathically phases a book from another room into Aroma’s room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ef698f78-8c68-485c-89e9-f866f67a58c8">
+      <Text>MotHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aa28c9ba-78f5-4e2e-8fb6-4ae355e2fa2c">
+      <Text>Because you ate them broccolis, you’ve earned yourself some cooler stories.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e3103e4-deb4-4e44-bc76-86249cda7df6">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3d67230a-6e4c-4b24-a6f4-9523215fa4bf">
+      <Text>You fool me when you hide them in the Banh Mi...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d3f014c1-cdd6-4a24-b3e0-ca08c4d9713f">
+      <Text>Mother Tongue sits by Aroma and presents the book cover. It seems gibberish to us as it is to Aroma.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d6e0b242-9ff0-4a47-8338-1a7cbadcbb2d">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="06a79cb0-89b6-4694-8d3f-b10d39e704e9">
+      <Text AdornmentStyle="-1">Uhh</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7eb78861-40b4-4706-8e54-7669650d23e8">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="7a4d85b1-6899-4c00-a169-27a669b6ea3d">
+      <Text>(Reading)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5b3269d0-9a47-4ddd-a892-46dd8fb614fe">
+      <Text>“The Legend of Tastebud.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8d54aa9a-6d15-4fa5-997d-261e858a7594">
+      <Text>Mother Tongue opens the book.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="07d35b7e-ed44-407d-83c7-57458c5cb513">
+      <Text>MoTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db0536a0-7113-425c-9f0a-52f4afdfb110">
+      <Text>Your reading skills has you falling behind other students.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6455b785-b28a-4bb5-90ec-75c49e8aa199">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6568e3b5-39ce-421d-855b-4c53f00798dc">
+      <Text>I’m six, mom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="294591b6-6d5a-469a-aafd-1efbd8f0f76b">
+      <Text>MotHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2b5950db-a68b-434a-b259-0db9e13bd0d8">
+      <Text>By now, you should know definite articles like “the” and “a--”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bce1ba6e-3f7d-4f22-a0fb-63619cf6efca">
+      <Text>YounG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1a423f0a-91f8-4593-8679-cf817bc09be1">
+      <Text>Uh. Stop speaking in tongue!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="58711ba3-6245-471d-a462-cf76d32c5b51">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b20cec94-1db9-4c2f-b988-e4bd2bc1b236">
+      <Text>Mother Tongue speaks however she likes. You’ll understand when you’re older.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="60d4451d-4d47-4bf7-b11b-173e4f581052">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="72d5cedb-0f07-4334-997f-89232c3b277b">
+      <Text>Hmm... </Text>
+      <Text Style="Italic">The Legend of the Tastebud</Text>
+      <Text>? Everyone in The Neck of the Woods is a tastebud. What makes this one a legend?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4a0f3143-638d-444d-aaf5-55813211c184">
+      <Text>MoTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5bfe5a41-53a0-49da-9757-a7ffcf21f83d">
+      <Text>A simple bud can earn the mark of a legend...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0b352f44-1080-4e69-99cd-6a631172d450">
+      <Text>Mother Tongue opens the book and reads a passage, illustrated within the book's pages. It displays an illustration of a bustling marketplace in the Oral Palace, but a long time ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8bac8937-0b7d-40ea-b6f3-6b0de0dde900">
+      <Text>MoTHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e932eca-9ad7-4eff-a5b3-6f264931d405">
+      <Text>Long ago, when The Neck of the Woods was just a spine, a simple bud among the tastebuds had an extraordinary gift: they could distinguish every single odor in the Snot Forest, even the ones we bury.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="01511594-2ee6-447f-a8fe-f0f0cd9a7c58">
+      <Text>YOUNG AROMA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="34eefdc1-ac65-4f38-bb69-58f97d4fc966">
+      <Text>(Gasping)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6394edfe-0f98-461c-9da0-fa4cb8d5fe70">
+      <Text>Rancid?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fab1804e-a218-41c2-936e-cf8189b91751">
+      <Text>MotHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0b1d9ac4-4e29-47f4-9048-1abc00b818ff">
+      <Text>...especially Rancid.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="42798378-2799-48a9-80c0-bdb4bbe2e743">
+      <Text>The book illustration shifts to show Rancid and their Odors, shadowy figures stirring chaos near the marketplace edges.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0065373a-da07-430f-b393-5b329f91c0b9">
+      <Text>MOTHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9202eaa0-66c9-4292-867f-d80a4ef33ca0">
+      <Text>The bad odors gathered in the Septum Mountains. They grew restless, and their putrid power began to make the villagers sick. The typical trade of spells for smells was ruined. The Mother Tongue of that time grew worried.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="78ec81bb-ec7d-4bd1-8616-4170d3c4e83d">
+      <Text>The illustration shows the ancient Mother Tongue character looking distressed, holding a staff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="700a6d5b-bff0-4608-91fb-6bcca51a0282">
+      <Text>YouNG AROMA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f7149cef-3f21-46ad-865e-fa2439838fc9">
+      <Text>Did the simple bud save the day?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c484a932-ef3c-4ce5-8be2-e6a2ee023a83">
+      <Text>MoTHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="01b15cdc-57ee-4b7c-83a1-ce10f3d0c0aa">
+      <Text>They did. They used their unique nose to seek balance. They didn't just smell the pleasant things, Aroma. They acknowledged all the world's scents.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="db05b459-7be0-45c1-b3d3-7ef812868a1e">
+      <Text>The illustration shows the simple bud (a simple tastebud) approaching the dark figures in the Septum Mountains with courage.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f7ad70a5-56c0-48f5-82ac-b2666a75ef12">
+      <Text>MOTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ebcd3762-c416-48e0-a1ec-c4627b054758">
+      <Text>But the story goes that while they brought balance, the simple bud decided that the good odors should shine brightest, and buried the knowledge of the bad ones deep within the Snot Forest soil, ensuring we only deal in pleasant spells from then on. A legend was born.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d789a67c-63be-4ac7-9347-9dc2515c5cab">
+      <Text>Mother Tongue puts the book on the nightstand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e92e9600-ae55-4f5c-bba9-1b02784998d6">
+      <Text>MoTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6ac15029-ec89-44af-b286-c5c9e906cf1c">
+      <Text>We honor them by maintaining balance with pleasant smells.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="67999059-edd3-4de8-b49b-c24f7d9e765b">
+      <Text>Aroma looks unconvinced, staring out the window at the uvula-</Text>
+      <Text AdornmentStyle="-1">esque</Text>
+      <Text> moon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7bb7f70e-c569-4ff5-b4ba-1ca29c9d65fe">
+      <Text>YoUNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7055500e-0705-4d89-88bc-85c20f9b9817">
+      <Text>I’m not settled without Rancid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ec0b103b-d083-431a-9d85-597aa4a63b45">
+      <Text>MoTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fe508f61-a051-4d08-bf5e-9f7bac27f5b4">
+      <Text>As for me, I must get up early to </Text>
+      <Text Style="Italic">settle</Text>
+      <Text> a dispute.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3ce4b70c-818e-4d68-a8f3-b9050094fa12">
+      <Text>YouNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="949d1f0a-919b-4ef0-a3f0-4a6eff08b1df">
+      <Text>Are things going sour?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d0187474-26f5-40ab-a26d-0cc8cc0f6c13">
+      <Text>Mother TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1e22cb68-86c2-42a8-82c1-c0dc3cc35ff4">
+      <Text>The situation is actually in Umami Town.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9ad11e3a-57b6-45a8-9635-23c2ff5fcc76">
+      <Text>Young AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5630c7fb-a5f8-42a8-a783-d5296af459c0">
+      <Text>Well, can we end the story on something sweet?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="035ba968-d473-4e26-ae4e-b74a3ee02d17">
+      <Text>Mother Tongue turns to pages with countless illustrations.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ba2a9517-bb46-4888-b95b-6a2cfee05044">
+      <Text>Young AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ad7d2f92-c23d-412c-8898-29bd199134f6">
+      <Text>Drawings are the best legends.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="51f40a45-9236-4d51-8d56-fbb4f00237f6">
+      <Text>We see from behind the book, Aroma has her nose deep in it.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="be1de9c7-a3f1-4196-b469-08c1c7198d62">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="1b7dc4b6-0613-4c2b-b9cb-ae7e1449b876">
+      <SceneProperties Length="1 1/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MOTHER TONGUE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VILLAGE BULLIES">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VILLAGE BULLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Oral Palace - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="75196e0d-d97e-4cbb-90e1-f0e47776d579">
+      <Text>Aroma sits on a bench outside the gates of her palace, nose deep in a </Text>
+      <Text AdornmentStyle="-1">spellbook</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0f041988-5249-492f-b9e3-ccbad8d51905">
+      <Text>MoTHER TONGUE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="45c1eea2-a11a-430f-97a9-fa8ac9e93bac">
+      <Text>Legends could start under your nose...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e1b664de-06ed-4a87-853f-502b7903e889">
+      <Text>A </Text>
+      <Text Style="AllCaps">village bully</Text>
+      <Text> pulls Aroma’s nose, causing her to hold it defensively.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bb793f86-6b8c-4df4-a9c5-9bae7b24c835">
+      <Text>MoTHER TONGUE (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7b778b37-a3ca-420d-8f70-b8a4a360b58d">
+      <Text>...if you don’t lose it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a5463be3-fa5d-4e54-8de0-b6fe73bf55df">
+      <Text>A group of village bullies stop by to mock Aroma.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="afe2182a-b5bb-43b4-af80-5644dd5275b2">
+      <Text>Village Bully</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9e40cd3e-908b-4fea-8fab-e0d165e04fec">
+      <Text>Sneezewort! Studying for the spelling bee?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b5a80ce4-d22e-4f2a-ad8b-011bb303700d">
+      <Text>YounG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb0f467a-1948-4dab-bd2e-fbe21684b098">
+      <Text>It’s not that kind of spell.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0c06c631-9899-4f13-bbb8-be0266b08752">
+      <Text>Village Bully</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="608c1fa0-9087-40dd-b9af-1e05773d8607">
+      <Text>Let us spell your name.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3c3e731b-732b-4ca8-8836-00da0f698f3c">
+      <Text>Village Bullies</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5fa283bd-e234-42f0-9014-b59433b168b9">
+      <Text>D-O-O-D-O-O!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="006471bc-f9f2-43b9-9ad7-677eb1cf583d">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6c5147ce-6bf8-4841-a0a2-4e8aaf2f5e5c">
+      <Text>Well whatever that spells, that is what you all are! I may not know how to spell, but I can cast spells-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="062daa7a-ff21-4604-a1a0-8f78ead945df">
+      <Text>Village BULLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a95a3e0f-1828-4b52-98b8-b38008d4f8a5">
+      <Text>You can’t spells for crap, Aroma!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b74c336b-9859-4c11-b027-7243d010a8c6">
+      <Text>The village bullies pick their noses.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8a5eafa4-44a3-4fb6-abaf-f7384bff9041">
+      <Text>Village Bully</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8c581cc6-2fae-4cbf-a62f-e875f468b25b">
+      <Text>Why stick your nose in a book when you could pick your nose like the rest of us? Smell you later!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6d8de83e-ecf7-4871-bf17-b02f9b8b2a93">
+      <Text>The village bullies scurry off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8976245a-2bff-4a53-ac0f-9090ed544777">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d33df394-81d4-4f20-bc7a-ca9871fc78b2">
+      <Text>Pigs...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8d323364-2c40-4a90-b8d7-de6cdc82c0c6">
+      <Text>The bells urgently ring in the distance. Aroma notices a flock of </Text>
+      <Text Style="AllCaps">green</Text>
+      <Text> </Text>
+      <Text Style="AllCaps">flying pigs</Text>
+      <Text> ascend to muddy up everyone’s day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f547c85c-b45b-4a3c-9574-0aa20f95ac5d">
+      <Text>YounG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bc4743e8-d07d-4c87-81ee-86d20a347c51">
+      <Text>Flying pigs? Mother Tongue should be fine...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="390e083a-e115-44bb-bf81-cea6bfba3e91">
+      <Text>Aroma chills out.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="7bfb2fcb-5bd7-4b1a-b43a-fb3ae95fe47c">
+      <SceneProperties Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Oral Palace - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d2608bcf-d3aa-438d-a3e9-82a4f1693e89">
+      <Text>The Sniff Staff leaning against a wall falls.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a1bb5a10-3bf0-4a1a-af9b-aff907e02ec7">
+      <SceneProperties Length="3/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Oral PALACE - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c9f08e55-2ca9-453d-a40b-4355177a8704">
+      <Text>Aroma hears the staff fall.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ba5a47f3-6b7a-4cb9-85ae-87199ebf954b">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9d7bdf74-90f1-4356-814e-614104330497">
+      <Text>Mom forgot the Sniff Staff!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="02cd3feb-4ad2-4ba9-ac55-da83c71c5cb9">
+      <Text>Aroma drops the book and dashes in and out of Oral Palace, retrieving the staff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d345a1ef-a4f4-42ff-a23a-58c130dd04e2">
+      <Text>YouNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2ced9099-727d-4d72-b710-80e0744071a3">
+      <Text>Her problem has gone sour!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c8cfee63-5af5-407c-bffa-aff3128c3db5">
+      <Text>Aroma runs towards the chaos. She moves into...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="8a0c5a95-ac7b-4ece-a613-8b41998e4df3">
+      <SceneProperties Length="2/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Sour District - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fd3320d3-c84f-4998-bd94-ffe6b7881c07">
+      <Text>...the Sour District, full of skeptical tastebuds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f135d63d-a49d-40e9-8763-28174bc7685c">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e491b3b7-1307-4aaa-8b0c-48e8c1db28e6">
+      <Text>Sour District ain’t the problem. But everyone here is hard of talking...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e6c2316c-4d90-4354-b77f-ee3d2211bd91">
+      <Text>Aroma moves into...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="7b231c87-2267-4bc5-a702-5506c8429f1b">
+      <SceneProperties Length="3/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BITTER TASTEBUD">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Bitter Quarter - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c69eeaac-1c1d-4a04-a6b1-181263178956">
+      <Text>...the Bitter Quarter where every tastebud is miserable.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="afd6127c-2012-4eaa-afd1-ca75dd63510c">
+      <Text>YouNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9c7214c3-2180-4a38-989a-5d7a5943c145">
+      <Text>Problem with Bitter Quarter is everyone is sad...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="111f563a-14ff-4d60-b541-6c12bff1507c">
+      <Text>Aroma shoves past disgruntled tastebuds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="35697f8e-4e0a-42f5-b698-8346690723cd">
+      <Text>Bitter Tastebud</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5097e29b-d0be-483a-ace3-6e603486934a">
+      <Text>Hey, I’m walking here!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3851b76a-027c-4aab-beda-a728c3a7e9fe">
+      <Text>Aroma evens hops on some of the tastebuds’ shoulders and lands in...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="baed2def-5663-47e9-974a-0d9ade7d5cd2">
+      <SceneProperties Length="2/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Salty Port - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="79a31788-e774-4b24-8cbe-aad2062cc5da">
+      <Text>...the Salty Port where tastebud sailors dock and offer their catch of the day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="36ecff6e-2854-4f0d-8376-4e085a24b177">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e87aab6e-e0a2-4d24-9850-d6d1f3a1841a">
+      <Text>Salty Port raises the pressure.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8243298c-b790-47b6-8351-a52d2f461fc8">
+      <Text>Aroma nearby slips before she takes a handful of salt from a merchant and spreads it in front of her. She catches her balance and continues on her way into...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="1344112c-0a0f-4f33-9e8f-1ec1014382ed">
+      <SceneProperties Length="3/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="SWEET TASTEBUDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Sweet Square - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9e200c79-a2f9-43a6-95bf-cbdbbdf88292">
+      <Text>...the town square known as Sweet Square, where every tastebud is jolly. Many stop Aroma in her tracks to offer her sweets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="403fb174-3e8a-4b56-91e7-f300830ad8b4">
+      <Text>Sweet Tastebuds</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e77fc9fb-21fd-45a6-8680-7ab0c05bcebc">
+      <Text>Sweets, darling?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="43840d02-be61-427a-a7ff-314f14b618fa">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d883188e-ed62-4413-8433-a3cb5b740d72">
+      <Text>I don’t have time for Sweet Square.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8360553f-9e98-4349-8a0c-ec2961d1ffd9">
+      <Text>Sweet Tastebuds</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="81cace71-40de-4e0d-89f1-405315ad1053">
+      <Text>Well go ahead and savor your time in Umami Town why don’t ya.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a681eaee-4935-4a3c-9c69-b2f5f2184ba5">
+      <Text>Aroma bows then sprints through the </Text>
+      <Text AdornmentStyle="-1">paifang</Text>
+      <Text> to...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="494fdf38-3e73-4331-bb83-38ecd2a907b0">
+      <SceneProperties Length="1 3/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MOTHER TONGUE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PIG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="UMAMI FARMER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="UMAMI SHOPKEEPER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Umami Town</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1e8d55ef-a00b-443a-bea9-8a67755f766f">
+      <Text>...Umami Town, </Text>
+      <Text Style="Italic+AllCaps">where Mother Tongue has everything under control</Text>
+      <Text>. Except for the flying pigs and Umami tastebuds!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="12295f9b-f376-4e9e-8139-f980774e7564">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c3443f98-3408-4fd3-a92b-e5ca82b464c4">
+      <Text>You didn’t tell me your dispute was with pigs. So cute!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="04c0725d-d0e9-413a-a97b-dd55e672c701">
+      <Text>Umami Farmer</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7966cb06-39e9-41fe-a5e6-cc602d995ece">
+      <Text>Mother Tongue was ready for our beef--</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="570fa955-5cc5-47e1-85f9-a8d006dc7041">
+      <Text>Umami Shopkeeper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="243da856-937f-4b41-9260-b3085271e5bb">
+      <Text>Not the pork though!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a6996e3f-79bf-4f61-a6cf-2b33c2ef0516">
+      <Text>MotHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="162b4c48-4343-418d-9cd7-e13f20608ef3">
+      <Text>Aroma, stop being so nosy. I’ve got the situation under control!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="915066f5-1c36-496e-ab77-20f6bf1593c3">
+      <Text>Mother Tongue sees Aroma holding the Sniff Staff. She nabs it from her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9c32b17-3c45-4d1a-a21b-9d5b1585cebf">
+      <Text>MothER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0dbdea5f-344f-48fa-aae1-9c7bd93cdddf">
+      <Text>I was looking for my Sniff Staff!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ebed7ce5-0a15-417e-98db-b84f28f6d6b8">
+      <Text>Mother Tongue takes our several vials and pours them onto the ground. She churns the puddle with the Sniff Staff before letting the staff take in its magic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="66eb30c0-fbf4-4045-a64f-1960657a1176">
+      <Text>MothER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3414a6c5-84e3-4510-9112-7d736611a307">
+      <Text>Now, I’ve got it all under control.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="886b31cc-258e-48ab-b293-342aa9b7b5ab">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="caf5cae0-2ad9-48b0-90cd-c97fc56315e9">
+      <Text>A support staff wouldn’t hurt.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d4f39773-a2ed-45d7-9113-5d8ebb3ff3e3">
+      <Text>Aroma ducks down before a pig flies into her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cad58001-b077-4707-8859-2ff96f33bef1">
+      <Text>MotHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="34ffd799-4afb-45a4-96a5-e069499c472b">
+      <Text>But you will get hurt! Leave!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6e51eaa2-52f7-4679-849a-26c612e554fa">
+      <Text>Mother Tongue fires sneeze rays to fry these flying pigs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e2a43a6-3de6-432d-90b5-4bb588d5cf23">
+      <Text>MotheR TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="81aca5ae-bfdb-4c15-a8a6-5aeed306c950">
+      <Text>Huff! Puff! Huff! Puff! Huff puff!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b35f81b6-a568-4e50-85f3-8931302b22e9">
+      <Text>The airborne pigs drop like flies.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b35f81b6-a568-4e50-85f3-8931302b22e9">
+      <Text>But one pig dodges it all and tackles the staff out of Mother Tongue’s grasp.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6b079d0f-c018-448a-8e12-a35e40dccbc5">
+      <Text>The Sniff Staff accidentally unleashes a gust of sneeze that knocks Aroma off her feet. On her back, she looks up to see the last pig descend upon her. But just before the cold pig snatches their prey of the day, she motions her hands like wings.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3b61566d-df95-48a4-bccd-70becc412d4d">
+      <Text>Young Aroma</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="773e0501-427d-4cf4-97ec-4d0746e314c1">
+      <Text>Achoo!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0312b31a-b17b-4ea8-b6cd-b2cbd00fcb2f">
+      <Text>Aroma zaps the cold greenish pig, transforming them into a tame light pig.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0312b31a-b17b-4ea8-b6cd-b2cbd00fcb2f">
+      <Text>The grounded pig oinks as though they’re saying, “Bless you.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="922764a3-28fa-4a74-9035-3b1783787566">
+      <Text>Pig</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="af67d39b-4051-4fb3-a88a-e44a5678bc36">
+      <Text>Oink!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8775f27d-2567-4b29-a2aa-15ef8ec0b678">
+      <Text>The villagers rejoice around Aroma and Mother Tongue.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c3e55bfb-7f72-4ab8-8c64-5b479b0af9dc">
+      <SceneProperties Length="2/8" Page="12" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. NeCK OF THE WOODS VILLAGE - outskirts - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="06e6c235-6927-4efb-ab44-6d71e6d43056">
+      <Text>The skunk finally reaches the outskirts of The Neck of the Woods with the “Rancid” sign in his mouth. He drops it near a fence post, sniffs the air hopefully, and waits.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2234026c-98a7-4a15-affb-a28a36f85177">
+      <SceneProperties Length="1 5/8" Page="12" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MOTHER TONGUE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. NECK OF THE WOODS VILLAGE - MARKET SQUARE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6dc310e8-be8b-479a-b89b-69c2ea168349">
+      <Text>The villagers have calmed down. The focus is on Mother Tongue, Aroma, and the skunk who has just arrived with the "Rancid" sign.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1a9f0673-e5a1-41a6-b839-3e634559c9ce">
+      <Text>MOTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4f403ba1-9ada-49bf-a419-e0bc9e36bd2a">
+      <Text>(Staring at the sign with distaste)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e020c9ec-84c5-48e8-adee-ce367ff1f533">
+      <Text>This is a sign... A disruption.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4535e7e5-ab0e-417a-8a59-818dc9a32d67">
+      <Text>YOUNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3e212af5-d760-46b4-b85c-438af6a27706">
+      <Text>He helped us, Mom! He brought the "Rancid" knowledge we needed!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b110e78c-5fd1-4f9e-befe-2891b608c86a">
+      <Text>Aroma gestures towards the little skunk proudly. The skunk, having dropped the sign, is now sniffing the air happily. Mother Tongue looks from the skunk to the sign, her brow furrowed not with contemplation, but with clear displeasure. The earlier pride she felt in her daughter's ingenuity has vanished, replaced by a rigid adherence to her long-held beliefs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b13d0d11-a5f5-4ed8-a10a-e790f89bb495">
+      <Text>MOTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c357b51b-1567-4689-b7e3-9fd1dd78e30a">
+      <Text>(Voice is sharp, dismissive)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="df4a7f36-1480-4bfc-9759-e869ea05f518">
+      <Text>No, Aroma. This is a mistake. We do not entertain the "rancid." Your little "trick" with the pig was an anomaly, not a policy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e4e4e11d-b267-4d92-bee7-41f6b6460f4f">
+      <Text>Aroma's face falls. The joy of saving the day evaporates.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="96f13187-a0f4-451e-9185-0ca4c7697a32">
+      <Text>YOUNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c42e728d-d91a-4b39-bfe3-c51a3cafb79c">
+      <Text>But I stopped the pig! The good smells didn't work! The legend...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a4f654b2-f182-40a6-b492-b824e6120f5a">
+      <Text>MOTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="626f2e15-594b-40c4-8e38-66e64332fd20">
+      <Text>(Cutting her off, tone dripping with finality)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8faab3de-dad4-41f5-8941-3e1c72e84194">
+      <Text>The legend is clear in its meaning: we focus on the positive. You are a child who doesn't even know how to spell her own name correctly yet. You are dyslexic, you speak only one simple tongue, and you have no place questioning the Mother Tongue of this entire village.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f7b5283b-5f30-47dd-8328-0fa6f7837efc">
+      <Text>The words hang in the air like a cold mist. The villagers nearby grow silent, uncomfortable with the harshness of their leader's words to her own daughter. The skunk lets out a small, confused oink.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="50bdf9ac-6cc1-4b20-861d-37d01604e488">
+      <Text>MOTHER TONGUE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="903fe0ab-f1de-4f76-bed9-7046703f1114">
+      <Text>You will not take it upon yourself to "save the village" with such chaotic methods again. Now, come. It is time for you to be indoors.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fb42b8de-94b0-4923-a8b8-037eb9eb32fb">
+      <Text>Mother Tongue snatches up the "Rancid" sign again, though she holds it far from her body with a look of revulsion. She strides away, expecting Aroma to follow. The child stands rooted to the spot, tears welling in her eyes, hurt more by her mother's dismissal of her character than by the scolding itself. Her mother’s words about her perceived limitations wound her deeply, seeding doubt and resentment in her young heart.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e7e1b608-ebe6-4c46-bf70-840025415852">
+      <Text>YOUNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d4c5c954-c485-41ab-949d-e5aebb3698bd">
+      <Text>(Muttering to herself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1ad4f2e1-0ef8-480d-86aa-9ed43402b714">
+      <Text>I can speak its language. I can.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="561f48b3-36bb-4f94-afd8-b78505d33d7c">
+      <Text>MOTHER TONGUE (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d37a3c36-db3b-42cc-88c6-8c5fe9f8714b">
+      <Text>(Voice fading in the distance)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0fb13eb3-e3f1-4651-98b9-249a0ff305e6">
+      <Text>Inside, now, Aroma!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c4a64069-fdce-48c7-a2a5-a01f5e098cb5">
+      <Text>Aroma reluctantly turns and walks toward the palace gates, head down, feeling utterly alone and misunderstood. She doesn't notice the skunk watching her leave, the "Rancid" sign now lying discarded in the dust where Mother Tongue dropped it in her frustration.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="a688178a-cdf0-4790-b8a9-d66706f2533b">
+      <Text>FADE TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="12553b25-c689-4bdd-896c-fcdcf6bda59c">
+      <SceneProperties Length="2" Page="14" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RANCID">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="YOUNG AROMA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ORAL PALACE - AROMA’S ROOM - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="002b3189-1706-4bca-b909-78cdec8f383e">
+      <Text>Aroma is in her room. The door shuts with a definitive click, locked from the outside by her mother's telekinesis. The moon is the only light source. Aroma sits on her bed, a picture of dejection.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="002b3189-1706-4bca-b909-78cdec8f383e">
+      <Text>The mood is somber. The uvula-</Text>
+      <Text AdornmentStyle="-1">esque</Text>
+      <Text> moon outside the window casts long, cold shadows across the room. Mother Tongue has just left after her harsh words, the weight of her scolding—calling Aroma dyslexic and monolingual, and punishing her for using her unique magic—hangs heavy in the air. Aroma sits on her bed, dejected, her earlier triumph in Umami Town forgotten.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="09cbed6a-1de7-4624-9ce5-32d5ae20d4b9">
+      <Text>YOUNG AROMA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="6d58b754-1c1a-4d48-aabd-0208332b3e0c">
+      <Text>(Whispering to herself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="44dfdfa8-d014-4301-b3bf-cb284f456376">
+      <Text>She doesn't understand. The world is more than just "good" smells.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7f579cee-1dd1-498f-842c-8ff149d5840b">
+      <Text>A strange, low HUMMING begins, seeming to emanate from everywhere and nowhere at once. It's a deep resonance that vibrates in Aroma's chest, not her ears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="01005dea-abcc-4c6f-bc15-89983998a05d">
+      <Text>RANCID (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="74bd5204-872a-4b1c-a723-44dbb7ceb558">
+      <Text>(Voice is a silky, seductive whisper, full of promise and understanding)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1df6f0e6-37e2-4433-9fdc-51d0f8b2cf44">
+      <Text>She understands nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1095d5a9-6471-435e-a7f4-267085401223">
+      <Text>Aroma perks up, looking around the room, confused and a little scared.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="15ea183b-abac-4695-b7ef-e76946fca582">
+      <Text>YOUNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="21a4df60-616a-4357-a07f-420a34308e9a">
+      <Text>Who’s there?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9d950b8b-d9bd-4793-933e-bdfc09d06429">
+      <Text>RANCID (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f1644d82-934b-44ec-a41d-2848979cb17b">
+      <Text>Your mother speaks only in one tongue, little bud. The Mother Tongue is a liar. She fears the full language of the world.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8771e5b9-df5e-46e8-b814-67299530e9d8">
+      <Text>Aroma slips out of bed, drawn by the voice. It's calming, supportive, a stark contrast to her mother's recent anger.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3d5fd261-d4c4-4302-b06e-3871eddef96f">
+      <Text>YOUNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fb3a20e8-14dc-48c2-bbda-23a324f28a60">
+      <Text>You know about all the smells? Even the ones she buried?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="31636081-14d3-4067-8f82-86f03319aeb2">
+      <Text>RANCID (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="953d9795-c140-47ba-896a-2a78fe930dc6">
+      <Text>Especially those. They are the most powerful. The most necessary for true balance.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b73218bf-3d07-4c8c-b8cc-01a286331691">
+      <Text>As the voice speaks, a small, dark object materializes on the windowsill, catching the moonlight. It's a seed, but not like any seed from the Snot Forest. It's obsidian black and pulses faintly with a dim, sickly green light.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="05bdd067-4ba3-4848-b9e3-f06406840a75">
+      <Text>RANCID (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="14e29ab3-4364-4d1d-91dd-e7b578b7341f">
+      <Text>I am the knowledge she denies you. The wisdom you crave.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="22991241-21a3-449e-9208-4ea28dcc9471">
+      <Text>Aroma approaches the window, staring at the seed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8d85d418-4dda-4cfa-9934-e6d3c889693a">
+      <Text>RANCID (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b23e61e9-ebd3-410a-bec2-94bdb8663a3c">
+      <Text>Your mother believes things stay buried if you simply ignore them. A naive thought. All things grow, given the right soil. All things must be acknowledged.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e879e469-baae-419d-baae-05f16537c914">
+      <Text>YOUNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="43a79edf-6318-43ac-ac4b-e0f8ac7e285e">
+      <Text>You sound like the legend... the real legend...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d3ccae32-bf28-4952-8e47-bad4b3d167fa">
+      <Text>RANCID (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3e4b0410-8b65-45a7-a6a9-c7dd55081385">
+      <Text>I am that legend, child. I need soil. I need to be planted, acknowledged. The world needs my truth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8937a16d-42c7-4a93-b73f-305d97078bcf">
+      <Text>The little girl picks up the seed. It's cold to the touch but comforting in her hand. She looks out the window, a plan forming in her mind. Her mother's words return to her: "The bad things in this world must stay under our feet." Aroma interprets this in a new, manipulative light—if they must be underfoot, then they must be in the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4fe7417f-0505-4526-8517-b339f1dc0a04">
+      <Text>YOUNG AROMA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="5284bd3d-dba3-4790-8d00-6722dd286cf9">
+      <Text>(To the seed, a determined whisper)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cfe1b884-b506-450a-a0cd-883e4eccd5ca">
+      <Text>I'll plant you, then. I'll make things balanced.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a15fc06-176b-42b9-94f4-0191ff1713c5">
+      <Text>She grabs her small spade and a simple flower pot from her room, filling it with soil. She buries the dark seed.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="7839759a-89ba-4c5c-9597-c6ab216f9d25">
+      <Text>SMASH TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f87823ea-9458-49e1-b6a6-8c770df7a2f5">
+      <SceneProperties Length="2/8" Page="16" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. ORAL PALACE - AROMA’S ROOM - LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c5a96276-59ff-4baa-b87d-9c22a6960d9b">
+      <Text>Aroma sleeps fitfully. The pot sits on her nightstand. A single, dark, thorny tendril has sprouted from the soil and is growing rapidly. It twists and writhes with a life of its own, reaching out into the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="93f1ef16-6401-45a1-924c-2fde15ff69e7">
+      <SceneProperties Length="3/8" Page="16" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. ORAL PALACE - CORRIDOR - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="78d1c6b3-2e0e-4668-abcb-cd43e4514751">
+      <Text>The black vines erupt from Aroma’s room, spreading with unnatural speed throughout the palace corridors. The wood of the palace groans as the rancid, dark magic spreads like a virus. A powerful, putrid odor—the true "rancid" smell—fills the air, waking the entire palace.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="06e6c235-6927-4efb-ab44-6d71e6d43056">
+      <Text>The darkness has been summoned not by a vial, but by an act of innocent curiosity manipulated by a malevolent voice, bringing Rancid into physical existence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0853fdaf-8ed0-41b5-b164-d15f32a799ea">
+      <Text>The screen goes to </Text>
+      <Text Style="AllCaps">black</Text>
+      <Text> and reveals the text:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="037a13ec-a33b-4292-8681-ac002ed9ba91">
+      <Text Style="Bold">               Smell You Later</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="7501a4d4-30d6-497a-af4e-14c78c3877a5">
+      <Text Style="Underline+AllCaps">End of Pilot</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b0dd3c69-f6e5-4642-84ac-ad20ffb02987">
+      <Text>Plot Summary: The story is set in a fantastical realm built entirely on metaphors of taste and smell, featuring locations like "Snot Forest," the "Septum Mountains," and "The Neck of the Woods" village, populated by personified "tastebuds." The protagonist is a curious six-year-old girl named Aroma, whose mother, Mother Tongue, is a powerful sorceress and the village leader. The core conflict is philosophical: Mother Tongue believes prosperity is maintained only by trading "spells for pleasant smells," actively suppressing anything unpleasant. This worldview is visually reinforced by her burying a "Rancid" signpost arrow early on, declaring that "The bad things in this world must stay under our feet," a philosophy Aroma intuitively questions. The narrative comes to a head when green flying pigs invade the village, causing chaos. Mother Tongue’s traditional "good spells" fail to stop the last, most determined pig. In this pivotal moment, the pig tosses away the staff and flies toward Aroma. The young girl doesn't use the staff or her mother's magic; instead, she instinctively mimics the pig's "sneeze." This act of empathy and intuitive understanding — speaking the pig's "tongue" — transforms the aggressive green pig into a harmless, tame pet. This new, inclusive magic saves the day. Then there is the timely arrival of a humble skunk, who has dug up the buried "Rancid" sign and carried it back to the village. Rather than re-evaluating her rigid worldview, Mother Tongue scolds Aroma for taking it upon herself to save the village and while being dyslexic and monolingual. Aroma eventually stumbles upon a vial, initially gifted by Rancid. In the middle of the night, Aroma steals Mother Tongue’s Sniff Staff and dips it into the puddle of </Text>
+      <Text AdornmentStyle="-1">Rancid’s</Text>
+      <Text> potion. This summons Rancid and sets The Neck of the Woods Village into the dark ages. Mother Tongue voluntarily takes Aroma’s place as the captive of Rancid. All that is left is Aroma and the skunk, whom she names </Text>
+      <Text AdornmentStyle="-1">Gasberry</Text>
+      <Text> as he is gassy and doesn’t allow things to stay buried.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">     The Legend of Aroma </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">   Pilot: "Fresh Air"   </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	 </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="100" Selection="12733,12733" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">The Legend of Aroma</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pilot: "Fresh Air"</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="8.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Series</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A young sorceress named Aroma and her skunk sidekick, </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Gasberry</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, must defeat Rancid to save Mother Tongue and restore peace to their neck of the woods.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Episode</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A young sorceress named Aroma unleashes </Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">12/5/2025</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="298,298" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Aardvark</Character>
+      <Character>AarDVARKs</Character>
+      <Character>Acadia</Character>
+      <Character>AcADIA &amp; Cát</Character>
+      <Character>AcaDIA &amp; Mother Tongue
+</Character>
+      <Character>Amami Rabbits</Character>
+      <Character>ATV</Character>
+      <Character>CUC</Character>
+      <Character>Cát</Character>
+      <Character>Dino</Character>
+      <Character>Horseshoe Crabs</Character>
+      <Character>Host</Character>
+      <Character>Kooky</Character>
+      <Character>Officer</Character>
+      <Character>Phone</Character>
+      <Character>Producer</Character>
+      <Character>Researcher 1</Character>
+      <Character>Researcher 2</Character>
+      <Character>Mother Tongue</Character>
+      <Character>Kid</Character>
+      <Character>AROMA</Character>
+      <Character>Birds</Character>
+      <Character>Young Aroma</Character>
+      <Character>Mother Tongue &amp; Young Aroma</Character>
+      <Character>Village Bully</Character>
+      <Character>Village Bullies</Character>
+      <Character>Bitter Tastebud</Character>
+      <Character>Sweet Tastebuds</Character>
+      <Character>Pig</Character>
+      <Character>Umami Farmer</Character>
+      <Character>Umami Shopkeeper</Character>
+      <Character>PUNGENT</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Phone)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>LIVING ISLAND</Location>
+      <Location>HAIPHONG HOSPITAL</Location>
+      <Location>UNDERWATER</Location>
+      <Location>OCEAN</Location>
+      <Location>AcaDIA &amp; Mother Tongue
+'S ROOM IN HAIPHONG HOSPITAL</Location>
+      <Location>FOSSIL ISLAND</Location>
+      <Location>SEA</Location>
+      <Location>TALK SHOW SET, STAGE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LAB</Location>
+      <Location>CÚC PHUONG NATIONAL PARK, VIETNAM</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LIBRARY</Location>
+      <Location>CÚC PHUONG NATIONAL PARK DOCK</Location>
+      <Location>FOSSIL ISLAND BEACH</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION STAIRCASE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION PARKING LOT</Location>
+      <Location>HIGHWAY</Location>
+      <Location>FOSSIL ISLAND CLIFF</Location>
+      <Location>PORT NEWARK</Location>
+      <Location>EAST COAST</Location>
+      <Location>FOSSIL ISLAND BAY / EXT. UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LOBBY</Location>
+      <Location>FOSSIL ISLAND - BAY &amp; UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION - LAB</Location>
+      <Location>BANGOR RACEWAY</Location>
+      <Location>CONTAINER</Location>
+      <Location>CARGO SHIP - BRIDGE</Location>
+      <Location>CARGO SHIP</Location>
+      <Location>GREEN ROOM</Location>
+      <Location>FOSSIL ISLAND - UNDERWATER</Location>
+      <Location>NECK OF THE WOODS VILLAGE</Location>
+      <Location>NECK PALACE - AROMA'S ROOM</Location>
+      <Location>NECK PALACE</Location>
+      <Location>NECK OF THE WOODS VILLAGE - ENTRANCE</Location>
+      <Location>SOUR DISTRICT</Location>
+      <Location>BITTER DISTRICT</Location>
+      <Location>SALTY DISTRICT</Location>
+      <Location>SWEET SQUARE</Location>
+      <Location>UMAMI TOWN</Location>
+      <Location>ORAL PALACE - AROMA'S ROOM</Location>
+      <Location>ORAL PALACE - HALLWAY</Location>
+      <Location>ORAL PALACE - KITCHEN</Location>
+      <Location>ORAL PALACE GROUNDS</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>MINUTES LATER</TimeOfDay>
+      <TimeOfDay>HOURS LATER</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+      <Transition>Smash to:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="11/21/2025" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="625">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Aardvark"/>
+    <Member Actor="" Character="AarDVARKs"/>
+    <Member Actor="" Character="Acadia"/>
+    <Member Actor="" Character="AcADIA &amp; Cát"/>
+    <Member Actor="" Character="AcaDIA &amp; Mother Tongue&#xA;"/>
+    <Member Actor="" Character="Amami Rabbits"/>
+    <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="CUC"/>
+    <Member Actor="" Character="Cát"/>
+    <Member Actor="" Character="Dino"/>
+    <Member Actor="" Character="Horseshoe Crabs"/>
+    <Member Actor="" Character="Host"/>
+    <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Phone"/>
+    <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Researcher 1"/>
+    <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Mother Tongue"/>
+    <Member Actor="" Character="Kid"/>
+    <Member Actor="" Character="AROMA"/>
+    <Member Actor="" Character="Birds"/>
+    <Member Actor="" Character="Young Aroma"/>
+    <Member Actor="" Character="Mother Tongue &amp; Young Aroma"/>
+    <Member Actor="" Character="Village Bully"/>
+    <Member Actor="" Character="Village Bullies"/>
+    <Member Actor="" Character="Bitter Tastebud"/>
+    <Member Actor="" Character="Sweet Tastebuds"/>
+    <Member Actor="" Character="Pig"/>
+    <Member Actor="" Character="Umami Farmer"/>
+    <Member Actor="" Character="Umami Shopkeeper"/>
+    <Member Actor="" Character="PUNGENT"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="BIRDS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="BITTER TASTEBUD" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MOTHER TONGUE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MOTHER TONGUE &amp; YOUNG AROMA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PIG" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RANCID" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SWEET TASTEBUDS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="UMAMI FARMER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="UMAMI SHOPKEEPER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VILLAGE BULLIES" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VILLAGE BULLY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="YOUNG AROMA" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="Order" TableIdentifier="NavDynScenes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="100,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="c182cd4e-ef72-4f4c-b3ca-a866f235b80d" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="9f25c9a1-6c03-4a2d-a974-0d73c8d529c8" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab Selected="Yes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>

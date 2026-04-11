@@ -1,0 +1,2126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20260112T013214" id="3f58f972-c30a-47fb-a944-141e26a9aa85">
+    <XRef DateTime="20260112T013152" id="1654c1df-15f5-4316-9762-95ce55ad86e1"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Scene Heading" id="0680abd7-95c7-47f1-9ae5-691bd0e4ad12">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AVON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Stream - Morning</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="68724e02-b6a2-49a4-b585-3f6a056861e8">
+      <Text>A leaf floats downstream before settling at the muddy shore.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0e5cf0d0-67c7-4b31-b761-25072d344641">
+      <Text>We hear the warm voice of a young adult named </Text>
+      <Text Style="AllCaps">Avon</Text>
+      <Text> (20s, gender non-specific).</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e231ef4-cd48-453c-8725-b34d427f8164">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="24381214-f144-46e0-a6cb-e19096ab2f6a">
+      <Text>Hear that?</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="ae446f1a-8830-4b2c-b8a2-73c93a0256b2">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0680abd7-95c7-47f1-9ae5-691bd0e4ad12">
+      <SceneProperties Length="3" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AVON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LAINE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Nature Trail - Afternoon</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4edbfe87-ab17-4c51-89b2-390fd4c54a07">
+      <Text>A </Text>
+      <Text Style="AllCaps">soaked leaf</Text>
+      <Text> sits on the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66d3567e-327d-4e8a-b99e-08c1d796cd9d">
+      <Text>Without seeing their face, Avon picks up the leaf. They are , wearing a fishing shirt and convertible shorts, with their feet protected by hiking sandals. A brimmed hat sits low on their head.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66d3567e-327d-4e8a-b99e-08c1d796cd9d">
+      <Text>Another person named Laine (20s, gender non-specific and Southern) faces opposite of them. We also do not see much of Laine yet. They wear a denim jacket over an earthy shirt, with work boots beneath cuffed jeans.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66d3567e-327d-4e8a-b99e-08c1d796cd9d">
+      <Text>LAINE’S </Text>
+      <Text AdornmentStyle="-1">POV</Text>
+      <Text>: Avon obscures their face by holding up the leaf to Laine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="17c9a203-2d2b-4f69-9c8f-0279d50a7e1a">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="66413fa9-b877-4ec1-8908-4354f9893ed1">
+      <Text>Done seen it, now.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="559015da-749f-416e-849b-18e0d31dec25">
+      <Text>Avon pushes the leaf down, revealing Laine’s eyes, but still hiding Laine’s mouth and nose. Avon shakes their wet hand. Droplets fly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="41e4417d-6717-462d-8a93-b432884bd1f0">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="62f56a30-5050-47e1-957c-f30881ca44f6">
+      <Text>Feels...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ee78f37-f933-4c43-acf3-3e99115e16c5">
+      <Text>Avon</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f3b03434-aa89-4f30-8c26-b78f7816338b">
+      <Text>The feels.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b9c1ae34-3741-4d17-986d-65035aa9d797">
+      <Text>Avon holds Laine’s hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ff706068-5eae-49ee-abb4-2eb79f8c3d71">
+      <Text>Laine (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="93b0cea3-4e53-448a-8401-d2fe50f6c04f">
+      <Text>Reckon, I smell...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4beaaa38-1bdc-457c-bf7a-adbb9c3da99a">
+      <Text>Avon pushes the leaf away, revealing Laine’s face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="116aecfc-33ed-409d-a10f-1115be2f176c">
+      <Text>Avon</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="746040d4-9ae8-48fd-920e-51b6b2cb0acb">
+      <Text Style="Italic">Well least your lips still taste go</Text>
+      <Text>-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4e4aaa90-a9a0-461a-b8e2-4a55befb8993">
+      <Text>Avon is about to kiss Laine but Laine turns away. We still never see Avon’s face.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="af18c46b-1dc4-4f75-84c7-55c5a15e7e28">
+      <Text>We follow Laine’s physique, as it hides Avon’s.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="03afe04b-61c7-47d4-bdc1-ee69559be351">
+      <Text>Avon</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a1762099-8a43-44d7-8068-c6dff4e4ed09">
+      <Text>Life’s good not to walk it alone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="70336840-7e90-400f-9db4-b5b8a968d153">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ea62600c-d019-4846-a083-0df6171726ca">
+      <Text>With you and that phone of yours, we ain't never been alone...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ad0a232f-6068-48fc-978d-4c94c673af7e">
+      <Text>AvON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9f148b9d-9f15-48ce-8246-29b8c763edc3">
+      <Text>Love spreading our love, you know?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="791ddd0b-dd72-44bc-a765-80f8b8f5203f">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a00cfadd-f64e-49b0-94ce-1fd5b2d25f5a">
+      <Text>Sometimes I wish the whole wide world wasn't watching us all the time.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="26e2b49f-b4cb-4f8b-8fc5-1dbd321a2967">
+      <Text>Avon turns away even more, offended.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="422ad7b6-258d-49db-8661-29a866aa4dd7">
+      <Text>AVON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="22235a2f-7b92-403e-8233-4d327b756730">
+      <Text>Glad you’re taking a detour to visit my world for once.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9260f428-81e2-493c-82d7-9b2a13d762ad">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0853191d-0f53-46a7-a378-86635bb5556e">
+      <Text>It’s been a long </Text>
+      <Text AdornmentStyle="-1">long</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">longggg</Text>
+      <Text> time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0e88f05a-0b2f-44fc-9008-0d82171873e6">
+      <Text>AVON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9fa4eb1d-3316-48c6-982a-512fb9775080">
+      <Text>Graduate </Text>
+      <Text AdornmentStyle="-1">yetttt</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="983a5ca3-816a-41de-8ffc-adccacda94a3">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8e7907cd-adbb-4f85-9bf5-9507b205bdf7">
+      <Text AdornmentStyle="-1">Naw</Text>
+      <Text>. When I do, what's the point anyhow?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="30e6dee9-8ca2-43cb-8bee-fa9ec0b9f8b7">
+      <Text>Avon</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5b7cbf5c-f9d0-47d2-b054-c07a02da3401">
+      <Text>Umm... Money?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="50412516-eded-40cb-afa5-fd99314f086d">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8e1305c8-50f6-4830-b163-8553db29eb74">
+      <Text>Doesn’t matter when you’re dead.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="04e464c3-d901-4b0c-94ed-aa7fd5a2591d">
+      <Text>AVON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ddf0f9bd-9181-4f13-961e-2cdb50fda0ac">
+      <Text>I ain’t so sure about that...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="01f8a68a-d53b-4195-9015-9a1e1b5a4c9e">
+      <Text>Laine releases the leaf. The leaf slowly floats onto a muddy puddle with a slow-</Text>
+      <Text AdornmentStyle="-1">mo</Text>
+      <Text> </Text>
+      <Text Style="AllCaps">splash</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0509accc-2d9d-4be7-a7a6-5338b488bf09">
+      <Text>LaINE (o.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3bb890f-e515-4594-8a35-b05ecdad91df">
+      <Text>Ain't here to hear that kind of talk-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="34cec065-425b-47a3-98d3-564350e0f6a7">
+      <Text>A phone </Text>
+      <Text Style="AllCaps">rings</Text>
+      <Text> once with Laine’s intrusive ringtone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="222c0c4d-3287-4c53-9518-01a8abac4733">
+      <Text>AvON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4a291725-6978-403b-a9dd-dec1121f9e6c">
+      <Text>You gonna answer that?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f73991d5-e749-4675-b2cb-3a785f201d83">
+      <Text>Laine pulls their pockets out, showing a marker but no phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f73991d5-e749-4675-b2cb-3a785f201d83">
+      <Text>They hold out a photo of them together in a studio. Behind them is a banner: </Text>
+      <Text Style="AllCaps">River Talks</Text>
+      <Text>. Laine's finger blocks Avon’s face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dcc1ff1f-d70a-4e9e-b4ff-48d8328520af">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6d6af8ce-c6e2-405a-90fe-015e98cd5803">
+      <Text>There's your answer, now. You happy with it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ea18d006-879a-4b2a-85ff-99424ccc1d06">
+      <Text>AVON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0c558f77-4712-4930-af39-aedcf92a741b">
+      <Text>Didn't answer my question. Who called?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e58827f9-65f7-4002-9b6e-d87e4cc3557f">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9345487d-050d-4210-9759-8e24e2f90a3b">
+      <Text>My life. It wants me back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6161703c-6d00-45b6-8c66-059fa8ef3e8c">
+      <Text>AVON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3736bfe8-c99f-4a9e-a540-ed29baa40ced">
+      <Text>Everyone wants </Text>
+      <Text Style="Italic">our</Text>
+      <Text> life back. Hear me out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="45932ad3-455d-48c0-821a-80e9ac4f8e13">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0b43b91b-b989-4025-98ef-7c63a8444c8e">
+      <Text>No...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fa8cece2-7120-412f-be6b-ef3fc90a689d">
+      <Text>AvON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="211aaf16-cfd6-4b94-8b0d-ec9ec6a37bbd">
+      <Text>That’s the problem- </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2fd0c19c-c42f-4237-8d9e-f5cff320cb14">
+      <Text>LaiNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9feae855-d284-41e1-8a81-08372fb26145">
+      <Text>Please no-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="89bbc5fa-ef86-4f6b-b6f4-fe5e3b445f96">
+      <Text>AVON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4438ba0d-a14c-4ad2-8264-35ee7231488e">
+      <Text>Next season of </Text>
+      <Text Style="Italic">River Talks</Text>
+      <Text>-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a9663a94-4e3a-42c7-a1c3-0c0fa6a460b3">
+      <Text>LaiNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59a099ec-0b8f-406d-8ba9-61e8423d1e8f">
+      <Text>There won’t be a next season!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="127e8364-e87b-4ba3-803b-32468183c4e1">
+      <Text>Avon looks away, still never revealing much of their face. They step behind a dense cluster of leaves, disappearing without a sound.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fe18679b-bd5a-4af5-adf4-394bdd209988">
+      <Text>Laine turns sharply, tears welling, to face Avon’s makeshift memorial underneath an old tree by a river.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9a778e20-42db-4e2e-aea8-616056d46fe3">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a5eb62bf-bfa3-42de-a70a-ec3adefbb6dc">
+      <Text>Not when you’re...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2a5dd51e-9da5-4e65-910c-08bcf8243532">
+      <Text>Laine spins back around, but Avon is gone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ad08ffca-d540-4eaf-ac50-ed17e6c4f974">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="38f29c00-9a7b-4d9d-98f1-08943aa6455f">
+      <Text>Crazy- Laine. Knew I shouldn’t have come here. You’re not- Not ready.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7be7ffeb-69c0-4a2a-b576-077b4abac39c">
+      <Text>Laine drops the photo by the memorial.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ee0980ec-b721-44fc-ad96-65579c8a5bb0">
+      <Text>LainE (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3764f7d4-eb78-40f8-8bda-703af84b6143">
+      <Text>It’s over...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7be7ffeb-69c0-4a2a-b576-077b4abac39c">
+      <Text>A gust of wind suddenly </Text>
+      <Text Style="AllCaps">rushes</Text>
+      <Text> through the trees. A single leaf is carried by the wind and lands precisely on the photo, covering Avon’s face before we see it. </Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="06915d9b-04b5-40bf-8ff8-343984f79d15">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="e2639d3d-d729-41e4-8d6e-3554f20e31fc">
+      <SceneProperties Length="5/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LAINE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Nature Trail - MomentS LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="00ed1145-c18e-450a-b17a-8d2779dc9c6b">
+      <Text>A </Text>
+      <Text Style="AllCaps">muddy puddle</Text>
+      <Text> lies dormant on the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d5ef0d19-21c4-4d39-a299-24b13e42e258">
+      <Text>Laine walks past it, their pace quick and determined. They pass the leaf they dropped earlier.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a101b522-ef95-4729-9b61-f3fa55a0fc55">
+      <Text>The phone RINGS once, piercing the silence of the woods.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="00dd6b50-2f0f-4934-b9ef-a5f5df6c06cd">
+      <Text>Laine </Text>
+      <Text Style="AllCaps">stops</Text>
+      <Text>, then turns around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e6aace8-07bc-4a6a-a0f8-eed2a80903c2">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="02bddeb7-991f-4ffc-b519-b9af7bf22356">
+      <Text>It’s over!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="493b3737-815e-4104-9b65-ed9439698798">
+      <Text>Laine spins back around and continues walking away, faster this time.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f165d61f-0650-418e-9588-3b522ad01fdb">
+      <Text>The single leaf </Text>
+      <Text Style="AllCaps">skitters</Text>
+      <Text> to life, rolling behind Laine. The phone </Text>
+      <Text Style="AllCaps">rings</Text>
+      <Text> again and again as the leaf moves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="51848472-6e73-4fba-b8ff-29aede2a495c">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="90d9ada4-2d85-4a8b-a218-c8bc63f5b44b">
+      <Text>It’s not over!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cb692a49-30ba-4fd0-bd80-fba7e8c2f48b">
+      <Text>Laine turns, charging after the leaf. It flutters off and away, its ringtone a mocking sound.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="672dbdf4-59cc-4b0e-a2c1-9a200dc32c73">
+      <Text>Laine </Text>
+      <Text Style="AllCaps">trips</Text>
+      <Text> hard on a gnarled tree root and goes unconscious.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="675b83b9-3cdb-4a6b-a953-e5ed11442c3c">
+      <SceneProperties Length="3/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AVON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Laine’s Bedroom - Evening - FlASHBACK</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="85ca3a7f-e337-41c4-9ce6-d90be14f0d01">
+      <Text Style="AllCaps">Rain lashes </Text>
+      <Text>against the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="85ca3a7f-e337-41c4-9ce6-d90be14f0d01">
+      <Text>Laine lies on their bed with their phone in hand. On it are news alert of flash floods. The phone </Text>
+      <Text Style="AllCaps">rings</Text>
+      <Text>: </Text>
+      <Text Style="AllCaps">Avon</Text>
+      <Text> &lt;3. Laine stares at it, paralyzed. They listen to their voicemail.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="60c13635-9d2b-47c5-ae5c-1d449c81996a">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e6789a1c-6219-424c-84c8-03d0a8699f3f">
+      <Text>Avon to Laine... Just one last time at the river. Not the podcast finale. For </Text>
+      <Text Style="Italic">our</Text>
+      <Text> finale as a pod. Please don't leave...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="943fe42d-538a-413a-bc10-6a70ae48fb32">
+      <Text>Laine places the phone on their desk. The desk is full of pro-privacy books and artwork objecting to technology.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="c8e1a320-2c52-4b1f-9d6e-5d08e85aebe3">
+      <Text>Jump cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a926932e-1992-4547-b797-bfbb0db3b839">
+      <SceneProperties Length="2/8" Page="5" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Laine’s Bedroom - Night - MomenTS LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c1c4072-6c4c-454a-ad9c-23f159f3c898">
+      <Text>The phone on the desk reveals several missed calls. A message from Avon reads: “Thanks for being...” It is now an alarm.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6c907d98-ab2b-4e22-931c-9a7f33eca8c9">
+      <Text Style="AllCaps">Pre-lap</Text>
+      <Text>: The beeping of a phone alarm.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="5b7a024a-abb7-4611-adaf-d19fd3fe0ca6">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="9dd2dddb-cdeb-4019-b9f8-3b4deab65cf2">
+      <SceneProperties Length="6 2/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AVON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AVON &amp; LAINE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LAINE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Nature Nowhere - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4a527fd0-45eb-4bad-982e-71d25579bbdc">
+      <Text>The sound of the alarm is the only thing in the darkness. A single leaf lies dormant on the ground. We see Laine lie asleep nearby.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="43858c13-0aa6-44c2-a26c-7aa89cd43514">
+      <Text>Laine groans awake and taps the leaf, as if it were the phone screen, to shut off the alarm.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b91ed31a-16c0-4f50-8fe7-c8a10ede21ae">
+      <Text>Laine looks around at the unfamiliar, dense woods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a260a1a7-826d-4fb6-a2f6-e2dba4168152">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5ff21ce9-bcb1-4fad-bdcd-3ff8d5ecc145">
+      <Text>You wouldn’t happen to be a map too?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0ca9fff0-9046-4fe7-962f-9f0b2a881abe">
+      <Text>Another leaf tumbles from above and lands by their feet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="db553a79-a23e-4613-be73-ac090174670e">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="677adba0-f32f-4c12-950f-d78dc5976e36">
+      <Text>I won’t fall for this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9395ef76-bac6-47ff-b564-2c1e304d8839">
+      <Text>Laine goes between two trees to exit. Another leaf blocks their way. Laine tries to go around.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4c69958a-d89b-4459-a460-e440e230d470">
+      <Text>Laine tries to go around, but it latches onto their leg.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="118902b1-6b28-4789-8dbc-5b38ee7af214">
+      <Text>Laine falls, with a sharp breath in their leg. The surrounding woods seem to press in closer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8c84e0c8-91d7-4d7e-a24b-25c73c4a0654">
+      <Text>We hear the recorded audio of Avon and Laine’s podcast: RIVER TALKS.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="750bd701-8762-4e90-a01e-c92ef13eae93">
+      <Text>Avon &amp; Laine (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="56d42234-c5bf-4e5f-8fe3-0902c6ebd4d2">
+      <Text>Nature walks so rivers could talk. It’s the River Talks podcast!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3961b0c6-e32e-4148-a4bd-2275c24df46c">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fb0a15ff-312d-4108-8d96-6bce97e35d97">
+      <Text>It’s Avon!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="af45f14e-987e-4782-9f4f-696c5b2a138b">
+      <Text>Real-life Laine, miserable and in pain on the ground, occasionally repeats the podcast audio.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="c41d3912-93bb-4346-bbba-d2f5b05160c7">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="d81dab77-54c8-4357-a210-963f4f9d1217">
+          <Text>Laine (V.O.)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="f78c9edb-6aa3-4759-9770-40f61bb2fc7d">
+          <Text>I’m Laine!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="ebc73c12-0946-456d-9155-88c6bae0b748">
+          <Text>Laine</Text>
+        </Paragraph>
+        <Paragraph Type="Parenthetical" id="07d868db-ab59-4742-b8db-9e933f0bf032">
+          <Text>(Miserably)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="f0a9f1db-d416-4f1e-8b8f-7ad7a34b9bda">
+          <Text>And Laine...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ea0fae7-d371-49f6-a1d9-a558fd16d8ed">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5f4b9a61-0eb6-4960-96c0-82a083d509a8">
+      <Text>On our first episode, we wanted to-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="309e350f-bff0-4280-bb9c-8588ef18d86f">
+      <Text>LaINE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="70b8fd77-da4a-4b7d-9be5-380d7f0781f8">
+      <Text>Take a hike!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b297af72-e79b-402d-8435-5789677d90e2">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2cbe4bc9-ee41-4d16-9f0b-8e746215bd5b">
+      <Text>But sike! Didn’t happen cause...</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="2f764d95-0943-422f-88be-4d55b1ef8124">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="de95cae2-18a8-44fa-b016-761eb3a2311c">
+          <Text>LaINE (V.O.)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="0908d988-07b0-473e-b77b-c40f2efe6e30">
+          <Text>I sprained my leg.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="a4a32845-a230-41e8-9b7c-cc1ddc267721">
+          <Text>LaINE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="e74b55de-6907-4c80-bbfd-11bebdee7baf">
+          <Text>I didn’t wanna...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="3cf4294a-37c6-4410-a072-254054af1a94">
+      <Text>LaINE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c44d8907-05d2-4582-aaef-4b4e87a9e49a">
+      <Text>No nature hike...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5a668ab6-6db7-42af-8a3f-efcb2a3d33e0">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7c7fc299-6a8e-4490-9f24-55b37f15361d">
+      <Text>But a nature walk will do!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="89fb59af-b82e-4f33-8bb7-6a76eb03f288">
+      <Text>LAINE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ecc0c46b-b54a-463c-a9d5-3083492f9d85">
+      <Text>Nature walks so...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bc065a99-9cba-4785-81bf-d42b089aad2e">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="91257d45-a042-4137-92b6-79623bbcfd01">
+      <Text Style="Italic">River Talks</Text>
+      <Text> now streaming on... Laine, what are we streaming on?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="73ebd9b8-14e9-4e15-b439-0c7bf960d87b">
+      <Text>LaINE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a20fd62a-75e7-4254-beb9-9eca4f81857e">
+      <Text>Nothing yet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bf32405a-f506-4051-a744-89462840e3a9">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5eef81f7-3146-49fb-ae38-92d0961bd3db">
+      <Text>Nothing yet!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f4567265-d23c-4c6c-87a2-eb7267c94001">
+      <Text>LaiNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b6bab148-6db6-4975-ab21-b5acb01c3e26">
+      <Text>Now streaming on </Text>
+      <Text AdornmentStyle="-1">Leafify</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1efe5c7e-0b3e-45a8-a681-011ff57a5790">
+      <Text>Laine pushes themselves up, wincing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="be6e1e02-78a2-4750-ba32-c3e83b7cf0c9">
+      <Text>Laine (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e2bab0f0-6ca9-4a2c-b848-793d0526b023">
+      <Text>Avon, we need to decide on a streaming service.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a6820621-3639-43d2-846b-b53985e19c57">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fd3ddbb1-6479-4a1e-bf74-d2af3bb0bd38">
+      <Text>Let’s get in the river together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="196c1fcd-a536-4270-bf87-12af9bfb2b62">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="55e8a308-dbcb-4191-8ae7-7049f9f78432">
+      <Text>Oh... That’s been your issue this whole time. Wait- Why you pausing?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="721f815e-89f1-41f6-b37f-25da818a8326">
+      <Text>Another leaf lands by their side. This one is more ominous.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="63d365a8-46ef-4903-8ce8-8bfb4b468b33">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5b675602-f742-46b4-91d0-18aef0a798b4">
+      <Text>Laine... Speak into the mic. The recording would sound better.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="214a799e-041c-4546-b6c4-7a8d9143c54a">
+      <Text>Laine now sees this new leaf as a threat. They warily pick it up and hold it like a microphone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="489d5bb6-d7b2-46ce-8d5b-8cb1aef79c7f">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8369e0af-51bc-4866-b36b-eec4a09089b6">
+      <Text>Bless your heart. You're just </Text>
+      <Text AdornmentStyle="-1">copyin</Text>
+      <Text>' </Text>
+      <Text AdornmentStyle="-1">SubwayTakes</Text>
+      <Text> and you know it good and well.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ab20b1f9-3a22-4c30-89b5-8978eb755c68">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="57ba028c-921d-442b-b52c-61d69072b2e9">
+      <Text>So this will absolutely take off!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3980758f-fd78-4613-916c-d68191aef4a4">
+      <Text>The forest falls into a deafening silence</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0308346c-08ae-4b17-aedf-ee99b0ff3c1a">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a2ff40e5-504f-45c9-a4cf-523338e9f7d3">
+      <Text>Hello, Laine. Now, where were we?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="63fc32d6-6984-45cc-a0c2-644c42a51170">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6c47861d-9310-4463-b035-4fcd5ac6696b">
+      <Text>No, where am I?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="81565e17-20ca-472e-9754-f90120e32871">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b67dcbdb-2b8a-4fc8-8cb2-8729cf86c42d">
+      <Text>To put it simply, for how much nature walks, they need lots of food and energy. So nature eats too-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b71f1291-6346-4a45-b08a-ecd5846e499c">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fc14ba9b-b4f2-4cfa-92c3-5916ac0c5571">
+      <Text>Did Mother Nature just up and eat me raw?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b74224e1-2828-428b-bb4d-ed4db7ea3248">
+      <Text>Avon snaps their fingers. </Text>
+      <Text Style="AllCaps">Snap. Snap.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="02bbe4ea-a323-4911-9cf7-756685969f5b">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e6f545b8-a13d-45fe-9fc4-5ba36e2eb1da">
+      <Text AdornmentStyle="-1" Style="AllCaps">Sheeee</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">ateeeeee</Text>
+      <Text>! But she ain’t content.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="03f1d19a-1539-459e-802a-710fac194b2c">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1779093b-f597-44a6-b81c-a9fa7f0a1914">
+      <Text>I don’t give a rat’s as-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f20fd4f8-74bb-4f50-8c8d-8d8e4e991835">
+      <Text>The leaf in Laine's hand </Text>
+      <Text Style="AllCaps">twists</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">slaps</Text>
+      <Text> Laine across the face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c837d9e7-b710-4274-b756-c4bff3691646">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e40aabce-5771-4d91-8ce2-9c0b9d9b616f">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">FCC</Text>
+      <Text> doesn’t allow curses-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e334ce64-c4e6-435a-bfc9-ff25193b1e67">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c31a39dd-e50a-4a0f-9b64-5d5eedb4e222">
+      <Text Style="Italic">River Talks</Text>
+      <Text> is not broadcasted-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="90068a8f-d40b-4270-9c7f-7717ae70ea2a">
+      <Text>The leaf </Text>
+      <Text Style="AllCaps">slaps</Text>
+      <Text> Laine again, harder this time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0da9042f-ec82-4123-8349-e31fbb571fd7">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4f28c323-bd0c-4bd1-9a32-725dafc786a7">
+      <Text>Can - the - </Text>
+      <Text AdornmentStyle="-1">FCC</Text>
+      <Text> ban whatever curses you brought upon these leaves?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="648551d5-ff9c-46da-9aa8-86634390b021">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="66eb0512-7928-4a63-aa6f-a2fd01308f03">
+      <Text>The leaves are not the curses. It’s your actions of leaving that cursed me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b415951b-11b7-4efe-89da-f6a9fc7d1581">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6034b61a-a748-40ae-bb7e-1d95d92e3b6d">
+      <Text>Lord have mercy, I can't hardly believe you right now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="85e275ae-e4c1-4098-b553-db4ae2012439">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c1766f5e-5e31-4181-9a7b-902611842308">
+      <Text>You stopped believing in us!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5aa639eb-c459-48d0-92fa-f0982c3088d2">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5dec8a06-3eb9-4f0f-a724-9ef2901b75af">
+      <Text>The podcast is wishy-washy-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7ee79cd5-e072-4fec-b3a7-d6831fff6333">
+      <Text>AvoN (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cbfbdfdb-d347-4f8b-bc14-27ee4ef60dba">
+      <Text>Not the podcast- We were whatever those </Text>
+      <Text AdornmentStyle="-1">uncs</Text>
+      <Text> say: peas in a pod.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="37649334-daed-4701-a49f-4ea2a7b48131">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="593f2ef4-b82a-4add-8a22-ecf62fbf7fd7">
+      <Text>Piss off. Go on now. As a pea, we was meant for a closed pod, plain and simple. But you just had to air it out for the whole wide world to see with that phone and all that recording and-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9d44fd3d-dd39-485c-8fa1-b35edbfa998c">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="04fefd0c-2cad-4466-b88f-50fd27cf48ad">
+      <Text>Believe it or not, you’re not leaving until you believe my leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="775495b5-9a33-4448-8c24-9b46e82106d5">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e3b3b217-635b-4ab3-828b-eefade87ec04">
+      <Text>I’m leaving that word behind.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b132af76-2279-43d6-b05c-0dbdb7cf81e9">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4cb408be-3a11-4bea-a8ba-185e113a83b0">
+      <Text>You’re leaving the world?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="22a5c09d-7038-4db1-a0c4-c283775ceb1e">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c6a10e13-8250-49a9-b4fe-7317d151a33e">
+      <Text>No, the word “leave”-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0646c39e-e602-483e-84e9-49be0661ef6b">
+      <Text>Laine tries to force a path between the trees. A leaf </Text>
+      <Text Style="AllCaps">thuds</Text>
+      <Text> onto the ground directly in their path, stopping them cold.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f99273a-eede-4e6c-a478-e7fd140ef4ec">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="72373356-f068-4f32-8ad4-1420167c8beb">
+      <Text>Oh my God.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1a302874-8817-4292-ade0-803dfc7b8cca">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5a597ef2-d614-48dc-8a1c-bc871b33704d">
+      <Text>I’d love to introduce you to them. Did you know they have six fingers, so no single middle finger...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ba0f27ba-3182-48ae-9c2f-f47da217fd8a">
+      <Text>Laine holds their middle fingers at the leaf. Their skin is noticeably a mosaic of dried leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4da621cc-8a0f-4dbd-ba5c-caf695daff16">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b6bc8673-c6fc-4687-86d2-8ede3eedede7">
+      <Text>My favorite finger of yours.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f37920eb-af27-4b09-8a8e-019c8fe23260">
+      <Text>As Laine shifts their weight, it sounds like crinkling paper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f14e5937-af0e-4d5b-b979-876cdb4bb131">
+      <Text>LainE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e832292f-5e6e-4c41-be16-ef24272f26b6">
+      <Text>I... can’t... hardly... stay... put... here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="154ec1cc-a364-4007-b775-56c8d790f70c">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d3ba5aeb-43a8-4c57-a940-a2908727295c">
+      <Text>You always wanted to be still. To just... be.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a445477f-1868-4ce7-bfe2-aa3fd20348bd">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4d56cc5-a07c-498f-8a55-8a877763cfef">
+      <Text>Not like this here! I’m cold.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b6c9c2d9-461e-4b9f-bf7f-b32fbde6c82b">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f3c7c16d-f049-4ca5-a3dc-97262d61f9f4">
+      <Text>That’s just the silence setting in. If you don't talk, if you don't walk, you’ll just be another leaf on the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0228bb31-5b5f-470d-90b8-577dbfa5523c">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca94d791-3387-43d0-85a7-5b7d4641dd99">
+      <Text>You’re twisted!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b28ab01e-440e-46b0-8b45-6ea803e057c6">
+      <Text>AvON (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4a29d9c0-28dd-49f6-a53a-c1b5e409c417">
+      <Text>Twisted leaves are just healthy leaves with lots of stress. Like you right now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="858c15d4-3e8d-4529-9daa-f950c8f13c80">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bf6dace6-047a-4a96-ab43-a32588687887">
+      <Text>I might could burn you all up once I learn how to make me a fire!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9da3d6d9-a1a6-4eb0-8415-08c186fc74fc">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bbfdbdbc-95b0-46ae-b3fe-7f3613f33c7c">
+      <Text>Stop running away. Walk it out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ba6806cd-66b8-4bf7-ab4e-49b1babc7db3">
+      <Text>Laine tries to run. Every time their foot hits the dirt, a dry </Text>
+      <Text Style="AllCaps">crunch</Text>
+      <Text> echoes like a gunshot.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5fbee205-1b01-4e88-b54a-9a3243b2ff28">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b6d534ac-0c5a-4869-ad8d-60f1f269e9e6">
+      <Text>And here we see an avoidant in their natural habitat. Notice the frantic pace. The way they refuse to appreciate the scenery.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fdc55132-d632-4a52-a334-3d85771f7288">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2f47766d-b21a-494e-ad46-ed2d839efbb9">
+      <Text>Hush up now! Just shut up!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d39510e1-4dc7-4c3e-9b71-1b1ab18ba7f0">
+      <Text>Laine tries to sprint, but their legs feel like damp wood.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="26766b8c-2b0b-47cb-9ebd-fb96a8c0a731">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4f9148eb-1d14-428c-8f01-b6fd5eff2d2d">
+      <Text>I’ll give you a leg up...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5169eb9-d46a-4d42-816a-a140f9d14309">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="19d11586-cb6a-40dc-937f-2b91d83a28f6">
+      <Text>Is this here what you was </Text>
+      <Text AdornmentStyle="-1">fixin</Text>
+      <Text>' to happen? To end up like you done?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2bd9ee71-85aa-4068-9f46-3e6e34f0981c">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f75bcaaf-0653-45ee-a1bb-90cb30b178c1">
+      <Text>To go stream with me!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f07325ee-1ab1-495e-be88-5c2497d8397b">
+      <Text>Laine looks around, trying to think logically. They spot a distinct tree further away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4cc22c0-ca91-42a2-8787-a842fe5bf231">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c4aa3413-e188-4169-aba3-4a28fe4ad956">
+      <Text>Alright now... Got myself a landmark. I reckon I ain't stupid.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ea28ff3f-a127-41e6-a33c-41c58898cdff">
+      <Text>Laine points to the tree and begins walking deliberately, eyes fixed on their goal. They walk for minutes. The determined look on their face slowly melts into confusion, then dawning horror.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2b6f104f-50f7-4fcc-b5ca-b6570f06e0cd">
+      <Text>Laine stops. They look around, recognizing the spot where they fell moments ago. The kick-out leaf is still there. They've walked in a complete circle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b0eb3b48-d764-4850-a10b-af0ca3941749">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c9ceb7f1-4f01-4c49-b93c-0edb7fbc1470">
+      <Text>Naw. No, no, no...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="50c6ae4f-d852-4eea-a190-64f0a56fd72d">
+      <Text>They spin around to look at the path they just came from.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3340ba9c-f561-4a67-a1ed-0d8c9b6dfdd3">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a11d6f87-c70f-41fd-a01e-372382726449">
+      <Text>You can't outwalk your own shadow, Laine. Or your past, for that matter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="94608bf4-9927-470e-83f4-08f88adab95f">
+      <Text>Laine drops to their knees in despair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="94fb3ebb-5a58-4151-ac69-3d686a3e13ae">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b44f5a29-de93-452d-b391-c6a6edae8afb">
+      <Text>I need you to listen. You’re so busy letting me get under your skin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="69889323-3adb-4401-a91a-0f45a60731a3">
+      <Text>Laine looks at their muddy hands in disgust.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f434014a-efe6-4cb8-bb6b-3eac0bc79257">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="70337a99-5d64-4f01-a2a6-c7ad836c944b">
+      <Text>Fine. I'll go under.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0ddeb5fb-5eb6-4a34-bb30-2f81303a1509">
+      <Text>They pick up a stone and furiously dig into the Earth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ac934e15-b449-4ed1-8723-ad1968b695c2">
+      <Text>Laine struggles as their hands sink deeper into the mud. As their fingers graze the stone, a </Text>
+      <Text Style="AllCaps">snap</Text>
+      <Text> echoes. Laine’s pinky finger has broken off like a dead twig, fluttering to the ground without a drop of blood.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="043cb730-d705-4ba8-a376-e32c881dcd4f">
+      <Text>Laine screams, but it comes out like the rustle of branches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="857d8bc7-c4ca-4af4-a1a8-9874c347f5e3">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="45ddffbd-015f-4faa-b306-77f6c09d21e6">
+      <Text>And that’s why we never skip the stretches!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e4a940d8-bbbb-457a-ae29-98cfb76aef24">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f20a8b7a-47cc-459a-b635-23742f396ec1">
+      <Text>Give it on back! Give me my own hand back, dangit!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1cf68653-71e3-4e76-a667-3423b3824538">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c894178b-3458-4552-8b1f-9f3790251bea">
+      <Text>I wish you gave me a hand last we talked...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9815d100-c9b7-481e-b14e-c3e7fe4f4dcc">
+      <Text>As quickly as Laine dug it, the hole spontaneously fills itself in with more leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7b437856-4523-4c85-83d9-388a3c6b5a8b">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="66b27333-efc6-4520-b062-430b51ed0367">
+      <Text>Trying to bury the past again? Doesn't work in the real world, definitely doesn't work here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="940b2269-7562-4b57-a43e-9b1c116aae0a">
+      <Text>We see the rock in Laine’s hand, covered in mud.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="8d1763a9-1473-4caa-8b6d-30013b944bb1">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a926932e-1992-4547-b797-bfbb0db3b839">
+      <SceneProperties Length="2/8" Page="11" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Laine’s Bedroom - Night - MomenTS LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c1c4072-6c4c-454a-ad9c-23f159f3c898">
+      <Text>In Laine’s hand, the phone is illuminated by a news alert: “Drowning Reported in Local Stream.” The date matches the previous flashback.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="9bb4d08b-be58-4d7f-b47d-8837a02c77b2">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c34a3eab-e01d-4c8c-86f8-97a0674ae08f">
+      <SceneProperties Length="3 6/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AVON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AVON &amp; LAINE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LAINE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. NaTURE NOWHERE - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c258fcc2-aa11-4aa7-a8bb-2cc374ee33ed">
+      <Text>We see the rock in Laine’s hand again. Laine flings the rock away in a fit of pure rage.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c2af21cd-ec39-410f-acdb-a3c33f066ebd">
+      <Text>Laine, covered in mud and feeling their body change, reaches a breaking point. They look up at the dark sky and scream.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2e5da016-9629-49bd-822b-cd63ecaa13f8">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="78ee48d0-9710-443d-baf3-cf667db7ff0d">
+      <Text>HELP! IS ANYONE OUT THERE? HELP ME!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="26ae7a3d-9700-4641-bcea-5f52f6b6c8f0">
+      <Text>Laine turns and runs, shouting into the darkness, a frantic energy possessing them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="26c117fc-157f-461e-9020-93cf2848cb48">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fceb192d-1654-4d69-bb07-e69ba86ff00c">
+      <Text>Somebody! Anybody at all!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4e4fdf81-5d34-456f-897e-9f64a3d452d9">
+      <Text>Suddenly, a powerful, unnatural </Text>
+      <Text Style="AllCaps">fust</Text>
+      <Text> of wind rushes through the trees, a deafening </Text>
+      <Text Style="AllCaps">roar</Text>
+      <Text> that drowns out Laine's cries. Amidst the roaring wind, familiar snippets of the “River Talks” podcast voiceover </Text>
+      <Text Style="AllCaps">echo</Text>
+      <Text> from every direction.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0aa9878e-4477-4bb1-b055-a7f483738db8">
+      <Text>Avon &amp; Laine (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="598637ae-edf9-400e-81eb-55f02c077b03">
+      <Text>Nature walks so rivers could talk. </Text>
+      <Text Style="Italic">River Talks</Text>
+      <Text> is now streaming!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e4a5a3bf-3278-4220-aae2-dd59a54481eb">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ff85fa2b-52c5-4d10-abc4-428cf7c3400b">
+      <Text>Avon, we need to decide on a streaming service...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="df232c42-f5a6-428e-9f05-e8d8d7310432">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ed152839-69e6-4d5d-8923-b75c3b802cb4">
+      <Text>(Screaming over the wind)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3635c037-ad87-4bb4-9b64-bd765ff9f92a">
+      <Text>Shut up!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3d15ddd0-371e-4a3e-bce6-0b8e9ba23ba9">
+      <Text>The wind stops abruptly the moment Laine stops running and screaming. An eerie silence falls again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="304e09a4-3f96-4e88-ae79-4bca94ae0df6">
+      <Text>Laine stares at the leaf, the "River Talks" logo now faintly etched into its surface in dew.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fbbc3183-9d3c-4b9d-b117-b7df0c8a649d">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5beb7b43-4f6a-44bd-8e3d-8cd03fce06ee">
+      <Text>We can't get any good ‘content’ with this audio. Use the mic.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="318ddb41-4e78-439a-bc32-3982f01b2b2f">
+      <Text>Laine stands defeated, staring at another leaf that just landed nearby. They warily pick it up, holding it like a mic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e4369740-9475-4ac4-8d19-695280c8893a">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cdf7ac13-d236-41e9-ab4b-1ba8bd855280">
+      <Text>No more content Laine. I’ll kill ya dead. I’ll find wherever your voice of yours is coming from and I’ll—</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8e2c788d-8a76-45ac-bac3-4a2c90735061">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="08d4fc5a-9805-4e51-8fc8-1b4565e4b5f1">
+      <Text>And here we have a classic “Laine Defense Mechanism.” When things get real, we get violent. We push. We break. We cancel our Netflix subscription-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fd7f9c7a-e0f7-4f42-82e8-a267246142c6">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4a0159b5-e12b-4e45-b502-cd799b24d05d">
+      <Text>(Sobbing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fb9782ab-d63b-4d92-acd8-d0b9a8db8efc">
+      <Text>I didn’t want to break! I just wanted to breathe!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aed46a6a-0c78-4a21-af2b-484b0168c972">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="24d0a317-538f-4e13-9fbe-72d8161c4f07">
+      <Text>You can’t breathe if you’re always holding your breath, waiting for the other shoe to drop. Or in this case... the other leaf.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="85511374-4580-4eb5-9358-8dbfc3eea8cd">
+      <Text>Laine falls to their knees. Clawing at the dirt, their hands are now sickly yellow and brown. Their skin itches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93f69b75-3be7-4098-977e-cabbb0600fba">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fdeb9ade-2b0f-4855-b548-702784a64ee4">
+      <Text>I sent flowers to your funeral!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6cd08e79-2ed9-478b-95fb-6d15371739e7">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db5ce0f5-7a2a-40d4-bc84-9f2a4c8340ed">
+      <Text>Flowers die in three days, Laine. Then they join the landfill. Leaves? Leaves turn into the earth. They stay. You never liked staying.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1f6f64de-b682-4774-919b-909093ff04ab">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b69235a7-9c16-4b35-ab0d-76f82eff8a98">
+      <Text>Because staying put just means </Text>
+      <Text AdornmentStyle="-1">waitin</Text>
+      <Text>’ on the end! I up and left so I wouldn’t have to sit here and watch you leave me behind!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2e146ff8-7eb5-4051-9d8c-5f4f27d310eb">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a9cee8fa-ebb5-4c34-9f76-ae9d94a85df3">
+      <Text>But you’re still watching me. Every time you close your eyes. Every time your phone rings. You’re just listening to a dead air and calling it peace.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="03dbdd93-9e4b-4ec1-b800-2b5b8fc90f19">
+      <Text>Laine stands, face contorted. They grab a low-hanging branch and shakes it violently. Leaves rain down like shrapnel.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="592a3040-d619-4f98-a7b3-348bb29df6b7">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="485213c9-9326-47e3-b16e-84046d7ddda5">
+      <Text>You want yourself a finale? You want “content?” Here you go!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fbbd3ea6-89c2-439f-b7b5-6f93e0265b5d">
+      <Text>Laine stomps on the fallen leaves. CRUNCH. CRUNCH. CRUNCH.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="411df727-8fd4-45fe-a407-30480d89fd11">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1dd38224-18f6-4cfb-a727-cf1eca8522cc">
+      <Text>“Welcome on back to River Talks! Today’s episode: How to stomp out someone who won't let you move on!”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="81a7097e-21e4-44c4-8cb2-4128f6acf0c8">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1fa472eb-90a4-4b47-b2ca-1af1b2ad7764">
+      <Text>Careful!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a8e0ad71-a974-460e-b839-6c0be47cc845">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4077c212-f4cf-425d-a222-b7c559f911e7">
+      <Text>Am I a-</Text>
+      <Text AdornmentStyle="-1">slayin</Text>
+      <Text>’ or what?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="39cf27d8-f96e-4829-ae38-85f87cc88d17">
+      <Text>AvON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9749a055-836f-481f-83ca-95eaeb05bbc6">
+      <Text>You’re— crushing— it—</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="daa375d4-b093-4d50-a3d2-a45d07cc1b85">
+      <Text>Laine kicks the piles of leaves, sweeping their legs back and forth, trying to clear a path of bare dirt.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e452f07-2784-4ea4-90e0-8b07a2effc81">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f4e0754e-b2dc-41d0-8753-001f9808dabf">
+      <Text>I hate these woods! I hate this fool podcast! I hate that you done left me with nothin’ but a voicemail I can't ever delete!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="20f8d99d-0687-4023-9f81-14b2b49c39d5">
+      <Text>Laine delivers a final massive kick to the green-brown pile.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e7db9724-89de-4a19-904c-eadf8ef40e8c">
+      <Text>The leaves hover in the air. They hum like Avon’s hums.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="13582be5-c8eb-4605-acfc-bb1a273eee89">
+      <Text>The leaves land to arrange themselves into a waveform, a visual representation of the human voice.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="365dffec-d170-4ffa-a0b6-1639d2642942">
+      <Text>Laine stops. Their chest heaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e9e7f3b2-9ac6-42d6-a135-971d9d5ad092">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="6dfaec79-f77d-45f4-bfa2-03b15478b3a6">
+      <Text>(Distorted, low battery)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d2ef2f6d-9f91-4bcf-94ca-eb1d238fdc6d">
+      <Text>I just- wanted- you to- be heard...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="681d4890-2daa-4997-bb7f-84f8b661790d">
+      <Text>One leaf displays a </Text>
+      <Text Style="AllCaps">pause</Text>
+      <Text> button then... The waveform straightens into a flatline on a heart monitor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e37c1f59-50f0-4707-81a2-8f1240af6a6f">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cdbf62d0-078a-445a-aa44-cc8ab47a4059">
+      <Text>Heard. Don’t you go doin’ that now. Don’t you go all quiet on me. That's my move, remember?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e4055b1e-f913-4578-880e-0d828968dda3">
+      <Text>Laine drops to their knees, fumbling to piece the shriveled leaves into a pulse.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0b783516-0b51-4de0-824c-af597296daf2">
+      <Text>LAINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="48098f4d-a3b3-4339-8971-4db4b519472d">
+      <Text>I wasn't ready to be “River Talks.” I just wanted us to be “Us.” But "Us" is done gone, and all I have left is these foolish recordings of a life we didn't get to finish.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a5cbaff0-631c-487e-91b8-734b50eae87e">
+      <Text>Laine pieces the leaves into a regular heartbeat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="23ac0d24-4ed3-411a-8359-70edd3803f1f">
+      <Text AdornmentStyle="-1" Style="AllCaps">Badum</Text>
+      <Text Style="AllCaps">. </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Badum</Text>
+      <Text Style="AllCaps">. </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Badum</Text>
+      <Text Style="AllCaps">.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b351c5b0-f155-4cfd-b51f-57b1b531dce8">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4b1a6fd8-c2fe-4b54-abeb-fa54d2f6039d">
+      <Text>Wanna finish a finale episode?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="463ccfa9-5ebc-487c-bd69-af320db6b045">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="0d56533f-bfff-48a8-ac99-73427f7b5348">
+      <Text>(A tearful laugh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="698b7ccd-df9c-4f23-a445-ab0a2d1eed0e">
+      <Text>What title ya </Text>
+      <Text AdornmentStyle="-1">fixin</Text>
+      <Text>’?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7fbb69e8-f2b2-4cee-9eb0-40571d3bc88f">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="932d2401-c9a1-48c0-a9d2-afcee4e5a19b">
+      <Text>“Nature Walks So Current Comes and Goes.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="255d1922-eda8-4ada-b218-6495e0bee2fe">
+      <Text>Avon (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c0296b94-e7e6-4735-be6f-253ddb784cf7">
+      <Text>Now... tell our listeners where we’re walking to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="046f9f73-d802-46e5-af01-32aac412502f">
+      <Text>Laine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5512090d-b127-415c-a922-9aa419f1e316">
+      <Text>We’re walking... to the confluence.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9d620ec6-0ca8-45a2-9ad0-432e89c76541">
+      <Text>AvON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0896e83c-7d00-4031-9b3a-5d2e7ede7695">
+      <Text>Confused... Explain to our audience what a “confluence” is.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9926a669-b09c-41ca-aed6-bd45258fb2c0">
+      <Text>LaINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4399bd74-11a4-44a3-a7f8-850b9cb28f58">
+      <Text>Where two streams meet up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c27edc2-414b-4c14-b56d-a7dbba31d52f">
+      <Text>Avon &amp; Laine (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6023fd04-d1b7-4de3-bdcf-ae8eab4c6f16">
+      <Text>Nature walks so rivers could talk. </Text>
+      <Text Style="Italic">River Talks</Text>
+      <Text> is now streaming!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e3b3f524-9509-4f17-9d63-23b129a3f09a">
+      <Text>Laine looks down into the stream. They see the leaf that settled at the shore in the first scene.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5b62355b-f269-408c-8e42-5f8811c36b0d">
+      <Text>Laine picks up the leaf. They pull out their marker and write: “Not now. Next time?”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0cb25cb2-5122-4f8f-b2d8-139d59e012ca">
+      <Text>AVON (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5fb3591c-7aa7-48dd-8d11-8a156b46efd1">
+      <Text>Thanks for finally responding and not ghosting me. </Text>
+      <Text Style="Italic">Now look.</Text>
+      <Text> Well, you can’t cause I’m an invisible ghost~</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0cae6ea5-7d1c-4edb-a838-535749e64c71">
+      <Text>Laine rolls their eyes, amusingly.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="033e7e1a-efe5-4180-b482-8489e3922796">
+      <SceneProperties Length="4/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AVON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LAINE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Nature Bridge - MorNING</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7e75e15c-0a8c-4730-93cd-c71e2fc96f1a">
+      <Text>The woods no longer are nowhere. The sun rises, revealing Laine by Avon’s memorial. Laine is facing the stream, now looking human again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="66abe0cd-bcd6-470b-a10f-d0485a38825a">
+      <Text>AVON (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cc5ee425-ad22-49d4-8fbf-99bfbfc6364d">
+      <Text>Please don’t leave...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="46f29be3-c195-4b79-81cb-c3577bfe265e">
+      <Text>Avon steals away Laine’s leaf from behind. They hold it like a mic. Laine turns to finally see Avon’s full face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="379a0fdd-e040-4310-b83c-5e74bb83ea62">
+      <Text>AVON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f26056df-1bf5-41c2-a93c-b6f002902162">
+      <Text>...me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="169666f3-cb6d-4bf6-9ba5-20478959edd5">
+      <Text>Laine kisses Avon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c3b7ecd9-fb8f-4012-9ac2-7a838bb6507d">
+      <Text>LainE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8f62f456-3610-457b-bbb9-42b90cc96148">
+      <Text>Puns.</Text>
+      <Text Style="Italic"> Leave</Text>
+      <Text>. Comes natural to you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ef7a1e6f-ce13-40e9-883a-4dd18f3a1b0c">
+      <Text>Laine releases the leaf into the stream where it floats away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1427e2fa-3988-4110-a09f-3a20ae14e81f">
+      <Text>Avon fades away behind Laine.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a926932e-1992-4547-b797-bfbb0db3b839">
+      <SceneProperties Length="2/8" Page="16" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Laine’s Bedroom - Morning - Flashback</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1427e2fa-3988-4110-a09f-3a20ae14e81f">
+      <Text>Laine finally picks up the phone. In their hand, the phone reveals Avon’s text: “Thanks for being my voice.”</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="1bf83892-0ee3-499a-bcff-759843fa6ab4">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="033e7e1a-efe5-4180-b482-8489e3922796">
+      <SceneProperties Length="2/8" Page="16" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Nature Bridge - ContINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ec46e704-1859-4a1c-8d18-55e77bea0a97">
+      <Text>We see Laine’s empty hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1427e2fa-3988-4110-a09f-3a20ae14e81f">
+      <Text>Laine takes a deep breath and returns to the nature trail.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="36de373f-1f8a-45a8-925b-8851e00c1d3d">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End of Act" id="1d686bb2-d1c8-465d-b94b-e6b312d4c003">
+      <Text Style="Underline+AllCaps">The End</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Nature Walks</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	         </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="788" Left="2" Mode="Maximized" Top="2" Width="1160"/>
+
+  <TextState Scaling="100" Selection="648,648" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Nature Walks</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">12/12/2025</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Logline</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A grieving college student is trapped on a surreal nature walk and must connect with their late partner's guiding voice or turn into lifeless leaves.</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="301,301" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Avon</Character>
+      <Character>LAINE</Character>
+      <Character>Avon &amp; Laine</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>PADDY FIELDS IN VIETNAM - DAY</Location>
+      <Location>NATURE TRAIL</Location>
+      <Location>Avon</Location>
+      <Location>STREAM</Location>
+      <Location>NATURE NOWHERE</Location>
+      <Location>LAINE'S BEDROOM - NIGHT</Location>
+      <Location>NATURE BRIDGE</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>FLASHBACK</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="12/12/25" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Avon"/>
+    <Member Actor="" Character="LAINE"/>
+    <Member Actor="" Character="Avon &amp; Laine"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="AVON" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="AVON &amp; LAINE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LAINE" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="18327180-d074-4c9d-b116-3b8ec4ac99ba"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="d26654a6-eb87-4d59-bd78-da7d60546e9d" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="5efc3851-762b-488e-be86-d6d4b052151e" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis"/>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="18327180-d074-4c9d-b116-3b8ec4ac99ba"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>

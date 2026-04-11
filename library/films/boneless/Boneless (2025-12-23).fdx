@@ -1,0 +1,2562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20250719T225100" id="311bf653-30ed-4d65-a49b-1d9bc7012bab">
+    <XRef DateTime="20250719T224917" id="326d3bbb-277d-4966-b8b4-fc0c38660087"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="New Act" id="5c27492e-c03e-4a50-8c99-ad9c114c1b65">
+      <Text Style="Underline+AllCaps">The Ruby Chicken Wings Preliminaries</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f4bd52c9-4153-47be-a5e6-47fda21d3b94">
+      <Text>Scene 1</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="fa8cdfe0-8a84-4966-9efe-c77d6f7cfaf9">
+      <SceneProperties Length="3 2/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>June 21, 2063. The Ruby Anniversary. 11:35 AM.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7ef6176b-38b3-4c92-b0b9-d0ff6e96cd9c">
+      <Text>The Precipitation Chamber of the </Text>
+      <Text AdornmentStyle="-1">Neoterra</Text>
+      <Text> Bio-Foundry. 2063. A "cathedral of protein." The room is dominated by Bioreactor </Text>
+      <Text AdornmentStyle="-1">XY</Text>
+      <Text>, a massive, translucent vat suspended in a chrome cradle. The chamber is currently bathed in a vibrating, ominous Ruby Red light.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1f5bdc68-d458-44f5-8fe3-3f992a500aef">
+      <Text>JACA is elbow-deep in a maintenance port at the base of the bioreactor. They look like someone trying to fix a vintage car with a scalpel. Inside the nutrient mist of the vat, a ghostly, 3D-printed skeletal wing-lattice shudders.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f2d24ba6-b1a9-4b96-b195-984f362b716d">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="43343728-fe47-4b84-b853-bee62a955af3">
+      <Text>(To the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="831b38d0-9271-41d6-a881-0c28bb050310">
+      <Text>Stop trembling. You’re a chicken wing, not a nervous breakdown. Find the calcium. Hold the line.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f41a98f7-6514-4d9b-a64a-920211ababca">
+      <Text>The heavy pneumatic doors hiss open. GOBI bursts in. They wear a sleek, sensor-embedded jumpsuit that glows with a cold blue light. They are vibrating with corporate energy.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="0eec11ce-46a0-4821-abc0-6a4d9759ad62">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f86f024b-cdd8-410e-8d52-3cadd5885a75">
+      <Text>Jaca! Why aren’t you upstairs? The CEO is doing a ceremonial tasting of a "Vintage 2023" nugget. They’re crying! It might be the nostalgia, or it might be the salmonella from the antique cell-line, but it is pivotal!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="bafc2e2d-c765-4f26-a299-348d0f6a7d37">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="95840b2a-dfb1-44eb-8634-b988fcc11282">
+      <Text>(Without looking)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="423f1494-dad9-4a72-8dc7-0cbbd317791d">
+      <Text>I don’t do nuggets, Gobi. I’m busy trying to remind this biomass that it used to have an anatomy.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="9b66cf6c-af8f-4cf6-884d-e250b39089e2">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="9a6e7baa-bef4-4705-a423-9ee755555332">
+      <Text>(Approaching the vat, horrified)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6f61711d-bfcd-40c9-81fe-cb01588b33db">
+      <Text>Is that... a bone? Jaca! Tell me that isn’t a structural scaffold.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="02fda4e5-c79b-4a5f-8648-e0c5f27d818c">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4ef7732-0b54-4f87-ba87-c84d09a46608">
+      <Text>It’s an avian rib. Hand-tuned. 2023-spec. It’s the Ruby Anniversary, Gobi. I’m giving the harvest some actual history.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="3f41e554-5259-4738-8432-c15c264516b9">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="45e75087-5fc4-435c-8fd4-3363d6147646">
+      <Text>It’s a design flaw! We’re forty-five days from the Golden Jubilee. We are the Cloud Protein generation. We don’t do skeletal debris. We’ve moved past the "Hard-Object Era."</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="3eaf3398-4e28-4752-bb7e-81243c90a28e">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b16efc4c-a487-493a-b542-50ec388cd452">
+      <Text>Forty years ago today, when they got those first approvals in D.C., people actually used their teeth, Gobi. They liked the "fight." Now, you’re selling meat that has the personality of a wet napkin.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="ec734535-85a4-412e-86a1-d17d747f532f">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3e10c1b-0011-41d0-8efa-9af259a44571">
+      <Text>It’s not a napkin! It’s Weightless Wellness</Text>
+      <Text Font="Sans Devanagari Final Draft">! </Text>
+      <Text>We’ve optimized the struggle out of the protein. Consumers in 2063 have the jaw strength of a marshmallow. You put a bone in there, and you’ll be the first butcher in history to get sued for "Aggressive Geometry." You’ll snap their veneers!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="16aaf634-68bb-447a-a359-957362c9eb22">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="50a19e8b-0d12-4550-9624-74987c18133f">
+      <Text>If the meat doesn't fight back, you aren't eating. You're just... absorbing. You’re turning civilization into a giant sponge.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="135fb763-a90d-4997-b251-6ed0e6d8b7ba">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="0923b85d-b2bd-4168-bd98-e29c65e6a274">
+      <Text>(Tapping frantically on their tablet)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bc2bdabf-b485-4e1c-8545-7d219bb7a869">
+      <Text>I have the decommission order for this strain. The Board is sunsetting the Ruby line at midnight to make room for the Jubilee assembly. We’re flushing the "scaffold" logic, Jaca. We’re going Pure-Fluid.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="f62cab28-d2af-4306-b4e0-82c7ab64f222">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8b5de46a-88e1-4059-88da-395c4bc5b9fe">
+      <Text>(Pulls their hand out, coated in clear slime)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="00543a0f-a8ca-40e6-8c2c-bb63cf0c010c">
+      <Text>This strain is the only one left that knows how to resist. You flush this, and you’re deleting the last thing in this building that understands what a meal actually costs.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4a657c73-1ed4-4c57-b169-37b911e87d61">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2a8b31f3-8232-492a-bd9f-c568e3253218">
+      <Text>I don’t care about "cost"! I care about the future. This... "skeletal extraction" you’re doing? It’s trauma-hoarding. You’re trying to grow a ghost.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="c8bdbe50-c727-4fda-876b-87f114a7da92">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b6ae1caa-1f29-44d4-88bf-2d8bce95035f">
+      <Text>I’m trying to grow a backbone. Which is more than I can say for your department.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="57c01f79-33e3-47b9-aab9-c43903570430">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="5322ddfa-9caf-4d56-a2cb-b592b8ee4f22">
+      <Text>(Stops, offended)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="78f63a21-ebff-45f6-aedf-25df20256d43">
+      <Text>Excuse me? I am a Marrow Designer. I lead the most visionary team in the Foundry.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="419f141f-4746-48af-9d88-9a26a3cb7b03">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bc1b3dd2-589a-4ded-aeb5-0cca66796598">
+      <Text>You design clouds, Marrow Designer. You design things that float so they don't have to stand for anything. You're spineless. Exactly like the meat you sell.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="bc71ea4f-d46e-4406-a62f-79c05d6c95aa">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="24ebf712-1d1a-44bd-a091-db7d5b5cff90">
+      <Text>(A sharp, satirical laugh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ec582e5a-eef9-49a6-b540-bca2dba9eabe">
+      <Text>You call it "spineless"? I call it the highest form of human courage. We chose to be better than our ancestors. We chose to feast without a funeral. If that makes me "spineless," then I’ll take it—at least I won't have back pain in my sixties.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="c44edef6-f755-4543-9eb7-952be04cbcee">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e416267b-d554-4d1b-8755-5ac2fa3ec75f">
+      <Text>(Stepping closer)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2b476092-9d34-4d6e-854a-8d0b4cdf87c4">
+      <Text>Give me the forty-five days.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="54d1f81b-b778-4889-8e21-6043f86e2d6c">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a35ae701-01d2-4905-9a7f-d69e0e277ff7">
+      <Text>The Jubilee assembly starts in twenty minutes.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="e0f0e8b6-8e92-4076-8956-c7e019b3897d">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0d3a008e-75a1-4207-bbf7-55c6ce976cca">
+      <Text>Link the Ruby strain to the Jubilee harvest. Use my bone-lattice as the foundation for your Cloud Protein. If your "Cloud" doesn't have a spine, it’ll just be a puddle of expensive sludge by the time the World Food Summit cameras turn on.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="5958e4f0-8bef-461b-b804-a6a2964cfff4">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="95f2df4f-411c-434d-b3e7-d0d161db3cb6">
+      <Text>(Looking at the white lattice in the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a92cd74a-573c-4386-b587-5cdf0ac7ceca">
+      <Text>If it destabilizes, I’m the one who has to explain the biomass waste to a CEO who is currently high on 2023-vintage chicken grease.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="9d5c233f-3840-4787-a997-ce6f4e7ccf40">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cd019f94-1919-4095-9601-1fa3ada207a4">
+      <Text>And if it succeeds, you’re the one who saved the Jubilee.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="600741a3-0dbb-4814-94a1-5bf45fa81af0">
+      <Text>A beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="33b0efe1-eb11-4870-9de4-ce0b6e5cbb32">
+      <Text>Gobi looks at the "Purge" command on their screen.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4841ac76-46c9-4b01-a240-10c0c2349861">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8a6cf84b-342e-41ea-8637-bed989f6fd17">
+      <Text>Forty-five days. But if I see one single tooth-mark on that harvest, I’m telling the Board you’re a "Biological Terrorist."</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="048c3507-b2ff-4e1a-a5f9-aa4b4af06321">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7d934dac-4f83-4168-a3d4-57f8380aac83">
+      <Text>Deal.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fb00faa3-9b8b-4659-9397-6580d40a1353">
+      <Text>A digital clock on the wall chimes 11:59 AM. The thrum of the bioreactor intensifies as the red light begins to fade into a clinical, terrifying white.</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="dec69091-bd2d-421e-885e-56dee6075bb8">
+      <Text Style="Underline+AllCaps">The Golden Burger</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2c2add07-da35-4f76-b077-421768f0f062">
+      <Text>Scene 1</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="02b92d60-febd-420e-8e6d-431b1b57b2a6">
+      <SceneProperties Length="4 3/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. August 5, 2063. 11:00 AM.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7d5dea64-eb14-4949-9c94-541cfb0d46dc">
+      <Text>Exactly sixty minutes remain before the World Food Summit Global Feed. The clinical white lights are at full intensity. Bioreactor </Text>
+      <Text AdornmentStyle="-1">XY</Text>
+      <Text> is dominated by a massive, undulating sphere of Cloud Protein that shivers under the acoustic levitation waves.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f3b1cb31-42db-4cc4-9cf8-fc12d21c92ba">
+      <Text>The room is filled with a high-pitched, digital alarm. GOBI is at the master terminal, hair disheveled, their jumpsuit stained with nutrient-coolant. JACA is seated on a low stool near the vat, watching the biomass with a hollow, pained intensity.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="e6fb48a7-ee0f-49ab-8395-bffd74c39ce0">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="67a58609-656f-4ece-8f31-a37bb870739a">
+      <Text>(Screaming over the alarm)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="88a26f06-fbcd-4c18-b268-b916f4a5db6b">
+      <Text>It’s shivering again! Jaca, the density levels are dropping! The Cloud is trying to digest the Ruby scaffold. It thinks the bone is an intruder!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4e33c338-6df7-48b9-9f06-37c7b33851fb">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d26c7bb7-45b5-4fdd-9b97-1adaf3f020aa">
+      <Text>It’s not an illness, Gobi. It’s an immune response. Your “Pure Marrow” doesn't recognize a spine. It thinks the foundation is an infection.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="5718a91b-0878-4437-9f42-24519b6dff4d">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4dc055cc-f779-454d-bb72-a7a2aecd289d">
+      <Text>(Frantic, swiping through code)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4bc505d2-6146-4e8a-8c3f-86791511aeb7">
+      <Text>If it liquefies, we lose the Summit feed. Four billion people are logging in to see the “Civilizational Leap,” and I’m going to show them a bucket of gray soup. The CEO will have me repurposed as nutrient-slurry by sunrise.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4fcfe8d9-428c-4dea-8b4f-458cfce78cac">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e3d2aaf5-6f5b-4b16-a042-6aa97e177e32">
+      <Text>Maybe that’s what civilization deserves. To eat the dust they’ve made of the world.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="8fa5c9cb-78da-481c-98b3-2a5c786c7981">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bcedd07d-6b90-4f9f-9176-0a981574d600">
+      <Text>Stop it! This isn't just about your “context” or your “memories.” This is the only way we keep eight billion people fed without burning the last of the forests. Selling cell-grown meat isn't just an industry; it’s the only moral architecture we have left!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="531c622f-1a33-48b8-8ae6-7243d0d5648b">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="721b9931-09a9-447c-b3a7-608d2975919f">
+      <Text>Architecture requires a foundation. Look at that thing. It’s weightless. Disconnected. It’s exactly what you wanted—the ultimate "spineless" achievement. And now it’s dying because it has nothing to hold onto.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4aa38f55-ed8e-4826-ac34-27fe513be799">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="527f99aa-806c-4594-aab2-c9dc3179b372">
+      <Text>(Turning, eyes bloodshot)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1f5df1e6-2d94-40f3-9631-7da20fa27834">
+      <Text>It’s dying because you sabotaged the code with your "resistance" settings! You’re so obsessed with the struggle of the past that you’re willing to starve the future. You call me spineless, but you’re just a ghost-worshipper.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="78b08500-f01d-4ae9-b664-c63dedb6c09f">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8931fe07-54ae-45c3-a628-b18d07dcbc8f">
+      <Text>(Stands up slowly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bbd4a805-6ea0-48c4-be4f-33303421de98">
+      <Text>A ghost-worshipper? I’m the only one here who knows that "Cloud Protein" is just a long way of saying we’ve given up on the Earth.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="f910cf38-4c33-4f1a-bcb2-0bf54ffe0486">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b3c4fc9c-18dc-47f2-b3ff-b263fa9f7b1b">
+      <Text>We didn't give up! We saved it! Look at the satellite feeds! The pastures are returning to forest because we moved the harvest inside these walls. That is the highest form of human courage—the choice to feast without a funeral.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="812a1a34-26cb-4783-9636-07790e491b00">
+      <Text>A long beat.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="43622ce0-826a-40b0-9d63-3d222285e191">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c28f9362-1728-4992-9ecf-872ca127a22e">
+      <Text>(They look at the shivering amber mass.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="61b43ff0-a8fb-4db0-a572-21cfd7fbc04b">
+      <Text>A funeral requires a heartbeat.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="55a1926a-ff2c-4159-9d30-a58217bd4404">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="49f369f3-8f25-403c-859a-8ae47a8d61e2">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4c9d8b59-4059-4e50-b735-f6ddc3610cc5">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eb137394-244b-48cf-87b7-b979e4cb297b">
+      <Text>The Cloud is shivering because it has no rhythm. It’s just growth without purpose.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="409d7587-d085-467e-b094-12b4ab4b16a9">
+      <Text>JACA lifts their arm. A series of biometric wires are taped to their skin, trailing down into the vat’s control port.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="833f72e4-3208-4034-ac99-7c026cb93629">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="338dcad3-8b57-4463-95aa-3e8929ab2baa">
+      <Text>Jaca, what are you doing? That’s a bio-security breach. If you link your pulse to the assembly—</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="aebca8b1-864e-4772-b9bf-a0fdac1dc358">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e26aa7b1-3e66-408e-8eb9-01ee8e683fba">
+      <Text>The assembly is starving for a signal. I’m giving it one.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4f8b7b5d-edb0-44e6-a368-55ab18b8661d">
+      <Text>JACA presses their palm to the sensor. A deep, heavy THUD echoes through the chamber. The Cloud Protein mass suddenly jerks, then stabilizes. It begins to pulse. A low, rhythmic amber glow fills the vat, beating in perfect sync with JACA’s heart.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="b473fe9c-b8d1-4c4f-81fa-b4d84f12138f">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="86ebd658-92d2-4e01-8637-ab1edc6ad012">
+      <Text>(Breathless)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fb0b6612-5fe5-4043-9931-9a72838b7ed6">
+      <Text>Density is stabilizing. 100%.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="54ae1196-263e-4334-a8a2-52bcda292529">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ba3febdf-59da-4346-9806-b8d71bd502ed">
+      <Text>(Face pale, straining)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2e11a40b-6fee-47bf-9724-ba90fca26a32">
+      <Text>Now you tell them, Marrow Designer. When those cameras turn on, you don't tell them about "efficiency." You tell them that the future still has a pulse.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="ee4a6b16-456f-4968-bef1-68d347a46cbe">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="af54e419-8685-4cfa-af72-fb4a163f2738">
+      <Text>(Looking at the clock: 11:10 PM)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b70584c0-050a-4aee-8035-f5de26e12960">
+      <Text>Fifty minutes to the feed.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="70385983-2810-47f2-8cbb-5e2869469e1f">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1724e34b-f0d4-48a6-9055-58f3de78fcbe">
+      <Text>Don't let it... don't let it be for nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="703ae3f0-a575-407c-88ac-964f9d33e8d7">
+      <Text>The thumping of the heart intensifies as the lights begin to pulse in rhythm.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="030830de-aa5b-4884-9c51-9e17c515036f">
+      <Text>The room is a rhythmic, glowing amber. The walls seem to breathe in time with the thumping heart-monitor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9da10cc2-f529-4aff-a36e-288d5d4d07d1">
+      <Text>JACA is leaning heavily against the master console, their hand locked onto the sensor. Every pulse of the vat sends a visible shudder through JACA’s shoulders. GOBI is frantically typing, their face illuminated by a cascade of green "STABLE" notifications.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="e8c80f60-7916-4d48-b7a9-cfc4c5d2c0d8">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e810e516-4e37-4e0f-8881-5675176cb1e6">
+      <Text>Handshake protocols are pinging from London. They’re seeing the pulse, Jaca. The Summit’s tech-ops are asking if we’ve installed a new “Rhythmic Maturation” patch.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="7d41004f-5891-4580-ad2d-178db5655473">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="fdee6b1b-e034-47c8-9389-254a3ad6d921">
+      <Text>(Grit teeth, voice strained)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db06ccd7-7c4e-4d7c-a7ef-5c152595f741">
+      <Text>Tell them… it’s a hardware upgrade. The oldest… hardware there is.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="9ee4ebb8-6b72-431b-8086-748807dbde39">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="06d1b5b1-b4cc-4155-9ed7-1b1ae92efac2">
+      <Text>(Stops typing, looks at Jaca)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ce20832b-70e0-443b-ac56-e6b32058b6fc">
+      <Text>Your blood pressure is spiking. Jaca, the vat is pulling more than just your rhythm. It’s feeding on your nervous system to regulate the temperature. You’re literally acting as the bioreactor’s heat-sink.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="0a6d4003-a04a-4b84-be0f-9de8f09eef45">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="00f0119c-00a6-4528-a9c1-891e9f2587a2">
+      <Text>It’s fine. It’s just… resistance. Isn't that what you wanted? A future that works?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="51c84482-e417-4f71-8556-027d2ba8ebc0">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7e9250d6-72d8-4dff-8b3a-308485a0e1f2">
+      <Text>Not at the cost of the operator!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d447ed61-0eee-443f-9642-1464add4bfb4">
+      <Text>Gobi steps toward Jaca, reaching for the wires.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f22afc89-3fb9-4d36-b9b9-92a18fea3b40">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7e9250d6-72d8-4dff-8b3a-308485a0e1f2">
+      <Text>We can bridge the signal. I’ll split the draw. I can slave my tablet to the secondary port and—</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="798852b3-479f-49f3-ae96-b141e309d9f8">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="67b572d1-0359-46a5-bb84-4cf29e7ff765">
+      <Text>(Pulling away)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="931e7ff8-80ba-4b52-84ee-ea023b3b4d51">
+      <Text>No. You need to be… the face. You need to be the one standing in front of the cameras… looking like you didn't just crawl out of a grave.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="10a5c63b-289b-413d-8022-2efee56d0642">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="90107882-15ec-43a9-b057-9934dab55aa0">
+      <Text>(A pause, voice softening)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="31d0b7bc-c207-4e8e-a9a3-c0b5277f7a76">
+      <Text>Why are you doing this? Ten minutes ago you were calling me spineless. You were ready to let this whole industry dissolve into gray soup just to prove a point about "bones."</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="7f8430bd-a05b-47c2-9631-d483d8f12412">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="01d49f72-0634-4cf4-9d76-82a87c46233d">
+      <Text>(Looking at the pulsing vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9182ff39-da07-4578-b73d-15a1d0def193">
+      <Text>I was wrong about you. You aren't spineless. You’re just… unwritten. You want a future without funerals? Fine. But you have to understand… that even a Cloud… needs to know why it’s raining.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="dab6fca3-4705-4526-b608-4349a1c73868">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="28459fbd-96df-44ba-8877-e5d4e790cdfc">
+      <Text>(Whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b019bcb6-d3f5-46cb-9d96-81b9e4942765">
+      <Text>It’s raining because the earth is cooling.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="2245f165-0d6f-43ee-aee0-9f77a5e4e95b">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4e925e0f-714a-4d10-8344-c9ebb80ff5ee">
+      <Text>(A small, pained smile)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d147fade-2b5d-4733-bcfe-e18b1fcae9a4">
+      <Text>Then let them see the rain.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1b04b6d2-c7b8-4e73-85eb-f346b853419c">
+      <Text>Jaca winces as a surge of light flares in the vat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="99e1dd0b-ec2e-48ea-8169-42d7eb0fd9bf">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d147fade-2b5d-4733-bcfe-e18b1fcae9a4">
+      <Text>45 minutes to the feed. Gobi… check the “Ruby” scaffold integrity. If it’s going to hold, it has to be now.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="a20e85a5-cbeb-45be-a9b1-f23a5a7fadb8">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="18969b09-111a-4310-8da6-6e66ec4d92aa">
+      <Text>(Turning back to the console, eyes fierce)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dd8fa8e0-e85c-4d3e-a99c-b19fd805fdaa">
+      <Text>I’m rerouting the acoustic levitation to support the calcification zones. If you can keep the heart beating, Jaca… I’ll make sure this "cloud" has a spine they’ll never forget.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8b011c27-4817-4519-82d6-61f4d301424e">
+      <Text>The thumping of the heart deepens, vibrating the very floorplates as GOBI begins to rewrite the broadcast protocol for the World Food Summit.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="d4be7e8c-86d6-422f-b5ac-c63d819b2a44">
+      <SceneProperties Length="5 5/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. 11:22 AM. 38 minutes to the broadcast.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="12a1a716-6269-4dd9-9d07-bc22c671f2e8">
+      <Text>The thumping of the heart-monitor has evolved from a sound into a tactile force. The liquid in the nutrient vats ripples in concentric circles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ac49196d-0811-463c-ad32-2a66ee288298">
+      <Text>JACA is sinking. Their knees are buckling, and they are using the console to stay upright. GOBI is no longer just typing; they are orchestrating, their hands moving through holographic projections of protein strands like a conductor.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="bb276b54-5ced-4898-8f6a-25fb0648a7e5">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="f5fe061b-1cd4-499b-abce-d41514ef1ec7">
+      <Text>(Without looking back)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c56794dc-3993-44aa-b18f-a70df1063ff4">
+      <Text>The density is at 104%. It’s over-calcifying. Jaca, your adrenaline is forcing the cells to knit too tightly. At this rate, the centerpiece will be hard as granite by midnight. Nobody can eat a statue!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="200f55b2-e8fe-4022-ae39-166f6fc461f3">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="715611c8-eb56-4f5e-91a8-1fcc84415795">
+      <Text>(Gasping)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="425836b8-f0c9-4471-b075-1c28d5f71c03">
+      <Text>Then... let them... look at it. Let them realize... that the future... is hard.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="e4cfefc9-ad15-4f7d-8840-5de584316b47">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="7b2a7d7e-7459-4753-9fee-6f0e8e86231b">
+      <Text>(Turning sharply)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0de95d7b-e582-4b5c-829b-ef78efcefa21">
+      <Text>No! That’s the old narrative! The "hardness," the "struggle"—that’s what we were supposed to escape! If I present a rock to the World Food Summit, I’m just selling them another wall. I’m trying to sell them a bridge.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="9caa3589-6da5-4ad7-a43a-88b9aecdcc55">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="b35a654c-1948-4af3-9c0a-87b8d6255de3">
+      <Text>(Looking at the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="984836e2-b0bf-4516-b113-4c5b85f292ec">
+      <Text>A bridge... needs a foundation, Marrow Designer.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="60bbb8c9-5c52-46cc-8b29-041bf018d610">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="44a4b307-fa73-4991-94dc-0bae96080d56">
+      <Text>(Approaching Jaca, eyes wide with a frantic realization)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b928ddbb-2989-44df-981e-593493a3c07d">
+      <Text>I can’t let you do this alone. Your heart is red-lining. If you go into cardiac arrest, the feedback loop will shatter the bioreactor glass.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="64b30312-0a50-4a64-861a-8ec995f04a01">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="216d756c-6a54-443f-a53f-faba0226018d">
+      <Text>(A weak, jagged laugh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fa951da6-40ac-41a7-a78e-33239f96d45d">
+      <Text>A final... splatter.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="ce840048-eb64-4fb9-a64a-107500638c84">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="06c3a975-6fc0-41c7-9aa9-ebefa33ac6e9">
+      <Text>(Grabbing a second set of biometric patches from the maintenance kit)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d6822b7a-9842-46fc-9a53-fecfcf533780">
+      <Text>I’m linking in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="01e848d3-ed6a-4fe8-b808-db79f478b8af">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="01070b1a-7dce-4d69-8e6a-99bcdd9449f6">
+      <Text>Gobi, no. You’re the "Pure-Fluid" star. If you link your </Text>
+      <Text AdornmentStyle="-1">DNA</Text>
+      <Text> to a skeletal harvest, you’ll be blacklisted. You’ll never work in a bio-foundry again.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="cb8a9ae1-8cc0-46d2-b3aa-c34e782619d5">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="6b8275b2-d674-4988-948d-c6fc4802c47f">
+      <Text>(Ripping open the sensor patches)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="89de0efb-669a-476e-9028-07707724dd53">
+      <Text>Then I’ll build my own.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ffb72b34-d6a2-458d-a726-567c081f9e6b">
+      <Text>Gobi tapes a sensor to their own forearm, then another to their chest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9daf9b96-a16a-4ba2-84f3-6f1716b2ef0a">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="89de0efb-669a-476e-9028-07707724dd53">
+      <Text>I’m the Marrow Designer, Jaca. It’s time I actually designed something with some guts.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f39e78b1-7ccf-4c5c-85ab-fa352737c742">
+      <Text>GOBI presses their palm onto the secondary sensor plate next to JACA’S. The thumping in the room doubles in complexity—a syncopated, polyrhythmic beat of two human hearts.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="e813617f-4208-47c5-a091-dbf949187e8e">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="abe3cc09-f676-4c36-ac11-8f4b388a075e">
+      <Text>(Gasping as the load lightens)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b523691b-75ff-4d2e-83dd-70af3bfbc9a0">
+      <Text>It’s... it’s softer.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="3adcbcbd-f22b-43ca-8235-db2aee3cc131">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="3d82cfcd-f9c8-4872-acb7-920e37c5575d">
+      <Text>(Breathless, staring at the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="35167184-04f3-43c4-b42c-36399817ef0b">
+      <Text>Look at the Cloud.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="68e5da85-bce6-4bc0-b34e-6532a734911e">
+      <Text>In the vat, the golden mass begins to swirl. The "Granite" hardness dissolves into a complex, iridescent lattice. It is both solid and fluid. It is a biological masterpiece.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4f6695e0-3c99-4b09-b4bc-7e92fff9a77c">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e204bce6-d4cb-4eee-9791-d64748f4bca7">
+      <Text>It’s… beautiful.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="ec561f07-b92a-40c1-aa87-15a9ddff489d">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8c56773-0f06-47e8-93b6-3f5bf0257812">
+      <Text>Your heart rate is climbing, Jaca. 115. 120. If you hit a tachycardic spike, the acoustic levitation will interpret the rhythm as a thermal surge. It’ll cook the protein from the inside out. We’ll be broadcasting a burnt offering.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="5fcfcbba-f469-4b18-80ba-32670b38ce79">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8200112a-916d-4c4f-9d13-bdaa22e8e654">
+      <Text>(Breathless, eyes fixed on the pulsing vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eb84be9d-3b53-4d7e-a2c5-4516a5f63352">
+      <Text>Then... tell me a story, Marrow Designer. Calm me down. Tell me… about the first time you realized the world was empty.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="fcc73b1d-34f6-411e-9b1c-fcd47a78e310">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bce975e6-cdb4-4605-9955-04f03e0368e9">
+      <Text>It’s not empty. It’s optimized.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="73c5ea41-112f-40bf-a989-922ee133971d">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7152e5c8-0395-4ff5-81f6-a2103cfad407">
+      <Text>You were born in 2039. The pastures were already "reclaimed." The last of the commercial cattle were culled when I was seventeen. You’ve never seen a creature that wasn't behind a fence or a firewall. Doesn't that… doesn't that keep you up?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="faadb346-50b2-48a8-8dfd-ecf59e5f5ee2">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="144c2929-31af-4752-b5f3-250c70af0ffc">
+      <Text>No. Because I’ve seen the alternative. My father was a soil-reclamation tech in the Brazilian Dust-Bowl. I grew up watching him try to plant seeds in dirt that had been turned to glass by two centuries of grazing. (They turn to the vat) To you, this is "Cloud Protein." To me, this is the only reason my father can finally breathe the air at home. This "puddle" saved the rain.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="956e13d1-d1fb-4554-b2fd-5c8622b9fd2e">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="a2853e10-f560-4593-bb95-d610d86664fd">
+      <Text>(A pained, jagged laugh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b2b32bb6-738c-4c9c-8536-aa3cb55a4c9c">
+      <Text>I know it saved the rain. I’m the one who built the filters. But Gobi… I remember the "Great Dissolution." 2035. My father had this tiny plot of land—the first thing we actually owned since we crossed the border. We had three cows. Real ones. Dirty, heavy, breathing cows.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="19f40052-7014-4262-9485-7d0d4adafc34">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0136579d-0af5-491d-a4d3-22bb07f60474">
+      <Text>The government gave you a "Cultivation Grant." They gave you a future.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="6ad2cc0a-f298-4d16-b37a-e5c1defb7445">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3c4054c5-dccd-4ce0-9a46-c9ae366675d5">
+      <Text>They gave us a recycling truck. They took the cows and gave my father a bioreactor license. He didn't even look at the machine. He just looked at the empty field and said, "Jaca, they’ve taken the spine out of the world."</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="16ebeac3-610a-4f9b-bf2f-5f070827274f">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="667fb5e3-5fc2-4ccb-af88-0067979157c5">
+      <Text>(Softening)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6091d4c9-e9f2-4c42-aa1f-82d3f0b99aaf">
+      <Text>So that’s what this is? Revenge for the cows?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="c386d7fc-fbe0-4044-8d1c-479c38f2f03f">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7ce7b437-b722-416d-b8bb-9fb4b886e2f2">
+      <Text>It’s not revenge. It’s an audit. Every time I cultivate a harvest, I feel like a traitor. I’m the one who made the "Cloud" work. I’m the one who proved we didn't need the field. (They look at their tethered arm) I’m the bridge, Gobi. And the bridge is tired of carrying everyone across while the things I loved stay on the other side.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="5a370f9b-3f0d-4f34-8b90-1edf88f6832d">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="b60f9b5d-ba2d-4992-839a-f3b48907ee38">
+      <Text>(Approaching Jaca, kneeling beside them)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0f550c33-4858-4381-8de8-a44a382d057f">
+      <Text>You think you’re the only one who cares about the "soul" of the thing? I’ve spent four years in this lab trying to make this biomass feel like something. I didn't want it to be weightless. I just wanted it to be kind.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="3f7e4687-5983-4cf5-9c3f-3ebc92358e7e">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2e23515f-5e78-4fb4-a859-698592b83797">
+      <Text>Kind meat.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="35d8d38c-d732-428c-82d3-5ec7e6bc217c">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8511c2c5-2e8d-4bde-8f5d-0fc7b5acb573">
+      <Text>The highest form of civilization. A feast where no one has to die. (They check their tablet) 20 minutes to the broadcast. The CEO is pinging the logs. He knows the biometric link is active. He's calling it "Biological Sabotage."</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="9fd31a20-e8ab-4390-acac-8184421a5020">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b172806d-1742-4a7d-8571-40a97dff682b">
+      <Text>Then give him a reason to be afraid. Link in, Gobi. Give this future your rhythm, too. Let him see that the "Cloud" isn't a miracle of the Board. It's a miracle of the Marrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c542604a-933b-4d51-a64c-d454e6feb5f2">
+      <Text>GOBI looks at the sensor patch, then at JACA. They reach for the wire.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="6405c3ab-3c39-48f1-9bee-d20a33bc849a">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="6795c53b-bd85-4a8e-807e-fa9f8bb9146e">
+      <Text>(Checking the holographic clock: 11:30 AM)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="07803988-6bfa-416c-bb18-28650b1203a9">
+      <Text>30 minutes. The CEO is attempting a remote lockout. He’s seen the dual-biometric signature.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="c571d087-6562-4a38-9792-36d155ab1880">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1def9651-72e8-4996-b718-00fa5ef0737c">
+      <Text>What are you going to do?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="9e6cfbfa-17b4-4f19-b323-14ac7174dc26">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8be32966-e4bb-4cad-92db-a254eb717d54">
+      <Text>(A fierce, satirical grin)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d276de4d-5ecc-441a-971a-3d19cce372ee">
+      <Text>I’m going to tell him that the harvest is now a "Collaborative Living Asset." If he cuts the power now, he’s not just killing a burger—he’s killing the two best cultivators in the company on a live global feed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c468344-9c80-4e7e-a93f-c549a7ecab3d">
+      <Text>GOBI turns back to the terminal, their hands glowing with the golden light of the vat, as the countdown to the Golden Jubilee enters its final half-hour.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1e865002-8d51-46d7-9ac7-4c6dd3a4188d">
+      <Text>The chamber is a cathedral of syncopated light. The thrumming of the dual-heartbeat has reached a resonance that makes the very air feel thick, like liquid.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="86c598d1-d84e-4994-b668-50929b1cbe09">
+      <Text>JACA and GOBI are both tethered to the console, their arms parallel, wires trailing into the vat like umbilical cords. Jaca’s breathing has leveled out, anchored by Gobi’s younger, steadier rhythm.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="ba5bd7ba-dffe-4f2c-8725-9c50c73bef5a">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e1312b43-2649-42e3-bedd-06e2b02fe602">
+      <Text>(Watching the holographic density waves)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2b4bcfbd-a322-4ffc-a41d-b83971de7bd3">
+      <Text>He’s trying to bypass the lockout. The CEO. I can feel the server-tug in my marrow. He’s looking for the kill-switch.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="1c2d268c-b15e-444f-985c-6d58a2e11c57">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="06ef3e0d-7404-4ce2-a0ba-ce2cb2a53b4a">
+      <Text>(Staring straight ahead, eyes glowing with the amber reflection of the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f7f56975-4022-4e3d-99d8-b4479900d20f">
+      <Text>Let him look. I’ve encrypted the Jubilee Protocol into our pulse-rates. To shut us down, he’d have to stop our hearts. He won’t do it. He’s too "invested" in the optics of the Golden Jubilee.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="a4de9cf4-7a25-49cb-974e-2fdb7c7ea476">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="69077284-05ea-4569-8f85-bf84030c04f0">
+      <Text>(A dry, raspy laugh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bb8463c1-ec6e-4a87-bd49-030fe6985db5">
+      <Text>You really are a Marrow Designer, aren't you? You didn't just design the meat. You designed the trap.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="c300ac89-468b-4c88-ae89-aa9cb3bde103">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fdd8650c-f1fa-4189-a0ff-5abe2867eedb">
+      <Text>I designed a future where we don't have to apologize for being alive, Jaca. You spent forty years waiting for the world to notice what was missing. I’m just making sure they can’t look away.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="2d65c42c-8200-43cb-9c71-fada5b46c5a6">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="f6e019dd-a0c8-478e-96e9-ae045662539d">
+      <Text>(Softening)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3967a770-bea3-4207-9e42-69722ab0378b">
+      <Text>I thought... I thought you were just another "Cloud" in the machine. Weightless. Content to float.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="3246f9be-f909-4a53-8318-cc8d60f12dfe">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="faa2fed5-c6ef-4d6f-ae18-3d51187ab7db">
+      <Text>Floating is hard work, Jaca. It takes a lot of energy to pretend the ground isn't there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5b086e43-447d-4de6-9642-54dff0c158c5">
+      <Text>A warning chime pings on the console.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a1ff7b24-3ebd-4f72-9ee6-80e228bc365d">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="faa2fed5-c6ef-4d6f-ae18-3d51187ab7db">
+      <Text>Here we go. The World Food Summit is initiating the "Handshake." Ten billion eyes are starting to blink.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="893b6716-119c-49d1-b393-9953b93c4c57">
+      <Text>Gobi’s hand twitches on the sensor.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="84057863-cb06-4178-aec4-cf74fb146d94">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3de64e1-c118-4fbd-839b-60de8eb800f6">
+      <Text>Steady. That's it. Give them the rhythm.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="c8597f1d-3dfc-46de-b597-5ee65f80d402">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="18f31a57-5d40-4d05-963d-6eef8dac0920">
+      <Text>(To the World, whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="61329ac8-b014-440d-aca3-56292cb42812">
+      <Text>Are you ready for the Truth? Because the "Cloud" is about to rain.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c147a3a0-7645-4639-b227-b3e6aef51104">
+      <Text>The holographic dragons / the broadcast drones / begin to descend from the ceiling, their cameras whirring as they orient toward the pulsing, golden monument in the vat.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="b7595879-a547-49b6-b837-10a33a83413e">
+      <SceneProperties Length="1 6/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. 11:40 AM. 20 minutes to the broadcast.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="85680596-3b61-4721-96a9-d9bced425ffd">
+      <Text>The room is a furnace of golden light. The Cloud Protein mass in the vat has ceased its undulation and is now expanding with a terrifying, muscular precision. The thumping of the dual-heartbeat is so loud it has become a physical vibration in the characters' teeth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c010ec19-0965-41db-94fe-d630a4b9d880">
+      <Text>GOBI and JACA are standing shoulder-to-shoulder, their free hands gripped together for stability, the other hands fused to the sensor plates. Gobi is laughing—a sharp, manic sound of adrenaline and sheer scientific joy.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="ad625bab-0892-49a0-bf18-ac6c2a967af1">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2a067df2-ebf1-4e96-ae6a-27b5769a46e6">
+      <Text>Do you see the biometric feed, Jaca? The Summit tech-ops in London think we’re running a "Neural-Sync" patch! They’re messaging me! They want to buy the rights to the "Pulse Algorithm" before the feed even goes live!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4eb7af0c-b5de-4458-9b13-60362e9a624c">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="5babddd2-d419-4dea-94ea-c20c31f869f1">
+      <Text>(Gasping)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="569340ac-361d-42d9-9996-c8997258f483">
+      <Text>Tell them… it’s not… an algorithm. Tell them… it’s a tax! A tax on the living!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="15705180-9bcd-4440-b481-151ba27aee92">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="93f3a6cb-195d-42d2-80ed-a5f93bdbc9ea">
+      <Text>(To the holographic mic)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="90cfd6b9-4c5a-47ec-a993-14abb5194540">
+      <Text>“Status: Optimal. Biological integration is at 110%. The Golden Jubilee harvest is no longer a product. It is a presence!”</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="9b7aeda4-a804-4219-baa7-07aff28a9d8f">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="2aef0acc-9cc3-458b-bdd9-83bbe7503c26">
+      <Text>(Wincing as a surge of light flares)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4e9238f9-8be8-4ef5-9474-c8aaa80b820a">
+      <Text>It’s getting hot, Gobi. The acoustic levitation is… it’s pulling too much from us.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="ad6ee75f-420f-4758-844b-d043782fb675">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="a7a7e19a-b5dd-4dba-b3e8-039f8101c45a">
+      <Text>(Fierce)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dbf9f63b-5c4e-4e83-8cb9-48a38e33577d">
+      <Text>Let it pull! We’re forty-five years deep into a weightless lie! Let it be heavy for once! Look at the monitors—the world isn't just looking at the "Cloud" anymore. They’re feeling the thrum. Ten million people just joined the pre-feed in the last thirty seconds. They’re hearing the heart, Jaca.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="bc42f16f-fcbf-4e5d-8386-a27b539abea2">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4b848066-9ca3-403a-906c-89703d3e5fd5">
+      <Text>(Looking at Gobi, eyes wide with terror and pride)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9b4919e4-d566-49ee-80b7-5976b3e0d469">
+      <Text>They’re hearing… us.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4ee73583-53e7-4382-a253-1daa7fe400ae">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="962c97c7-5942-4959-87d4-5eef482b3196">
+      <Text>(Leaning into the golden glow of the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b034da20-a6fc-48c4-9b5d-bba86dbbce69">
+      <Text>I used to think my generation was the "clean" one. The "no-kill" generation. But we were just the "no-feeling" generation. We wanted the meat without the ghost. But you can't have one without the other, can you? You need the ghost to make the meat solid.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="a0761812-5013-4652-b41d-d3bf41bf458a">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="41e36d30-25d3-45ae-baa7-25cc4db456c4">
+      <Text>(Whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="debfae5e-f5f3-464d-9567-90d018e5130e">
+      <Text>Happy Ruby, Gobi.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4f1f8b2c-44ef-4ef4-8e83-de74951d2eb3">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ff8664de-43ac-499c-90bc-8d8840244cc7">
+      <Text>(Looking at the clock: 11:45 AM)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dc0a631a-4ac5-43bf-80bd-67c2370baae5">
+      <Text>15 minutes. The Handshake is complete. The CEO’s remote override has been buried under a million "Support" pings from the global viewers. He can't touch us now. We’re too popular to kill.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="e68ef73c-3760-4827-abe3-c7b34f82bb17">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="b180e91d-230b-4c5a-9680-de33198912b5">
+      <Text>(Stepping closer to the vat, his shadow merging with Gobi’s)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e1fb159c-75b4-4981-bd3c-a0ec3fe2acc9">
+      <Text>Then let’s give them… the Golden Jubilee.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dd9b90d3-c0e9-47be-bcd1-574e8d32ee66">
+      <Text>GOBI straightens their jumpsuit, wipes the sweat from their brow, and prepares to deliver the "Marrow Manifesto" to the world as the broadcast drones lock into their final positions.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="9b7d4e9a-a807-4dbc-a9ea-95826a567efa">
+      <SceneProperties Length="2" Page="17" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. 11:46 AM. 14 minutes to the broadcast.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7c69d46c-e3df-4bf4-8a1d-d9e19a75c152">
+      <Text>The golden light is no longer just coming from the vat; it is bouncing off the walls, the chrome, the sweat on their faces. The room feels like it is accelerating toward a ledge.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b91d2cac-ac5e-40ad-ba27-6edc365c47fd">
+      <Text>JACA is leaning their forehead against the cool glass of the bioreactor. GOBI is standing perfectly still, watching a data-stream of comments from the pre-feed. The holographic icons are a blizzard of activity.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="79ba4eac-6f67-42b9-b4a3-7e82bc3c25ee">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aefd9073-5710-4174-ae2d-178253a21205">
+      <Text>They’re arguing in the chat. Half of them think it’s a hoax—a sound effect to make the "Cloud" seem more organic. The other half... they’re silent. They’re just watching the pulse. One user in Nairobi just posted: “I forgot that food was supposed to have a rhythm.”</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="515e6ff0-7c68-4029-9acd-4f3738e639c4">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="ce61ea1f-dff0-4020-ac48-fa921c0ac736">
+      <Text>(Without moving)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4c89e98a-57f5-4d14-9546-dd7bc1e90a8a">
+      <Text>They forgot... because you designed them to forget. You designed a world where the only sound in the kitchen is a "ping."</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="d4691ebf-933a-426a-9fd2-bf9e16ed96f8">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="145e613b-8557-4544-b226-6450047fa84a">
+      <Text>(Softly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1f3736bd-fe5f-4f4d-a3a7-b6fe9d8304c1">
+      <Text>I thought I was making things easier. I thought "frictionless" was the goal. But look at you, Jaca. You’re the most "frictional" person I know, and you’re the only thing keeping this centerpiece from drifting away.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4638bf05-f35f-4945-a9a4-71407f7da79d">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="d39afb72-6a6c-4071-9214-a1f4ca23a614">
+      <Text>(Looking up at Gobi)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a883b60c-49c0-4b92-ba2f-1257fcfd5ff3">
+      <Text>The "friction" is how you know you’re still touching the earth, Marrow Designer.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="85432bfe-6be8-4752-aa8a-15e8e2fc2d51">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="a0dd3808-ba4e-4c2a-902a-6270c4187b47">
+      <Text>(Checking the tablet)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="70f98109-e09d-4201-9e1e-fbba4c68d0f8">
+      <Text>11:48 AM. The CEO is attempting a "Safety Purge." He’s claiming the biometric link is a health hazard to the consumers. He’s trying to dump the vat before the cameras hit the main feed.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="d471df93-9281-41fd-a754-e579e8acee53">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="90553962-0a11-4e87-b1af-aa6eebfceb84">
+      <Text>(Fierce)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6ca7ab04-8bc8-47b0-b7ae-c487aaa2aeb1">
+      <Text>He can’t. The acoustic levitation is locked to our EKGs. If he purges the vat, he purges... our signal.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="28e965c0-c3f7-489c-9b09-7d6a8a4b70b2">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ff4d6e43-bd14-44b0-a1b2-5b1ab2e0a1d9">
+      <Text>He’s willing to risk it. He’d rather have a dead harvest than a human one.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="60280ccc-72d3-428d-ae61-a606ac958dd9">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ec785b2f-e79b-4232-87bc-7fd0f5788b06">
+      <Text>(Taking a step back, pulling Gobi towards the sensor)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="156c9aa6-6812-4ed5-9f1c-fe0d8d7a9285">
+      <Text>Then we make it impossible for him. Gobi, we don't just give it our heart. We give it our history. I’m opening the "Legacy" archives. I’m slaving the Ruby data to the Jubilee broadcast.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="65e98994-5dbb-49d8-ac04-236acdc6b586">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9978909e-ad5a-4137-8b6a-912106400c2e">
+      <Text>Jaca, that’s twenty terabytes of prohibited animal-anatomy data! If you broadcast that—</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="bda1496f-1d69-456c-b748-40dfb694616e">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="06c70b10-d2e0-4987-b608-b30ccecb824a">
+      <Text>Then the world will see the "Bone" inside the "Cloud." They’ll see the bird. They’ll see the cow. They’ll see the 2023 chicken wings and the 2013 burger. They’ll see that this "Boneless" future isn't a miracle—it’s a memory we’re still trying to get right.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="df857ada-f63b-470a-ae33-5ea7a1815ad3">
+      <Text>A beat.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="76fa0056-4a16-48a9-811d-340ed30d1836">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="eec89656-85d5-46ad-b74b-a7f875d2361c">
+      <Text>(A slow, determined grin.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bb33342e-a083-4391-9ba0-13f6359b6ad2">
+      <Text>I'll handle the encryption bypass. You handle the pulse.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="01fcc55d-2433-4744-a708-91fc745434a3">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="61b7229a-7d8e-488a-b7e8-9284801f9653">
+      <Text>(Taking a deep breath)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c1d52d8e-6d34-47a9-9400-c7f2f9904c87">
+      <Text>Ten billion eyes, Gobi. Don't blink.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="66e897cf-fa8e-4549-a8f5-c565d5c14a39">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="a73a128f-14c9-4935-b238-85f477d76e97">
+      <Text>(To the World, whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0046a6f9-5500-44ef-82a1-4374f49e4f59">
+      <Text>Welcome to the funeral... for the silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ce5a0204-d2e2-491c-851d-5c119348c904">
+      <Text>GOBI’S fingers become a blur on the console as the thumping of the dual-heartbeat becomes a roar, and the holographic dragon-drones begin their final ten-second countdown to the "Handshake Protocol."</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0d331b7f-0d0b-479a-9b4d-98466782274e">
+      <SceneProperties Length="2" Page="19" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VOICE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. 11:50 AM. 10 minutes to the global broadcast.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d1dab6c6-8dc7-4907-b98e-3ddef73f0028">
+      <Text>The golden light in the room has reached a frequency where it feels solid. The Cloud Protein mass in the vat has taken on a complex, iridescent geometry—part organic heart, part architected marble.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="eea25dbd-a670-4f02-a32f-8003ad31f2fc">
+      <Text>The holographic display in front of GOBI is a battlefield. Blue "Board Override" windows are being eaten alive by JACA’S red "Legacy Archive" data-packets. A digital voice, stuttering under the data load, echoes through the chamber.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d6c89927-e0e4-414b-8d6b-205f5a5b8430">
+      <Text>VOICE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fe497248-7f51-4359-a912-4a669c69dc39">
+      <Text>Handshake... in-</Text>
+      <Text AdornmentStyle="-1">ter</Text>
+      <Text>-</Text>
+      <Text AdornmentStyle="-1">rupted</Text>
+      <Text>. 2013-Spec data... leaking into... public... pre-feed. CEO authorization... re-</Text>
+      <Text AdornmentStyle="-1">voked</Text>
+      <Text> by... global... demand.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="589d862e-1cb7-44ac-8dc3-8805733ae6d5">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical" id="068f670f-d6d7-420e-b4d7-f43399bbdb40">
+      <Text>(Laughing, sweat-streaked)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f623cb2d-5aa2-4a63-9351-dd6948ba2d31">
+      <Text>The public saw the first frame, Jaca! I leaked the 2013 London Burger clip into the handshake </Text>
+      <Text AdornmentStyle="-1">handshake</Text>
+      <Text> signal. The internet is losing its mind! They’re calling it "The Ghost in the Meat." The CEO can't cut the power now—the World Food Summit just designated our feed as a "Cultural Heritage Event."</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="ac5fda94-24a2-4ee6-83c7-d03097acf961">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c5cc88d4-6134-480d-bea0-8fdb1802d059">
+      <Text>(Straining, their arm shaking with the force of the pulse)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3a8b66c3-172a-47a8-b8b1-b7ac4d264603">
+      <Text>Heritage... is a... heavy... gift... Gobi.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="f73bf9ee-8e10-487a-ba83-076da9d89f64">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d973cea6-9799-428f-8c84-0b88f3387405">
+      <Text>(Stopping, looking at Jaca)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="99e89a65-856e-420b-8817-59d4dee69f28">
+      <Text>You’re drifting. Jaca, stay with me. Your pulse is erratic.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="165be136-8ac9-4db8-bddf-105874747347">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="fca6db2e-72a3-4a07-9db9-8b43f9b3fa66">
+      <Text>(Whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d6d06c88-2a81-49c4-8f34-75bca6e25473">
+      <Text>It’s too much... data. The Ruby strain... it’s hungry. It wants... to be real.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="33554bee-8f2b-472d-91ad-25f892045b5b">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="a83da25d-3dc2-4bf5-9465-b4dd7d28f390">
+      <Text>(A moment of terror, then absolute clarity)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d9964e2b-61ef-4b5d-be50-e3e42927b71b">
+      <Text>Then let it be real.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b1673fae-5411-4202-ac89-4616b29d0f36">
+      <Text>GOBI abandons the console. They step onto the raised platform of the bioreactor and sit beside JACA. They don’t just touch the sensor; they wrap their arm around JACA, bracing them. GOBI presses their other hand directly against the glass of the vat.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="b4f3d3fe-49d9-4dc1-8d8d-7db7ec32e736">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e43586b5-86cc-40af-9685-18858afbea91">
+      <Text>(To the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="90978ed0-c2c6-4d92-ad65-ac1d0c3479cb">
+      <Text>I am Gobi. Marrow Designer. Third-generation urbanite. I am your architect, and I am telling you to hold.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="af1f9a01-20fd-4309-8585-8dc5d0072587">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d66486c4-d98c-42b8-8264-8a5a35d3cdc0">
+      <Text>(Looking at Gobi, eyes wide)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3883e7b9-57bc-46e7-bb1b-7c3cbdc9cc7e">
+      <Text>Gobi...</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="2ec84867-4dff-4673-b819-feffac99287e">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e48e3b4f-819b-4f1e-8c71-a0bc5f0385c1">
+      <Text>(To the World, through the microphones)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c6f7c48b-ad0f-4128-8781-e49f23ef5ac5">
+      <Text>“You’ve spent fifty years asking what we took out of the meat. Tonight, we’re showing you what we put back in. We put in the sweat of the cultivator. We put in the memory of the immigrant. We put in the heart of the designer who finally stopped being afraid of the bone.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="edf4c596-989f-4a41-8588-aac676ad13b2">
+      <Text>The thumping of the heart-rhythm suddenly clarifies. It is no longer a chaotic syncopation; it is a single, massive, unified thud that shakes the room. The Cloud Protein in the vat glows with a white-gold intensity that makes Jaca and Gobi’s silhouettes vanish into the light.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="bd91f27f-d6ab-4f55-9627-f65f981f5c52">
+      <Text>VOICE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="359ebf0d-140f-4c26-8923-d09573cc8c5b">
+      <Text>Handshake... stable. 180 seconds to... Golden Jubilee... Harvest.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="4ec00570-64f3-419c-b910-822bf587a7e3">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="db63778f-0a98-418e-bec0-613df7c2c8e4">
+      <Text>(With a sudden, clear strength)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="04907b14-247c-4614-b426-fcc60cd94360">
+      <Text>Happy Jubilee... Gobi.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="335f9303-9e13-4503-959b-1bdc679ef4e1">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e3e09f2c-c43d-4e80-8307-8a97034268fa">
+      <Text>(Tethered to the pulse)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8c8ebb33-6707-4110-8a93-013cb58efb25">
+      <Text>Happy Future... Jaca.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c134e412-758b-4795-b5f0-5047a7448004">
+      <Text>The holographic dragon-drones descend into a tight circle around them, their cameras whirring like a swarm of bees, as the countdown to the final five minutes of the "No-Kill Era" begins.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="1892e80e-e586-4eda-a980-52decf6c712f">
+      <SceneProperties Length="1 6/8" Page="21" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VOICE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. 11:53 AM. 7 minutes to the global broadcast.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8b2dfcd3-9aa2-447f-b12b-646d66099fbc">
+      <Text>The room is no longer clinical. It is a humid, thrumming womb. The golden light has shifted into a visceral, translucent amber that reveals the interior of the Cloud Protein mass—a complex, pulsing lattice of synthetic muscle fibers, vibrating in time with the dual-heartbeat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3f81ab69-1be4-4b26-b989-a170a87a4790">
+      <Text>JACA and GOBI are a single silhouette against the vat. GOBI’S hand is still pressed to the glass, their eyes closed, feeling the heat of the maturation process. JACA is leaning into them, their breathing ragged but synchronized.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="b5a27056-8f25-46d1-9f50-d071c9d12658">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="7a8efd79-b7fa-4347-aee9-2df58d38979a">
+      <Text>(Whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="14685fd7-687d-427e-8aa8-dd2c16855d89">
+      <Text>It’s… it’s calcifying, Gobi. I can feel it in the feedback. The Ruby strain isn't just a scaffold anymore. It’s… it’s becoming a spine.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="b5d2c8ae-08fb-499d-9ecc-bc7fe27c92a4">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="9ead1826-0ed7-48af-9423-1e4b525ba5b6">
+      <Text>(Eyes still closed, a small, tired smile)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="889d3a4e-3305-4e41-9571-b4e692c794af">
+      <Text>It’s not just a spine, Jaca. It’s a signature.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="21abb007-e1a3-4e54-94b7-e31714f00731">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1808d70d-53a6-45f0-9df1-52358edc70ce">
+      <Text>The CEO… he’s going to sue us into the next century. He’ll say we stole the "Pure-Fluid" patent and turned it into… into a biological fossil.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="21ec38ae-6c28-4159-9ee1-0f69ea21f5a7">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="18cd0aa9-cb99-4394-8e6f-dcd16bd572f9">
+      <Text>(Opening their eyes, looking at Jaca)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eadc0bed-ae44-447f-8d1e-2dfb38230fb9">
+      <Text>Let him sue. By the time he gets to court, four billion people will have tasted the "fossil." You can’t un-teach a tongue what a real meal feels like. You can’t tell a world that just heard a heartbeat that they’re actually eating a cloud.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="f515cdbb-52da-4d4c-9b7f-14e27f8301da">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d876979c-56cf-42a5-a037-c2e123189a9b">
+      <Text>(Softly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="51913813-144e-41b8-ace1-cee8ec3327d9">
+      <Text>Why did you do it, Gobi? You could have stayed the "Star of the Foundry." You could have been the face of the weightless world.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="2d8aa009-643b-4dd0-9ae7-f427c3eb09b5">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="f72429d7-325d-4ea1-add9-8b7dd2d97700">
+      <Text>(Looking at the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ae261f16-c8ea-4233-8175-620fe0a356a9">
+      <Text>Because I was tired of floating, Jaca. I wanted to feel the "friction" you were talking about. I wanted to know if I actually had a backbone, or if I was just a really well-designed piece of software. (They look back at Jaca) Turns out, it hurts to have a spine.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="bea84d54-57df-4568-bbbe-3d8a6058562c">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="599b0173-732f-4d18-9603-bd76dd71919d">
+      <Text>(A pained, dry laugh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4b62b17-f756-4ea5-b053-7437da89e262">
+      <Text>That’s how you know… it’s yours.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="f6dbbbdb-3b5e-43e9-9760-d0427a155325">
+      <Text>VOICE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="f85d5e68-ed75-4f2d-a2a9-4051bf3e31f0">
+      <Text>(Automated, glitching)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4af4f2ae-323c-486f-8495-5dd309891d40">
+      <Text>Biomass density… 115%. </Text>
+      <Text AdornmentStyle="-1">Scaf</Text>
+      <Text>-fold integrity… Absolute. World Food Summit… Pre-Feed… Audience count… Five billion… and rising.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="5c2028be-467c-4003-ba56-62022b76b117">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="976b076b-0b42-4983-ac42-0b419dfa88dd">
+      <Text>(Checking the holographic clock: 11:54 AM)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a586af2a-774d-425c-b1b1-d0bf405e28f3">
+      <Text>One minute to the final hour. One minute until we aren't just scientists anymore.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="98d83a03-ff84-4888-9317-7c2a48e1e2ff">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e4df58b4-e550-4ce1-90e2-7e885483af58">
+      <Text>(Straightening up, pulling Gobi with them)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9d029162-f040-40b3-b30b-068c58c01385">
+      <Text>Then stand tall, Marrow Designer. The world is about to find out that the future</Text>
+      <Text Font="Sans Devanagari Final Draft"> </Text>
+      <Text>has a pulse.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a1bc0cc1-ad75-42de-b526-ca97d114d35c">
+      <Text>GOBI and JACA stand side-by-side, their tethered arms glowing with the amber light of the vat. The broadcast drones hover in a silent, expectant ring around them. The thrumming of the heart becomes a heavy, clear drum, shaking the floor as the countdown hits 11:55 AM.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a0507c60-1fa9-461f-a3e9-24f4f8d4267b">
+      <SceneProperties Length="1 3/8" Page="22" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VOICE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. 11:54:30 AM. 30 seconds to the final movement.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="73fe0f56-aa5d-4d38-8781-1906de28bfb5">
+      <Text>The amber light of the vat has become a physical pressure, a gold-tinted fog that clings to JACA and GOBI. The thrum of the heartbeat is no longer just a sound; it is a displacement of air, a rhythmic shockwave.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="58dd911f-266c-409f-8b30-ed4814ac11c7">
+      <Text>JACA and GOBI are nearly indistinguishable from the machine. GOBI’S tablet lies forgotten on the floor, its screen shattered but still scrolling through a chaotic waterfall of "GO LIVE" commands from the World Food Summit.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="8776a476-508e-4e56-836a-b7f0b6fa09a4">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="9eac0fe9-a6fb-49f5-9f8b-d31c574b8440">
+      <Text>(Straining, eyes wide)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b296fe2b-90fc-46a2-9027-ff425d7d9146">
+      <Text>The acoustic fields… they’re starting to collapse, Gobi! The mass is too heavy for the levitation! It’s falling!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="14ea42e8-462e-4d6e-9f14-e71288ef014a">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="907ee80a-2921-464b-8405-d65d745cc693">
+      <Text>(Lunging forward, pressing both hands against the hot glass of the vat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aad4a488-98a4-4cba-8768-b8642ac32440">
+      <Text>No! It’s not falling! It’s… it’s landing! It’s finding the pedestal! Jaca, look at the density readout—it’s not gray soup. It’s solid!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="35f0927c-590e-4e0a-95a4-30cf03360f15">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="d8057ca9-ce53-4ed4-a5c4-2bf95e6612ad">
+      <Text>(Gasping as the biometric load reaches its peak)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2ec3cfc6-9f18-4293-89bb-d79c42681e3f">
+      <Text>It’s… it’s pulling too much… Gobi… I can’t…</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="959cfe10-bcd4-4f55-8bee-4af10416a88d">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="fdcd8765-8f0a-448c-b165-9910005383df">
+      <Text>(Turning, locking eyes with Jaca)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cd5f711-d0a4-4303-9b4d-bbdea7256e97">
+      <Text>Yes, you can! Look at me! Forty years of Ruby wings. Fifty years of London burgers. It all leads to this second. You aren't just a cultivator, Jaca. You’re the foundation! Hold the pulse! Give me ten more seconds!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="3ee9bb3b-0163-4afc-82f9-5b4dc5442529">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="cfab2278-fc87-4eec-8410-b73cc37d52bc">
+      <Text>(A primal, guttural sound of effort)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e4f54d7-a131-417c-ad16-2d15a742f653">
+      <Text>FOR THE FEAST!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="181511cf-6bf6-47d5-a81e-eea8b4c7a550">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="9b4e9aa0-db40-4371-8d84-42beee901241">
+      <Text>(To the World, screaming over the roar of the machinery)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9c09f493-aa18-4a8d-8164-d4952c3c4c1f">
+      <Text>"WE ARE NOT AFRAID OF THE WEIGHT! WE ARE NOT AFRAID OF THE HEART!"</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="682d84a1-03fe-4f71-8f98-15a592dcd4dd">
+      <Text>The 11:55 AM chime rings—a massive, orchestral bell sound that cuts through the thrum. The amber light snaps to a blinding, clinical white.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="cdca0197-61f5-4897-a5f0-b888628fa30f">
+      <Text>VOICE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="22e802e5-ef90-410f-ae8d-1063a71be7e4">
+      <Text>(Crystal clear, no longer glitching)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c974d548-25a1-43c8-bfdd-c84f5b233115">
+      <Text>T-minus five minutes to Global Harvest. All systems… Biological.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f69a50cb-6d0b-4f70-b307-6a11b6985622">
+      <Text>JACA and GOBI freeze in the white light, their silhouettes cast long and sharp against the pulsing monument in the vat. The broadcast drones snap into their final, aggressive geometry around them.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="d84ea31f-4226-40d3-9f08-fabe2a9269a3">
+      <SceneProperties Length="2" Page="24" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VOICE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. 11:55 AM. (Final 5 minutes).</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5d91b08c-7436-492d-9d12-f488b383e894">
+      <Text>The light is a blinding, clinical white. The amber warmth of the "Flash-Grow" has been bleached out, replaced by the cold, unforgiving clarity of a global broadcast.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bec18bdd-e0bb-489c-ac93-d8c142d72106">
+      <Text>JACA is slumped against the base of the bioreactor, face ghostly pale, tethered to the machine by glowing biometric filaments. GOBI is standing before a hovering holographic camera array. They look like a visionary, but their hands are buried in their pockets to hide the tremors.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="8290a2de-4ca9-4d3a-8bab-6b3c5bc74aeb">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="39444fbe-132e-4f33-ba45-1c279e82f4bb">
+      <Text>(To the air, whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3423322c-3459-4c04-89e3-4d93231776d1">
+      <Text>The CEO just sent a cease-and-desist to my ocular feed. They’re threatening to wipe our biometric IDs before the harvest hits the plate.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="138607cf-4579-4971-954f-327258b2893d">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="02992f52-d417-4478-ba48-e76e1b729c8f">
+      <Text>(Weakly, eyes half-closed)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="da6e8a94-60fd-4a5f-934e-48939e511374">
+      <Text>They won’t. They’re… cowards. They won’t kill the golden goose while the whole world is… watching the egg hatch.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="61337adc-d477-4236-985f-77c20caf8f6a">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ef1756f7-bce2-45a2-a0de-1e113b1c5f75">
+      <Text>(A dry, manic laugh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3160385d-bb44-4ce5-8388-2e236c152a03">
+      <Text>You and your bird metaphors. It’s 2063, Jaca. Nobody knows what a goose is.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="f10051cc-231b-410e-ab2d-6858b4f4d156">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd76fd20-3e71-49ee-ad39-1661e87436e7">
+      <Text>They’re about to find out… what a heartbeat is. (Jaca winces as a final surge of light pulses through the vat) Go on, Marrow Designer. The "Cloud" is waiting for its architect.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="3679485e-fa3a-4d8e-a314-aa91dcb91e51">
+      <Text>VOICE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c07339ec-9a52-4b91-b77f-7a2ad933d586">
+      <Text>(Automated)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="46aba8de-7d2e-461d-96a4-f49973843aaf">
+      <Text>WORLD FOOD SUMMIT FEED LIVE IN 60 SECONDS.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1db70012-86ae-46c5-8a5e-c8f3d145ec7a">
+      <Text>A beat.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="2ae2cae6-030c-47df-8526-6e614e3b348f">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="3f310f38-6443-407a-9a0e-a3b4812c09ef">
+      <Text>(They turn to look at Jaca, then back to the vat.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eb14629c-2413-4d3b-a2c0-6a75c0f9528b">
+      <Text>You called me spineless. You said my generation was too soft to handle the truth of the meal.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="15cfaf17-f35c-48fd-a351-4b79ea91c6ee">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="05230b5f-5a82-492b-b0c7-5c41d96ccba2">
+      <Text>(Smiling painedly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="962a2a59-b73c-4b90-9569-1d4af697a98d">
+      <Text>I was wrong. It takes more spine to build a world without blood than it does to keep spilling it. You’re not an architect of the empty, Gobi. You’re an architect of the Mercy.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="54316f01-a4b6-495a-9403-17527867dcab">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="1e5ac08a-f905-42b6-bac2-ae9b97b2947c">
+      <Text>(Turns to the holographic cameras, their voice suddenly dropping into a resonant, professional tone. They are radiant.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="17c06f88-0c85-483e-8428-70dc6604fd4a">
+      <Text>“Citizens of Earth. Welcome to the Golden Jubilee. Fifty years ago, we were a species in a death-spiral, consuming the planet to feed a hunger that required a mountain of bone and blood every single day. We didn't just kill animals; we killed the climate to house them.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="47416eec-003f-4a26-ad4e-b61acbb7b28f">
+      <Text>JACA watches them, their own heartbeat slowing, steadying on the monitor.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="01bded69-a7bf-45eb-b8ef-0583652e09e5">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2444f116-59a5-4f88-a13e-5c28d6774682">
+      <Text>“But tonight, we celebrate the Final Peace. This is Cloud Protein. It is pure, it is ethical, and it is the highest hallmark of our civilization. We have moved the harvest from the field to the foundry, not because we were afraid of the struggle, but because we were brave enough to end the slaughter. We have achieved the ultimate human courage: the choice to feast without a funeral.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2775f617-6554-4193-a1f9-b5b7c5bf5e8e">
+      <Text>GOBI reaches out and places their hand on the vat, next to Jaca’s. The amber light of the Cloud Protein pulses once, brilliantly, illuminating the entire stage.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="6893e363-2f15-485b-af0c-cff5403eb10e">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d36d90ab-3127-4522-a028-c11192551880">
+      <Text>“Look at the future. It is boneless. It is weightless. And for the first time in our history… it is truly alive.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3d394f58-5e56-4ac6-afdd-952cd03c032f">
+      <Text>The clock hits 12:00:00 PM, August 5, 2063. The acoustic levitation cuts out with a soft hiss. The Cloud Protein monument settles onto the obsidian pedestal—solid, glowing, and heavy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9ef716d9-2700-40ab-bdcd-dfc2ab12af58">
+      <Text>The lights snap to a blinding white blackout.</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="f1327382-5b59-494d-a562-071b537f4506">
+      <Text Style="Underline+AllCaps">Epilogue</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="51a84aab-fbd8-44e6-b8d4-79ccd651e00f">
+      <SceneProperties Length="1 5/8" Page="27" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GOBI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>The Precipitation Chamber. 12:15 PM. August 5, 2063.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f03c363-c977-4a2f-a1d6-79f40cea9097">
+      <Text>The "Global Feed" lights are dead. The room is in "Power Save" mode—a dim, cool violet. The bioreactor is silent for the first time in forty-five days.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="639ee325-3c05-4663-bb9b-d136fcb61c9a">
+      <Text>JACA and GOBI are sitting on the floor at the base of the pedestal. Between them sits the Cloud Protein monument. It has been sliced once. A small, surgical fork rests on a sterile tray.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="6d581f29-b78e-46a0-94ee-ab27fb843b6e">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="7d891167-c3dc-4918-a6b9-a3d989d87d64">
+      <Text>(Staring at the harvest)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="32d33a2d-e19f-4ee4-b7f9-dcd52db5aa10">
+      <Text>The Board just sent a mass-ping. They’re calling it the "Biometric Revolution." They’ve already trademarked your heartbeat, Jaca. They’re calling the new product line The Pulse.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="07b90374-da01-4f25-b3fd-8e891ad36d6f">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="1ec25082-b3ea-4d1f-9a64-40b6ee707a26">
+      <Text>(A tired, dry laugh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="30310e76-4d1e-4c74-83af-704ec62e271b">
+      <Text>Of course they are. They’ll sell "Mercy" by the kilogram.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="50fc0de9-5c78-463f-9616-e95a1167f17d">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="312caddb-1f29-4b84-99e1-2883da59c370">
+      <Text>(Picks up the fork, looks at Jaca)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e03174c5-c470-4a14-8627-2afd710213e3">
+      <Text>They want me to lead the new division. They want "Spines" in every vat from here to the lunar colonies. (A pause) They offered to let you retire. With full medical. To a re-wilding zone in the mountains. Real grass. Real rain.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="1fbe5613-20b4-4cfd-9b0b-a8b3b494f514">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="b4dfd544-7418-4ce3-a0fc-1823c46929e9">
+      <Text>(Looking at the "Boneless" meat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb14c3f1-25b9-4038-b39d-86177a9d838c">
+      <Text>Is that my reward for giving them a backbone? Or is it a bribe to keep me from telling the world that the "Cloud" is just a ghost in a machine?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="0810cc81-13e6-4ae7-84b0-2210bb6db849">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="37d10c6e-4dc0-4ba5-b9db-1b280afdfe5f">
+      <Text>(They take a small piece of the protein, hold it up)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8faad45-b5ce-46e4-87f5-3e840c8205aa">
+      <Text>Does it matter? If the world is full, and the forests are growing... does it matter if it’s a ghost?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="a873c614-f567-47f7-9f65-379bedc14b5c">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="30c207df-81c5-424a-aac8-b480d363059b">
+      <Text>(Taking the fork from Gobi)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f23f679d-d462-4383-8937-3a21541a0e79">
+      <Text>Only if you forget how to taste it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="eb0e6744-e493-4032-9405-27c8f6463c7c">
+      <Text>JACA takes a small bite. They chew slowly. Their eyes close. A long silence.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="090a7dfc-7be8-4a34-96d9-647659e7c6ee">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="5177f28e-62dd-4f08-8859-f97ebb82eef8">
+      <Text>(Whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7b537d37-8cd7-4c23-9f37-90e37ccf6066">
+      <Text>Well?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="2848cf3e-f247-472b-9fcd-751eaa8e088c">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="50974275-d078-4267-b5ea-177722915311">
+      <Text>(Opening their eyes, looking at Gobi)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="54c611c8-a859-4b99-91ac-8214f50bf66c">
+      <Text>It’s not perfect. It’s... too kind.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="6bb10e23-646c-4e66-839e-b4495fc2adf2">
+      <Text>GOBI</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4dbb8c85-70a0-46d7-8de5-115f70271305">
+      <Text>(A small, defiant smile)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3fb6f6dd-18da-439c-8441-96d43170b81e">
+      <Text>I’ll work on the "resistance" for the 60th anniversary.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character" id="a6734672-dbd2-4cec-afcb-05804cc7900a">
+      <Text>JACA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="088228a4-e4a5-42a6-b851-9c466db18d76">
+      <Text>(Nodding)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a840bbbb-61f2-4d9e-b0c8-2e3dc2693f34">
+      <Text>You do that, Marrow Designer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f52e3714-e2e5-48ca-a4de-562cf05d1c90">
+      <Text>JACA offers the fork to GOBI. GOBI takes a bite. Outside the bio-foundry, the sound of a 2063 rainstorm begins a natural, heavy sound. The pulse of the meat on the pedestal slowly fades as the biological energy dissipates, leaving them in the dark.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Boneless      	   </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="720" Left="0" Mode="Maximized" Top="0" Width="1366"/>
+
+  <TextState Scaling="100" Selection="36,36" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.38" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="6.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="7.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Character" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Act Info" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Break">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Break"/>
+    <Behavior PaginateAs="Action" ReturnKey="Act Break" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Titled">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Titled"/>
+    <Behavior PaginateAs="" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Info"/>
+    <Behavior PaginateAs="" ReturnKey="Scene Info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Lyrics"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Info"/>
+    <Behavior PaginateAs="" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End Of Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End Of Act Info"/>
+    <Behavior PaginateAs="" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">The Living Fossils</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Logline: A teenage biochemist and her talking horseshoe crab companion embark on a mystical adventure to Fossil Island, where they must face ancient creatures and ungodly technology to find her mother, who was lost at sea.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Aardvark</Character>
+      <Character>AarDVARKs</Character>
+      <Character>Amami Rabbits</Character>
+      <Character>ATV</Character>
+      <Character>Crowd</Character>
+      <Character>Cát</Character>
+      <Character>Dino</Character>
+      <Character>Dàn Xuân Thanh</Character>
+      <Character>Gobi</Character>
+      <Character>guard</Character>
+      <Character>Horseshoe Crabs</Character>
+      <Character>Host</Character>
+      <Character>Jaca</Character>
+      <Character>Jaca &amp; Cát</Character>
+      <Character>Jaca &amp; Jaca
+</Character>
+      <Character>Kid</Character>
+      <Character>Kids</Character>
+      <Character>Kooky</Character>
+      <Character>MOrgan</Character>
+      <Character>Nurse</Character>
+      <Character>Officer</Character>
+      <Character>Phone</Character>
+      <Character>Producer</Character>
+      <Character>Reporter</Character>
+      <Character>Researcher 1</Character>
+      <Character>Researcher 2</Character>
+      <Character>Young Jaca</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Phone)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>LIVING ISLAND</Location>
+      <Location>HAIPHONG HOSPITAL</Location>
+      <Location>UNDERWATER</Location>
+      <Location>OCEAN</Location>
+      <Location>Jaca &amp; Jaca
+'S ROOM IN HAIPHONG HOSPITAL</Location>
+      <Location>FOSSIL ISLAND</Location>
+      <Location>SEA</Location>
+      <Location>TALK SHOW SET, STAGE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LAB</Location>
+      <Location>CÚC PHUONG NATIONAL PARK, VIETNAM</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LIBRARY</Location>
+      <Location>CÚC PHUONG NATIONAL PARK DOCK</Location>
+      <Location>FOSSIL ISLAND BEACH</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION STAIRCASE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION PARKING LOT</Location>
+      <Location>HIGHWAY</Location>
+      <Location>FOSSIL ISLAND CLIFF</Location>
+      <Location>PORT NEWARK</Location>
+      <Location>EAST COAST</Location>
+      <Location>FOSSIL ISLAND BAY / EXT. UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LOBBY</Location>
+      <Location>FOSSIL ISLAND - BAY &amp; UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION - LAB</Location>
+      <Location>BANGOR RACEWAY</Location>
+      <Location>CONTAINER</Location>
+      <Location>CARGO SHIP - BRIDGE</Location>
+      <Location>CARGO SHIP</Location>
+      <Location>GREEN ROOM</Location>
+      <Location>FOSSIL ISLAND - UNDERWATER</Location>
+      <Location>HANOI-HAIPHONG EXPRESSWAY</Location>
+      <Location>FISH MARKET RESTAURANT</Location>
+      <Location>BAKERY</Location>
+      <Location>LAN HA BAY</Location>
+      <Location>GULF OF TONKIN - CAT</Location>
+      <Location>GULF OF TONKIN - Jaca &amp; Jaca
+ BÀ ARCHIPELAGO</Location>
+      <Location>ELEMENTARY SCHOOL</Location>
+      <Location>FOSSIL ISLAND - BAY</Location>
+      <Location>FOSSIL ISLAND - BEACH</Location>
+      <Location>SAILBOAT - CABIN</Location>
+      <Location>SAILBOAT</Location>
+      <Location>THE SEA</Location>
+      <Location>THE SAILBOAT</Location>
+      <Location>MONKEY ISLAND - BEACH</Location>
+      <Location>HAIPHONG HOSPITAL - HALLWAY</Location>
+      <Location>MONKEY ISLAND - CIVILIZATION</Location>
+      <Location>HAIPHONG HOSPITAL - EMERGENCY ROOM</Location>
+      <Location>EMERGENCY ROOM / U.S. NAVY OFFICE</Location>
+      <Location>HAIPHONG HOSPITAL - LAB</Location>
+      <Location>HAIPHONG HOSPITAL - DR. THANH'S OFFICE</Location>
+      <Location>NORTHEASTERN UNITED STATES</Location>
+      <Location>BANGOR INTERNATIONAL AIRPORT</Location>
+      <Location>PHO RESTAURANT IN BANGOR, MAINE</Location>
+      <Location>GOVERNMENT OFFICE</Location>
+      <Location>AIRBUS</Location>
+      <Location>BANGOR INTERNATIONAL AIRPORT - ARRIVAL GATE</Location>
+      <Location>Jaca'S BEDROOM</Location>
+      <Location>TRAN'S HOME</Location>
+      <Location>HAIPHONG</Location>
+      <Location>THE CITY OF HAIPHONG</Location>
+      <Location>KARAOKE BAR</Location>
+      <Location>LAN HA BAY - CLIFFSIDE</Location>
+      <Location>SWING SET</Location>
+      <Location>SHACK</Location>
+      <Location>Jaca NATIONAL PARK</Location>
+      <Location>ATV</Location>
+      <Location>MONKEY ISLAND</Location>
+      <Location>HAIPHONG, VIETNAM</Location>
+      <Location>[SLOW FADE TO BLACK]</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>MINUTES LATER</TimeOfDay>
+      <TimeOfDay>HOURS LATER</TimeOfDay>
+      <TimeOfDay>AN HOUR LATER</TimeOfDay>
+      <TimeOfDay>MIDMORNING</TimeOfDay>
+      <TimeOfDay>SHORTLY AFTER</TimeOfDay>
+      <TimeOfDay>NOON</TimeOfDay>
+      <TimeOfDay>INTERCUT</TimeOfDay>
+      <TimeOfDay>DAY &amp; NIGHT</TimeOfDay>
+      <TimeOfDay>STRATOSPHERE VIEW</TimeOfDay>
+      <TimeOfDay>ANOTHER DAY</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+      <Transition>Zoom in:</Transition>
+      <Transition>Cutaway to:</Transition>
+      <Transition>Return to:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="12/12/25" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Aardvark"/>
+    <Member Actor="" Character="AarDVARKs"/>
+    <Member Actor="" Character="Amami Rabbits"/>
+    <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="Crowd"/>
+    <Member Actor="" Character="Cát"/>
+    <Member Actor="" Character="Dino"/>
+    <Member Actor="" Character="Dàn Xuân Thanh"/>
+    <Member Actor="" Character="Gobi"/>
+    <Member Actor="" Character="guard"/>
+    <Member Actor="" Character="Horseshoe Crabs"/>
+    <Member Actor="" Character="Host"/>
+    <Member Actor="" Character="Jaca"/>
+    <Member Actor="" Character="Jaca &amp; Cát"/>
+    <Member Actor="" Character="Jaca &amp; Jaca&#xA;"/>
+    <Member Actor="" Character="Kid"/>
+    <Member Actor="" Character="Kids"/>
+    <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="MOrgan"/>
+    <Member Actor="" Character="Nurse"/>
+    <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Phone"/>
+    <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Reporter"/>
+    <Member Actor="" Character="Researcher 1"/>
+    <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Young Jaca"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="GOBI" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="JACA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VOICE" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="Order" TableIdentifier="NavDynScenes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="600,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="c182cd4e-ef72-4f4c-b3ca-a866f235b80d" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="9f25c9a1-6c03-4a2d-a974-0d73c8d529c8" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab Selected="Yes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>

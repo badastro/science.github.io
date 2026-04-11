@@ -1,0 +1,2032 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20260114T074357" id="e516c13e-66d0-4adb-a613-32abd31758b1">
+    <XRef DateTime="20260114T074220" id="7e425f40-8087-4f45-a516-b1956f9b480b"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Scene Heading" id="85e88ee6-dc64-42f0-893b-1652a1855b83">
+      <SceneProperties Length="1 6/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOLLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JOJO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rowan’s Bedroom - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d7e34bdc-cab1-47ad-a320-45a1293784d9">
+      <Text>The room is a mess of papers and electronic music gear.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="359135e6-efbd-40b7-8f30-97a65cb2ae1d">
+      <Text Style="AllCaps">Through the camera:</Text>
+      <Text> </Text>
+      <Text Style="AllCaps">Rowan Corazon</Text>
+      <Text> (21, Hispanic, Lo-Fi Girl) sits at a desk. She wears oversized headphones, staring at a diagram of a bird in a textbook. A red REC icon glows in the corner of the frame.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="80cc1ccd-d5fb-49e5-acb4-7eb8f346f8ea">
+      <Text>Suddenly, Rowan’s stoic expression breaks. She looks directly into the camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="335c6fc4-e959-47f1-a489-ae8b5f0467dd">
+      <Text>Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9bf06f5e-db62-4865-9ba1-b59f80bec841">
+      <Text>Are we good?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f56e9cd-23a3-4c02-a0d7-c0adcabd40b9">
+      <Text>The recording icon vanishes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f56e9cd-23a3-4c02-a0d7-c0adcabd40b9">
+      <Text Style="AllCaps">Maya Easton</Text>
+      <Text> (21, Black, pretending to have a director’s hat on) speaks from the shadow of the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="76027c73-93f3-4b8f-8845-c4bd7e3f4fcc">
+      <Text>Maya (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="19d221f1-a764-43a1-a6eb-4709530bdba7">
+      <Text>Nope. Keep going.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f8aa2dfc-facb-4148-aa9a-9fc5d38d9be0">
+      <Text>RowAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5b114dc0-e9fd-40ba-8800-496e2a90b1ce">
+      <Text>Don’t look studious enough for you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dd48fd9d-7d7e-4a4b-84e1-21db38d34de5">
+      <Text Style="AllCaps">Back to scene:</Text>
+      <Text> </Text>
+      <Text Style="AllCaps">Holly Greene</Text>
+      <Text> (21, knows everything) peers through the viewfinder of a camcorder mounted on a tripod.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e8820e30-d176-45c7-b83d-5b9dd2b328d0">
+      <Text>Holly</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f64bd340-7b2a-4302-89ef-3c46034837de">
+      <Text>Stay in the zone, Rowan. For a sec there, you looked like you know what you’re doing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4df26332-8c94-4822-b86b-4111bc3015ca">
+      <Text AdornmentStyle="-1" Style="AllCaps">Jojo</Text>
+      <Text Style="AllCaps"> Horne</Text>
+      <Text> (21, Asian, genderless, wild) sits on the edge of the bed, absentmindedly drumming pencils against a stack of hardcovers. Maya leans against the bedframe next to them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ae691a4a-cbbc-4989-be99-d198e2fc03cf">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="618e30ff-1948-436a-a194-f3f86b3f0c33">
+      <Text>We need a long, continuous take. Don’t break.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e0fc079a-9787-4a51-bed9-95ab3de7f609">
+      <Text Style="AllCaps">Through the camera:</Text>
+      <Text> Rowan groans and rubs her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e371dd76-3c3f-495e-94bb-8432b8c99d4d">
+      <Text>RowAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8735806a-4277-48a8-8b9b-6ad80f91517d">
+      <Text>Can’t we just loop what we’ve got and call it a night?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0f9fe7a7-c35b-4604-a485-92b007a72640">
+      <Text>HoLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d198dee0-4eed-4407-baa5-ab0812e3ed27">
+      <Text>Look at the bird.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a542ddb6-ed90-47e9-afdf-2ea572efb98b">
+      <Text>Rowan raises her middle finger towards the camera.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="28f14684-2590-4297-b8e1-a8a33c292097">
+      <Text>Holly (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fbc33cc2-ac47-4579-8df1-3612c8cafa24">
+      <Text>Okay... Give me the bird. Sure.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ea7251a5-4575-408e-bfbc-e84d7a918b23">
+      <Text Style="AllCaps">Back to scene:</Text>
+      <Text> JoJo continues tapping.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="501cf3a1-245e-46e8-84c3-b5096ac6a59c">
+      <Text AdornmentStyle="-1">Jojo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a886f653-3200-4749-8a30-77f6ac6f1414">
+      <Text>The internet knows fake. They wanna see a page turn. Get the </Text>
+      <Text Style="Italic">vibe</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="657806b6-ca1a-4e30-9151-bdbbf83ecc03">
+      <Text>Holly</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2641936c-f0ae-4c10-9aa5-d1c6b5d3253e">
+      <Text>Exactly. Authenticity!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a85e3d94-140e-4074-b6a8-7e7b2a7ca2c8">
+      <Text Style="AllCaps">Through the camera:</Text>
+      <Text> Rowan sighs and gets back in character. As JoJo taps, the bird diagrams in the textbook morph into musical notations in her mind.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e2e90d50-5680-4026-a781-c5e0b27b7b7b">
+      <Text>Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ad278c53-ff50-4b93-a225-f068775ec253">
+      <Text>I miss playing with y’all. This playing pretend is killing me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3d56a47f-0d18-47dd-98bd-983177cfaa92">
+      <Text>Maya walks into the frame, leaning over Rowan’s shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f3549df2-5c4b-4f21-a0cf-0e7714a0349c">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bf946c16-70ac-4018-ac8a-f8e2544e498e">
+      <Text>Look on the bright side: we’re giving the nerds what they need. A music video for our lo-fi tracks to survive finals week. Including you. Hoot!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0333b880-f0ce-45e4-880c-379bcb6662f4">
+      <Text>Maya adjusts Rowan’s headphones and steps out of the shot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7939b4f3-c923-488b-9b0c-f118cd02f7da">
+      <Text Style="AllCaps">Back to scene:</Text>
+      <Text> A Light Owls lo-fi track overlap the scene. By the bedframe, Maya is harmonically hooting. JoJo's pencil-tapping sounds like a </Text>
+      <Text AdornmentStyle="-1">cajón</Text>
+      <Text>. Holly is mimicking a violin with another tripod. She hits the record button on the camcorder.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3c1df738-ffbc-4874-9289-abe614b23666">
+      <Text Style="AllCaps">Through the camera:</Text>
+      <Text> The </Text>
+      <Text Style="AllCaps">rec</Text>
+      <Text> icon reappears. Rowan flips a page on the textbook.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0eaa1b7e-926b-442b-b2cd-36f5afce6be5">
+      <SceneProperties Length="3/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Computer Screen - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="041960c0-d55c-47e1-be5c-bfe92a7c92f3">
+      <Text>Light Owls track continues playing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="041960c0-d55c-47e1-be5c-bfe92a7c92f3">
+      <Text>A cluttered desktop is filled with files: animal-behave-final.</Text>
+      <Text AdornmentStyle="-1">pdf,</Text>
+      <Text> lab-results-v5.</Text>
+      <Text AdornmentStyle="-1">pdf,</Text>
+      <Text> lab-results-v7.</Text>
+      <Text AdornmentStyle="-1">pdf,</Text>
+      <Text> etc.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cb61bcd2-35e3-4b80-a1af-cc937732f1f2">
+      <Text>A cursor drags the “poor-rowan.</Text>
+      <Text AdornmentStyle="-1">mp4”</Text>
+      <Text> file into a YouTube upload window.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="161c4dfc-15b5-414a-83c2-de7ebb3428e3">
+      <Text>The progress bar crawls forward.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="161c4dfc-15b5-414a-83c2-de7ebb3428e3">
+      <Text>In the </Text>
+      <Text Style="AllCaps">title box</Text>
+      <Text>, the cursor blinks then types: LIGHT OWLS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="697300ce-4706-4694-8848-fc4d4d5acee3">
+      <Text>The upload hits 100%.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="10be7062-672b-4563-9973-59e073cc56f8">
+      <Text>The track ends. The screen goes </Text>
+      <Text Style="AllCaps">black</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="b22e5fd5-98a6-4170-bc8b-f8ec499acfbf">
+      <SceneProperties Length="1 6/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOLLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JOJO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Living Room - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d4080875-a7a5-4eb4-a21f-42110e60b5fb">
+      <Text>We see a laptop shut off. Rowan slams the laptop lid shut.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9e78d274-9d7f-4368-bb0e-12754bf56856">
+      <Text>MayA (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ed3c553f-3787-48b7-bde0-ffacc7c29916">
+      <Text>Go to bed, girl. You’re done.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3a595e1d-6b20-49c2-aa57-e3aeddbb6b5b">
+      <Text>The laptop sits on a table, pushed aside to make room for a mountain of empty takeout containers and Holly’s violin case.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1a0620e7-126b-4ea7-aa5f-49545e2eed4e">
+      <Text>Rowan collapses, draping herself over Maya and Holly on the couch. JoJo is already dozing off next to them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="34eb9341-c464-4377-bd88-0e6f9ca775e8">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e8280b62-5ed4-4cc3-845f-08fc04d99c4e">
+      <Text>I’m so done with you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa4d7480-6450-4a39-b268-7020ea07e506">
+      <Text>HoLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1caf68f9-2baa-4d69-bb2d-4ac4dfe4a428">
+      <Text>JoJo is done with all of us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f66082fe-2e70-40f8-a836-b0b6c5ff4b6c">
+      <Text>Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="18f67dbd-49b6-4dc6-a2a0-2cc15bf8e602">
+      <Text>(Muffled)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6ddf7623-661d-4232-9010-cbb3878a7104">
+      <Text>You think a Light Owls music video will get more views than our first album on Bandcamp?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d43fd5a-89e3-4a2e-8783-e58b6f9b28dd">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f51cefc8-61f5-4f62-9456-89af4d168975">
+      <Text>By the laws of our lord </Text>
+      <Text Style="Italic">algorithm</Text>
+      <Text>, a video has more reach. Fanatics listen to us on Bandcamp. Addicts shall watch us on YouTube.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2afaa8d5-4030-4de0-a16e-f023940de4d9">
+      <Text>Holly checks her phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d8f154aa-95ad-4dcf-a9b5-bc333cb0ed48">
+      <Text>HoLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bf823e03-997f-47c9-9433-52675469f4bb">
+      <Text>People are hitting up the chat. Hmm... Someone just asked if the bird in the textbook is a hint we’re releasing new tracks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8b4ee784-7b9c-4744-9f31-008a5225f778">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5864c0b3-89d4-47d4-8a61-fbc2c2cdec61">
+      <Text>It’s a hint I’ll fail ornithology.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a80c3328-12ee-4a28-b055-6b7f1e4cba37">
+      <Text AdornmentStyle="-1">JoJO</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="529db2ba-e544-4c6b-9741-a4f9bb11a621">
+      <Text>(Murmuring)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0018dc83-979c-4193-9495-d5b21f693ed6">
+      <Text>Word is... bird is the word...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="af2aabfe-d543-48a3-b966-917170fe9540">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="85072407-0037-484a-8390-e7995cd94e93">
+      <Text>What new thing do they expect from us? All we do is hoot.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="12aae3c0-2000-4152-8de9-ac6b65e802b0">
+      <Text>HoLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="129ba3b6-1c1b-42b4-bfe9-1436484030ee">
+      <Text>Maya. That’s your thing. While I... </Text>
+      <Text Style="Italic">pull the strings</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="26b00a6e-3766-444b-b54f-54d5981a5534">
+      <Text>Holly motions like she is playing an invisible violin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c70d29c6-6fe6-48c3-9a9c-2cd4dad20643">
+      <Text AdornmentStyle="-1">JOJO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba919d2b-46b0-42c5-973e-fc3263e4d90a">
+      <Text>Holly. You fiddle... around...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f7654698-7018-46a4-963e-ca41c1a749c7">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="092e3161-e6d2-4d52-a3f3-e90475313ca7">
+      <Text>JoJo... You’re good a drummer as you are sleeping.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74057a83-eb1c-4857-bcf1-e4fd4b109ab9">
+      <Text AdornmentStyle="-1">JoJO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0885f9bb-b315-41a5-9a83-49564391dfd2">
+      <Text>I ain’t... sleep... good...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f1edcfa1-9111-4033-8417-8381c704a9ca">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9b4c324d-0432-4000-8242-5a7c6ce66d89">
+      <Text>Rowan, seriously, go to sleep. Animal behavior’s your last final. It’s soon. Don’t animals sleep too?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2bacc3f5-eeb0-4eb3-a41b-293c7484cffe">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e8cb44d2-dd22-44d7-a599-52e9d417557f">
+      <Text>All animals sleep.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ecc6c205-bc13-466d-ac7b-27c2aa404fbc">
+      <Text>HoLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="47fb338d-deb2-4c30-840c-d873db361fb1">
+      <Text>But the songbirds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0f04fb7c-cf08-4afa-bd1c-3994b0a37b73">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="212a90c3-0202-4bfe-a7eb-fabe9ce2d97c">
+      <Text>Light Owls will get there.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9e3396dd-5468-47df-929b-508a373f801c">
+      <Text AdornmentStyle="-1">JOJO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c241d6e3-6970-4ec5-9c98-917ff4c6be08">
+      <Text>Last hoot before we hit dreamland?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a51424d-89b4-493f-98fb-ed5a6167c57a">
+      <Text>The bandmembers harmonically hoot into the night.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="522f8a8a-3367-4ddf-b9f1-2399c6f849ee">
+      <Text Style="AllCaps">Montage:</Text>
+      <Text> We see various high school and college students study with Light Owls on their desktop, tablets, phones, or on a browser tab.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="36af897e-62b1-46fb-a7cc-2afcb6e721de">
+      <Text Style="AllCaps">End montage</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="60261a57-ff3b-4940-a8e1-f26be7076f89">
+      <Text>The hoots grow frantic. It morphs into a phone alarm.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="76a8eecf-bbb1-4439-a1ac-cc94644108c4">
+      <SceneProperties Length="2/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. ROWAN'S BEDROOM - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="45487cb5-cf0b-492b-aa02-f77f9f1503b5">
+      <Text>The phone reads: 10:21AM. Rowan’s hand hits snooze.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f3f36489-f02e-44bb-b94d-eef46e44f458">
+      <Text>RowAN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="6fdb2a47-33ae-4055-a38f-5b0abd27bfb5">
+      <Text>(Murmuring)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8007145a-aa8d-4a11-a561-5a135df016ef">
+      <Text>Hoot... Hoot...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2b2cb6ea-ccbf-4882-bf66-f495badc70bd">
+      <Text>Rowan looks up. The phone suddenly reads: 2:54PM. Rowan freaks out and dashes off.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="32a08695-4d28-4509-9256-3708bb25d260">
+      <SceneProperties Length="2/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Subway Train - Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9d7bf615-b720-404c-abe2-399f43621b5c">
+      <Text>Rowan frantically reads through a textbook. She reads through a section about peregrine falcon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b1efc6e4-cc12-47b7-b049-2deb108d3a83">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="336ef1df-7acb-4207-a5a1-7c994a607782">
+      <Text>Peregrine falcon can dive over 300 kilometers an hour. If only Subways can go a fraction of the speed...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="15edc50b-fe82-4155-8ceb-cc2725235e47">
+      <Text>When the train reaches the Hunter College station, she exits.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="d84d0d40-aad4-4acf-9d63-830b2f473adf">
+      <SceneProperties Length="6/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Hunter College Gate - Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c7c99ccb-2cd2-44bf-883c-3464a4f7aaa8">
+      <Text>Rowan stands frozen as </Text>
+      <Text Style="AllCaps">students</Text>
+      <Text> stream past her. Then, the </Text>
+      <Text Style="AllCaps">teacher’s assistant</Text>
+      <Text> approaches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="52d83195-4e82-4955-994c-fd7a8c4b0a07">
+      <Text>RowaN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a5598d93-39f7-403d-9820-65a04b4768f4">
+      <Text>I’m so sorry I’m late-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8898d04c-fe4e-4f65-a824-4c7427a72a2e">
+      <Text>TA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8ea094d4-cb2c-4fc5-8c4c-2ff2b6324078">
+      <Text>Hibernating? It’s unlike you. But it’s what happens when you stay up ‘til 6AM.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d70b05ed-cc38-46aa-a73d-51c189018e7d">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8ce2bc93-739a-43bd-85d1-b6b20ad2ff53">
+      <Text>How did you know-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3a922e7b-dd58-4927-ae84-a216126fa581">
+      <Text>TA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="82be49a5-b3d5-4fa8-88e7-c46e6d0c34b4">
+      <Text>Light Owls uploaded your music video ten hours ago. I enjoyed it. It helped me prepare myself for proctoring today’s final.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a9e66541-716a-484e-8275-69a07a6af07a">
+      <Text>Rowan almost passes out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="44dbfcd6-9d71-4931-800a-c80b06f51496">
+      <Text>TA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0739b8ed-c820-4907-971a-0aab603b14eb">
+      <Text>Final’s not final. You have another chance with the make-up exam. Maybe you could use your track to put yourself to sleep earlier?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="589d2c68-890d-4948-9c2b-04ee89c4b70e">
+      <Text>The TA walks away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f4377e5c-391e-4149-8635-affb76aa6f85">
+      <Text>TA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e1ab1422-fe0f-42c7-9dd6-d1f322d8d337">
+      <Text>Be on your best behavior!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8239004e-a8ca-4924-8bb8-aabcfcfcd7b2">
+      <Text>Rowan stands frozen.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="39c9c939-338b-4d88-bbb1-96769d413372">
+      <SceneProperties Length="2/8" Page="6" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Subway Train - Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c5637c73-5cdd-4f19-ad13-e3b6897434a7">
+      <Text>Rowan sits pressed against the rattling window. She watches her reflection in the dark glass.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="809370db-982b-4f4f-8521-f76e05e77f42">
+      <Text>Next to her, a </Text>
+      <Text Style="AllCaps">teenager</Text>
+      <Text> wears oversized headphones. Their eyes are closed, nodding to a rhythm Rowan recognizes. Rowan reaches out, her hand hovering near their shoulder, wanting to ask: </Text>
+      <Text Style="Italic">Do you see me? Or do you just see the girl in the loop?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3694a84b-12e7-4b31-bb70-9480d19b75fc">
+      <Text>Rowan pulls her hand back.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="02d7e53c-7169-41fd-bdca-e0a032cab5d3">
+      <SceneProperties Length="6/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JOJO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Maya’s Apartment - EvENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="87dfb563-b214-498c-a684-e12fef670d39">
+      <Text>Rowan knocks on the apartment door. Maya opens it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="92023aa0-3903-4c9f-ad6a-aaac204b48d5">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3d09a7e5-3d5c-477c-9086-a5b033b43371">
+      <Text>What do they say: like shooting fish in a barrel?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2b31308d-654f-483e-80d2-98b912e7e5ec">
+      <Text>RowAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b49810ef-c748-4f0e-a5a7-51c979fd995f">
+      <Text Style="Italic">Like shooting me with a barrel</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7c4cb9c5-9b6a-4297-a282-799ac857cafd">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13cf56b7-41b8-42c0-be24-efff09eb8d44">
+      <Text>Um... Sounds like finals went well.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a8a40191-28af-491e-8ec1-018ab63dff2f">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="40ac3b86-2bdb-4976-8c68-9541b04c9b23">
+      <Text>Well...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ae49858c-6518-4dfd-9fcd-8c1a788f414d">
+      <Text>Maya pulls out her phone and shows their YouTube video.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5f1e3def-755b-418e-8ce7-beb46fc159a6">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="16a28af2-8caf-4a9a-a351-7edc01f4e3bc">
+      <Text>Here’s the cherry on top. We’re trending in three continents, especially South Korea, studious people there. We’re more viral than the Lo-Fi Girl!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4105ecc7-fa35-4445-a3b3-eac341750258">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="366935ac-b9b2-4330-b281-d0f778ad0ca1">
+      <Text>I lowkey don’t...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5205460a-447f-4bd1-8075-92de5bf467f8">
+      <Text AdornmentStyle="-1">JoJO</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db42a9d4-df0c-47e8-8302-0378792c3df9">
+      <Text>Lowkey don’t what?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0fc400ea-7002-4ba8-b31d-fb939ed81541">
+      <Text>Rowan turns around to see JoJo and Holly in the hallway. They got snacks in hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bd3036ca-eb63-48f5-9ff6-04da192a9681">
+      <Text AdornmentStyle="-1">Jojo</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0c732c11-0172-4fb5-ad5f-4cbb6619c1e2">
+      <Text>Lowkey don’t wanna wait for this party to get started!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="12669374-03fc-4119-a72d-c680247edcd7">
+      <SceneProperties Length="1 7/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HOLLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JOJO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Maya’s AparTMENT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="45dcd99c-b7fd-4815-b55e-a579a0e4b143">
+      <Text>With snacks on the table and everyone seated around, Maya shows their Light Owls study video on the TV.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cfbd7f85-2771-4420-8251-270502860075">
+      <Text>HollY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="01e6dcca-95ea-479e-8596-9d5da1766c59">
+      <Text>Light Owls strikes again. We’re getting everyone studying.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fb60dc78-4735-4ad6-b83e-aae80df9752b">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="feecb055-38b5-4245-99ce-10dadebe9674">
+      <Text>It’s a public service.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7d3d2003-f46c-46db-9239-8b1baf8e0c2c">
+      <Text AdornmentStyle="-1">JoJO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ff1e45a6-eaa2-48dd-95ba-0a67e78dec90">
+      <Text>And the ads will make us money!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f2c065e5-2ba7-4de5-b99a-835b59d3a8e5">
+      <Text>RowAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e2a87cd-d8a7-4efa-9b89-a9fa24092ee1">
+      <Text>Light Owls is helping everyone succeed...</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c461bb09-a859-45b4-9733-ff6e5eaface5">
+      <Text>(Mumbling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e2a87cd-d8a7-4efa-9b89-a9fa24092ee1">
+      <Text>But not this night owl.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7793e901-3bc0-4189-b2d7-11c71ef7b42e">
+      <Text>Rowan’s phone receives two notifications. A Hunter College email about the makeup exam and an email from a producer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="955fc95a-3c00-4bb0-9867-31394476b660">
+      <Text>She reads through it and checks the date. She reads the other email from an acclaimed producer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="caf37191-0f62-4de3-a124-dfb43c0efbc2">
+      <Text>The producer offers Light Owls a licensing deal and would like them to meet with them on this date, the same date as the make-up exam.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7f112e8c-3eb5-4c67-b430-30abc47c807e">
+      <Text>Rowan looks at her friends and almost says something.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cff6e69e-d90b-481b-9662-599601ce04a2">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aabf41cd-5318-4c88-a754-2da8521d0ef5">
+      <Text>You’re shaking...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b511943c-6b5c-4cc2-b9e9-795f7cca7d7c">
+      <Text>Rowan hides her phone. She looks at the TV, where the digital version of herself is eternally flipping a page.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7ce641e3-a9fd-4ee0-957f-5eb39404cc91">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c6a928d8-8ff4-49f4-bb03-d16d9a82162a">
+      <Text>JoJo’s base always gets to me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="18167cb6-1d24-492a-84c5-66a1526a8023">
+      <Text>HoLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4500c755-8d3e-4908-96eb-4682b1f3d3f0">
+      <Text>Our future can be so basic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1b2d22f3-f915-49b9-a501-a9d284428e4d">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4b166b6c-8aee-4dd7-ba6b-b288cfb52b23">
+      <Text>No more takeout.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4068f0bc-30a1-4dd0-9d95-452a36f19373">
+      <Text AdornmentStyle="-1">JoJO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f9aa21e4-2bef-4c91-9311-baad1af04a50">
+      <Text>All you can eat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="86b8b8a9-ab0a-478b-abe8-a0027734cb0c">
+      <Text>JoJo taps a rhythm on the table. </Text>
+      <Text Style="AllCaps">Tap</Text>
+      <Text>. </Text>
+      <Text Style="AllCaps">Tap </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">tap</Text>
+      <Text>. Holly joins in, rubbing a bag of snacks. Maya shares her vocals. The room becomes a microcosm of sound.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="86b8b8a9-ab0a-478b-abe8-a0027734cb0c">
+      <Text>Rowan feels the vibrations settling in her chest. She stands up abruptly. The rhythm breaks. The silence is thick.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="46d28658-3dd8-407e-8ddf-a67d81d8ac96">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13183564-7ce2-4cca-823a-0cfec0f2619e">
+      <Text>Rowan?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d4c5d4d0-85ac-4c72-bc23-189e5a519bd0">
+      <Text>Rowan walks to the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fc5638a6-6c61-45bd-932f-58569668e60a">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="669391bb-76bb-4fbb-af03-63e1ccc4f99f">
+      <Text>I’m a textbook bird, y’all. I seem real, but I’m really just ink.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5c09fdce-ddfd-4671-9589-e11ac087e422">
+      <Text AdornmentStyle="-1">JoJO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a4bd5df9-8ec9-40df-bbe0-424ec696899f">
+      <Text>You’re coming around. Birds aren’t real.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a113972c-e482-4483-9f09-c20c814229bf">
+      <Text>HoLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9a78746a-3a62-4ff8-b104-251362068cc7">
+      <Text>That’s a conspiracy theory...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="43bfb658-6ad5-424f-b43f-9e9a0e65302f">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="750804a5-83c2-4c67-afc9-331bebcfabe7">
+      <Text>Shut it, you two. Ro... Ink don’t make music. You do.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f9777337-256d-4c4b-834f-9c7b9e3e3ef7">
+      <Text>Rowan looks at her reflection in the glass, then at the two notifications still burning in her pocket.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bb0b7fad-6d9c-40d7-9d61-96ace65d3acd">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="20d2a061-d2a9-4375-bf04-6a83a1aad3ba">
+      <Text>I </Text>
+      <Text AdornmentStyle="-1">needa</Text>
+      <Text> go.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e0399ea7-e3a5-4dd9-9dce-0cbbb94f89fd">
+      <Text AdornmentStyle="-1">JoJO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7d5f42b6-ffad-4bad-bd76-b1deb418a934">
+      <Text>The party’s just starting.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1a3cf91d-c85f-42a5-a30e-67cd5140ea33">
+      <Text>HoLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ccf6edc3-3320-4e17-ba7f-cce2d2f2052e">
+      <Text>The party’s </Text>
+      <Text AdornmentStyle="-1">loopin</Text>
+      <Text>’.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4790d2f1-d313-4a0e-a3ef-04da1f47887b">
+      <Text>Rowan exits without another word, leaving her friends in the glow of their own success.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6855e4bf-7ad9-466a-b0bd-e9450e18fed4">
+      <Text AdornmentStyle="-1">JoJO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ddb147bd-87ed-41df-85bb-3b7a39565469">
+      <Text>Thinking about it, having that on loop gets awkward.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="d92a4d6a-3972-434c-8186-9ad2b10aa6cf">
+      <SceneProperties Length="2/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. New York City Street - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b77766fa-5bc3-4c4b-9f14-27e9214e78ea">
+      <Text>Rowan walks quickly. The city sounds are audible: the hiss of a bus, the clack of a manhole, and the honks. She pulls her clothes tighter. She stops underneath a streetlight and pulls out her phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="28a9dd23-e94e-413d-af40-d1a069bc3050">
+      <Text Style="AllCaps">Close up: </Text>
+      <Text>Her thumb hovers between the two emails. The Hunter College logo versus the producer’s golden digital signature.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="613d8df6-ae6c-4d0f-b99f-e9fce9e3b948">
+      <Text>No clicks. She feels the vibration of a passing subway train.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2a3d1331-ad68-47b4-9374-d056df51d8fb">
+      <SceneProperties Length="3/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Record Store - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f8881763-fbee-460d-b0e9-9559bac32444">
+      <Text>Rowan wanders the aisles. She runs her fingers over the vinyl records. The </Text>
+      <Text Style="AllCaps">zips</Text>
+      <Text> of flipping through the racks is rhythmic.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a38aae4f-069d-4c91-a1ce-dc1ea898b419">
+      <Text>She stops and picks up an album with a bird on the cover. She presses the cool cardboard to her forehead, closing her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c2594fe7-ab55-4769-b4eb-0694d8741be9">
+      <Text>A </Text>
+      <Text Style="AllCaps">clerk</Text>
+      <Text> watches her. They are wearing the same oversized headphones. They recognizes Rowan. They don’t speak. Instead, they just tap their heart and give a knowing nod.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="84313b81-1f30-435f-8a94-d778c54e4b8f">
+      <Text>Rowan realizes she is a symbol now as the “Light Owls loop.” It crushes her spirit.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="9d25cedd-2e92-41da-893c-e04e003959cb">
+      <SceneProperties Length="2/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Rowan'S BEDROOM - Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e34a2be4-f077-4c2b-b95c-6006efc7a5b0">
+      <Text>Rowan places the vinyl into a vinyl player and starts it up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="347ffc7a-020c-48b9-903a-41dab7d9d349">
+      <Text>She sits at her desk and studies. The vinyl player becomes one of Light Owls tracks. She could not get it out of her system and goes mad.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="361b4388-ecca-406e-83eb-b90b0ef48963">
+      <Text>She dumps the vinyl record into the trash.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a6a4aeed-151b-4001-aa33-eebbe74e2f95">
+      <SceneProperties Length="1 3/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Library - Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cdec0953-2010-48ae-aaec-cef4f9b6f4bd">
+      <Text>Rowan sits at a table with textbooks and a notebook. She sees someone in oversized headphones viewing the Light Owls video.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2b93f407-f393-4158-9351-765622535ff4">
+      <Text>She takes out a pen and draws an owl in the notebook. She rips the paper out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="46821a13-6a43-4d28-9c59-d2d2af7eece6">
+      <Text>MaYA (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3f7ecdd7-3316-476d-8a18-8b3d122818a9">
+      <Text>I thought finals were done?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2d327e9c-625b-47b5-a1dd-15d55ce5ac47">
+      <Text>Rowan turns. Maya is standing there by the shelves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c142efc3-560b-4ff2-b439-a5d5cf3ff1e3">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8873fc3a-7841-4c41-b239-aadc5563c1a4">
+      <Text>How do you know I’d be here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5e2a5bec-e75d-472b-9e62-e73b37926e4e">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="03db874f-438c-470b-9add-7f2ffad0b6de">
+      <Text>If a bird never knew a life outside the cage, they would see the cage as freedom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7428be08-0af3-4ca5-b150-1ce0985fed82">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8b5afd83-021b-42cf-b7e7-d19cf7bf4f29">
+      <Text>Wise words...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b3e0d4ea-9a72-4d8c-9827-9a1038746290">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6b0a4543-e991-4e70-963d-ffd06f8f10c6">
+      <Text>Not really. I may have heard it from some podcast. </Text>
+      <Text AdornmentStyle="-1">Anywho</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2d327e9c-625b-47b5-a1dd-15d55ce5ac47">
+      <Text>Maya sits across from Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="069870bc-5ae9-4735-a758-2d0d46dcd71b">
+      <Text>Maya takes the owl drawing and adds a speech bubble. She writes: “Break the loop?”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="be30ba49-ccfc-4361-ae78-7dc569404f39">
+      <Text>Rowan takes out her phone and shows them the producer’s email. Maya goes from perplexed to joy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93ce2fdf-fee8-4f17-9afb-77a228347d37">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1126b913-8fb4-4c1a-b1ab-7529c9df9689">
+      <Text>Was that why you were shaking?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3933864f-77e9-4985-91fe-4cf4b81abe19">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a2f1d2bf-20ef-47e3-9da5-b22511db2928">
+      <Text>No...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e2b93711-345d-45fd-b46b-7c7c86f3332a">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3e016229-6cd7-493d-9164-13db81b5c1ef">
+      <Text>Wow, it’s soon. It’ll have us all shaking. You should answer their email...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e1d8c814-ffa5-4dd1-8dfd-6b1f25210d48">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59b51e73-cb6a-4d70-9d51-6017e0878516">
+      <Text>I should put answers on my exam this time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4494f5a3-0075-4a7a-99cd-eab3fec8a967">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4b25f89b-d9bb-43be-aebf-afa02463a75b">
+      <Text>So you failed?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5d14fb8-e844-48d4-bda4-e473726f3b5a">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8ec7fa52-78e1-434c-803e-219d87ad86a2">
+      <Text>Worst. I didn’t show up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e204264-28e8-4722-bea0-9d6d1519a8b6">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="27169ba9-1ddd-47d5-aee0-f8536a7a60e4">
+      <Text>And you think doing it twice with this producer would give us a nice track record?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d008649a-72f4-4161-9af8-749fb65153f2">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="19954c3b-bb0a-4496-989d-ea5f675d559e">
+      <Text>The make-up exam is the same time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ae23b06e-fc60-4e74-9d51-652c8305dce5">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="236dd958-7c32-432d-9c39-6f0386cf42fc">
+      <Text>Couldn’t you reschedule?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6835434a-3101-40ca-83c8-719279dc5f33">
+      <Text>RoWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="28511bc4-30c1-4326-8e40-5d1037aaf0f9">
+      <Text>The make-up is the reschedule!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="082c5c2c-6181-488d-b40a-6eb75dee2d0f">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="322c9dba-3298-4372-aada-9587010b2ee0">
+      <Text>No... This producer... The almighty-</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0f86da99-5764-4cee-9ce4-2de416ecc425">
+      <SceneProperties Length="4/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Music Producer’s Office - Day (Imagination)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dcfa6d2b-4edb-42ed-8d2a-9720093c53f0">
+      <Text>The world of white marble overlooks a skyline. </Text>
+      <Text Style="AllCaps">Producer</Text>
+      <Text> (40s) sits at a desk, with much of their face hidden.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8ac915d6-9a9b-4151-886b-c4594a068a5e">
+      <Text>Their mouth moves, but no sound comes out. Only white noise.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f4751aa1-160f-4af3-a163-da51d6b4e1a4">
+      <Text>Rowan looks down at the desk. The tablet has a contract.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0b6bf77d-62e4-4c27-8dbe-b317437f66b2">
+      <Text>Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="082dee1e-263c-48b8-85d3-c98956ee266f">
+      <Text AdornmentStyle="-1">Hoo</Text>
+      <Text>-hoot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="028e09e8-a485-4ca5-9ef1-f8edb9ad8a5f">
+      <Text>Producer smiles and points to the signature line.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="06d4f67f-e666-4991-a80f-14cba39e1565">
+      <Text>Rowan tries again, her throat tightening.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ea812930-9521-4863-ae22-0fd8c9e0e691">
+      <Text>Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="07071907-7acb-4379-93c3-e168470dca2a">
+      <Text>I’m not a— </Text>
+      <Text AdornmentStyle="-1">Hoo</Text>
+      <Text>-hoot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d46f85cd-70b9-4f9b-a642-897ec3250cbc">
+      <Text>The tablet shows the girl from the video: frozen in a side profile, wearing the oversized headphones and flipping pages</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f9ab3706-f39a-4be0-829d-df9512915ea9">
+      <Text>The producer taps their watch.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2a0448ca-2502-4570-bbdc-bdabb5e40385">
+      <Text>Rowan opens her mouth to scream, but the only thing that comes out is silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="168c8145-b5ba-480a-b85a-f507893d7cd9">
+      <SceneProperties Length="1" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Library - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7aae8866-e38b-44d2-8825-1fe88124b39c">
+      <Text>Rowan blinks, the imagined office dissolves into the library. The producer’s watch’s ticking is replaced by laptop hums.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="65621ebc-ad0a-4e15-bf77-b4c62780fe70">
+      <Text>Maya is still across from her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b7a3fc09-5066-4f60-a1b7-3d7ea2d7537d">
+      <Text>Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e15517b3-6478-435c-b539-75af85e7e53b">
+      <Text>I won’t ask a mogul to move their schedule for an undergrad who can’t wake up for an alarm.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bd20b27b-b245-4d8e-b27f-31eddc45e8f6">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="35749c67-a1aa-4662-acc5-1f09a80a0d0d">
+      <Text>Then choose. But Rowan, look around.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c3e0b28-6dd7-4867-8300-72acca56dda4">
+      <Text>Maya tilts her head towards the sea of cubicles. Rowan follows her gaze.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="989eb0ed-d22b-4776-b6f3-ce0f2a3d53c5">
+      <Text>A few tables over, a student with tired eyes has a browser tab open: </Text>
+      <Text Style="AllCaps">Light Owls</Text>
+      <Text>. In the corner of their screen, the digital Rowan flips her page.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6573e100-4d93-4a6f-a922-0ad9f7ec5843">
+      <Text>Further down, another student face-down on their notebook has the video playing on their phone, propped up against a cup. Rowan is everywhere. A thousand versions of her, all studying perfectly, while the real one sits paralyzed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="deef2e52-0d6f-4d35-af66-0a0530cdc3b2">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b16022ae-7e49-4593-b6bd-fd0b707aa6e9">
+      <Text>You’re already helping them pass.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d37bc8c7-e579-4150-a11d-b3a5deb00e1e">
+      <Text>Maya leans in closer, her voice dropping to a whisper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0e05bba3-423d-47b5-8aca-fc5a37bcfe25">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="89dcd462-5355-4b0d-9b45-14bd9a44d479">
+      <Text>Who’s gonna help you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="332da96a-335e-48ff-a2ac-26d8b2be992c">
+      <Text>Rowan looks back at her owl drawing. The “Break the loop?” speech bubble feels like a dare.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e770bc29-dba4-4b9a-b102-cbd4a8f55ec9">
+      <Text>Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8c2a6abc-fff3-46e4-9b57-68ef6551bff9">
+      <Text>The bird in the video... she never finishes the chapter. She just keeps reading the same paragraph over and over.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1f408479-ff2b-491a-9a28-00ce99f7f902">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dccbe3a4-0529-4fa4-a09b-ba6a4d472446">
+      <Text>Sounds like a hell of a way to live.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c801f5a2-2a0b-4f19-a925-8c47d7e8bea6">
+      <Text>Rowan picks up her pencil. She circles the word “Break” until the tip of the pencil tears through the paper.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="af95c554-df4f-4d33-879c-cc7ee5ada69a">
+      <SceneProperties Length="3/8" Page="12" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Subway Train - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="05f7d853-0639-465b-8b68-87599f6c7a79">
+      <Text>Rowan sits hunched over with an animal textbook.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="de8fe8f0-7168-4eef-8140-12e16bad9a2d">
+      <Text>She turns to a page about </Text>
+      <Text Style="AllCaps">Migratory Patterns</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b9291826-183c-4b31-aa10-d8fca84207a6">
+      <Text>Her pen hovers over a diagram of a bird’s flight path.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="48ee2132-97a6-42df-9ed2-06cbf2addec0">
+      <Text>In the margins, she writes: “Static wings on a paper sky / I’m tired of the view / I’d rather fall than fly in a circle with you.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dffc013d-195e-435d-9274-e1a48473f672">
+      <Text>The train wheels grind against the track and </Text>
+      <Text Style="AllCaps">wail</Text>
+      <Text> like Holly’s violin when she pushes the bow too hard.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="d3e4f18a-0d86-43ea-8a6d-74a1a36e6fd3">
+      <Text>Smash cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="22f0620a-ca8b-443e-89ee-12d2f9086bd3">
+      <SceneProperties Length="2/8" Page="12" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Rehearsal Room</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5ced79c7-9c0e-4db7-9dcc-ecec4009c27f">
+      <Text>Holly plays the violin.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="4b2aef07-5174-48b8-ba84-2487c0292d2f">
+      <Text>Back to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2334c7a2-3cce-485a-bf5e-6fa60cf95f53">
+      <SceneProperties Length="3/8" Page="12" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Subway Train - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="07f35283-f7f8-415e-8f16-638a81514132">
+      <Text>Rowan’s eyes light up. She fumbles her phone out of her pocket, hits the voice memo app, and thrusts the mic towards the rattling window.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4c5aa12e-2e0d-4678-817f-0f34fa481d75">
+      <Text>The train screams again. Rowan watches the waveform dance in jagged peaks across her screen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f48f0805-9356-437b-9ea5-bd555ff4d565">
+      <Text>She hits </Text>
+      <Text Style="AllCaps">stop</Text>
+      <Text>. She renames the file: final_final_v1.</Text>
+      <Text AdornmentStyle="-1">mp3.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4d65c6c8-6db2-4e32-a891-52d3f3e0cae8">
+      <Text>Rowan leans her head back against the vibrating glass, with a tired smile. She looks at the “Migratory Patterns” diagram, then shuts the book.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f05f72b6-cd73-4eba-82e3-798b54d1ccfc">
+      <SceneProperties Length="7/8" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DIGITAL ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rowan’s Bedroom - Day of</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f65a633-67d9-497c-86b7-68cebca4f864">
+      <Text>10AM. The room is bathed in sunlight.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1ea03ac6-79ab-46b2-b2ff-d2e79d063cca">
+      <Text>On the nightstand, Rowan’s phone trigger two alarms with clashing rhythm and sounds.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d80e88dd-c68e-401a-83d4-38fd295150db">
+      <Text>The screen flashes:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="14ef4ff9-0bcb-44f5-928c-4e1d8cfa98e7">
+      <Text>10 AM - PRODUCER MEETING - MIDTOWN</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a459915e-d26e-4416-b252-3b1f90338e01">
+      <Text>10 AM - ORNITHOLOGY Final - RM 254</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5d1aac99-4f17-4c73-a505-cf2d710c388f">
+      <Text>Rowan sits on the edge of the bed. She is already dressed in her lucky academic sweater.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="017eced9-081a-4bc6-8134-d23e82bd13d2">
+      <Text>She looks to her side: the electronic gear, the wires snaking like vines, the glowing interface of her creative life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4553f911-a843-408c-8dd4-1ed48da2c10d">
+      <Text>She looks the other way: the animal behaviors textbook with its weight of facts and feathers.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="69c4c9eb-7c92-4405-812a-9a5cdb7b812e">
+      <Text>The alarms continue to scream. The “Light Owls” hooting ringtone overlaps.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d86e23d3-de5c-4142-9759-cc6e1c2d977b">
+      <Text>She picks up the phone. Her hands are now steady. She opens YouTube Studio. She finds the “poor-rowan.</Text>
+      <Text AdornmentStyle="-1">mp4”</Text>
+      <Text> video with its countless views and what turned her into a digital statue. She opens settings. Her thumb hovers over the </Text>
+      <Text Style="AllCaps">delete</Text>
+      <Text> button.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="494b2a12-8057-40a4-861f-e3487abc0607">
+      <Text>She stares at the frozen image of herself. The digital Rowan suddenly takes off her headphones and turns to real-life Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e9856387-70d0-4baf-b2d2-488f7e4ec626">
+      <Text>Digital Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8a70e902-a33e-4a28-a99c-c8753a464249">
+      <Text>You’re a hoot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c1502149-3045-4b89-97dd-088fc622adb3">
+      <Text>Rowan does not delete it. Instead, she swipes out and into an email app. She hits </Text>
+      <Text Style="AllCaps">compose</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="aa42f745-2b28-43ed-a7fd-b0cdf2028f56">
+      <SceneProperties Length="7/8" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PRODUCER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Recording Studio - Later</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f9ae2422-c716-4a3f-aad2-b45382dff13d">
+      <Text>Soundproof foam fill the space. Through the control room glass, Maya and Holly stand in the booth. Maya adjusts a mic stand while Holly tunes her guitar. JoJo sits on a </Text>
+      <Text AdornmentStyle="-1">cajón</Text>
+      <Text>, with pencils in hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1d60d5d3-0c08-4954-b05c-3f308eb782f2">
+      <Text>On the other side of the glass, Rowan sits by a soundboard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="30449f5a-27c3-4095-9942-7cb96318e667">
+      <Text>Producer (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="7aadba68-e90b-47d6-8729-21f28f2c4510">
+      <Text>(Through the intercom)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="138cec29-7201-4c86-a9bc-3bc91b2e79bb">
+      <Text>Beautiful. Sound check is perfect. Now, do the studying everyone!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8a4e5da6-775a-470b-b50f-dd9f5b2f7765">
+      <Text>On the phone, an email notification pops up from Hunter College. It is from the TA. It reads:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="22d5fda1-6863-48f0-9bc4-410e47b2e39f">
+      <Text>“Dear Rowan Corazon, thank you for sending me this unique sound. Looking forward to when it’s finished so I can study with it. It’s okay to choose your path. I would too! So, I am wondering if you want to make up this course next semester?”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="23b16b6a-6773-4668-ab82-9577f03364a2">
+      <Text>Rowan looks back through the glass. She sees Maya, who catches her eye and offers a conspiratorial wink. Holly gives a firm nod. And JoJo simply sticks out their tongue.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a0f0612c-dc26-4b2a-a235-38741180839a">
+      <Text>Rowan leans into the mic.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9739c994-48d6-42cc-97a6-32f5365824ab">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dd3467ca-2871-4f4e-a05f-7d1c9571a549">
+      <Text>Loop’s broken. Yas!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6bed3944-6a3f-44ac-a0d2-aa6cad552867">
+      <Text>Holly strikes a defiant chord. JoJo picks up the beat. Maya starts hooting.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a2f8cfdd-35dd-4a9b-a8f0-72ab79bc55f7">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4eda84cb-50e1-49e3-8046-b1cf8066c22a">
+      <Text>Hoot!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6bed3944-6a3f-44ac-a0d2-aa6cad552867">
+      <Text>The student is gone; the artist is here. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e3dfaecb-ba61-4f83-869a-1fce19ef72c0">
+      <Text>Rowan is mixing on the soundboard, mirroring herself flipping pages at her desk.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="a27312e9-e990-45c0-a2c6-cd78f5102747">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="85e88ee6-dc64-42f0-893b-1652a1855b83">
+      <SceneProperties Length="4/8" Page="14" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. The Woods - Dawn</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e2391aac-2d17-4159-a058-a84723e38165">
+      <Text>The morning light is soft. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e2391aac-2d17-4159-a058-a84723e38165">
+      <Text>Through a phone in Rowan’s hand, digital Rowan is on a loop, working the sound board. She turns off the phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e2391aac-2d17-4159-a058-a84723e38165">
+      <Text>Rowan sits at the base of a tree, hunched over a notebook. She wears her oversized headphones and starts writing freely.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ed922f38-5d54-4283-959c-9c14312ca2d0">
+      <Text>The image mirrors the opening scene with the Lo-Fi Girl. But there is no camera, tripod, and REC icon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3588e206-ee6e-426a-8e52-afa34311edb0">
+      <Text>Rowan pauses, exhales a long, grounded breath, and slides the headphones down to rest around her neck.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="864bfa89-9999-41fe-ba18-1411578ac00c">
+      <Text>In the distance, an owl’s HOOT breaks the silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8147532f-ec01-437f-8a71-063ff1748ffa">
+      <Text>Rowan looks up, searching the branches. She simply smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e2c2de6-0a0a-4ceb-ac9f-c687a8f60b97">
+      <Text>Rowan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="40a25e63-6aef-42d2-8e68-d2f85abf4a13">
+      <Text>We are good.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="36de373f-1f8a-45a8-925b-8851e00c1d3d">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End of Act" id="1d686bb2-d1c8-465d-b94b-e6b312d4c003">
+      <Text Style="Underline+AllCaps">The End</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Light Owls</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	         </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="766" Left="2" Mode="Maximized" Top="2" Width="1160"/>
+
+  <TextState Scaling="100" Selection="15556,15556" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Light Owls</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">1/13/2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Logline</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">While her viral lo-fi music video inspires students everywhere to study, a failing Rowan must choose between her make-up exam and a record deal with her band, Light Owls.</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="110" Selection="213,213" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Rowan</Character>
+      <Character>Maya</Character>
+      <Character>Holly</Character>
+      <Character>Jojo</Character>
+      <Character>TA</Character>
+      <Character>Digital Rowan</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>ROWAN'S BEDROOM</Location>
+      <Location>LIVING ROOM</Location>
+      <Location>THE WOODS</Location>
+      <Location>HUNTER COLLEGE</Location>
+      <Location>SUBWAY TRAIN</Location>
+      <Location>MAYA'S APARTMENT</Location>
+      <Location>NEW YORK CITY STREET</Location>
+      <Location>LIBRARY</Location>
+      <Location>REHEARSAL ROOM</Location>
+      <Location>RECORDING STUDIO</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>DAY OF</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="1/13/2026" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Rowan"/>
+    <Member Actor="" Character="Maya"/>
+    <Member Actor="" Character="Holly"/>
+    <Member Actor="" Character="Jojo"/>
+    <Member Actor="" Character="TA"/>
+    <Member Actor="" Character="Digital Rowan"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="DIGITAL ROWAN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="HOLLY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="JOJO" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MAYA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PRODUCER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="ROWAN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="TA" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="e65659c9-77a4-4228-a62d-b3719aff9aef"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="85df07a3-97a7-4922-bd51-40e86a52de0e" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="6292ac8b-ec0d-4857-8e93-c8aa0cba0377" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="e65659c9-77a4-4228-a62d-b3719aff9aef"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
