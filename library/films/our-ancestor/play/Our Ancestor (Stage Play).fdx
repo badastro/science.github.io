@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20260422T164729" id="3432395f-1a03-4d3b-a0b4-bf7decf4256c">
+    <XRef DateTime="20260405T050903" id="fa6b5ac3-fe08-42a9-9cac-09386bf9a9f7"/>
+    <XRef DateTime="20260405T052700" id="223c78a2-56fe-4caa-8625-16d0753f9c1b"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="New Act" id="9d3328c2-c473-49ed-8469-e714fc9b9f2c">
+      <Text Style="Underline+AllCaps">Ice Age</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="3786f4bd-7ec4-418a-af10-ceda6e5cc087">
+      <SceneProperties Length="6/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Beringia (13,000 Years Ago)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="306efbc7-d890-4b5c-956c-b474454d7a1a">
+      <Text>A windswept, icy, and shrubbery tundra.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bb4f8e68-aa7f-465d-a23c-ad5f5060eac0">
+      <Text>A </Text>
+      <Text Style="AllCaps">primitive hunter</Text>
+      <Text> (20s, ancient furs, weathered skin) crouches in the tall grass. Beside them is their </Text>
+      <Text Style="AllCaps">child (6)</Text>
+      <Text>, mimicking their parent’s stillness.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5830f2b5-ff02-423c-9671-b0d0493348d4">
+      <Text>The child pulls out a hand-carved </Text>
+      <Text Style="AllCaps">bone figurine</Text>
+      <Text>. They hand it to their parent, whose fingers closes over the child's small hand with a squeeze of protection.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="381f09a8-9f38-4f23-9123-b7e121f6f1ba">
+      <Text>A distant mammoth </Text>
+      <Text Style="AllCaps">trumpets</Text>
+      <Text>. A mammoth herd is on the move. The parent nods to their child. The hunt begins.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ea189680-3d11-49a4-8336-2e965e433b48">
+      <Text>The hunter gets ahead of the child and catches up to a </Text>
+      <Text Style="AllCaps">baby mammoth</Text>
+      <Text>. Just as the hunter is about to pounce, a beam of light showers them. Above them is a spacecraft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ea189680-3d11-49a4-8336-2e965e433b48">
+      <Text>The hunter and baby mammoth’s shadows are lifted into the air. The child and mammoth herd’s shadows reach up for them to no avail.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7ea5aa6e-b131-4613-a2e1-9ca7bf502562">
+      <Text>The hunter and baby mammoth ascend into the unknown. The spacecraft soars away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4b47283e-ac0c-451a-ac63-a4529d828d5c">
+      <Text>Black out.</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="9d3328c2-c473-49ed-8469-e714fc9b9f2c">
+      <Text Style="Underline+AllCaps">Modern Age</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="bd73a6ed-2361-49f1-8224-6b99b089a667">
+      <Text>Scene 1</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="3786f4bd-7ec4-418a-af10-ceda6e5cc087">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Little Diomede Island, Bering Sea (Now)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5df5a754-5aaf-4022-9649-e7d6f0460bc1">
+      <Text>Where there once was a land bridge is now an endless ocean and Little Diomede Island’s rocky shore.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5ec2613d-5ce4-400d-939f-a0d86a05850f">
+      <SceneProperties Length="5 5/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DR. DAWKS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="HUNTER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KABLU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text AdornmentStyle="-1">Kablu’s</Text>
+      <Text> Cabin</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2388d88b-fa34-490a-8c98-6c2a244d19a0">
+      <Text>The cabin is a mix of traditional Alaskan life and modern technology: heavy furs draped over a sleek unit. Outside, a storm </Text>
+      <Text Style="AllCaps">howls</Text>
+      <Text>. The floorboards shake.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2e89a7b9-2d66-4957-8b38-d1f011e88a43">
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> (60s, weathered) stares out the window. Beside him is Maya (teens), checking a tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d077d466-233d-4cea-9056-80b9c2d7ecfa">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7821405e-5b44-4b2a-b36c-cac7702424a1">
+      <Text>Dad... Something just dropped onto the shore that shouldn’t exist.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5bcc4474-cd2e-46e9-843b-51941c58fc4d">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4639c0ca-8e82-4e46-a3b6-18ce8e0fd973">
+      <Text>Looks like the sea gave something back tonight, Maya.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2d046e18-ef67-4694-9c63-84e9706e47e6">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2daed990-14ca-4104-926c-aa32701b638d">
+      <Text>Was that... a whale?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e103c9b7-5206-4080-ae61-a6208766b3d4">
+      <Text>The front door is kicked open. Snow swirls in. Standing is the hunter. Their ancient furs matted with a strange frost.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="39a77f5e-c8d8-49b6-83f4-6d714ccd0a0b">
+      <Text>Behind them, the mammoth, now adolescent, its tusks etched with glowing geometric patterns.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a5048a6d-0fe9-4d8d-8374-455cfd912c16">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9a1047ff-33d5-4d3d-be0e-ec62531c4d79">
+      <Text>A mammoth?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="951930e1-ac41-4de8-9cd4-f26de4de3819">
+      <Text>The Hunter collapses. The Mammoth groans with profound exhaustion.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="60ff6755-b4a0-45a4-8f53-e44132efe937">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b5158c52-3087-45b1-a154-8f6182b36712">
+      <Text>Help me get them to the hearth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6004e2b7-c09e-41dd-9020-8dc0fd73ec95">
+      <Text>Maya films the commotion on her tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f4cc2b62-bdd9-4f7b-8ddb-146acdc34e11">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7a97c49d-1f7c-40ca-a100-be450112fa1b">
+      <Text>Dad, we cannot touch them. They’re unearthly!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f52de2b7-bed7-459c-846d-880de4ed49ea">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8de8c784-87ab-44e3-a0c0-372179b03f63">
+      <Text>They’re freezing, Maya! They aren’t a specimen. They’re a guest.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="9523a2b6-e540-4102-9da0-b0600f4c7245">
+      <Text>Scene 2</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8319ea03-e056-4f98-b6a0-507c2d1d3df5">
+      <Text>The Hunter coils in the corner, clutching the bone figurine. Their eyes dart between the roaring fire and the humming lights.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9ad07825-e877-409c-bd0e-b784ea18eee5">
+      <Text>The Mammoth’s trunk rests on the Hunter’s shoulder like an anchor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ce246392-0ba2-4beb-93b7-ff5950a47cd3">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0b531907-973b-47d8-875b-bc27eb607c6b">
+      <Text>Dad, look at their hands. The scarring... this isn't a person who lived a normal life.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4fd1b8c2-1512-488d-8eb6-9fb74b6c57d8">
+      <Text AdornmentStyle="-1">Kablu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0b531907-973b-47d8-875b-bc27eb607c6b">
+      <Text>They’re hungry, Maya. Anyone who travels that far is hungry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="73f8042f-9e64-43ca-b962-0df62bf3b811">
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> slowly reaches for a plate of smoked salmon on the counter. The Hunter’s spear levels at </Text>
+      <Text AdornmentStyle="-1">Kablu’s</Text>
+      <Text> chest instantly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4d2819fb-c4f0-4b5a-ab1a-f61228245a92">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8a4d8524-f8ac-464d-b82a-91f17336f817">
+      <Text>Don’t move!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4f26ac03-b7e3-45fd-9f53-1f2054ef9285">
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> softly holds the plate out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7cec84e5-772e-4b7d-93ea-48e24180731a">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59e71997-cceb-4bc5-b91d-a6c89eccc739">
+      <Text>It’s okay. It’s just a gift. In this house, we eat together.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d73dba55-2c20-4fcf-966a-769d0950423c">
+      <Text>The Hunter sniffs the air. The scent of the fish registers. They lower the spear and take the fish with a trembling hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cfd6ea42-486b-4969-8087-94a9c234e8d7">
+      <Text>They don't eat it. Instead, they walk to the dining table and place the fish in the center.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="92089e8a-94b7-4216-b553-da1b26c691bd">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ccf4a135-12f0-4f41-ba26-7fd4b24ed8c9">
+      <Text>What are they doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="51ab9d7c-af77-4506-8a88-c7c75e5f4792">
+      <Text>The Hunter moves around the cabin. They grab a bowl of dark berries. They snatch a handful of salt from a jar. They take a charred stick from the hearth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fa745449-32cb-476b-af81-7d8282c8b87e">
+      <Text AdornmentStyle="-1">Kablu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ee8e55d2-22a8-4ac0-bf3d-77daeec653d3">
+      <Text>They’re... feeding us a story?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0eebbc4d-5f13-4fb1-9914-a99740124cfd">
+      <Text>The Hunter uses the salt to draw a sweeping arc across the table: the Land Bridge. They place the berries in a cluster: the tribe. Then, they use the charred stick to draw a circle around it all.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cbea3566-7b8c-46a9-9fe6-7b1d8cd89852">
+      <Text>Home.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="eadf5a4d-0be6-4bba-a8f9-51920108d5bf">
+      <Text>The Hunter points to the bone figurine, then to the salt map. They let out a mournful sound, looking at the door where the storm still rages.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bb6ffc6e-25ab-4e16-b4f8-2be51bd24ac1">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba9f1ce0-04da-4847-88e4-52857f942ae9">
+      <Text>They’re looking for someone?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5935340-a4fd-40d2-803a-64313e7d203c">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cf924486-3539-4368-806c-b29ce197ef3e">
+      <Text>Someone like you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="68f036de-9128-42d8-bcba-a71677eb5fea">
+      <Text>The Hunter looks at them both, eyes searching for trust. They pick up the smoked salmon and tear it in half, offering one piece to </Text>
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> and the other to Maya.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="603a0638-c83f-4fb8-b00c-15e69a2f4f6d">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9618440c-55d3-42e5-9070-9c776f297c9c">
+      <Text>Eat, child. In this house, we don't let a guest eat alone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="abf2ca30-4449-4520-a76b-e309fa2e2bb9">
+      <Text>Maya takes a bite. The Hunter watches her with an intensity that makes her breath hitch. They eat their portion in desperate gulps.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="429efc02-709c-4166-a653-deeb90c94097">
+      <Text>Maya records the Hunter. </Text>
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> blocks the tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d3f98f52-d381-4f63-90be-0d4cdf101104">
+      <Text AdornmentStyle="-1">Kablu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="18f6c800-4d67-4afb-a2fc-7cf0f41209c5">
+      <Text>If the world sees them... they’ll never let them breathe. They’ll put them in a room with no windows and ask them how it felt to be a god.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="abf2ca30-4449-4520-a76b-e309fa2e2bb9">
+      <Text>Maya turns the tablet off.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fe131c84-2ed8-499c-8c60-9cee26fab704"/>
+    <Paragraph Type="Character" id="96e9efcd-210e-4361-b8ee-4d5dcba6f5e7">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dcc8ef1e-b125-43be-84a2-de43efe4cb2d">
+      <Text>Good. Let the world stay blind.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="39aa75b6-770f-4787-a57c-153e749c873d">
+      <Text>The Hunter looks at the salt map they drew. He reaches out and gently touches Maya’s hair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9fbadc9f-3eda-4d58-aeb1-bacf802cf817">
+      <Text>HUNTER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="b7c487eb-b287-4bb7-810b-006fbcec7a52">
+      <Text>(A soft, questioning breath)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f635f61d-593e-40a7-9f67-6243f8d7116c">
+      <Text>[</Text>
+      <Text AdornmentStyle="-1">Kwi</Text>
+      <Text>?]</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2508a996-d947-4fe3-ba1e-a7a621b5244b">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6f9304be-53b5-4d8b-bff6-a0c833ac671a">
+      <Text>They’re asking who you are, Maya.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="617f7dfc-9d25-4006-b688-dc991d6bbe71">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="69e9b2c6-428b-4be9-aeac-c4c8de92d3cf">
+      <Text>I’m... I don’t know who I am to you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="45ecb354-2caf-444c-b4a1-6cf70af19649">
+      <Text>The Hunter shakes their head. They pick up the bone figurine; the one their child gave them 13,000 years ago. They hold it against their own heart, then reaches out and presses their palm against Maya’s heart.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="60e30faa-d678-490e-abde-17e53b29e5cd">
+      <Text AdornmentStyle="-1">Kablu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0739e7ff-96fb-4209-9a59-65ac48b588aa">
+      <Text>They’re looking for their heart.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4d09a4b0-f31f-4301-a422-d50be9f6eb23">
+      <Text>The Mammoth </Text>
+      <Text Style="AllCaps">groans</Text>
+      <Text>. It nudges the Hunter towards the fire. The Hunter sits, finally letting the spear rest on the floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cde887c3-b242-460a-b9c0-7efb874dcb81">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="40f1ef23-97b4-47fe-bc89-afc886a67d51">
+      <Text>Seems they’ve been running since the world was white.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4ff9482e-3e51-49fa-a837-382a4cc6c271">
+      <Text AdornmentStyle="-1">Kablu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b21817c2-0ced-4701-9313-20e1093e4e9e">
+      <Text>We can’t keep them here forever. The neighbors will see the mammoth. So we’ll have take them to the old caves on the north side. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="02861354-82e8-4895-b652-823d55ac5f21">
+      <Text>MayA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f5c1f73d-4bfe-46f7-bd51-e96a6b00104d">
+      <Text>Places tourists don’t touch.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="21282191-8909-42b2-8333-b67bffef15b2">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bcbca245-6d70-4706-b641-3c564eb0b1c2">
+      <Text>Exactly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f366a938-a065-4dc3-bdcf-5387d7db068b">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba7a6260-eed0-41a0-8f1b-74f0ae1e8dd1">
+      <Text>Don’t they have a right to know where they came from? To see the faces of their grandchildren?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c859e6c-d3d0-4e52-9010-49785dcea6d7">
+      <Text>A </Text>
+      <Text Style="AllCaps">knock</Text>
+      <Text> hits the front door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f71010af-3143-4bbb-9d29-a02bf240065e">
+      <Text>Dr. </Text>
+      <Text AdornmentStyle="-1">DaWKS</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c382217f-03b1-447e-8d2d-6f90041e7e15">
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text>? It’s Dr. </Text>
+      <Text AdornmentStyle="-1">Dawks</Text>
+      <Text> from the village. I saw the lights flickering from the ridge. You okay in there? That storm’s kicking up some strange shadows on the beach.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="905f18aa-8f20-4228-acb2-7746d9618fa5">
+      <Text>The Hunter is on his feet in a second, spear in hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2492cfef-0563-452e-96d3-c4ea81852e27">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="396fec50-e812-4d92-9480-6161e405a560">
+      <Text>If </Text>
+      <Text AdornmentStyle="-1">Dawks</Text>
+      <Text> walks in, the secret is gone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7ac411f1-e644-4713-842a-db10175ceeb0">
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> signals Maya to keep quiet. He moves to the door, blocking the view of the room with his body. The Hunter retreats into the shadows behind the mammoth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ffdcaf29-606e-4296-8851-76f7a142be0b">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="57851aaa-1977-433e-b7b1-6e173694944d">
+      <Text>Just a blown fuse, </Text>
+      <Text AdornmentStyle="-1">Dawks</Text>
+      <Text>! The storm’s rattling the old solar banks. We’re fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8aaa6890-02d5-47b0-91c9-1c7320865b48">
+      <Text>DR. </Text>
+      <Text AdornmentStyle="-1">DAWKS</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cf2eac84-4359-42b4-9a09-a4ee50f121e8">
+      <Text>Are you sure? I thought I saw a light on the shore... Something alienating. The salt on the wind smells like burnt hair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d7eaa13d-3d0f-4ee5-99d4-c585f62cb8e7">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="40ca6327-8b76-490a-b035-e1f032c4cce8">
+      <Text>(Whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="914d4a79-c1c2-4783-968b-17222628cec0">
+      <Text>The frost from the furs. It’s still melting.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4dd3ed99-bce0-419f-a581-33d9ad540c7e">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="99713996-faa3-4db9-92fd-00b4be104bcb">
+      <Text>Probably just some sea kelp hitting the power lines. Go home, Doc. It’s no night for a stroll.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="31d6d2f1-83ec-49a9-be76-06a6f150cdaa">
+      <Text>DR. </Text>
+      <Text AdornmentStyle="-1">DAWKS</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b9af112c-0e38-4681-88bb-99d730147f4b">
+      <Text>I heard the breath of the Earth, </Text>
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="715b6370-d3d1-4129-bc0b-ff72f4b607fb">
+      <Text AdornmentStyle="-1">Dawks</Text>
+      <Text> turns the handle. The door is locked, but it rattles. Behind </Text>
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text>, the Hunter raises the glowing spear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eb025074-67d6-4125-8435-1a6737672572">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="10f9234c-031a-4122-a165-d2f6822ffa27">
+      <Text>It was my tablet, Dr. </Text>
+      <Text AdornmentStyle="-1">Dawks</Text>
+      <Text>! I was playing back some old whale songs for a project. Sorry if it carried through the walls!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="48f1d972-bb78-4eed-b109-3c8f461b1fc9">
+      <Text>The rattling stops.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="848648ac-e0ca-43be-8b83-3473852ca531">
+      <Text>DR. </Text>
+      <Text AdornmentStyle="-1">DAWKS</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4d45c709-bbcb-4ddb-8bb6-6324bdf668e3">
+      <Text>...Whale songs? Sounded bigger than a whale.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cfc55a34-68d2-4c93-b5db-e66925ee3c97">
+      <Text>Maya looks at the Mammoth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5b83a3da-72b9-404c-be03-f0a66af007a3">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="07e72620-97e8-4471-8862-f2bf38f2f9f9">
+      <Text>You’re wrong, Doc. Not bigger than most whales.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eefde9da-60c0-45ce-ac09-abe98d628462">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8d4ba8c4-d549-40b0-98aa-58311e43725f">
+      <Text>Maya’s got the bass turned up. Go on now. See you at the post tomorrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3bbbf3dd-027e-4649-931a-46a90b0fe2ce">
+      <Text>A beat. Footsteps finally crunch away through the gravel.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a435e0d9-f8fd-43fd-81bf-eb57d249816a">
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> leans his forehead against the door, exhaling. The Hunter lowers the spear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e5550a3-f632-423a-b587-e698df07a626">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a33abaff-3af0-4286-961c-33d7f21a11db">
+      <Text>They’re not a secret we can hide in a cave. Look at them. They’re already trying to protect us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2727cc89-4f6c-48cd-9dff-10912af38302">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e73a31bb-e89b-4d35-bc76-d7ff8776c137">
+      <Text>They’re protecting the only home they’ve got left.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a46ce09-c196-43b6-817c-6232d66ed7af">
+      <Text>The Hunter walks back to the table. They pick up the bone figurine and set it down on the modern side of the salt map where Maya stands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4629a4d2-cd21-4420-a5b2-9c372a0b01bc">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b39deada-af9b-4bb3-a057-c21f20231e3c">
+      <Text>They’re choosing us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10e53d0c-54ee-4ca1-a37f-ac2f3ef5d6e9">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e7205ca-8441-4289-90d9-f1df4eefe1e4">
+      <Text>Then we have to choose them. Pack the dried meat and the heavy furs. We move for the caves before the sun breaks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d6537d1a-c9aa-41ee-b566-e65ad5d16a38">
+      <Text>The Hunter looks at the door, then the fire. They heap the remaining berries onto the center of the table.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="b4760dc8-c9de-4ac8-90fd-226ab7fefef1">
+      <Text>Scene 3</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="30dded6f-f670-4940-9e5c-1129918dbb36">
+      <SceneProperties Length="3" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DR. DAWKS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="HUNTER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KABLU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>North Side Cliffs</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1445f457-4c28-48f9-a9cf-225b935b9948">
+      <Text>The wind pushes against </Text>
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text>, Maya, the Hunter, and Mammoth as they climb. </Text>
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> leads, his old wooden staff clicking against the frozen stone. Maya follows close behind.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="93b9802f-861d-4000-8c26-f64cfe08ca24">
+      <Text>The teenage Mammoth follows. The Hunter walks beside them, one hand buried in the creature’s wool for balance. They look at the modern boots </Text>
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text> gave them with a mix of suspicion and wonder, lifting their feet high like a bird in tall grass.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7870cc3d-c224-48fb-9cb7-58e75c8e0511">
+      <Text>The Cave Entrance</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="395e10df-669b-4e20-b197-aa8985fd3efc">
+      <Text>They reach a jagged crack in the cliffside. It is a place of shadows, tucked away where the salt turns to ice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dfe91553-664c-4c69-a657-a17bfcda510a">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e320ee20-bfb6-4016-b487-53a5f12b60d8">
+      <Text>My grandfather called this the Quiet Place. The wind cannot talk here. Neither will we.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="84bb1706-31ba-43dc-98b3-2cdaab0f1ab9">
+      <Text>The Hunter stops. They look at the sea. From this height, the ocean is a beast. They let out a mournful whistle.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d92f4532-c775-46a4-91a3-63c89ed4f359">
+      <Text>The Mammoth nudges the Hunter’s shoulder, a gentle push towards the dark opening of the cave.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="344099de-7de8-4499-94eb-c15ae5a3e9ea">
+      <Text>Inside the Cave</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="909ee43b-026c-4290-b784-20301f9a13d2">
+      <Text>The air inside is still. As they move deeper, the light from </Text>
+      <Text AdornmentStyle="-1">Kablu’s</Text>
+      <Text> lantern catches on the walls.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bd2b67af-b756-440e-a60e-f8eed663687c">
+      <Text>Etched into the stone, are faint red handprints and rough drawings of hunters chasing whales. These are ancient marks, left by people who lived and died thousands of years after the Hunter vanished.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bed142b6-697a-433b-a869-aa0ba6788644">
+      <Text>The Hunter approaches the wall. They press their palm against a handprint. It is a perfect match in size, but the paint is faded.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="44ff5b7c-1349-4fd2-bcd4-5aeea18126d4">
+      <Text>The Hunter lets out a jagged breath. They touch the wall and then touch Maya’s arm, comparing the living skin to the dead stone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8419ed9c-a020-4171-8fc7-b1007520f7c2">
+      <Text>Maya feels a shiver.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0082ceed-9c3b-44fc-99d7-cb6909b840d0">
+      <Text>HUNTER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="75817c0a-2807-43cf-b590-ef8556f84d04">
+      <Text>(A soft, breaking sound)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a4c852a5-883e-4819-bb7e-251db53ecfa8">
+      <Text>[Naya?]</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="752b3506-a777-4de0-b232-0b0152cf7675">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="261eb70a-4f2a-46fb-9c8f-6a9b98e4500b">
+      <Text>They’re asking for the others...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e1e0dd08-0ee6-4f9c-bee1-4fa509d31238">
+      <Text>The Hunter turns, hearing the laughter of a tribe. But then only silence and the dripping of water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ece63855-b57d-4f09-b9d6-f4aa64328a3d">
+      <Text>A </Text>
+      <Text Style="AllCaps">snap</Text>
+      <Text> echoes from the entrance. It’s the sound of a boot stepping on a branch. A shadow stretches across the cave floor, silhouetted against the rising sun.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6a89b144-cb6a-43bc-a35e-169c9525cc3f">
+      <Text>Dr. </Text>
+      <Text AdornmentStyle="-1">DAWKS</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="da044ae4-74fa-401d-b381-e401117e6a1c">
+      <Text>I told you, </Text>
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text>. I hear the Earth’s heavy breath. You cannot hide a miracle in a hole.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7c9d04a3-c54b-4432-b7fd-5dff5536d24b">
+      <Text>The Hunter’s hand flies to their spear. They look like a parent whose nest is under attack.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="008625e6-6115-4d7e-973b-57672f2d30ed">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="300ccb6e-5e5c-4f27-b254-6c6310c2a01f">
+      <Text>If Dr. </Text>
+      <Text AdornmentStyle="-1">Dawks</Text>
+      <Text> steps in, they see the Mammoth. They’ll see everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8668f94a-f984-4a27-a259-e7b1024cb5f7">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cc9b2363-3680-4474-84ec-b7b1aebb4f28">
+      <Text>They won't. They know the rules of this island. Don't walk into a someone’s sanctuary without a call.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="24a2454e-0aa5-4b59-8094-aba1d023fc13">
+      <Text>DR. </Text>
+      <Text AdornmentStyle="-1">DAWKS</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db6286a1-eec2-4e79-936a-83a4051acdfb">
+      <Text AdornmentStyle="-1">Kablu</Text>
+      <Text>! These tracks aren't bear prints! They’re too deep... the Earth is groaning under them! Just tell me you’re safe!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="03f73168-4c31-4400-ae89-0e9b3ac8fafb">
+      <Text>The Hunter lets out a guttural growl. The Mammoth rumbles in response, a vibration so deep it shakes the dust from the cave ceiling.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a27be4c2-39cd-4ebd-8eb4-a47ba1e39ad5">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c36c7e0c-e36a-451f-b2f4-e77399a18dc9">
+      <Text>We’re tracking a stray, </Text>
+      <Text AdornmentStyle="-1">Dawks</Text>
+      <Text>! Go back to the village and get the heaters ready. It’s a long walk back and we’re freezing!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8aa51f32-0efd-4a84-9329-ad51c6544440">
+      <Text>A long, agonizing silence. The shadow at the entrance shifts, lingers, and finally retreats. The sound of crunching snow fades into the distance.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d5090240-fb90-49d9-b542-56c33e219dff">
+      <Text>The Hunter lowers the spear. They look at the handprints on the stone one last time. They reach into their parka and pull out the bone figurine. They press it against the wall, right in the center of the ancient handprints.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7967c14e-e596-4134-ad6e-764b4dcae571">
+      <Text>HUNTER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2cc68f12-a768-4dc6-8491-bf740cf82727">
+      <Text>[</Text>
+      <Text AdornmentStyle="-1">HÄ</Text>
+      <Text>.]</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="59456f53-87df-4f46-a42d-8ef97340e898">
+      <Text>The Hunter steps out onto the cliffside. The sun breaks over the horizon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="65ef92bb-0fda-4a13-b17f-e3ec3239f00d">
+      <Text>They stand on the edge with the Mammoth at their side. They look down at the village with the satellite dishes, power lines, and distant sounds of an outboard motor. They are looking at the thriving camp of their descendants.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b1214f37-aaca-4911-ac6d-1145a83921b5">
+      <Text AdornmentStyle="-1">KABLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5ebcd71d-d869-4b9d-b834-c0e0c48ae920">
+      <Text>They aren't looking for their tribe anymore. They realized they’re standing right in the middle of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="52438484-2656-410f-8e7d-22402b17f579">
+      <Text>MAYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5ce54773-bb7a-45fc-a77e-f9a9170a7566">
+      <Text>But the world is coming for them, Dad. I saw the notifications. Scientists... they're already asking questions about the disturbance on the beach.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a53733f1-40be-4962-b1c2-bcc153c4852c">
+      <Text>The Hunter looks at Maya, then at the open sea.</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="b233a95e-ccdc-4664-a63d-a0b4b6024669">
+      <Text Style="Underline+AllCaps">End of Modern Age</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> Our Ancestor</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">     	 </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="100" Selection="10540,10540" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.38" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="6.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="7.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Character" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Act Info" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Break">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Break"/>
+    <Behavior PaginateAs="Action" ReturnKey="Act Break" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Titled">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Titled"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Scene Info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Lyrics"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End Of Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End Of Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Our Ancestor</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">4/1/2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">[Dialogue in brackets is spoken in an extinct language.]</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Tag</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">To find one child, they must meet a billion grandkids.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Logline</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">To reunite with their family, a prehistoric hunter and a woolly mammoth must face a world full of their grandchildren.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Episode</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">After a 13,000-year alien abduction, a prehistoric hunter named Bering and an adolescent woolly mammoth land in Kazakhstan where a local family shelters them. Elsewhere, geneticists discover they are the ancestor of billions of people.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Plot Summary</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In the sci-fi pilot "Fish Out of Space," a prehistoric hunter named Bering and a baby woolly mammoth, Yana, are abducted by an alien spacecraft from the Beringia land bridge 13,000 years ago. They return to Earth in the year 2030, landing on Little Diomede Island, where their primitive appearance and advanced alien technology cause conflict with local villagers.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Meanwhile, a geneticist named Dr. Dawks analyzes blood found at the landing site and discovers that Bering is a "master copy" genetic root for hundreds of millions of modern humans. After running a personal test, Sayer identifies a 96.9% </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DNA</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> match to Bering, confirming a direct ancestral connection to the time-traveling hunter.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">After their ship runs out of fuel and crashes into a mosque in Almaty, Kazakhstan, Bering and Yana are sheltered by a local family. Bering struggles to comprehend modern life, mistaking a television for a magic box with people trapped in them. During a traditional feast, Bering uses red gravy to paint a mural on a tablecloth, depicting a 13,000-year journey through an intergalactic zoo, revolt, and an eventual return to a world where the land bridge has vanished.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The pilot concludes with a chaotic police raid on the family's home following a hunting mishap at a local market. Yana smashes through the house's walls, allowing Bering to mount the mammoth and escape into the night. Meanwhile, Dr. Dawks tracks new genetic markers appearing in Kazakhstan, setting the stage for a pursuit of our ancestor.</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="76,76" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Asim</Character>
+      <Character>Assistant</Character>
+      <Character>Bering</Character>
+      <Character>Businessperson</Character>
+      <Character>Dr. Dawks</Character>
+      <Character>Inzhu</Character>
+      <Character>Kairat</Character>
+      <Character>Officer</Character>
+      <Character>Old Man</Character>
+      <Character>Police</Character>
+      <Character>Primitive Figure</Character>
+      <Character>Reporter</Character>
+      <Character>Vendor</Character>
+      <Character>Voice</Character>
+      <Character>Woman</Character>
+      <Character>Maya</Character>
+      <Character>Kablu</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Over Radio)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>BERING SEA</Location>
+      <Location>BERINGIA</Location>
+      <Location>BERINGIA (13,000 YEARS AGO)</Location>
+      <Location>LITTLE DIOMEDE ISLAND</Location>
+      <Location>COCKPIT</Location>
+      <Location>THE PACIFIC</Location>
+      <Location>LAB</Location>
+      <Location>LABORATORY</Location>
+      <Location>CHINGGIS KHAAN NATIONAL MUSEUM, MONGOLIA</Location>
+      <Location>MONGOLIAN FIELDS</Location>
+      <Location>SIBERIA</Location>
+      <Location>KAZAKHSTAN FIELD</Location>
+      <Location>LADA CAR</Location>
+      <Location>CELL</Location>
+      <Location>HOUSE</Location>
+      <Location>ALMATY OUTSKIRTS</Location>
+      <Location>MOSQUE ALMATY</Location>
+      <Location>ALMATY, KAZAKHSTAN</Location>
+      <Location>ALMATY MARKET</Location>
+      <Location>ALMATY</Location>
+      <Location>FAMILY HOME</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>DAY (2030)</TimeOfDay>
+      <TimeOfDay>DAY (13,000 YEARS AGO)</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="3/24/2026" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Asim"/>
+    <Member Actor="" Character="Assistant"/>
+    <Member Actor="" Character="Bering"/>
+    <Member Actor="" Character="Businessperson"/>
+    <Member Actor="" Character="Dr. Dawks"/>
+    <Member Actor="" Character="Inzhu"/>
+    <Member Actor="" Character="Kairat"/>
+    <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Old Man"/>
+    <Member Actor="" Character="Police"/>
+    <Member Actor="" Character="Primitive Figure"/>
+    <Member Actor="" Character="Reporter"/>
+    <Member Actor="" Character="Vendor"/>
+    <Member Actor="" Character="Voice"/>
+    <Member Actor="" Character="Woman"/>
+    <Member Actor="" Character="Maya"/>
+    <Member Actor="" Character="Kablu"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="DR. DAWKS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="HUNTER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="KABLU" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MAYA" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="4e153a0e-90e4-4a14-b21f-b57b70366a2f"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="cfe4efe3-d562-45e9-a474-5d8d2eae56dd" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="7ce2e9d3-aeb8-4708-b473-12f456500c17" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="4e153a0e-90e4-4a14-b21f-b57b70366a2f"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
