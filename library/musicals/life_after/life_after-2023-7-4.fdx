@@ -1,0 +1,2397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="5">
+
+  <Content>
+    <Paragraph Label="Scene 1" Type="New Act">
+      <Text>Scene 1</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Abyssal Habitat</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="10 3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ADRIENNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MOSES">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="THUY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="THUY &amp; ADRIENNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+              <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+            </Paragraph>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">1. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FEFE" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Life Before</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The habitat is deep in an unknown abyss. The deep-sea community lives beyond the transparent back wall of it. There is a miniature scale of the habitat stationed within the space.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Adrienne</Text>
+      <Text> idly sits while </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Thuy</Text>
+      <Text> stares at the puppet </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text> swimming outside.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics">
+      <Text>Life before was...
+life before was well made.
+Life before was...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics">
+      <Text>Life before, we were made of gills
+and scales-
+I’d kill to have a tail!
+</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="AllCaps">
+</Text>      <Text>We are twenty thousands stories
+under the sea, napping on sea beds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics">
+      <Text>And now we’re left without bread...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ThuY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics">
+      <Text>It’s time we watched our carbs, and watch the carps!
+</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="AllCaps">
+</Text>      <Text>Water, Tsunamis, continental shifts-
+It is all thanks to twenty twelve.
+But here, we survived the end of the world!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="AllCaps">
+</Text>      <Text>Fishes, octopus, sea anemone!
+It is all thanks to twenty twelve.
+A tale: we warned all the end of the world!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dead-inside humans tell no tales.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Indeed. There are no tales left on land.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>2012 has taken so much away from us!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Intimately)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But not us...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This habitat... Home. What I’ve funded. You trust-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s the most fun I’ve had!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You mean the most insanity you’ve had.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Baby Giant Squids</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Am I insane? Ink if “yes.” Don’t if “no.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text> do not ink.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes... The sea is everything to you...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The sea is everything to the world. To life. The beginning, middle, and end.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>2012 is the end of our lives. 2013 is the end of our world.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>2023 meters is how far down this habitat is stationed. I can spout number, too!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Thuy</Text>
+      <Text> lovingly swipes at </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Adrienne</Text>
+      <Text> with peace-signed fingers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Get out of my zone!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It takes a thousand meters higher or deeper to get out of the </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">bathypelagic zone</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I get it... I should have invested in the construction of a habitat at the photic zone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yup. You were so adamant that yachts would come across our home.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Peasants.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now look at us. We’re rich in life.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text> play around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Unpleasant.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are being such a Squidward.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m Mr. Krabs when he gave away his </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Krabby</Text>
+      <Text> Patties as free samples to compete with Plankton.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was the last thing we saw.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yes, I invested in Netflix.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It would’ve been cool if they lasted a few years and started putting out original shows.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The cards were not in the world’s favor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But that’s okay, cause you are my tv now!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If I had the chance to reinvest in Netflix, I’d pitch a gameshow where you face hoards of squids.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who would win? Y’all or me?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text> ink.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’d ink too if I could! Alright, fight me!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh Thuy. What will I do with you...?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Squids, give me your death blow!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Moses</Text>
+      <Text> enters, holding a miniature submarine. They ramp the submarine into the miniature habitat. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text> scurry off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Am I in the afterlife?</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FEFE" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Life Before</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll take you there! What the Hell, bud?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hold up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re always held up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">You hold up</Text>
+      <Text>. What are you two doing down in the abyss?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Surviving. You?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOSES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Personally, thriving.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where did you come from?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Reno.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Even the tsunamis got Reno.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tsunamis?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Quit flooding us with questions.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Give us some answers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why don’t you check it out for yourself? Come up to the shores.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOSES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No way?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No way out. We’re stuck here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nowhere. There’s nowhere to go anyways.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There’s Time Square.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Isn’t that underwater by now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, schools of fishes called “tourists.” No, we’re not underwater.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Time Square should be.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is everyone still alive?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alive as you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So dead inside.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, get this through your empty heads: the world did not end!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>December 21 is a myth. There are no worldwide tsunamis.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But the world went crazy!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re the one who’ve gone crazy!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who invested in my crazy?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Crazys</Text>
+      <Text> help </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">crazys</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look, let’s deal with this </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Twenty Thousand Leagues Under the Sea</Text>
+      <Text> situation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That explorer is twenty thousand meters out of your league.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Moses)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re the first person we’ve had contact with!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ve made many friends.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Giant squids are not your friends.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Giant squids...?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m the giant squid and Adrienne is the baby squid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thuy is the baby squid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh so it’s an allegory for your relationship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Gory with blood boiling.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The giant squid keeps giving us fish carcass like a kitten.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Like a cat in the tree, are you stuck in this deep ravine?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character">
+          <Text>Adrienne</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Yes.</Text>
+          <Text></Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>Thuy</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>No!</Text>
+        </Paragraph>
+      </DualDialogue>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Adrienne</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">...</Text>
+      <Text> Adrienne[Angel Investor Surname]?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They live up to the aquatic name.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOSES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You fund the contractors that build submarine parts that I assemble and use. Cheap.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But not efficient.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I funded this underwater habitat since 2009, with some sketchy former naval personnel who constructed the past SEALABs. I ran out of money by the time we got around to the escape pod.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The baby giant squids toyed around with it. They thought it was another giant squid with its single window.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That escape pod you’re talking about may be the one found in the Pacific giant trash patch.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Great Pacific Garbage Patch? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOSES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The world may not be over, but it is still trash.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Will you look at that. There is nothing of value to return to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOSES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait. I can take you up. You have got to try the goldfish mac and cheese.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Goldfishes are abominations... but with mac and cheese, it’s an atrocity!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m done with canned mac and cheese. I miss being in the wheatfields with cows.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We will not kowtow to you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I will, the second we reach land.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s the spirit! All you need to do is take me to your giant squid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You ghoul!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Thuy)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re fools!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You were misled to the depths of Hell. I’m here to lead you back to the heavens.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Angel investor or not, there’s no money in the new life you’d have.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOSES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There is indeed money in new life: that giant squid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t lay a single turbine on my squid!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The real monster here is Thuy. You do not want to mess with them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m here to capture... memories.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My Japanese colleagues captured the first footages of a giant squid in mid 2012. They have yet to release it into the public.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOSES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The news just did. That’s why I’m here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Thuy</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’ll cut their time short if we agree for them to cut our time here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I love our time here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Intimately and pathetically)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’d love our time in the air.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess you two are busy. I’ll swing by-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stay!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text> return.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh sure, you’ll listen when they say “stay.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You must be playing games. You can talk to squids?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>These babies can answer that. Ink if “yes.” Don’t if “no.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text> reluctantly ink.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’d love to connect you with my friends at the aquarium.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The aquarium...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, where we’ve had our dates- </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">meetings</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I see...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My little bottlenose... When I get back my money, I could invest in our own aquarium.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Would you invest time in us?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’d invest the rest of eternity.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOSES</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m eternally grateful for your compromising but not how you’re doing it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy &amp; Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Compromising</Text>
+      <Text>... What a nerd.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Moses</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, uh aquariums have good lighting and well-fed animals.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well water me stupid.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to the </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can you get your mother here? This nice human would like a word with her. Take good care of Moses.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">baby giant squids</Text>
+      <Text> swim off.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">Scene 2</Text>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Giant Squid</Text>
+      <Text> emerges.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The submarine shoots a net towards the </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Giant Squid</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Giant Squid</Text>
+      <Text> deflects the net. The giant squid pulls the Moses and their submarine into the twilight zone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who needs an aquarium when we have the best one in the world here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Moses could have surfaced us, so we could tell the world.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That sea-monger tried to net our giant squid friend. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They are not our friend! You can make all sorts of friend, if we have internet again!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Thuy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The net has no worth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Neither is my net worth! What have you done?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The real question is “what is done?” The world is.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Life before, we were made of lungs and skin. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now we’re back where we belong.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Life before will return again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go marvel at </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">this</Text>
+      <Text> world.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Adrienne</Text>
+      <Text> faceplants on the glass.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here’s to... depths and death-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>THUY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here’s to life after.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Thuy</Text>
+      <Text> walks off.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">Scene 3</Text>
+      <Text></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ADRIENNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is all just a dream...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">sleeper shark</Text>
+      <Text> emerges and rams into the glass that </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Adrienne</Text>
+      <Text> is touching.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Adrienne</Text>
+      <Text> is taken aback.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know your kind. You’re the mascot for a loan investment company I worked for.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">sleeper shark</Text>
+      <Text> paces.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A sleeper shark. I loved that commercial where you eat your competition, the squid mascot-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">sleeper shark</Text>
+      <Text> pays attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you looking for the giant?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Adrienne</Text>
+      <Text> points out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Time to get my hands dirty. Get their tentacles dirty!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Sleeper Shark</Text>
+      <Text> swims off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Adrienne</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There shall be no life after.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Blackout.</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act">
+      <Text>Fin</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="-0.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Life After</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="1.50" Type="Left"/>
+          <Tabstop Position="7.50" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="54" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#ACACA8A89999" TopMargin="63" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Normal" Top="2" Width="869"/>
+
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.38" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="6.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="7.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Character" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Act Info" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline Body">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="Outline Body" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="Outline Body" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="Outline Body" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="Outline Body" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 4">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="Outline Body" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Break">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes"/>
+    <Behavior PaginateAs="Action" ReturnKey="Act Break" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Titled">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Act Break" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes"/>
+    <Behavior PaginateAs="Act Break" ReturnKey="Scene Info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Act Break" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End Of Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Act Break" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="No" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Turnover: A new Leaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">__________________________</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A Floral-Herbal Musical</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">By David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	Contact:</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	1140 Alger St SW Wyoming, Michigan 49509</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	davidquangpham@outlook</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">synopsis</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.50" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">TURNOVER is an herbal fable about a queer family turning a Vietnamese family’s life around. It plots a tanning salon by a nightclub, respectively Tan </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Salontro</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FigLeaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> Nightclub.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In Dirty City, a Cilantro arrives. Rau </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Răm</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is an Asian immigrant and expectant mother hoping to start a tanning salon business. When no one can spare a plot of land, Malus Crabapple welcomes her with a neighboring open plot. Rau is a bit hesitant due to Malus’s gay nightclub known as </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FigLeaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. But </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FigLeaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> patrons have a liking for Rau’s body oil that spices up their skins. Rau happily takes their money but cannot support their ”lifestyles.” But the major turnover would be Rau’s son: Parsley (”Move the Plot Forward”).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">This teen operates the day-to-day Tan </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Salontro</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> business and spends the nights with his mom (”A Natural”). Later, Malus introduces Parsley to their teenage nibling, Pyrus. Parsley helps Pyrus with issues that they have with the other flowers (“Grow a Pair”). Pyrus pays Parsley with a new beverage, called Miracle, and invites him to hang out (”Test the Water”).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Parsley asks his mom to see a movie with Pyrus. She reluctantly lets him go. At Cantaloupe Outlets, Parsley and Pyrus pose in a photo booth (”Photosynthesis”). Pyrus takes him clothes shopping. He discovers a liking for different floral styles, especially crop tops (”Crop Top”). Nearby, Rau picks a fight with Malus due to Parsley’s sudden sense of freedom. They soon bump into Parsley and Pyrus. Rau's world turns upside down when she sees Parsley’s crop top. Malus explains Rau’s prejudice to Pyrus (”Soiled”).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Parsley is grounded (“Fertile”). Soon, Pyrus helps Parsley sneak out. With their guest </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DJ</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> Cauliflower, they have the time of their lives (”Dirt on You”). However, herbs are not accustomed to the nightlife and this one is especially underaged. Parsley blackouts and ends up in the hospital, getting his stoma pumped.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rau sees the light of their ways with Malus (”Green Card”). </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FigLeaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> shuts down due to the violation of underage drinking laws. Pyrus visits Parsley, letting him know that they prepare to move (”Sterilize”). Rau offers Pyrus a summer job if they ever are around again. After all, it is a family business (”Turnover”).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">What are the turnovers of this sunny salon and this night saloon? How a growing child flips over to and accepts the darkness is the petal of this floral coming-of-age story.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cast of Characters</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.50" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Parsl</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">ey</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Răm</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, teen, Rau’s son</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">R</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">au</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Răm</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, adult, Parsley’s mother and the owner of T</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">an Salon</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">tro</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Pyrus</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> Crabapple</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, older teen, Malus’s nibling</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Malus</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> Crabapple</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, adult, the owner </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">of FigL</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">eaf Nightclub</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Orchestra</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">DJ CAULIFLOWER</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, the alias for the production’s music director, 			who may briefly interact with the performer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.50" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">*Androgyny Botany: Each character resembles the androgynous nature, with open-ended vocal requirements</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">*People of the Global Majority most represent the	 experiences of this universal family; cast accordingly</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">						</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Musical Numbers</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Act I</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		1. ”Move the Plot Forward” Rau, Malus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		2. ”A Natural” Rau</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		3. ”Amount to Anything” Pyrus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		4. ”Grow a Pair” Pyrus, Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		5. ”Test the Water” Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		6. ”Photosynthesis” Parsley, Pyrus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		7. ”Crop Top” Pyrus, Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		8. ”Soiled (The Family Name)” Rau, Malus, Parsley, Pyrus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		9. ”Fertile” Parsley, Pyrus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">10. ”Dirt on You” </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DJ</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, Pyrus, Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		11. ”Green Card” Rau, Malus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		12. ”Sterilize” Pyrus, Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		13. ”Turnover (A New Leaf)” Rau, Malus, Parsley, Pyrus</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Bark</Character>
+      <Character>Ear</Character>
+      <Character>Ear &amp; Luke</Character>
+      <Character>Firebrat</Character>
+      <Character>Germ</Character>
+      <Character>Luke</Character>
+      <Character>Tailless</Character>
+      <Character>Turner</Character>
+      <Character>Turner, Ear, Luke</Character>
+      <Character>Turner &amp; Ear</Character>
+      <Character>Parsley</Character>
+      <Character>Rau</Character>
+      <Character>Pyrus</Character>
+      <Character>DJ Cauliflower</Character>
+      <Character>Malus</Character>
+      <Character>Rau &amp; Malus</Character>
+      <Character>Parsley &amp; Pyrus</Character>
+      <Character>Pau</Character>
+      <Character>[Ai]</Character>
+      <Character>[MB]</Character>
+      <Character>[Angel Investor]</Character>
+      <Character>[Explorer]</Character>
+      <Character>[Marine Biologist]</Character>
+      <Character>[Marine Biologist[</Character>
+      <Character>Thuy</Character>
+      <Character>Explorer</Character>
+      <Character>Thuy &amp; [ANgel Investor]</Character>
+      <Character>Adrienne</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(OFF)</Extension>
+      <Extension>(OFFSTAGE)</Extension>
+      <Extension>(Offstage)
+</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>7</SceneIntro>
+      <SceneIntro>8</SceneIntro>
+      <SceneIntro>5</SceneIntro>
+      <SceneIntro>10</SceneIntro>
+      <SceneIntro>1</SceneIntro>
+      <SceneIntro>6</SceneIntro>
+      <SceneIntro>3</SceneIntro>
+      <SceneIntro>MALUS LETS PYRUS KEEP THE CROP TOP</SceneIntro>
+      <SceneIntro>11</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>ABANDONED LIBRARY</Location>
+      <Location>TAN SALONTRO</Location>
+      <Location>"SOILED (THE FAMILY NAME)"</Location>
+      <Location>FIGLEAF</Location>
+      <Location>"DIRT ON YOU"</Location>
+      <Location>"PHOTOSYNTHESIS"</Location>
+      <Location>"GREEN CARD"</Location>
+      <Location>"MOVE THE PLOT FORWARD"</Location>
+      <Location>"CROP TOP"</Location>
+      <Location>"AMOUNT TO ANYTHING"</Location>
+      <Location>THEY EXIT.</Location>
+      <Location>ABYSSAL HABITAT</Location>
+    </Locations>
+    <TimesOfDay Separator=" - "/>
+    <Transitions>
+      <Transition>AT RISE:</Transition>
+      <Transition>BLACKOUT.</Transition>
+      <Transition>FADE UP:</Transition>
+      <Transition>LIGHTS DIM.</Transition>
+      <Transition>LIGHTS FADE.</Transition>
+      <Transition>LIGHTS OUT.</Transition>
+      <Transition>LIGHTS UP ON:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision Color="#000000000000" FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="845">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="Bark"/>
+    <Member Actor="Man 1" Character="Ear"/>
+    <Member Actor="Man 1" Character="Ear &amp; Luke"/>
+    <Member Actor="Man 1" Character="Firebrat"/>
+    <Member Actor="Man 1" Character="Germ"/>
+    <Member Actor="Man 1" Character="Luke"/>
+    <Member Actor="Man 1" Character="Tailless"/>
+    <Member Actor="Man 1" Character="Turner"/>
+    <Member Actor="Man 1" Character="Turner, Ear, Luke"/>
+    <Member Actor="Man 1" Character="Turner &amp; Ear"/>
+    <Member Actor="Man 1" Character="Parsley"/>
+    <Member Actor="Man 1" Character="Rau"/>
+    <Member Actor="Man 1" Character="Pyrus"/>
+    <Member Actor="Man 1" Character="DJ Cauliflower"/>
+    <Member Actor="Man 1" Character="Malus"/>
+    <Member Actor="Man 1" Character="Rau &amp; Malus"/>
+    <Member Actor="Man 1" Character="Parsley &amp; Pyrus"/>
+    <Member Actor="Man 1" Character="Pau"/>
+    <Member Actor="Man 1" Character="[Ai]"/>
+    <Member Actor="Man 1" Character="[MB]"/>
+    <Member Actor="Man 1" Character="[Angel Investor]"/>
+    <Member Actor="Man 1" Character="[Explorer]"/>
+    <Member Actor="Man 1" Character="[Marine Biologist]"/>
+    <Member Actor="Man 1" Character="[Marine Biologist["/>
+    <Member Actor="Man 1" Character="Thuy"/>
+    <Member Actor="Man 1" Character="Explorer"/>
+    <Member Actor="Man 1" Character="Thuy &amp; [ANgel Investor]"/>
+    <Member Actor="" Character="Adrienne"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#CECEDCDCE3E3" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="ADRIENNE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MOSES" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="THUY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="THUY &amp; ADRIENNE" Visible="No"/>
+  </CharacterHighlighting>
+
+  <SceneNavigatorPreferences>
+    <TableColumnSettings IsSortAscending="Yes" SortColumn="Order" TableIdentifier="NavDynScenes">
+      <Column Width="54">Order</Column>
+      <Column Width="50">Title</Column>
+      <Column Width="64">Location</Column>
+      <Column UserType="CharacterColumnType" Width="50">RIP</Column>
+      <Column UserType="CharacterArcColumnType" Width="70">RIP</Column>
+    </TableColumnSettings>
+  </SceneNavigatorPreferences>
+
+  <TagsNavigatorPreferences IsSortAscending="No" SortColumn=""/>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="0c83de24-70de-424c-b76a-e0a956d68c72" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="75" Id="566a10d6-f1b2-4b12-9d2e-060ca6177628" ScrollOrigin="0,0" Type="StoryMap" Width="4800" ZoomLevel="240.000"/>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#000095002900" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#E20017003200" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#0000B800C800" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#B80075004D00" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#8700B700BB00" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#FF007D002200" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#FF003F00E600" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#B900C5003200" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#E900B7003C00" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#00008B009200" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#AF0026009300" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="14" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="16" Style="Bold"/>
+      <TagCategory Color="#0000C4007F00" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="17" Style="Bold"/>
+      <TagCategory Color="#FF001A002100" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#990033000000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="18"/>
+      <TagCategory Color="#0000CC00FF00" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="20"/>
+      <TagCategory Color="#99000000FF00" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="21"/>
+      <TagCategory Color="#3300CC006600" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="22"/>
+      <TagCategory Color="#000099009900" Id="148267ae-50ae-4746-8202-659fb7447b55" Name="Miscellaneous" Number="23"/>
+      <TagCategory Color="#000000006600" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="24"/>
+      <TagCategory Color="#D7008300FF00" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="29" Style="Bold"/>
+      <TagCategory Color="#0000CF00FF00" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="4a84b619-62f9-4c04-8e46-bf2cd0b7f582" Name="Art Department" Number="15" Style="Bold"/>
+      <TagCategory Color="#FF007E007900" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="25" Style="Bold"/>
+      <TagCategory Color="#7300FC00D600" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="27" Style="Bold"/>
+      <TagCategory Color="#ED00E6000000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="26" Style="Bold"/>
+      <TagCategory Color="#FF008A00D800" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#7300FD00FF00" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="28" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <TableColumnSettings IsSortAscending="Yes" SortColumn="Character" TableIdentifier="NavDynCharacters">
+      <Column Width="150">Character</Column>
+      <Column UserType="TraitColumnType" Width="50">Role</Column>
+      <Column UserType="TraitColumnType" Width="63">Gender</Column>
+      <Column UserType="TraitColumnType" Width="70">Ethnicity</Column>
+      <Column UserType="TraitColumnType" Width="83">Orientation</Column>
+      <Column UserType="TraitColumnType" Width="80">Disability</Column>
+      <Column UserType="TraitColumnType" Width="50">Age</Column>
+      <Column UserType="TraitColumnType" Width="85">Occupation</Column>
+      <Column Width="73">Dialogues</Column>
+      <Column Width="60">Scenes</Column>
+      <Column Width="111">Speaking Scenes</Column>
+      <Column Width="138">Non-Speaking Scenes</Column>
+    </TableColumnSettings>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Images/>
+
+  <Outlines Hidden="No"/>
+
+</FinalDraft>

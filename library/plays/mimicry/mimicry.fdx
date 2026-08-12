@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="19691231T185959" id="79b99e3f-5f52-4a53-bc97-6dbaddfa1cda"/>
+
+  <Content>
+    <Paragraph Label="Scene 1" Type="Scene Info" id="d1924614-285e-4883-b626-1c0205fe0ff2">
+      <Text Style="Bold+Underline+AllCaps">0. Spark</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="6f9898f0-3916-43d8-a0ba-3d66794ec5c2">
+      <SceneProperties Length="15" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CRYSTAL">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MIMI">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MIMI &amp; CRYSTAL">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ORANGE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Forest, Southeast Asia</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text>A bird tweets and a lizard hisses.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f7a2afa-107d-4a20-9353-c9235b3565b7">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text>, a myna bird, enter away from the stage. They search about until they get spooked at the sight of an </Text>
+      <Text Style="AllCaps">audience member</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5862cc40-8751-40b6-a78a-df954b0c7792">
+      <Text>A campfire ignites in the middle of a dark forest. Every sound of nature is audible in the distance.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4d93943-53d1-431d-a17a-cec71359e9ed">
+      <Text Style="Bold+Underline+AllCaps">1. Incipient</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f7a2afa-107d-4a20-9353-c9235b3565b7">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> swoops in onto the stage.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a53e1f31-10d5-4f0e-8804-44a52d9388ca">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text>, a monitor, crawls out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c80e48d-61f3-4bd0-b7b2-714f866b856b">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> performs a birdlike dance, symbolizing nobility. They mimic the sounds of nature.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f5e7999e-9a53-45f8-836f-be5ea945952b">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> expresses such power with their monitor presence. They mimic the surrounding environment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cb610943-36d7-4140-9e22-586979f31783">
+      <Text>Mimi &amp; Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bc4e1a82-8356-4662-af54-20c58c4f0f73">
+      <Text>Light at night. What a sight. 
+Is this right? Night with light?
+
+Night bequeathed. Sight to teach.
+Right beseeched. Light in reach.
+
+Night released. Sight to meet.
+Right to seed. Light is heat-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="285a14f7-34fe-4c1d-a625-bc6155240ace">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> touch the fire, burning a wing or a leg.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="366b131c-46f6-459f-b6c0-b37fca892357">
+      <Text>Mimi &amp; Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c1ae347d-6d75-429c-bf1b-fdd72df9da73">
+      <Text>Dead! Heated! Healing...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="63e01d5e-99c4-41cb-b72e-9b3861510389">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> face each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4dbfec52-3830-4831-a392-cd2a22f99051">
+      <Text>Mimi &amp; CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="159f77ec-0747-4136-82e7-7fd806502b1e">
+      <Text>Heathen! Where are my babies?! Where’d you hide them eggs? You seek mine, too? </Text>
+      <Text Style="Italic">Mine</Text>
+      <Text>?! My intentions are for you to give me your attention. Do you have an original thought, monitor lizard/myna bird?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="66607006-19a2-4f93-ad31-8bc1eb3c4e20">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d8a0bf81-7083-42a6-8fa6-dca47fb233e6">
+      <Text>I’ve settled here. Does that answer your question?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2ac390bf-0e79-4744-a9d1-014974e902cd">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="279a4ee6-4a20-45ec-a69e-b2a1a1f4dd94">
+      <Text>I’m a vagabond. Your answer settles not well with me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9a4b685-debf-4c6f-b96d-c328c55e346f">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e61c602d-1a36-4322-9eb6-d58185d925f6">
+      <Text>Well, a myna bird should never settle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f8dd8aab-fb1d-4a74-b31b-f21981bc1812">
+      <Text>MimI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="45d175cc-dbe9-4ce0-b04e-a50912622f4b">
+      <Text>Eggs </Text>
+      <Text AdornmentStyle="-1">gotta</Text>
+      <Text> be laid somewhere.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="766b7f29-122d-4835-a114-0d7da1ffcd29">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="986a4a33-9e83-4287-9451-60358003f31c">
+      <Text>Eggs should be laid where their ancestors laid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="63ffc76a-9aea-4051-b87a-52d4f6dcf8c4">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="756c01ad-258a-4bf3-a139-55e880fb0faa">
+      <Text>It does not make it right for you to hide my eggs!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4a3f4309-24c8-4aa6-8713-6170049b5cf9">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b9bc6fb2-5967-4e5a-ac67-62825af705d5">
+      <Text>I hid no eggs. I am busy with mine, now missing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c31d5960-f79b-43aa-8ef6-2fe505cd7683">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="082c11ff-87cb-4022-b9ec-7f9bf3bfc569">
+      <Text>I eat nothing but bugs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f3a829c-d1d7-417e-b325-9dc9d3e6a98a">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="802cbfe9-33c8-47ca-a121-d9e152d3556e">
+      <Text>You’re more a snake than my own cousins.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ecd814a4-955e-4e59-89f8-65c74bc1af69">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6782cf4e-f0b0-4a0b-b5f5-43f53f028862">
+      <Text>And you have mouth for worms.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="38a4aa59-c53e-49cf-8204-e0b92ee47e83">
+      <Text>A firefly flies by </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b1a99a4c-d816-4aac-8281-0b81fc3ca308">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> catches the firefly in their mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6e7a0c3a-75d4-435a-bdac-d23520561a83">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e7e205a8-a3d9-43f6-a085-45f948cff6b6">
+      <Text>My mouth worm is an efficient hunter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c186f071-13e3-4c92-9de2-52f6db214f03">
+      <Text>A firefly flies by Mimi.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9a70b363-37c4-4d3d-9c28-caca0ced21c1">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> tries to catch the firefly. Instead, they lead the firefly to being fried in the campfire.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="450b1503-1407-4719-b0a3-3331d32fbd23">
+      <Text>The firefly drops to a crisp on the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f6710e13-aa4e-4c68-b12e-eb5c8b72a163">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="57c67ba5-9dec-437b-8e32-3ad561ed0908">
+      <Text Style="Italic">I killed my meal without laying a feather</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="086f46bc-6b01-4aa3-9767-e787e2f3b219">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bab75054-51f0-4a7e-86e9-94da836976e9">
+      <Text>Is that firefly even editable now?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3af9d594-8712-4dd4-801c-dd9d1c5c4eab">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> eats the fried firefly from the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1f457c69-f7b3-49dd-88e9-eaf60de9ac89">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="81f41bfd-c2e9-493f-9989-a542a77ca920">
+      <Text>A firefly is a firefly for a reason.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5489fe6a-cb07-4ee0-a2ee-d8f39f826054">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> snatches another firefly and puts them into the campfire. They eat the fried firefly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e2c42d1-91fd-412e-964e-0402a5f531d0">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d2974691-3657-4a1d-9686-25ed891573fd">
+      <Text>Fire? Am I right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d4109076-5e56-4164-aa43-06f646ddc032">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fe049ca6-f6ed-40c1-8517-9a7c0f03ff6e">
+      <Text>What would be more right...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1f750cce-0e0e-41bc-84fb-00213546564a">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> grabs leaves. They catch another firefly and fry it. Then with the leaves, they create a smore.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="028e390a-f990-4ca0-b063-69439bb4352d">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="752a69ca-8462-4229-a357-bad1770869f8">
+      <Text>Want... S... More?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d91c933-6e7a-4e68-92ef-288a5979694a">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="530c6e0d-6527-4665-99cf-5ced34c63a6b">
+      <Text>Smore...? Eh, smore.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c3930c85-833f-4d49-a203-23156777d346">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dc533881-db4f-4c32-a5f5-632bb6099997">
+      <Text>I know you don’t have a worm for a tongue, but you can make your own worm.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="61db1c95-a20d-48d9-af6d-29a46821b4b6">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> hands </Text>
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> a branch.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c90b7c0f-851b-4911-84b3-69ec92d8e6cd">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f41184fe-ef30-4c66-b59d-b5a02273ac98">
+      <Text>Thank you for this olive branch.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="61db1c95-a20d-48d9-af6d-29a46821b4b6">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> grabs a branch for themself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e10ed27d-cfb4-4b4f-ba59-b855aa9bc985">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6b160147-36bc-45e3-9212-33733495041a">
+      <Text>You should not be the one to have all the fun.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="adece49f-3b34-4ae7-9fab-37cb59cc148b">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> catch fireflies.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4d93943-53d1-431d-a17a-cec71359e9ed">
+      <Text Style="Bold+Underline+AllCaps">2. Growth</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7d756368-79b0-4165-9129-28e410945892">
+      <Text>The campfire progresses.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7d756368-79b0-4165-9129-28e410945892">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal </Text>
+      <Text>sit by the campfire with fireflies on sticks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d75f4d1f-0883-4e60-a451-962b32ab3ed2">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6a9dc637-5172-4de2-9827-a1717e3289e4">
+      <Text>I have not eaten since I last touched the Sun.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c0b93ce2-1b84-453a-b68b-c7f849bc1ab2">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="60a6ae1f-0f66-4382-90f2-3e102a8c5f2e">
+      <Text>You get to touch the Sun?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8be26ae2-73b4-42fd-96bd-6c2b52679250">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="30a8a242-29e4-461e-85c0-398a62b64248">
+      <Text>Yes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="54733e46-23bf-4767-9f29-676f69542724">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="187e2010-9840-40fb-a340-0374b1a1daca">
+      <Text>Flying must be fun.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="325041de-c09c-4719-95d5-e02821a3e505">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="00341b95-5931-425e-ae48-19ff3354c951">
+      <Text Style="Italic">Flying must be fun</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b1d47588-5cdb-4a37-b66a-fd22a60087c4">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f602d98a-22cd-4b0c-8819-75104b4923a0">
+      <Text>Pardon?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="315bc725-c914-4489-8ff0-14cf5ae133b7">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="17be9505-491c-47aa-81ce-129881c74224">
+      <Text Style="Italic">Pardon</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="42ecbd0e-a884-4862-a31a-6f47bb47a6d5">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a0c53f7a-aec8-4643-9f4c-036488872f72">
+      <Text>Give this a rest, you mocking bird.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0908c95e-d5ae-4eed-a3c0-d35ff31d4c1c">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0bee3ffe-cd07-496e-b35d-43e879181065">
+      <Text>Resting on a tree is the life. I can do that, too.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c0a37088-b84f-4278-bf81-553319ef459e">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="472acd93-7376-4da8-b8dd-d07620d8cad6">
+      <Text>Every time you speak, it’s always </Text>
+      <Text Style="Italic">me</Text>
+      <Text>, </Text>
+      <Text Style="Italic">me</Text>
+      <Text>, </Text>
+      <Text Style="Italic">me</Text>
+      <Text>-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4450b3d4-fa18-43eb-acef-ba111f009bf5">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e6f746c3-6507-4874-8e41-460d38e8e895">
+      <Text>That’s my name: Mimi.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="858c88f2-f39d-4083-96d5-4e20fffa0fe5">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b326ea06-deca-40b3-a10d-80583b867ec5">
+      <Text>Mimi, you’re a smart </Text>
+      <Text AdornmentStyle="-1">arse</Text>
+      <Text>. Do you know how fireflies are able to light up their bellies?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> uses the campfire and their theatrical physique to represent the origin story of the fireflies.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93c6fbb9-c244-462c-a334-8a6bcd7497f5">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1205f0de-eb5b-40cd-bd11-ebc7ee889d54">
+      <Text>They say that the fireflies are the broken spirits of an enlightening creature.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0ca7bbc1-2fe8-4d8b-a472-86640fce817b">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0a2fe27e-d3e4-4f3e-bee9-0e39858264be">
+      <Text>Who’s “</Text>
+      <Text Style="Italic">they</Text>
+      <Text>?”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e12a319-705b-404e-9e52-ed7a19afee6d">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f575075f-9371-493b-8314-38e2a9ef0cb9">
+      <Text>The tribal myna birds that I’ve encountered on my journey told me this fable.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="32e40120-7621-40af-9dcc-e0a2038f22c3">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d4e1ec36-fd2b-4ce7-bdb2-fc2b36e370bf">
+      <Text>Mynas making up myths.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="67071731-0280-43e6-ab16-8dffde0a0228">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba1c03d4-fb9f-4ac5-b0ef-0da3841296ee">
+      <Text>I wholeheartedly believe in spirits. This is no myth to me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="47017f1b-622a-4f58-95c1-42e2a04e01c7">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b500e67e-9016-40aa-a254-173d99550b80">
+      <Text>Who is this enlightening creature?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d3eefdc5-47fc-4467-9fbf-2423afd35da4">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a3fb34e6-4749-4470-b160-3334a09fbc43">
+      <Text>The brightest of them all. The creature that built the Sun, but they grew weary in the feat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="875811a5-9301-4412-a2e7-9770f05f7175">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4e921f1d-5e3c-4e1c-be01-78a21cbe297c">
+      <Text>Of course. The Sun’s sturdy so that you don’t break it when you fly into it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d8af5020-976e-41b9-8a8b-e85380bcbb0a">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="73b5f9e4-7bbd-4b0d-a189-dc29caf93060">
+      <Text>At least I can touch it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a887b0b1-164b-496c-87bf-53536f20c177">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e09a96c1-6aeb-48ca-b2ce-3c5ad8b079ce">
+      <Text>Touché.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="35db5985-8e86-4873-a044-b49ae300219c">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c722d036-622a-4cc9-bd1d-cc71f1a5c1ec">
+      <Text>The Sun came to life. They are alive.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9f53f17b-96e0-49dd-9478-3bcd4144d8e5">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eb81b408-b29f-49b7-82c4-78320e304ba9">
+      <Text>Oh... really?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="62774a3b-cb97-4191-a189-5a3bd67004f4">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a851bf9e-8939-4af3-b6ba-39aec36a64ca">
+      <Text>This creature could not sleep. They could rest. They regretted making light that could not be turned off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="468d7b3d-839e-461d-a72c-f1627e41e368">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0999c0ab-4eb0-4880-bec9-c700c72eef63">
+      <Text>I’d grow restless, too.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0c5d1e9d-369a-49f2-8768-f0e030376751">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="871f66b0-7e3e-4e04-b400-9d4901b12082">
+      <Text>The creature made a deal to the Sun. If the Sun rested for half the time, the source of light for the world would be this creature’s broken spirit known as “</Text>
+      <Text Style="Italic">the</Text>
+      <Text> </Text>
+      <Text Style="Italic">fireflies</Text>
+      <Text>.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="21492fdc-616a-4711-b6b0-bf5fe015b2ea">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="131246fd-d01f-4504-a266-ca5b0a2d4fc9">
+      <Text>So, why are we eating their spirits?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b5ac16ca-642a-4cac-a3cf-c04047088014">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d360d85b-e6fc-42a3-a166-e1b2fd202c80">
+      <Text>We’re not eating them. We’re sending them onto the path to the after-world.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b8ff316c-c362-4c33-a3e2-4dc136328689">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="94664ca7-429f-4165-9cf6-6a42b0d8b46d">
+      <Text>Where they would assemble themselves?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e3c1f176-2d66-4a17-8783-120b8b9d847e">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1b676666-fe2f-402a-87a8-53b18368e60c">
+      <Text>Maybe. Light does not replace others, but build upon one another.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e0b6ba6-01a6-43a7-ac40-36492bbf883d">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9c32dec7-77a3-49dd-a142-822321c541c0">
+      <Text>That’s the most sense you’ve made thus far.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ccfc134c-5dfa-4669-a0d7-4e812cd5e301">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c0c2cf27-6bda-43c6-91b4-623e757b792b">
+      <Text>You have no sense of curiosity for the meaning of </Text>
+      <Text Style="Italic">all this</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e9603da1-4d39-456b-8200-ec2043eb7be2">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0328b844-5ede-459f-8dce-a7bd0f1267f6">
+      <Text>I am pretty sure there is a scientific reasoning behind their light-up bodies.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ee8c6a43-6f19-41dd-862c-4e645a80e450">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ae4e9c97-b0e0-4b7e-b670-ce0d9572c4f1">
+      <Text>And tree monitor, </Text>
+      <Text Style="Italic">clearly</Text>
+      <Text> it looks like you know the science. What do you call yourself?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cd6ffad0-3479-4693-ba79-c9b5b3955d70">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4bf6c68d-41b0-4b12-864d-76f38bcd111b">
+      <Text>Crystal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93a87074-da7f-4044-934f-1e8e676533a9">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="484778f6-2241-4a10-a0bb-7238c105c158">
+      <Text Style="Italic">Wow</Text>
+      <Text>, are you bright or is that your forked tongue of yours speaking?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ccca2e4b-3b2c-4f65-8d14-3662c697a9ee">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="83c6e029-ae4f-4074-9a82-3be8d74df408">
+      <Text>Very funny. I was the last to hatch. I was a gem in an empty nest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ad60b17-c789-46f5-b507-21f16ac32e7f">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="449fa2ae-5260-4264-b5a6-c28e68a482f8">
+      <Text>You had no one to pass on your history?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74153efd-5a7f-4d4b-be67-86c64108331a">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f5b8e8bb-e38b-4f15-aee6-79d025015bc6">
+      <Text>No story.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9d37d91-7b01-40eb-a58f-3c605d4eebc0">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="96e0c1ff-869f-44bd-9a25-7079644c2a9b">
+      <Text>What kind of life is that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="70f77437-c5fb-47ad-9814-48ae9cddd57b">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d240d47d-fb1d-49d3-8b0d-a82fb6b4974d">
+      <Text>All I know is this forest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="614bd92b-026d-4f5b-98dd-c871c867234d">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4d456bbd-8215-4d9a-b7dd-2484dc7fd828">
+      <Text>Do you get out to the water often?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ae400af1-a808-4535-a419-b012c13183dc">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ce094ded-acc6-4138-9303-89e6861db802">
+      <Text>I felt the rain. Isn’t that enough?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f68d8bcb-e870-4dee-b0fb-e3603628e1a6">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="08635cb4-d92f-401b-a50d-8ad954ad0aff">
+      <Text>But out there, there are other creatures who made a home out of the rain.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e4e43807-d437-460b-b8f2-38da1d94857e">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8b5f6d30-418f-42bf-a908-cb4dbd0d70b2">
+      <Text>There are animals that can breathe underwater?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f6d68fcf-41c0-4f88-b43f-396216cc6b74">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9bf364df-dbca-47bc-b8bd-87858d268a19">
+      <Text>Yes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="de948ca1-fd56-4b8c-8f23-e09ebf6d240d">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3aa3db50-e531-460b-b749-d60befe7714a">
+      <Text>I don’t believe in your fables.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="63f03d3f-02f6-492d-b5ec-4fab06d7cfbe">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="16a2034a-eba0-47b9-a3ba-96f4c11386f3">
+      <Text>It’s true. They don’t have legs like us, but they have wings like me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3188b799-d37e-4953-8613-a14853454d2b">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="521b54b1-96da-4345-8bea-35e6e927f798">
+      <Text>Can they fly?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5897c6bd-a959-49ad-b52f-0743b6ccee9c">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e25e535e-b54b-407a-841e-9809171f33f2">
+      <Text>No, they are like me but use their wings to move through water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6090b624-eb8e-4c87-994c-e362649d91bc">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="36a1aab8-5600-47c4-a510-c7e7b6ba23e2">
+      <Text>I dreamt of flying.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e2ece63b-447d-4be3-af96-95ab25306572">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="af71786a-be0d-4095-83a6-8b0ccddbc067">
+      <Text>Then, try it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="73b82db7-b619-457a-8e02-6c8fdbafe1cb">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="27a8900c-1ab9-4b5d-958e-aeccad90f88c">
+      <Text>If you’ve noticed, I do not have wings.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6c905b14-0d50-4580-b0dc-645bf0706687">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0b71be56-e1ee-40dd-8ee8-3d7808bc6756">
+      <Text>Build one.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5fb5eb5d-629d-419b-ac40-a1d427844d10">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9f091c85-887d-487f-9811-af2a6589af23">
+      <Text>The world is my oyster?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="21a5b916-ceb1-40b3-bf4a-c662a94d8731">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ec5e9242-43ec-4673-83a1-cec5bbcb365b">
+      <Text>Well, at least your ancestors did not evolve into clam shells.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fb823be0-7ca5-441d-9bff-5e13e2eeebce">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="57729b38-a69a-489a-afd4-7fdfcbd50cc8">
+      <Text>Your jokes are mollusks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9a703acd-8b07-4000-8e1f-e3690479980b">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cc4d9d94-fbb6-4888-a625-73081862b940">
+      <Text>Wait, you said you don’t believe there are creatures who make homes in water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="26ee0732-bee9-4f7e-9bd3-548c44bfc95d">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dd9a112c-e465-4b39-84e1-eb91dc529141">
+      <Text>Oysters are not real.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="37e13773-065c-4d20-8a0d-2f116f6222e0">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="04377d3f-bd1c-4274-ba71-df4dcc91368b">
+      <Text>You’ve heard of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a0bf30c7-70f4-4c1e-980d-ae7892c04629">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="21506cb2-6dbd-41ec-aac2-800b52364c6e">
+      <Text>Do you have something to say about the legendary oysters?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93208ce9-3b4d-47de-8e05-9ce0fd63c264">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="357adc64-7c6f-4442-a326-a0bc621bdf7a">
+      <Text>I am paraphrasing but-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d210f25b-9c9d-435c-8b3e-29c5501895dd">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6282cf74-cd9e-4a5d-a8f8-f0fec6cdb725">
+      <Text>You’re the king/queen of paraphrasing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a6390518-f0cd-48ae-893f-da39f89a10e5">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fc980f22-c7c7-4947-9b07-3dbe8ff077ed">
+      <Text Style="Italic">You’re the king/queen of para-what-a-now</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f089a04-378f-4fd4-ad17-9bdb7e592450">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bb4c2b37-a913-4017-ac31-1c666b3187f3">
+      <Text>Your gold crest reminds me of a noble.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ddde66c1-5570-4a07-bf81-2654587a8ff0">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c4770348-9860-4ea7-a55f-8045d4e2d27d">
+      <Text>Your green scales remind me of grass. The ground that I do not have to walk on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="12fd3751-be4c-45f1-8b32-24537ddb17fc">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f680fb48-926e-4721-a45f-0b3ed211dbbf">
+      <Text>You certainly have the ego of a tyrant.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6a706a68-2367-410b-91c6-e8989a6b1665">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3d6c2bc2-5a16-4f86-a7f6-a54dd9736ed0">
+      <Text>I’m surprised your forked tongue has not gotten you to rant.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0650ee1e-b5af-4cb5-a4c1-f9d394f86008">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6c5807c1-4b11-41f6-9fb1-5480894a9fcd">
+      <Text>Looks like your ancestors devolved to losing your pearls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ef89337a-2588-40ce-a637-2d1bb49f1ab0">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="520b1178-07f3-4e66-80fb-029908e1a60a">
+      <Text>At least, I had pearls.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7d756368-79b0-4165-9129-28e410945892">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> demonstrates their heirloom of any sort from their gold-crested myna family.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="be0d3f56-fc14-4b95-b0b1-66f23f86e1e9">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d5d09d13-854d-4519-8782-6a3ae018df91">
+      <Text>It helps when they’re heirlooms. But you make a bad parent.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5707a7bd-c60f-427e-9621-6ac774701033">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f61d22f7-52fe-4a8f-bb51-69402c6b7b52">
+      <Text>As a first-time parent, you’re not doing so well either.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e9b5638-7cfc-4721-ac5c-7db7d17dc568">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="61048fa6-4a0f-428e-a25a-cab86f6b3669">
+      <Text>Monitors do not typically monitor their own children. I’m the exception.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8e352687-6d10-465d-9c6c-11dc5698fe1b">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="26c87b01-a21d-41c9-847d-d96cb6300b02">
+      <Text>You accepted hiding in trees all your life?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="86ea05e1-1dee-444b-89c8-b0add3074a1f">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="55f3e315-5a71-4ee3-a71a-3125baf01aed">
+      <Text>Don’t birds do that, too?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5b51e76c-7d8c-40c8-b3fd-b9450e710e02">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0d0b34b2-bcba-48f7-8cbb-26253a6ed2f8">
+      <Text>I cannot hide in trees. I stick out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a7b9f2b7-1802-4014-ac07-d33ab5c0ddbf">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="621668d9-cf34-4c02-9c61-4a74bca27d8f">
+      <Text>Like a branch.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="00bf8ec5-ae02-485f-bcfb-54dbcd69434b">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="362c915c-66ca-4af9-a841-9b61fc21b064">
+      <Text>You tree lizards are so fascinating.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e34ceed5-5ba4-4e54-ba0f-e25554ce348b">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59a1b35c-da41-4f17-acec-3683cb63476e">
+      <Text>How so?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="209f0d82-c05b-4d27-85f7-adbd3eaee20b">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e6a09ad9-1add-44b5-985a-4ac6172fc918">
+      <Text>I would not be so grateful for my parents abandoning me before I hatched.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="37aa2256-98aa-483d-96c9-d941bb6576cd">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb06a388-e403-47a7-a86e-ba0e428c0612">
+      <Text>I’m always hatching an evil plan against them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="44208fda-17dd-4519-b02a-1b700853b58b">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="56fa610b-4363-4fb8-b820-967f5692a858">
+      <Text>I’m sure it will unfold some day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d82e36f4-a837-48ad-bef5-30830bb705c2">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="48defe66-b767-45b6-844b-dd5355199774">
+      <Text>Have you forgiven your parent?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e26ed7eb-024d-4878-9034-24862ae073a2">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cefa0869-34bf-4b16-83df-fcb97d6cc166">
+      <Text>For what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e37ce2f-28fb-4f42-b4c6-cd665ee57215">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="216b4f58-aea8-444e-b942-4279ec4e1574">
+      <Text>For feeding you puke. Literal vomit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f92577c8-e752-43d1-90b3-ebc5a8aa79f2">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f3176528-8076-4d08-b5ff-306f8537ab64">
+      <Text>Ew, never.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ba77b60a-06fe-4d20-8e03-e1109b49cda5">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb3ca813-bd10-4321-b3f9-1004845d4a4c">
+      <Text>Are you going to break the cycle?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="591cee89-3443-4046-939b-6bde52428427">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="82f50481-1b81-4248-8915-67b9b3d8b750">
+      <Text>Why would I if it has worked for generations?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cf5da480-db43-4643-893a-a40abe21845e">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b2ac48dc-6afe-4755-b7d6-2a6b7a63bd07">
+      <Text>What made you decide to be a parent?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9df2ac3e-7a24-4ff2-86b4-67d0a8e8f36a">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="616e0e59-7e01-4a78-940c-d9e6c0511917">
+      <Text>Same as you I’m sure.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="885f6cdb-cefa-4ce3-83d0-9126da313bfa">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="cdeeaf29-89ae-48fe-977b-57f647e8b246">
+          <Text>Mimi</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="39712b88-a03a-46c4-9069-dff4d22fe440">
+          <Text>To pass on my spirit.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="2429265b-2bd7-4872-acae-45d5e86c96c0">
+          <Text>CrYSTAL</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="532fd478-908c-4c6a-80d9-80a3dfa5965b">
+          <Text>To pass on my blood.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="80948b7a-e56d-4c21-974f-dc4bd3941f97">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d4e5f132-fa09-4ab6-88fe-bb6521ae3ae8">
+      <Text>I know not of my parents’ spirit, so blood it is.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="67969488-3d80-4236-bc35-2cffd47b5b9e">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b538932d-f442-4f26-8639-3586f8d8120e">
+      <Text>But no matter what, we are always a reflection of our parents.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4cd7353b-55e2-4340-a01f-6d8cbc007447">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a29f087d-0c30-4b7c-a0f3-de9878342767">
+      <Text>Is copying your parents an offensive or defensive mechanism?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74ea5279-98b7-4d30-8433-649d71f67c0d">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0cabbd09-e5ed-41a8-ba7b-ae361931e82d">
+      <Text Style="Italic">Is copying your parents an offensive or defensive mechanism</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="df7dee16-833d-4562-a0c0-003db3c6f2df">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0e63ae75-b8fc-4dad-b81d-257dee5d2eef">
+      <Text>Copying me is definitely offensive.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="261d9ea7-a31b-410d-b0ad-f4abe71e2bf6">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7e90a5d9-6ca8-463d-a52d-eb839b30fedf">
+      <Text Style="Italic">Copying me is definitely offensive</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa24b932-ddc4-4cb8-8c51-5111a61a8de8">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f6c93905-f4eb-40ac-84c1-aa36cb838d9d">
+      <Text>Do you have an original thought or do you like mimicking everyone, Mimi?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7b8c7181-3495-4722-8413-b734197436f5">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b3a15f89-6b33-4680-aea8-4a0968aaf0f0">
+      <Text>Do you speak in anything other than forked tongue, Crystal?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="886290c3-78af-413b-8816-00ff9157629d">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6b5a7886-2fbd-459f-9f47-b1b5871f330a">
+      <Text>Go fork-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5d5bae6-40e9-4d2a-a034-e1fe508136e2">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c36f1c0a-4cfb-48f4-a477-972376663ba3">
+      <Text>You go fork yourself!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="46f5d92d-3f43-4b3b-9aa6-6eb51ce05dd8">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e368897b-500c-4b35-84f6-648a6157cf8c">
+      <Text>This forked tongue wished it had tasted your eggs!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dac1d426-a4a6-4e65-be14-c56ee48cc8a1">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="93718315-ab9d-4690-9dcd-1cfc419df5bf">
+      <Text>You snake!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="20cd4dca-5900-418c-9883-676c63b3b3c1">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> paces around the campfire.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b37ba1d2-1986-4b46-87ce-a747eb29b1f9">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4ab1bde1-dea7-4cb4-a53e-77fd3a8827de">
+      <Text>My feet walks on eggshells. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0de68623-3e1a-4c6b-b6c5-0db0d689e4ec">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="290944a9-2814-41da-87a4-ee98e350e7f2">
+      <Text>Your attitude does not help.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="58f06664-6a5c-4997-8d67-23c53656c466">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="388a9992-3246-4ab5-a4d9-dbe20ac95a6f">
+      <Text>Birds of a feather flock together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="782915ad-7358-4b96-b7e3-f12f3b915130">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="734f5240-cf9b-4953-b736-64fd66794fc7">
+      <Text>You’ll never be a bird.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="965e2801-ea95-4798-a7ae-8040567a397f">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f504023b-bc30-4090-8126-feec0490286f">
+      <Text>This lizard wants no gizzards for a stomach. I want something enlightening like a firefly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="84057b58-09f5-4541-ae06-392e0d051bc0">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a947b3fe-3834-4b17-9a87-76a0f4f21076">
+      <Text>You certainly have a fire in your belly. Stop dragging on. So you know where my eggs-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6efb0be7-c887-4454-8033-62d78dbfdc20">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8ed951a-dd9b-425c-b76c-de6374243263">
+      <Text>Speaking of snakes, they are my reptilian cousins.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="534695e7-2f1a-44e6-a4c1-a8dd0253aae0">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d41af32f-fa34-4f90-8136-4b6a3c20bbaf">
+      <Text>There is a reason they have no legs to stand on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e016a57-f2fd-47e0-b57c-5bd28dcf9c31">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2dc70860-e765-4d71-8dae-d3c49554d53c">
+      <Text>What contrived myth do you have under your wings this time?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ef9bf2c-c7e5-47b0-9ee3-80084964d51a">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="818c5ef3-5322-48eb-a104-82edd26b27f3">
+      <Text>Legend has it that they lost their legs because they wished too hard for wings that they were not grateful for the legs they had.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="340ab44a-10df-4e5e-b92f-7c5c6c3199b4">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8ed951a-dd9b-425c-b76c-de6374243263">
+      <Text>You’re definitely my evolutionary enemy. Prey!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dfb6eedc-f2de-466d-9299-e828d82e9f9a">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="72dc7b12-6d09-412e-874e-3b6b9bce8d58">
+      <Text>Pray that you say nothing more foolish than this!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8639530b-bfc2-47ef-ba94-2ea6419e6ee3">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="676869c5-f7a7-429a-8dbc-374152921e15">
+      <Text>I wouldn’t eat you even in your current pathetic state.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4bd1f3ba-d07c-4eb5-a0b9-580e1fefdcdf">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="071ec9fd-1869-484f-9993-fe9f282d404c">
+      <Text>Forked tongue and flames in your stomach. I expect nothing more from a lizard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5d744107-99ee-4663-a3a0-405aa445b6b5">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4fc0a5f6-fea7-495f-a7c6-b257a6406aca">
+      <Text>You’ve never really touched the Sun, have you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e3769517-01f5-4eb0-945e-c02ac02e0535">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b51e441f-1576-4fab-809e-9d40a849879b">
+      <Text>That Sun matters less with my sons. I cannot find mine and you’ll never hold yours if you don’t tell me where they are!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="85f388c0-9c29-4420-ba03-07f7eaa35794">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fdc7145d-4820-4798-90e5-25f84f159323">
+      <Text>Egg me on! I pray that your own spirits are broken into countless pieces!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="90ffc8ab-eab2-4ac2-9220-816c68e7122c">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3a8bf8ae-60e5-4846-8483-bdd4a2799b7b">
+      <Text>At least I have a spirit!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7217fd50-8b5d-491c-8745-1a2423863e79">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text Size="10"> </Text>
+      <Text AdornmentStyle="-1">tossle</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="308c4a23-11d6-4420-867e-d2c6fb4a04a5">
+      <Text>Mimi &amp; CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c88c397b-dfc9-4f7a-9e23-195b28a04cbb">
+      <Text>Break my spirit!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4d93943-53d1-431d-a17a-cec71359e9ed">
+      <Text Style="Bold+Underline+AllCaps">3. Fully Developed</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e2576836-646c-4cae-b506-81d37c038aad">
+      <Text>The campfire drops eggshells as it grows to maximum strength.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7217fd50-8b5d-491c-8745-1a2423863e79">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text Size="10"> </Text>
+      <Text>walk</Text>
+      <Text Size="10"> </Text>
+      <Text>on</Text>
+      <Text Size="10"> </Text>
+      <Text>eggshells.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a266ff37-ca9a-4bb4-bf50-4d662eb34371">
+      <Text>Mimi &amp; CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="147a2136-7506-4ce5-9b43-8d01c573ccaa">
+      <Text>Baby?! No-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6ef3901c-65e1-403b-a2f1-d79eef437e71">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> hold eggshells. As bird and lizard, they cry out for their dead children.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="188a7146-1fda-4188-bc04-df48a76a4dbd">
+      <Text>The fireflies die out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="067450b6-f782-4823-8f72-72d8e6976a3f">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> wander about.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="08705be0-b084-4e30-8d86-1f3cb0bff7a0">
+      <Text>Mimi &amp; CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8a2e26da-12d5-4031-9c52-9c67c1a07f41">
+      <Text>The spirits of my ancestors... They end with me. They broke in hellfire!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="238b9aa0-5dc2-4762-a63c-829621237fde">
+      <Text>The sounds are muffled by the distant sounds of humans.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b4947e23-ab02-4a85-90a4-ba095302b3a5">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1a208c28-e5a1-4df1-babf-de6850a3949a">
+      <Text>I first heard these sounds not too long ago. It was an unfamiliar tone. A language none of my neighbors in the ecosystem has ever spoken before. Hard to sit on. Tough to understand. None of our mother tongue.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> uses the campfire and their physique to represent humans.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a67aa58b-f8f4-47ba-b633-a326b69fe2cf">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ef1d21e8-8044-4e32-82b9-c410719f6929">
+      <Text>They are the monsters’ tongue.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b513e3d4-75c3-4861-bbe7-80468b911582">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3358a2e4-e51b-4dc9-a85e-2a7a9e6c2377">
+      <Text>They sound too foolish to be.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e49df4b2-143e-4cb1-8aec-dec2469c0b54">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5b04c656-4edf-4482-9eb6-3b30a0c4942f">
+      <Text>As a hatchling, my mother/father once told me the tale of these two-feet beasts.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e34758c4-8b31-4273-b1f7-fb4729f9056c">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca3a207d-bc72-4976-bc28-081b9b7fb707">
+      <Text>So, monkeys?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="30220633-3565-43b4-94c3-7005b0ab2633">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> pretends to be a monkey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a1864200-3484-4dab-97e2-10bf72758ce3">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c45fc5ee-581e-4676-a3e7-c7d4362ed7ff">
+      <Text>Listen. These beasts eat everything in sight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7bd3dddc-46fa-44a8-bc18-510284f73d8b">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aeabfb70-466b-498d-b52a-be857580ca53">
+      <Text>Impossible.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f4533f98-98a7-4c5e-ad42-61bbc6740fb4">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7296c414-f5ff-4a13-9ac1-12871dec33e4">
+      <Text>Evolution treats them as legends. They are the king/queen of the food chain.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="42071b9b-5ca1-4546-a398-6572f918997e">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9ca1fec1-01b5-4b03-98d1-a525c9bdec3c">
+      <Text>My kind are the lords of this forest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f16996c-6433-4fd8-b510-9b9bd1729c7c">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b425206d-380a-49a0-8701-5d0933110d69">
+      <Text>Rest assured, you’re a peasant’s meal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="24d8cca3-7875-4b9e-a690-929a1ba3bf05">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bff2a7d0-1abd-4b3d-be28-d1fea9a78432">
+      <Text>What sick parent raised you to speak to me that way?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a91aac75-6986-4b0a-b88c-f82b2341d212">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="546698c5-272f-4f7b-a9b6-b83eb61c27f5">
+      <Text>A parent who never came back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2e70807c-c219-4585-9683-b2ce81fa7d5a">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="95942ce9-b56f-4b1e-ba0c-65c3d316a1cc">
+      <Text>Where are they?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6c11ae10-50c4-4007-abf0-a10203f73dbd">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="503a590d-898e-4124-a908-fda76e1fc6ba">
+      <Text>No longer here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f348aa2f-68b7-4a1b-87f2-ba5fe39cd001">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eee2f337-f6d9-445a-a8d6-0b2e252b2759">
+      <Text>Now spirits?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="baa88f58-f934-4333-b8ab-6b3824706a37">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="546698c5-272f-4f7b-a9b6-b83eb61c27f5">
+      <Text>I could still smell their hot feathers, flesh as I flew high and above a village.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b724f8ff-ae57-412d-9114-64ae554d214f">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1a2a5439-4ab9-42a7-acfa-b5ec808fa006">
+      <Text>Village?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8b8b454d-8727-401d-a801-b72ecfb00477">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d797f702-12e6-43ac-b8a9-1b4e0ee9faf1">
+      <Text>The two-feet beasts’ nest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6f2c8659-3c80-49cc-badc-00e1e07b019d">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c20b313e-4b36-40a0-b53e-1aea6f0310b0">
+      <Text>You left your home?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0462ebe1-0f42-4983-b0a4-ac3553303269">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1bf8066c-49fe-44ff-a795-d8bbc358680f">
+      <Text>I did not know how to fly the day before. My mom/dad could not teach me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b82a49d5-396d-46f5-82c5-5605e42af29d">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="934c90a5-8a5f-4544-beee-66723176d274">
+      <Text>I was most fortunate to grow up alone and fight fire with fire.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c1027c89-429c-45ff-a063-31b2486efb4a">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd8cba87-6f68-4d60-9c53-e01c60e64027">
+      <Text>Why do your eggs matter now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="544f32ce-1ad0-4346-90a8-c1bb24d8e47c">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8cf6c84f-8be8-4ca5-bdd1-434ff2ac9d27">
+      <Text>I wanted to be different from my parents. The ones I’ve never met.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2e30d101-1d6e-4a72-80b1-1c3ebb3b44ed">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f2b8ce86-3a36-4a09-9b88-a448305d640b">
+      <Text>You saw the light.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="306f3d29-d5a7-48b2-adf9-677a3b20274f">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9ba94644-e99a-4eac-8d41-66d128b220dd">
+      <Text>Your chicks certainly saw the light.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2a132951-5fb5-4de4-879e-e495f41eb0dd">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a17afe4a-ac5e-4fbb-853b-165dabd614f6">
+      <Text>If only we could make light, of this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2cc6803c-c081-4f1a-82d2-b365a0389082">
+      <Text>CRYSTAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4d1e7446-7991-4b38-ab9a-3a20c0413a39">
+      <Text>The two-feet beasts. Those monsters!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="159a4571-dedc-4a32-a5db-c18aa4eaf92c">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="97971839-e362-415f-97ad-113c8cf8b1ad">
+      <Text>Unlike any other animal, they can make light everlasting.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="98f7b5aa-0a37-4cbc-9b91-1ecd544f48ee">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9fe39d93-9b99-439b-81f0-292e6c537c49">
+      <Text>Mimi. Where does fire come from?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="636ece13-2855-4117-a754-b674f67bfbf9">
+      <Text>MIMI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d0c22d5c-00c8-46ca-b45a-af2978138b2f">
+      <Text>People.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="12f4b1a4-297f-44a9-8dba-865fb67f996b">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1b1795e6-927c-448c-a026-1c819fe64437">
+      <Text>No. Really. Where does fire come from?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dce19f53-43c0-4404-995b-52eabac50f61">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a27ca620-1c04-4f62-a16f-46fc2d05f33b">
+      <Text>The spirit.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e9c22672-aba4-4bbf-b62d-1547e72cae54">
+      <Text>Mother nature speaks through the flora and fauna that is audibly expressing themselves in the darkness. The forest spirits are calling out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="188a7146-1fda-4188-bc04-df48a76a4dbd">
+      <Text>Countless fireflies suddenly swarm the environment.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="15c9e19f-472a-4cd6-8b2a-ee47f6812484">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> mimics the calls of every animal while </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> scales every plant.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="015b897f-f9a0-4be7-adad-3ec357a43898">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> touches the campfire without burning themselves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="98f7b5aa-0a37-4cbc-9b91-1ecd544f48ee">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b9eaa052-4238-4fd3-980a-c0f1b1dca48b">
+      <Text>We, too, can make light everlasting.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="15c9e19f-472a-4cd6-8b2a-ee47f6812484">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> grabs a branch and makes a single torch from the campfire.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text>Another campfire appears in the distance. Humans are audible.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e1042a9b-d9b3-4df0-a358-4b24f2a2a2d3">
+      <Text>Mimi &amp; Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="510fdab5-7ec7-4692-b1a1-a50704d0c40b">
+      <Text>The myths are true. This legend must end.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> gathers several branches and makes wings out of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a1fa78f2-bb7d-4f4b-ac3f-23ea377bcb93">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e5e37f79-a8a2-41ee-9626-290195c9bd69">
+      <Text>I cannot fly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> gathers branches and makes torches out of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> plants </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> makeshift wings on </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text>’s back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a89bf432-c6bb-4673-bd20-5890c6c57fd9">
+      <Text>Mimi</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="478cc877-fd13-42cc-8376-4555438eb09c">
+      <Text>This will fly. It’s on you to spit fire.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5400aaa9-0acb-4fac-86b8-70a090bc590c">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> hands </Text>
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> the torches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1a3840bd-d321-43e4-b7f0-f1833494e3cb">
+      <Text>Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="115be425-f55e-488a-9f03-f6cc2905c171">
+      <Text>It’s on you to hide your feathers and show the flames.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="39ff7e70-9c64-450a-8330-55da5059a756">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> are ready to fight fire with fire.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e50c402-b8ce-4f7f-9543-ef2d8e6a3d62">
+      <Text>Mimi &amp; Crystal</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="863e0ac3-745e-4165-8a5f-38ddad1cb337">
+      <Text>Let’s not make light of this.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4d93943-53d1-431d-a17a-cec71359e9ed">
+      <Text Style="Bold+Underline+AllCaps">4. Decay</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> hide in the shadows.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text>Human shadows and silhouettes enter the space.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text>With shadow puppetry and flaming objects, </Text>
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> go on a rampage against the human invaders and quash them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f7a2afa-107d-4a20-9353-c9235b3565b7">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> fights with nobility like a phoenix.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="007ecb97-88c5-4aa2-b9f7-0a72d6e12286">
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> wields power like a dragon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3302e9ea-e1ae-4475-aefa-18dc5401d7f5">
+      <Text>There are audible human screams that cry out: “Fear!”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="33dfcde2-b71f-49df-abaf-850f7868c07d">
+      <Text>MimI (shadow)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="588d24e3-c2c8-4189-be4c-89c1057a9e68">
+      <Text>(Repeating)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5edba09a-e491-4f29-9237-cea67ae4ea0d">
+      <Text>Fear me!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f06eae0a-e392-4366-949d-4a6300e59eb1">
+      <Text>Crystal (shadow)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="37454d58-c95a-4a2d-84f0-f494d7235b8b">
+      <Text>Drag on!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5249e2dc-1f81-41dd-b464-a910c63bd2c3">
+      <Text>MIMI (Shadow)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e34a67dc-c79b-4820-b5c5-a9b7f19fb00c">
+      <Text>(Repeating)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cdd63e75-0735-4803-8cc8-bbf08c741bf4">
+      <Text>Drag on?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ebc4cd30-743e-44b1-931d-862a23ffcd7b">
+      <Text>There are audible screams that decry: “Phoenix” and “Dragon.” The humans will remember </Text>
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text> for millennia to come. The humans run away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="366b131c-46f6-459f-b6c0-b37fca892357">
+      <Text>Mimi &amp; Crystal (Shadows)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="181ac412-9495-4e15-84de-1b2f0477dfc5">
+      <Text>Nature is dead! Heated! Healing...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4d93943-53d1-431d-a17a-cec71359e9ed">
+      <Text Style="Bold+Underline+AllCaps">5. Flashover</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cb610943-36d7-4140-9e22-586979f31783">
+      <Text>Mimi &amp; Crystal (Shadows)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="938a4d56-3206-47ec-8eb0-a97896036c6e">
+      <Text>Light at night. What a sight. 
+This is right. Knights of light.
+
+Night bequeathed. Sight to teach.
+Right beseeched. Light in reach.
+
+Night released. Sight to meet.
+Right to seed. Light is heat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text>The emblems of a phoenix and dragon are present.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f47da062-0e75-4d07-8399-fb14052f8705">
+      <Text Style="AllCaps">Mimi</Text>
+      <Text> and </Text>
+      <Text Style="AllCaps">Crystal</Text>
+      <Text>, as the Phoenix and the Dragon, run in and spook the </Text>
+      <Text Style="AllCaps">audience</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="97836a27-b12c-42cc-86c0-b1b5082d38b9">
+      <Text>The campfires burn out. Blackout.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="307f9aa1-661f-41ab-b805-8c87422f8123">
+      <Text>The Phoenix caws while the Dragon roars.</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="65ebd24b-46a5-4dc2-bc36-e9b625e8e8a4">
+      <Text>End of Play</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="-0.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	Mimicry	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="1.50" Type="Left"/>
+          <Tabstop Position="7.50" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="54" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#ACACA8A89999" TopMargin="63" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="537" Left="0" Mode="Normal" Top="2" Width="1054"/>
+
+  <TextState Scaling="100" Selection="3745,3745" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.38" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="6.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="7.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Character" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Act Info" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Break">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Break"/>
+    <Behavior PaginateAs="Action" ReturnKey="Act Break" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Titled">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Titled"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Scene Info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Lyrics"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End Of Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End Of Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="No" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Turnover: A new Leaf</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">__________________________</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A Floral-Herbal Musical</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">By David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	Contact:</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	1140 Alger St SW Wyoming, Michigan 49509</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	davidquangpham@outlook</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">synopsis</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.50" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">TURNOVER is an herbal fable about a queer family turning a Vietnamese family’s life around. It plots a tanning salon by a nightclub, respectively Tan </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Salontro</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FigLeaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> Nightclub.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In Dirty City, a Cilantro arrives. Rau </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Răm</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is an Asian immigrant and expectant mother hoping to start a tanning salon business. When no one can spare a plot of land, Mimi Crabapple welcomes her with a neighboring open plot. Rau is a bit hesitant due to Malus’s gay nightclub known as </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FigLeaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. But </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FigLeaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> patrons have a liking for Rau’s body oil that spices up their skins. Rau happily takes their money but cannot support their ”lifestyles.” But the major turnover would be Rau’s son: Parsley (”Move the Plot Forward”).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">This teen operates the day-to-day Tan </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Salontro</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> business and spends the nights with his mom (”A Natural”). Later, Mimi introduces Parsley to their teenage nibling, Pyrus. Parsley helps Pyrus with issues that they have with the other flowers (“Grow a Pair”). Pyrus pays Parsley with a new beverage, called Miracle, and invites him to hang out (”Test the Water”).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Parsley asks his mom to see a movie with Pyrus. She reluctantly lets him go. At Cantaloupe Outlets, Parsley and Pyrus pose in a photo booth (”Photosynthesis”). Pyrus takes him clothes shopping. He discovers a liking for different floral styles, especially crop tops (”Crop Top”). Nearby, Rau picks a fight with Mimi due to Parsley’s sudden sense of freedom. They soon bump into Parsley and Pyrus. Rau's world turns upside down when she sees Parsley’s crop top. Mimi explains Rau’s prejudice to Pyrus (”Soiled”).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Parsley is grounded (“Fertile”). Soon, Pyrus helps Parsley sneak out. With their guest </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DJ</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> Cauliflower, they have the time of their lives (”Dirt on You”). However, herbs are not accustomed to the nightlife and this one is especially underaged. Parsley blackouts and ends up in the hospital, getting his stoma pumped.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rau sees the light of their ways with Mimi (”Green Card”). </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FigLeaf</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> shuts down due to the violation of underage drinking laws. Pyrus visits Parsley, letting him know that they prepare to move (”Sterilize”). Rau offers Pyrus a summer job if they ever are around again. After all, it is a family business (”Turnover”).</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">What are the turnovers of this sunny salon and this night saloon? How a growing child flips over to and accepts the darkness is the petal of this floral coming-of-age story.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cast of Characters</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.50" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Parsl</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">ey</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Răm</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, teen, Rau’s son</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">R</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">au</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Răm</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, adult, Parsley’s mother and the owner of T</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">an Salon</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">tro</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Pyrus</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> Crabapple</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, older teen, Malus’s nibling</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">			</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">Mimi</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> Crabapple</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, adult, the owner </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">of FigL</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">eaf Nightclub</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Orchestra</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">DJ CAULIFLOWER</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, the alias for the production’s music director, 			who may briefly interact with the performer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.50" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">*Androgyny Botany: Each character resembles the androgynous nature, with open-ended vocal requirements</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">*People of the Global Majority most represent the	 experiences of this universal family; cast accordingly</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">						</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Musical Numbers</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="-0.75" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Act I</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		1. ”Move the Plot Forward” Rau, Mimi</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		2. ”A Natural” Rau</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		3. ”Amount to Anything” Pyrus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		4. ”Grow a Pair” Pyrus, Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		5. ”Test the Water” Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		6. ”Photosynthesis” Parsley, Pyrus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		7. ”Crop Top” Pyrus, Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		8. ”Soiled (The Family Name)” Rau, Mimi, Parsley, Pyrus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		9. ”Fertile” Parsley, Pyrus</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">10. ”Dirt on You” </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">DJ</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, Pyrus, Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		11. ”Green Card” Rau, Mimi</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		12. ”Sterilize” Pyrus, Parsley</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">		13. ”Turnover (A New Leaf)” Rau, Mimi, Parsley, Pyrus</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="3702,3702" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>AGENT Blue</Character>
+      <Character>Agent Orange</Character>
+      <Character>Agent Purple</Character>
+      <Character>Agent White</Character>
+      <Character>Agents</Character>
+      <Character>Bark</Character>
+      <Character>Blue</Character>
+      <Character>Cam</Character>
+      <Character>Crystal</Character>
+      <Character>DJ Cauliflower</Character>
+      <Character>Ear</Character>
+      <Character>Ear &amp; Luke</Character>
+      <Character>Esther</Character>
+      <Character>Firebrat</Character>
+      <Character>Germ</Character>
+      <Character>Hong</Character>
+      <Character>Hong, Esther, Steen</Character>
+      <Character>Luke</Character>
+      <Character>Mimi</Character>
+      <Character>Mimi
+</Character>
+      <Character>Mimi &amp; Crystal</Character>
+      <Character>Orange</Character>
+      <Character>Parsley</Character>
+      <Character>Parsley
+</Character>
+      <Character>Parsley &amp; Pyrus</Character>
+      <Character>Pau</Character>
+      <Character>Prasley</Character>
+      <Character>Pyrus</Character>
+      <Character>Rau</Character>
+      <Character>Rau &amp; Mimi</Character>
+      <Character>Sheen</Character>
+      <Character>Steen</Character>
+      <Character>Tailless</Character>
+      <Character>Turner</Character>
+      <Character>Turner &amp; Ear</Character>
+      <Character>Turner, Ear, Luke</Character>
+      <Character>Warden</Character>
+      <Character>CRYSTALT</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(OFF)</Extension>
+      <Extension>(OFFSTAGE)</Extension>
+      <Extension>(Offstage)
+</Extension>
+      <Extension>(shadow)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>7</SceneIntro>
+      <SceneIntro>8</SceneIntro>
+      <SceneIntro>5</SceneIntro>
+      <SceneIntro>10</SceneIntro>
+      <SceneIntro>1</SceneIntro>
+      <SceneIntro>6</SceneIntro>
+      <SceneIntro>3</SceneIntro>
+      <SceneIntro>Mimi LETS PYRUS KEEP THE CROP TOP</SceneIntro>
+      <SceneIntro>11</SceneIntro>
+      <SceneIntro>4</SceneIntro>
+      <SceneIntro>12</SceneIntro>
+      <SceneIntro>13</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>ABANDONED LIBRARY</Location>
+      <Location>TAN SALONTRO</Location>
+      <Location>"SOILED (THE FAMILY NAME)"</Location>
+      <Location>FIGLEAF</Location>
+      <Location>"DIRT ON YOU"</Location>
+      <Location>"PHOTOSYNTHESIS"</Location>
+      <Location>"GREEN CARD"</Location>
+      <Location>"MOVE THE PLOT FORWARD"</Location>
+      <Location>"CROP TOP"</Location>
+      <Location>"AMOUNT TO ANYTHING"</Location>
+      <Location>THEY EXIT.</Location>
+      <Location>"FIGLEAF"</Location>
+      <Location>"GROW A PAIR"</Location>
+      <Location>"UPROOT"</Location>
+      <Location>"FIG LEAF"</Location>
+      <Location>"TURNOVER (A NEW LEAF)"</Location>
+      <Location>SALONTRO</Location>
+      <Location>RAINBOW AGENCY OFFICE, 2008</Location>
+      <Location>SHIP TO ANTARCTICA, 1998</Location>
+      <Location>PRISON, 2023</Location>
+    </Locations>
+    <TimesOfDay Separator=" - "/>
+    <Transitions>
+      <Transition>AT RISE:</Transition>
+      <Transition>BLACKOUT.</Transition>
+      <Transition>FADE UP:</Transition>
+      <Transition>LIGHTS DIM.</Transition>
+      <Transition>LIGHTS FADE.</Transition>
+      <Transition>LIGHTS OUT.</Transition>
+      <Transition>LIGHTS UP ON:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1030">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="AGENT Blue"/>
+    <Member Actor="Man 1" Character="Agent Orange"/>
+    <Member Actor="Man 1" Character="Agent Purple"/>
+    <Member Actor="Man 1" Character="Agent White"/>
+    <Member Actor="" Character="Agents"/>
+    <Member Actor="Man 1" Character="Bark"/>
+    <Member Actor="Man 1" Character="Blue"/>
+    <Member Actor="Man 1" Character="Cam"/>
+    <Member Actor="" Character="Crystal"/>
+    <Member Actor="Man 1" Character="DJ Cauliflower"/>
+    <Member Actor="Man 1" Character="Ear"/>
+    <Member Actor="Man 1" Character="Ear &amp; Luke"/>
+    <Member Actor="Man 1" Character="Esther"/>
+    <Member Actor="Man 1" Character="Firebrat"/>
+    <Member Actor="Man 1" Character="Germ"/>
+    <Member Actor="Man 1" Character="Hong"/>
+    <Member Actor="" Character="Hong, Esther, Steen"/>
+    <Member Actor="Man 1" Character="Luke"/>
+    <Member Actor="Man 1" Character="Mimi"/>
+    <Member Actor="Man 1" Character="Mimi&#xA;"/>
+    <Member Actor="" Character="Mimi &amp; Crystal"/>
+    <Member Actor="Man 1" Character="Orange"/>
+    <Member Actor="Man 1" Character="Parsley"/>
+    <Member Actor="Man 1" Character="Parsley&#xA;"/>
+    <Member Actor="Man 1" Character="Parsley &amp; Pyrus"/>
+    <Member Actor="Man 1" Character="Pau"/>
+    <Member Actor="Man 1" Character="Prasley"/>
+    <Member Actor="Man 1" Character="Pyrus"/>
+    <Member Actor="Man 1" Character="Rau"/>
+    <Member Actor="Man 1" Character="Rau &amp; Mimi"/>
+    <Member Actor="" Character="Sheen"/>
+    <Member Actor="" Character="Steen"/>
+    <Member Actor="Man 1" Character="Tailless"/>
+    <Member Actor="Man 1" Character="Turner"/>
+    <Member Actor="Man 1" Character="Turner &amp; Ear"/>
+    <Member Actor="Man 1" Character="Turner, Ear, Luke"/>
+    <Member Actor="Man 1" Character="Warden"/>
+    <Member Actor="" Character="CRYSTALT"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#CECEDCDCE3E3" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="CRYSTAL" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MIMI" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MIMI &amp; CRYSTAL" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Scenes" SortColumn="Order" TableIdentifier="NavDynScenes" id="d620824f-c171-4073-b353-5712765167aa">
+      <Column Width="54">Order</Column>
+      <Column Width="50">Title</Column>
+      <Column Width="64">Location</Column>
+      <Column UserType="CharacterColumnType" Width="50">RIP</Column>
+      <Column UserType="CharacterArcColumnType" Width="70">RIP</Column>
+    </TableColumnSettings>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynTags" id="9c2b1533-8894-49e0-b4f2-116847a5e46c">
+      <Column Width="66">Order</Column>
+      <Column Width="48">Page</Column>
+      <Column Width="250">Script</Column>
+      <Column Width="50">Color</Column>
+      <Column Width="250">Summary</Column>
+    </TableColumnSettings>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="0c83de24-70de-424c-b76a-e0a956d68c72" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="566a10d6-f1b2-4b12-9d2e-060ca6177628" ScrollOrigin="0,0" Type="StoryMap" Width="4800" ZoomLevel="240.000">
+      <Lanes>
+        <Lane Id="90223416-94bd-49ca-b840-25bc5d6f2123" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="4653816c-8a27-4d96-ba08-3319ecc905d5" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#000095002900" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#E20017003200" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#0000B800C800" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#B80075004D00" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#8700B700BB00" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#FF007D002200" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#FF003F00E600" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#B900C5003200" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#E900B7003C00" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#00008B009200" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#AF0026009300" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="14" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="16" Style="Bold"/>
+      <TagCategory Color="#0000C4007F00" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="17" Style="Bold"/>
+      <TagCategory Color="#FF001A002100" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#990033000000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="18"/>
+      <TagCategory Color="#0000CC00FF00" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="20"/>
+      <TagCategory Color="#99000000FF00" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="21"/>
+      <TagCategory Color="#3300CC006600" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="22"/>
+      <TagCategory Color="#000099009900" Id="148267ae-50ae-4746-8202-659fb7447b55" Name="Miscellaneous" Number="23"/>
+      <TagCategory Color="#000000006600" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="24"/>
+      <TagCategory Color="#D7008300FF00" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="29" Style="Bold"/>
+      <TagCategory Color="#0000CF00FF00" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="4a84b619-62f9-4c04-8e46-bf2cd0b7f582" Name="Art Department" Number="15" Style="Bold"/>
+      <TagCategory Color="#FF007E007900" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="25" Style="Bold"/>
+      <TagCategory Color="#7300FC00D600" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="27" Style="Bold"/>
+      <TagCategory Color="#ED00E6000000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="26" Style="Bold"/>
+      <TagCategory Color="#FF008A00D800" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#7300FD00FF00" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="28" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Character" TableIdentifier="NavDynCharacters" id="1a1e01bb-1b6c-4b3b-8d1d-59df1f38349c">
+      <Column Width="150">Character</Column>
+      <Column UserType="TraitColumnType" Width="50">Role</Column>
+      <Column UserType="TraitColumnType" Width="63">Gender</Column>
+      <Column UserType="TraitColumnType" Width="70">Ethnicity</Column>
+      <Column UserType="TraitColumnType" Width="83">Orientation</Column>
+      <Column UserType="TraitColumnType" Width="80">Disability</Column>
+      <Column UserType="TraitColumnType" Width="50">Age</Column>
+      <Column UserType="TraitColumnType" Width="85">Occupation</Column>
+      <Column Width="73">Dialogues</Column>
+      <Column Width="60">Scenes</Column>
+      <Column Width="111">Speaking Scenes</Column>
+      <Column Width="138">Non-Speaking Scenes</Column>
+    </TableColumnSettings>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="" SortColumn="Order" TableIdentifier="NavDynScriptNotes" id="7a9e00ef-9d11-446f-9a84-1eefc4406563">
+      <Column Width="65">Order</Column>
+      <Column Width="0">Page</Column>
+      <Column Width="250">Title</Column>
+      <Column Width="250">Note</Column>
+      <Column Width="63">Color</Column>
+      <Column Width="90">Type</Column>
+    </TableColumnSettings>
+  </ScriptNotes>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="d620824f-c171-4073-b353-5712765167aa"/>
+      <Tab id="9c2b1533-8894-49e0-b4f2-116847a5e46c"/>
+      <Tab id="1a1e01bb-1b6c-4b3b-8d1d-59df1f38349c"/>
+      <Tab id="7a9e00ef-9d11-446f-9a84-1eefc4406563"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
