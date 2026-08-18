@@ -1,0 +1,3079 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20260815T054948" id="579954c4-fa36-4223-aabf-f3ce7cb4cb3a">
+    <XRef DateTime="20260815T054842" id="3c1e211b-b305-451b-8468-b316e06811aa"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
+      <Text>Act I</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
+      <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2008 - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="93d78288-cd47-42a1-bc05-4a7a4a908f37">
+      <SceneProperties Length="5/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">1. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Overture/The Mitten Song</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="79621969-d8c4-48e3-8a84-1fee599aa112">
+      <Text>In the wooded backyard of a lake house are tents where the </Text>
+      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text> family is camping. Nearby is Elk Lake’s rocky shores.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="79621969-d8c4-48e3-8a84-1fee599aa112">
+      <Text Style="AllCaps">Petey</Text>
+      <Text> (30s, man who’s seen better days) crawls out his tent. He puts on oven mittens. With a melodic yawn, he bangs pots and pans. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7b381cf5-6334-45bc-83d8-d4ac4aed8158">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="aee1e9f7-332a-4c33-aab4-da31549b1a92">
+      <Text>Wakey </Text>
+      <Text AdornmentStyle="-1">wakey</Text>
+      <Text>, sun.
+Let’s wear our mittens
+and cook ‘</Text>
+      <Text AdornmentStyle="-1">em</Text>
+      <Text> eggs with lotsa bacon
+for our godsend,
+Michigan!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ef686414-65c4-47fe-b18f-a0e378ba4214">
+      <Text Style="AllCaps">Lizzie</Text>
+      <Text> (30s, pregnant woman) reluctantly crawls out of Petey’s tent. She’s one decibel away from smacking her husband, Petey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9bda088c-fa19-4ffd-9542-7d0a989ef2ad">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e308b012-70ac-4421-8aa2-4ea463882494">
+      <Text Style="Italic+AllCaps">Slept well, hun</Text>
+      <Text>...?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="238fcebc-fec6-40be-93f0-bd789fcd8499">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Overture/The Mitten Song</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="76bbb514-e185-421f-ae54-f5cced7d3e2d">
+      <SceneProperties Length="6 6/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CHERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JASPER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="VANDAMS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WILLY &amp; MILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">2. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Life is Complete</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74596edf-3b0a-411c-a645-60dae77421f2">
+      <Text>Lizzie</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="105c6508-eb1f-43ae-b08c-f8f08876e3fb">
+      <Text>(Narrating)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8fe9e75e-f694-4c92-8246-46a415dd8682">
+      <Text>That’s the love of my life.
+But every morning, he’s public enemy number one.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b87e9624-23ab-4146-ba41-0fe30b2d55ce">
+      <Text>Petey joins Liz’s side.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2c2e8eb2-73e9-4a99-b5a5-b1bc2a175e8a">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="18e923cb-210d-4880-807e-86ee2e59a0d2">
+      <Text>What i meant to say it Petey is family to everyone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7a7d74bd-3e41-4880-a443-03302303cbbf">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="755df529-90fc-4fbe-a4f9-9d7d8612ab03">
+      <Text>Get ready for it’s...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="93cc2aca-6935-449e-8a8e-ed18f8aeb77d">
+      <Text>Shelby (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2e407867-7c28-4872-a7eb-3850bed2b10a">
+      <Text>Labor Day!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a1528f42-9724-4269-9199-5bdd9c62ea25">
+      <Text>PeteY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="84d3c738-3cec-4a47-9063-be766bddd7a7">
+      <Text>What...? No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="17433ea8-ea39-49eb-bc56-7c9a47003af0">
+      <Text>Perry (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0bd20fe9-0583-432f-af11-ff8dd2004b51">
+      <Text>April Fools!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cc93fdee-224a-4f4c-8927-d147d691d25b">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d2314492-426f-45d9-a80c-c418ffeac3a0">
+      <Text>It’s August.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b8ef3c12-8c00-4f61-b25c-e14f06045531">
+      <Text>Cherry (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b4df37af-87a0-4d4b-a50e-e5a6a3bc3dea">
+      <Text>Happy Halloween!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4c6389d7-93f4-4a71-90f6-775b1ae40ac9">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="15326e2e-016a-4e2d-944a-ea81cb070519">
+      <Text>We’ll wear costumes, but it ain’t Hallo-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7a2ed30b-6da8-4d41-a36a-34ce8dde8393">
+      <Text>Cherry, Perry, Shelby (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ebd433a7-8b1e-4745-af74-d811a46c8901">
+      <Text>Merry Christmas/Happy </Text>
+      <Text AdornmentStyle="-1">Hannukkah</Text>
+      <Text>/Joyous Kwanzaa!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ffb4648-f3ea-46de-b3fb-24e7d0120dba">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c543af21-1adb-48ce-b7ea-07abae7ae315">
+      <Text>Jesus h. Christ.
+Let’s include Boxing Day while you’re at it!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aad15214-0e2b-4ebf-a0b4-6fe8db64ec8b">
+      <Text>Milly (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="26f99cac-4b63-42b7-b07e-abf438d6f619">
+      <Text>Petey, don’t be celebrating false holidays...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="baa5d0fc-da1e-4030-a632-47d78e5fbbf1">
+      <Text>Willy (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b57f0b38-860e-4609-8856-95533dbb1790">
+      <Text>We ain’t ‘</Text>
+      <Text AdornmentStyle="-1">em</Text>
+      <Text> darn Canadians, eh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2335e5c3-2f17-4a52-a9a7-6251f10dab23">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4a278f41-ce94-4a8e-98ff-66afd5046676">
+      <Text>Mom, dad, please remind Cherry, Perry, Shelby what this week is.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="d8b029bb-510b-4a96-9387-3f011fc79c8d">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="bd8428e7-2569-4dff-8761-9b7a22fca712">
+          <Text>ChERRY (V.O.)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="c293281d-7558-4c1f-95b5-9cbc5d6cb729">
+          <Text>We’re messing with ya, pipsqueak.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="a1660ae7-d84e-4d1f-8cc6-e6ce22f114f2">
+          <Text>Perry (V.O.)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="767e8d7e-aa51-422b-a6b8-50f733407197">
+          <Text>Seeing you nerd out is sorta hilarious.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="9a174252-c653-494e-9a1c-38b476d6d9e3">
+      <Text>Shelby (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e12d492e-6b64-463c-908e-2415b1122e4a">
+      <Text>Your singing sucks more as the years go by.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="455e934a-36ea-4891-b4e3-03be52dba9cd">
+      <Text>Lizzie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2e76561f-7278-42d0-ac36-e340b9415ec7">
+      <Text>The days of bullying your brother is over. It’s my time to shine!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9246c715-baad-4ffa-bbea-2b847d60146c">
+      <Text>Liz holds a hand to Petey’s face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="18611aca-e4fc-4690-a820-d5b44d3fcd02">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7d520f1c-c525-4dc8-8428-679df43655da">
+      <Text>Eh </Text>
+      <Text AdornmentStyle="-1">eh</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">eh</Text>
+      <Text>, talk to the hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6f719c0f-6359-4f94-8851-10a5951ea345">
+      <Text>Petey puts his hand above Liz’s like the Michigan peninsulas.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="6ec0d104-9b15-4043-af8e-71cc1fe4c8da">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="982d7b37-e106-4645-b01b-2507b4fadca3">
+          <Text>Petey</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="8f29d340-b138-4503-a81a-cfe7ffc67f37">
+          <Text>Michigan, it’s Harbor Days!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="5108a73f-0d1e-4fb0-8d3a-4c58b9549ba2">
+          <Text>LizZIE</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="a21d3722-00b2-41ca-a820-7bf1ccb21b37">
+          <Text>Elk Rapids, It’s Harbor Days!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="eedc3177-9093-4355-a556-b56b80f24e8b">
+      <Text Style="AllCaps">Granny Milly</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Grampy</Text>
+      <Text Style="AllCaps"> Willy</Text>
+      <Text> are lost, wandering in the audience.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="6180e28a-b0ab-4233-8474-dbb1650af4a5">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="636f26ac-bcb2-4adc-b34b-ecc3e699cd6f">
+          <Text>MILLY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="1262e70e-a1ef-4322-88de-fed7955155fd">
+          <Text AdornmentStyle="-1">Grampy</Text>
+          <Text> Willy.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="b6e06daf-a22a-4705-80b6-32350debbbd8">
+          <Text>Willy</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="42518579-1731-4304-9f66-ddec760dca7b">
+          <Text>Granny Milly.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="e44e1e89-6517-4f19-8c8e-893558f7a730">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="7db5c6e6-c7b3-436c-996f-7a597c371a03">
+          <Text>MILLY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="0eb4e970-a8a8-407c-a9d1-7d68fa4efbf3">
+          <Text>We’ve got company.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="d91358bf-8528-4898-b3ff-fecae701c4b3">
+          <Text>WILLY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="21989546-7234-4079-8623-aee3aafd1755">
+          <Text>Looks like company.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="c888386c-362b-4fa5-bd72-e3f1d9915bdf">
+      <Text>Petey and Liz wave at Willy-Milly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b278cd66-b9db-4371-acea-3975bf8dad58">
+      <Text>Willy &amp; Milly</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="afb1c5ac-9e54-4017-bc9e-f1410cd791cf">
+      <Text>Isn’t life somethin’?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4df01076-8330-48ff-a4a8-2749d8058601">
+      <Text>Willy-Milly mess with audiences.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="70a14b1d-8fdc-4619-b7ea-55270048ecd4">
+      <Text>Milly</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="fdcef8fc-4b86-4999-8511-78d459e84ac8">
+      <Text>You have come a long way, friends.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2b0982eb-f28e-44dc-8868-9097a7bf6dd0">
+      <Text>Willy</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a0c702cb-29dc-45e6-9168-aa62df29fa89">
+      <Text>To the greatest bay in all the great lakes!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="072e4dc8-954b-4904-b40b-baefe0201e22">
+      <Text>Milly hands out cookies.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="55dca278-4621-4902-9d34-9129071f43f5">
+      <Text>MiLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1ca5fa8d-3802-4bcb-8224-e66351608619">
+      <Text>Baked your kids fresh cookies,
+Make yourself comfy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="13fa0b08-0a81-47f5-85a2-b14230e39929">
+      <Text>Willy takes off his shoes, revealing his clam-covered feet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e2d3c40d-0851-4aa4-9af9-db0740ff30e9">
+      <Text>WillY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b2f22874-6a33-4b34-8f3c-6253cb03e3c4">
+      <Text>Emphasis on feet!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="31f12950-2e14-4bd2-bef9-07d2838ca60c">
+      <Text>The pit musicians puke.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eae13a5a-8b7a-4685-92a6-36d79a01d7b4">
+      <Text>MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="90a2ef29-7756-4bb4-ae73-cdae614dbae4">
+      <Text>Ugh! You’re scaring the guests with your clam feet!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1557a2f1-82d4-48dd-b934-c99de497b693">
+      <Text>WILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4909de34-ae41-4f3a-b9ef-421c1c00e1a7">
+      <Text>I’ve been working out. My feet have mussels. M-U-S-S-E-L-S? Get it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="baf90134-3260-489e-9a9e-9e9285f9e20b">
+      <Text>MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f8225c50-c5bd-490a-9dec-df7b94f52bd6">
+      <Text>...your dad jokes are getting old, Willy...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a07b59ee-83b6-4371-8618-775677a0eb26">
+      <Text>WILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7d0feb90-9981-4016-882b-23e0867a9a36">
+      <Text>Not as old as you, mama Milly...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2b484870-a234-4ef7-a774-83959a639e28">
+      <Text>MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="44aa32e4-95b1-498e-b20c-6874d975a8a2">
+      <Text>Shush! The guests are gonna think we’re Midwest silly instead of normal silly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5e9352c7-24f6-4ccb-9811-6cb1e27a0c35">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1d60e6d7-109f-4dd1-ad47-718e68e71085">
+      <Text>Ma! Pa! Who are you talking to???!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c5fa3e4-9db5-439d-8ac4-f7f7bfd03738">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e2b497e0-798d-4602-aad8-3d0e047b7ffd">
+      <Text>You should put ya parents in a retirement home.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="014bf81f-389b-44d4-a961-56d339048b69">
+      <Text>WillY &amp; MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="867db046-3e9d-4a5d-89fe-1c80690e5d51">
+      <Text>Our hearing aids heard that! Maestro?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1ef29792-6a57-4bec-9354-166997231390">
+      <Text>Willy-Milly nod to the conductor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="48a96cff-7d60-43e0-87e1-cb63b3210113">
+      <Text>Willy &amp; MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="538d21ed-2a55-4831-8f7e-9f833de30097">
+      <Text>Life is complete with your crazy family!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9a50caa9-ca59-4a82-b4c1-f0bae066934f">
+      <Text>The three </Text>
+      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text> sisters - </Text>
+      <Text Style="AllCaps">Cherry</Text>
+      <Text>, </Text>
+      <Text Style="AllCaps">Perry</Text>
+      <Text>, and </Text>
+      <Text Style="AllCaps">Shelby</Text>
+      <Text> (pregnant) - run out of their tents and chase their brother, Petey. They catch him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="693fd771-393f-433e-9af9-623609622591">
+      <Text>CHERRY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="efdc06df-6ba0-4366-9cc4-777bac2a50c7">
+      <Text>Hey Lizzie!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="67f5f613-a7f6-4779-92c9-ed3c7f09d85e">
+      <Text>The sisters lick their fingers. Cherry and Perry stick their wet fingers in Petey’s ears. Shelby does not know where to put hers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4049ade2-8530-4d8d-a33e-26779afebf97">
+      <Text>CHERRY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e275d2c0-7dcd-4ecd-b241-efd1fef71b7c">
+      <Text>Wet willy!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="91330083-fba9-4040-8eb8-2ef9b20d4658">
+      <Text>Willy-Milly stroll to the stage.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5e808d97-1c67-4866-9b65-de97b528d2b2">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e0a329f0-9a70-4909-8b32-e8ba82d7f232">
+      <Text>Ah!!! We’re full grown adults!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b663d8c5-a524-4567-ba33-058e29007943">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4f69af47-c920-4728-abf8-c23b14f45190">
+      <Text>Nah dude, sisters always sisters.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a81baeec-3fa8-46a4-8c8d-a3c8807f2bc3">
+      <Text>Petey frees himself.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="06428db3-29dd-4ff4-8d15-d1e582482d3a">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="155c6b77-da5a-48f2-8e99-b1b6602f74f5">
+      <Text>Go make your dumb costumes, Cherry.
+Play with your lab equipment, poindexter Perry.
+Where is your weird husband, baby sister, Shelby?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4dfe4204-e06e-4fa9-974b-c10fdb387764">
+      <Text>Willy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a0d1892d-6a1d-4ede-bc82-8fa8412d0385">
+      <Text>Did someone say, wet... Uh...?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="8f026da7-1a63-4c9b-8cbb-ff43e279bb65">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="eedadd19-f249-42f8-8d3b-d5c1c18e4153">
+          <Text>MiLLY</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="14469e56-a27a-482e-8e85-4554ca646848">
+          <Text>Willy!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="2e03203d-5ce3-4249-a353-731d4f9bf216">
+          <Text>WILLY</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="d91c7de2-189b-4727-8578-5cfe01a47440">
+          <Text>Milly?!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="6be502b9-6f10-4b10-9acd-562efcae7953">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fdbc687c-0285-44b9-b48e-cfa612355000">
+      <Text>No more singing Mitten Song and it’ll all be over.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="86fdda10-3677-4c87-bbf1-c3cbde757b2d">
+      <Text>PeTEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a336f426-c0fa-4cd1-9108-ea5c605d2c41">
+      <Text AdornmentStyle="-1">Nevah</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3571c3cb-5d84-41f0-ac95-e6bcb437e2b6">
+      <Text AdornmentStyle="-1">Vandams</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="77c9cbbd-b4b8-492c-8d1c-6f9da4701862">
+      <Text>Life ain’t complete without...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a30238d7-aec0-427c-94c4-1934d9fc5047">
+      <Text>Willy brings out the Ford Model T.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a0193eb8-f39e-4c31-8f34-1a8193c0bd05">
+      <Text>Willy</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4efd8769-b63e-465e-81ee-a5ceba778ab6">
+      <Text>The MOdel T!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="5beb1bfb-f194-4a9f-ab8d-1bfb60778beb">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="fc245ee8-0fb1-4a5e-a713-a2b54a390812">
+          <Text>MiLLY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="eca47d0f-6109-46f7-92c6-a7ff425701e0">
+          <Text>I’m gonna teabag you, so help me, willy.</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="9565be37-cfa7-49ba-9956-d661510d1cab">
+          <Text>ChERRY, PERRY, SHELBY</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="fd40bf82-6045-4164-a4a8-63882cca7ac6">
+          <Text Style="AllCaps">Daddy likes his wheelies.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="9fe5bcf5-e808-400c-b205-c1a2dee684f8">
+      <Text>WilLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dca0f213-a6b9-44e7-b8c4-de50bea0ab4f">
+      <Text>Life ain’t complete without Milly!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d812e975-09eb-491d-a47c-7df9b0458d9c">
+      <Text>CHERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e3c96162-75cb-4ae4-8a36-1d37d647ff28">
+      <Text>Cherry!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a72569ae-47f6-4377-8bd0-746f45c61a3f">
+      <Text>Perry</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="83bf8ca5-14e8-43ec-acfb-e7f3290d4365">
+      <Text>Perry!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f953b7ac-08e4-4ca5-87d4-4eabe18fbd2a">
+      <Text>SheLBY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="37eab0a7-e8b2-4979-99d8-5505543dd369">
+      <Text>Shelby!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bc1a53f5-228e-4f10-a836-8b4db823cc9c">
+      <Text>PeteY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c9400cd6-69c7-4536-81d3-7659be37d0a1">
+      <Text>Petey and his bestie...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="758d5cd9-7431-4fea-88bb-45745b05f1fb">
+      <Text Style="AllCaps">Jasper</Text>
+      <Text> (30s, Vietnamese man) struts out of Petey’s tent.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="7615e9f9-4a92-4a05-896c-4d9433fe4a77">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="8698f690-e559-4361-bda9-7c18846fddb0">
+          <Text>Petey</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="aa1fd338-d97c-4ce2-bfc7-e73923723c05">
+          <Text>Jasper! Got banh mi?</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="a1a2e2ab-d737-490c-9ed3-3f6c1690383f">
+          <Text>LiZZIE</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="7ba96e10-f5f9-4eea-9273-e79526b30b31">
+          <Text>Liz- Excuse me?</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="a0927b43-7dc9-4105-b57b-de53724850ad">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9749218a-8564-48d7-a1ed-d65bc5a8d6d4">
+      <Text>You know Jasper Tran, we go way back!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2cd7d7bf-889b-4ee2-97cc-9fbce5c95774">
+      <Text>JasPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b0f0c8bf-796c-4e8f-8650-d921426d4995">
+      <Text>To the stone ages.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8bb6184a-af77-42aa-b95d-a93b7ecb4441">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca1f0ed7-e446-41a8-ac4d-d323ffcfbc35">
+      <Text>More like stoner ages, amirite?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="34d620aa-7714-4b2b-ac60-85f229d35dd8">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7ce4ee07-66ad-4df7-bfff-a8dd1fbb6a07">
+      <Text>You two always being high, reminding everyone you’re childhood besties </Text>
+      <Text AdornmentStyle="-1">yadi</Text>
+      <Text> yada...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5e12e855-2590-4f5c-b4d6-c061496bc415">
+      <Text>JasPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="548a62c5-bbea-45f7-8d02-92757adbf1ee">
+      <Text>And that my fam owns the Viet restaurant, Banh </Text>
+      <Text AdornmentStyle="-1">Miiiiichigan</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c482320-efd9-485b-9787-a81dba1a0530">
+      <Text>PeTEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d2d0cb1d-32d4-4109-af27-b74665197eee">
+      <Text>Let’s hit it up for </Text>
+      <Text AdornmentStyle="-1">ol</Text>
+      <Text>’ time sake!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="54647159-257c-4edd-9e43-fa2d2b1bc40b">
+      <Text>MiLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2ac2fc97-7175-432b-9549-3d9508cfbadd">
+      <Text>Lizzie, you </Text>
+      <Text AdornmentStyle="-1">needa</Text>
+      <Text> give my son a hit!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="809af5ea-c31d-45f8-8ed4-fd4a33fb288a">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="21b40df0-01e2-4333-adf7-354c72fdc77c">
+      <Text>Life ain’t complete without my wifey!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2559af91-94fc-437c-9bb9-725f3e676993">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="713f208d-b8c0-47c0-ac0e-91e493e7f99d">
+      <Text>Lizzie!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9b303028-6557-4ea2-87bb-9f0b31a73f5f">
+      <Text>Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0ee8fdb4-f5c7-4278-8946-b51e5300db9d">
+      <Text>And our babies...</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="7fb32584-7374-4793-8e0d-7a3d4a4899ed">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="8b09ba44-3169-4202-8186-5a8b6a2a754d">
+          <Text>MilLY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="c6f5f1ad-def6-47b0-8efd-f8ca99a39607">
+          <Text>Our grandkids...</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="179ed6ae-9715-4bb3-a106-c16ba2dcf194">
+          <Text>WilLY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="1469af89-77b0-4508-88d1-fd78fa174b72">
+          <Text>Ah! Grandkids!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="0f20628b-540b-4356-a749-ad14f23b6314">
+      <Text>LizziE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b9b202df-db10-4c3c-a9cb-6a03d8ba4c16">
+      <Text>Watcha naming your daughter?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="27ef3054-2a3c-44e8-9e5e-65e4e413da0b">
+      <Text>SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9e17bbec-c333-4f49-8a40-bd302559b4dd">
+      <Text>Lulu!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="72e92728-45dd-42e6-95ce-2827f1ae2fd9">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13253fc2-9c56-42bb-832f-e3a0fbb59b67">
+      <Text>Lulu. So full of life! Any particular meaning?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1ef7686b-bd41-4df2-a7da-3152748b30d1">
+      <Text>SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="30d7f7f3-f65e-4f7b-8b8a-5f6ff19d6ead">
+      <Text>It means “pearl.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b16d4bfe-3459-4f89-b43d-658e19837e90">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cde6a8e7-194f-474c-bdea-b565eb2e1a87">
+      <Text>Arabic...? Ew.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d67adf0e-dcaa-42cd-9676-cb62668a98d1">
+      <Text>SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a27a374b-b706-4bef-b2a5-11ded69b0de5">
+      <Text>And your </Text>
+      <Text AdornmentStyle="-1">ibnuki</Text>
+      <Text> (</Text>
+      <Text AdornmentStyle="-1">إِبْنُكِ</Text>
+      <Text>)?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eb8e015c-246e-4b07-833d-4e4186fdd933">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7fa0b147-1438-4db7-ad17-ac9cd22162e8">
+      <Text>No clue.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="63a1af60-f08b-4a6b-bd39-bd821d329872">
+      <Text>JaspeR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="946c8c1f-3904-4ed5-86a1-01555cc942a1">
+      <Text>I bet Petey’s got an ace up his sleeves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e6b93ad6-d2f1-4181-8334-7d4c6fcc5d54">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="eaa81e16-2eb0-412f-b2bd-eb5832a83195">
+      <Text>More like </Text>
+      <Text Style="Italic">stone</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="949810e7-5193-4622-afe6-c0dfb9a94cf5">
+      <Text>Petey and Jasper hop</Text>
+      <Text Size="10"> </Text>
+      <Text>into</Text>
+      <Text Size="10"> </Text>
+      <Text>Elk</Text>
+      <Text Size="10"> </Text>
+      <Text>Lake.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0b9e0808-e9d5-4efa-a82a-b6eaf3a4eeeb">
+      <Text>PeteY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1f8dd9a0-3c4f-4787-a8aa-174e10824d1a">
+      <Text>We won’t name our son. Elk Lake will...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a83500b0-b124-48b1-936c-6e386e423b94">
+      <Text>JaSPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0adf7a4b-07d1-4674-9d97-5737be98fde5">
+      <Text>Jasper! Jasper! Jasper!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="52b31877-3f3a-42e9-8cf2-089ee07dd53f">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3d74b744-61c8-499d-b1ce-4c01112846f1">
+      <Text>This </Text>
+      <Text AdornmentStyle="-1">gotta</Text>
+      <Text> be a joke...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3f1139be-97a7-4885-b4d1-9aee6618bed2">
+      <Text>Petey dives in and finds a heart-shaped Petoskey stone with an Elk-like fossil. Time stops. Everyone is in shock at this rare rock.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a62d3389-3a5f-489f-b015-186d583e222b">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5032dd22-e004-4314-93d0-e95116ca2c95">
+      <Text>We ain’t naming our son that.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b795ad34-36b5-420f-aa62-dcc6358a379e">
+      <Text>Liz walks off. Petey runs after.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="416d3275-6c35-42ac-be4c-41576f15b5f4">
+      <Text>Jasper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="34ac5de5-92a0-4eee-9a54-fef28ffdab44">
+      <Text>How about naming your second kid, Jasper?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74c17643-d732-4953-90b2-3fd08e127bbc">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c1e391a9-4581-43f1-9ae0-0649a7819c06">
+      <Text>We don’t have to name him that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2c693ac5-97c9-4455-81ad-d4a53cb87815">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6ab9058f-e953-4429-896d-a8011ac9ee42">
+      <Text>It does sound like Petey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d104321-19f8-4789-a7d4-62240d977350">
+      <Text>PeteY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6fde7836-0aeb-4e3e-bab7-f4bb8c8c71d8">
+      <Text>My name just needs an o and a key-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="096c0b8e-fba7-4a6a-a54f-bca54865c75c">
+      <Text>Liz kisses Petey.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="21f27f7d-5129-4168-9db9-a89236a406e6">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="88fa13b6-f216-423d-855d-0dfb5df4a8e3">
+          <Text>LizzIE</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="718411a4-6674-482d-98ba-f6f2716f8d7d">
+          <Text>ISN’T LIFE BEAUTIFUL?</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="cf7dda0d-2e88-43d1-882f-a79be98228b4">
+          <Text>PETEY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="50e9e2dc-2309-4700-aeaa-f7ee7d823f99">
+          <Text>ISN’T LIFE WORTH LIVING?</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="3a41774a-5e14-41b5-8149-f7d51ec2c1a2">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="9c1332aa-08ad-4886-b9f7-70314d773b22">
+          <Text AdornmentStyle="-1">VANDAMS</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="148ef06c-648c-428e-82fb-76a8ccb3b0d2">
+          <Text>LIFE IS COMPLETE WITH OUR</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="654b663e-bf7c-46a5-9a46-c897890c6f95">
+          <Text>JASPER</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="7aaab379-f479-444e-a3c1-1663d4b3e015">
+          <Text>LIFE IS COMPLETE WITH THIS</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="fb4cc635-1732-4f31-a0a7-cb737e017023">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="92f3ddd0-a3b6-4040-9624-51f87635e10d">
+      <Text>CRAZY</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b86e5795-3afa-4348-b593-f2683a3353f7">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a945eb4c-753e-42a0-abb8-87356de81852">
+      <Text>SASSY</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="06124577-b84e-426f-b077-26744588a62c">
+      <Text>CHERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bfdd2147-0700-4637-a7a3-22c91bc204d2">
+      <Text AdornmentStyle="-1">WORKY</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9c9ac81d-e3d7-46db-ac83-404040aa80eb">
+      <Text>PERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="28cefe98-dbfa-46bc-b05d-7d218cc72d2d">
+      <Text>NERDY</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4ab157d8-fc0f-41e5-a987-39c248220eb4">
+      <Text>SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="72d8a149-2be9-49f1-acb1-ed5ddd9923ef">
+      <Text AdornmentStyle="-1">DERPY</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b3b24da5-d4cc-4903-ad9d-8732d8805342">
+      <Text>WILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0da978ec-5353-4114-8bb4-95f01ae94e55">
+      <Text>WILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2f006c07-3eb6-4753-913f-e4971a88a540">
+      <Text>MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b356917f-3719-40c7-a15d-800a5bc63f90">
+      <Text>LOVELY</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="88e540d8-a410-4aa8-b8f3-626ace854b31">
+      <Text>JASPER</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7e7ca645-ff02-41eb-b272-8a3e758cb042">
+      <Text>WELCOMING...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1376fa60-4d4b-4620-856c-2129e5bf7cde">
+      <Text AdornmentStyle="-1">VANDAMS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="694812d4-3bc5-4de3-89a1-7b5f62e7bee6">
+      <Text>FAMILY!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">lIFE IS coMPLETE</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="17683d49-5f99-4150-98f2-644a3bf7af24">
+      <Text>Liz’s flip phone rings. She answers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4312a1e9-b956-4f32-9738-1cbc88ea58ff">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d453b11c-8df8-459a-8f4c-6f24b98d37ad">
+      <Text>Thanks for giving us a sinking feeling!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b851fe47-9961-4322-9aa8-a5562f9fd7a6">
+      <Text>Liz slams her flip phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="564a44b1-13b2-435c-9d08-e51cab6f2d3b">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6035d55a-23c5-4ef1-9f0c-9b88a31b9224">
+      <Text>Is it the baby?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c516c4d6-4c43-47ff-bb6a-c75d7703b2ef">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2fba01c4-1883-4282-bff3-494d41a2aec3">
+      <Text>It’s the migrants. The shipyard has fired us and replaced us. 2008 can’t get any better.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a6d1a57f-570c-4fa9-8ec6-36a0e30dfbf6">
+      <Text>Petey sees Shelby looking fondly at photos of her Arab husband on her phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f6ae66fd-b173-4568-acc2-c5b18dfa6e11">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f62192c9-b78f-4d34-a449-c64c19ba6a83">
+      <Text>The outsiders hurt us, blue-collared workers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="96e766c5-15a9-4fb5-937f-75e415561b4d">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a6bf5028-27d4-4251-91ea-fe2b5b011b6c">
+      <Text>We’re gonna lose our house to a foreclosure. So, don’t be burning bridges...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8ac08647-4274-47cb-a9e2-7433512579c3">
+      <Text>Petey sobs as everyone leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
+      <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Night</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
+      <SceneProperties Length="6/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="INVESTIGATOR">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">3. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ea63b1bf-24a6-45d2-afce-760620b293e5">
+      <Text>Out in the storm, Petey walks onto the foggy creaky bridge. He pulls out the Petoskey, now a necklace.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fee9559a-5576-415f-a5fb-b1a93bde6227">
+      <Text>PeteY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7629cadb-5140-4da5-bae6-3a25a9b6d27f">
+      <Text>No burning bridges. Only saving our house.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ea63b1bf-24a6-45d2-afce-760620b293e5">
+      <Text>Petey leaves and starts the car.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="81437fff-e1f2-4fe3-a38c-a36203cec0a6">
+      <Text>Morning approaches with the emergency vehicles. The orchestra wails the sirens. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="74f971cc-6952-4d68-b752-8f7637491a81">
+      <Text>Liz runs out with an </Text>
+      <Text Style="AllCaps">investigator</Text>
+      <Text>. She stops in her tracks, kneeling.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d8f115da-d90e-4619-b81f-b7c193b68236">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fa5d0cdb-c387-4516-abce-828218856857">
+      <Text>Life is a complete... disaster...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="39050aed-a8d8-448c-9b79-a0de8331b83a">
+      <Text>Investigator</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="31a69cbb-2c6a-4ae2-b5fd-63fada51f32b">
+      <Text>We are sorry to report the vehicle submerged underneath Mackinac Bridge has been identified as yours... and the body-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9400c4df-8159-4533-8e99-9db2c2743794">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="6e98a434-bebf-430b-a752-b0242cbeb2d5">
+      <Text>(Narrating)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7220863f-4550-40f4-a0fb-edf473f228d1">
+      <Text>-Now of water. The Great Lakes brought out the worst in all of us. A bridge is supposed to unite two lands, not divide two souls... From that day forth, I vowed to never set foot on a bridge that double-crossed my heart. The strait stole my balance, silenced my music, drowned my love, eroded me into a cold, hard...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="b79fed5c-3bdd-48ae-9269-b2555af071a6">
+      <SceneProperties Length="3/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Elk LAKE HOUSE IN ELK RAPIDS - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="146e192f-c1ea-4f78-8b84-11334fb862a1">
+      <Text>Shelby, now with a black eye and some bruises, joins Liz’s side. She holds Liz tight.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f6e706bb-70ae-4e8d-a180-f5dd61946e9e">
+      <Text>Liz opens her hand to reveal the Petoskey necklace.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="931aaae1-23b7-45e2-82ca-da95a7423687">
+      <Text>Lizzie (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cc6436a0-622d-4e30-847d-cd80f95c5c15">
+      <Text>Every rock has a softness they need to find in themself. Perhaps, it’ll take time in unexpected places... and persons...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="17b1bb41-0e8b-475c-a395-ab4028affb4c">
+      <Text>Liz places the Petoskey in the center.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
+      <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
+      <SceneProperties Length="1/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2019 - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
+      <SceneProperties Length="1 1/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CHERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">3a. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">The Mitten Song - Reprise</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3925c769-fd1f-4662-ba42-4beea7327409">
+      <Text Style="AllCaps">Petoskey</Text>
+      <Text> (an 11-year-old farm boy) runs to the Petoskey necklace and puts it on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="243e29d4-7f1f-4649-9b56-730d79342cb5">
+      <Text>Petoskey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="aee1e9f7-332a-4c33-aab4-da31549b1a92">
+      <Text>Wakey </Text>
+      <Text AdornmentStyle="-1">wakey</Text>
+      <Text>, sun.
+Let’s wear our mittens
+and cook ‘</Text>
+      <Text AdornmentStyle="-1">em</Text>
+      <Text> eggs with lotsa bacon</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2905e4bd-218c-4882-9554-3d2df7d38f07">
+      <Text Style="AllCaps">Lulu</Text>
+      <Text> (an 11-year-old city girl in a Hijab) comes out of her tent and bangs pots and pans.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="57594484-c16b-4725-a152-796388e15edf">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e912d9ac-2a32-4169-ab9b-328b6ef90ece">
+      <Text>Can we like change the last word? Um, bacon seems unhealthy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="64ce7a0a-44b9-4baa-b4ba-434c8bbdbdbd">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4e94056a-c012-4a61-ae15-fb2a7547134e">
+      <Text>Would croutons give you a heart attack?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cd28cdd1-9f9c-4222-9ee3-361bf271168b">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text> sisters exit their tents.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e4926dd3-6f77-463a-9357-7234063a5015">
+      <Text>ChERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="828bcdc8-86f9-4675-a399-87f186c02ecf">
+      <Text>You gave us all a heart attack!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="45a9af70-98ea-42e1-85a0-5c6909a9d6bf">
+      <Text>PErry</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ead7b507-7426-4a16-8f3c-5e22882d25c8">
+      <Text>We haven’t heard that song since...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c6534277-ce60-461a-af81-0149b5a13320">
+      <Text>Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f2fa0a40-9274-4bcc-b6ca-c686a82c7b67">
+      <Text>Our brother, your father.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ad59a241-b106-4551-87ab-35f9a28d942e">
+      <Text>ChERRY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="89b9a5b6-9d6a-4e2d-b172-f2550245155d">
+      <Text>Life’s been incomplete without Pete...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6a819760-7c96-471b-9ecd-1e6d2cc88252">
+      <Text>WillY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3f555216-b808-499b-8877-3ab4eee2bb54">
+      <Text>The days of sleeping in... are over... now that you’ve learnt your father’s song.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">The Mitten Song - Reprise</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8401b2e1-cdb4-42d6-94ec-70b7518cd163">
+      <Text>LuLU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="609cbd2c-0432-4405-b0d5-b50e296719ad">
+      <Text>Where’s Granny Milly?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="401571f9-b25b-4fb5-a394-8d7af12a0895">
+      <Text>WILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="90976ff7-c46f-4912-afd2-fe0117f6ba57">
+      <Text>Milly is milling about.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b32172fb-5f45-43f5-bdc3-b9c14a2896fc">
+      <Text>LULU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d7fc81ea-f25e-4962-8125-5e4682063933">
+      <Text>Willy </Text>
+      <Text AdornmentStyle="-1">nilly</Text>
+      <Text> with the jokes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7ec7f43b-2257-4812-b397-db4ad34b012e">
+      <Text>WILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c5f3345a-84b2-4a80-8538-e688a2517a2c">
+      <Text>Milly needs all the rest she can get...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="06b80f5a-e75b-4dc3-8c47-f6f7de43323d">
+      <Text>MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="85fcc221-7f95-42e5-bc41-de53b7b8a6ae">
+      <Text>Nah, I’m fine to drive you home to the Peninsula you and ‘</Text>
+      <Text AdornmentStyle="-1">em</Text>
+      <Text> weirdos call home.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
+      <SceneProperties Length="2 5/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">4. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Yoopers and Trolls</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6a5b9ed7-2658-4e51-9790-fabb3de4c9f9">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="383e1b77-5c50-427e-827d-b9594652312b">
+      <Text AdornmentStyle="-1">Yoooooooooooppppppppeeeeeerrrrrrrs</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Yoopers and Trolls</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ce514daa-0ef3-4fa3-9cd4-5f57fee852dc">
+      <Text>Petoskey sits sadly, looking at photos of him and Milly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ce514daa-0ef3-4fa3-9cd4-5f57fee852dc">
+      <Text>Liz levels with Petoskey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="89013f58-ad53-4ad6-a06e-ad0883d627b8">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="62fc3626-dd61-4b34-9b65-63fd74d951b8">
+      <Text>Son, I know how much Grammy Milly meant to you.
+So, would it mean the world if I went to this year’s Harbor Days? August two </Text>
+      <Text AdornmentStyle="-1">ol</Text>
+      <Text>’ two </Text>
+      <Text AdornmentStyle="-1">two</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="94336a25-2d1c-42c9-8da3-2ae6713f7cda">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="54e5c3d3-79d3-4430-8be7-df4f57c09420">
+      <Text>You’d cross the bridge?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6515b1a4-3c26-47aa-a814-e861d19c9c9c">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a8b5dd9b-af43-4765-a037-608360b5e5d4">
+      <Text>Nah. We’ll take the long way through Wisconsin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="54ac0807-d8b6-4eff-b125-5ecd2d45d305">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3da2b0ec-a51a-4d37-aa68-8882ed4529dc">
+      <Text>That’s not fair! Everyone’s cheesy there...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="526fb537-9f50-4c72-bf81-112031300724">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8b65ac22-2a5f-41ad-b77a-1bee85aa6721">
+      <Text>Let’s get a </Text>
+      <Text AdornmentStyle="-1">moooooove</Text>
+      <Text> on. For Milly’s sake.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4e667da8-f441-43d6-bc69-ff92c08aa55f">
+      <Text>Liz and Petoskey exit.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
+      <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5594b819-4a2e-45c7-ae33-47dac613b1ca">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Int. Elk Lake House - Living Room - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
+      <SceneProperties Length="2 5/8" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY &amp; MILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY, MILLY, WAYLAND">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WAYLAND">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">5. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">It’d Be a Shame</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2e2b1dfb-4314-4e8f-a348-a5e84fdb257d">
+      <Text>Willy stares longingly at a photo of his late wife Milly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ad315372-f9ba-46ac-84dc-a50b415d93fb">
+      <Text>Amanda Wayland knocks on the door. Willy goes and open it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c38ea8b-1f89-4875-acc8-77be68898d91">
+      <Text>Wayland</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a5c4734d-a578-4ec1-b579-afa65cfcb978">
+      <Text>I need your lake house!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="77361a85-0d82-4f2f-9012-bd1d3140a517">
+      <Text>Willy slams the door on Wayland.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="13d18335-55e5-4a0d-97e0-2cd8bca33d4e">
+      <Text>WillY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="db90e4b2-1f23-4ebf-9c85-8d157172796d">
+      <Text>Those damn vultures.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3567fc66-0efb-458f-83f0-21e74e82662e">
+      <Text>MiLLY (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="59cb508e-12b3-4e60-b317-ad8afddc3326">
+      <Text>Who are you calling a vulture?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="47984fa7-3696-4989-a7ff-2b3ff862c692">
+      <Text>Willy opens the door again. Wayland nabs Milly’s photo.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8150871b-66b7-4cb8-80e3-042cb33161da">
+      <Text>WaYLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7c82725b-8f73-4f2f-ae17-391bf6bb83a1">
+      <Text>And you need your wife back.
+my name’s Amanda Wayland of Turkey Ventures...
+and I can bring your wife to life!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d2619733-dfd7-48e6-88b9-a5cf0af30175">
+      <Text>Wayland displays her tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3bd7ef54-e468-404e-86fa-609ffa49ca37">
+      <Text>WillY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bed31fd0-a636-42fc-b3fc-9cc3e4bb9759">
+      <Text>She did not believe in alchemy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8995a63e-ef8b-47b6-8770-6e3044851834">
+      <Text>Wayland places Milly’s photo on her tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f70e1d12-64e9-4ddb-a92e-2d12103b0aba">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="50a86a84-fe61-4eef-a96a-bbb9c53b463b">
+      <Text>This is not alchemy.
+It is technology!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="230f8d50-5026-47c3-a56e-fd150f516d42">
+      <Text>Milly shows up behind Wayland.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c778183f-41aa-4d76-86e0-5a28f80c1766">
+      <Text>MiLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="670b5f70-fd6c-4427-ac7d-700d2ef72f0f">
+      <Text>So proud of you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a3f4de18-216f-4a7c-a79c-c7a320a34efd">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ab2817e0-8991-48d9-b427-7ecadb9d1c40">
+      <Text>You heard that?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f959b643-a139-42c1-8b77-094f944a2e7e">
+      <Text>Wayland raises the tablet volume.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="15077605-680f-45fe-ae7a-516c6367db01">
+      <Text>MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9cd215a6-f67c-4da8-b632-3aba67f79a89">
+      <Text>I love you!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="425f63b0-33da-410d-b97b-fe357f94558c">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b2cae7fc-4d29-4404-8554-b90fb8ab3763">
+      <Text>I’d love you to let me build a data center by your lake.
+so, she can get the water she needs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4e0e7ac7-d38b-42a9-8ccd-3487f9500364">
+      <Text>MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c1715834-f098-4bde-8694-b60dddfdc9d7">
+      <Text>Do not bring shame.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8ae49778-3f1d-4492-8398-ebbd74ebb699">
+      <Text>Willy looks at the disapproving violinists in the orchestra.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74ace816-01ed-4c2b-ace8-1d8ad46dc2ae">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="649782af-6030-43b3-8681-ceae6f56365f">
+      <Text>Don’t be ashamed to say “no.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="03bde0a3-0afb-458e-8216-dc204f76fbb0">
+      <Text>WilLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c50fda60-5018-4f6a-a312-34f8e4daa3c2">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e36e6ded-f337-4005-b00f-bc857600c054">
+      <Text>Milly disappears.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c398926-879c-4573-8fc8-63eefabcfddc">
+      <Text>Wayland expects it. She “respects” his decision. Before closing the door, she nabs Petey’s photo. Outside, she sets it</Text>
+      <Text Size="10"> </Text>
+      <Text>on</Text>
+      <Text Size="10"> </Text>
+      <Text>her</Text>
+      <Text Size="10"> </Text>
+      <Text>tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="90e9149f-4e62-4b67-9f81-373c7ed696cf">
+      <Text>Petey enters the home.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f8dc2443-39a7-451c-8c2b-acb5ca259eeb">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c13b3bb9-cdc5-47ec-a0d8-a31ed83f0a33">
+      <Text>Wasn’t my life worth more than my house?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e519e66e-cdee-4b21-9b76-61345f62e7bf">
+      <Text>MilLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1ca06f36-63d9-411a-8bc0-30cccc20d72a">
+      <Text>It’d be a shame...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3a545533-8759-4ce1-8353-ee63d9f79d21">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7a69d6ed-7975-40be-be35-5d4795074d94">
+      <Text>Wasn’t my breath worth more than some lake?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2bddcf31-ef0a-481c-8030-c0e87ffbf727">
+      <Text>MiLLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a86b2c24-0a06-49e1-a7f0-4dcd230c8625">
+      <Text>It’d be a shame...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f312d657-d643-4ffa-baad-84401f9ccfa0">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="45225bbd-90e9-48a9-aa8e-aad85562b8c8">
+      <Text>Wasn’t heart worth more than these rocks?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a39fcb7d-39b7-49fc-bd86-10a0d011e34f">
+      <Text>WillY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="fcb80c38-9acb-4058-a0ff-399408128eed">
+      <Text>There is no shame in forgetting them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ff0b8143-8354-4a18-a356-85a1de2df9aa">
+      <Text>Milly joins Petey’s side.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="080afa13-dfcd-41c0-acee-12bc499c5233">
+      <Text>Petey, Milly, Wayland</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="007fddb5-5fcc-470a-abaf-9a8717cf5826">
+      <Text>Shame...
+Shame...
+Ashamed...
+Only shame...
+Nothing stays the same...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74a89d2b-0566-4bb0-9017-2c6db446c4dc">
+      <Text>WillY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="7b396199-f3ba-4c6a-a43d-a9d417ad7cb0">
+      <Text>It would be a shame if I chose the house before my family!
+It would be a shame if I make...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9630f972-2bfa-4e09-a728-11245f2aa650">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="10e0fb76-03e6-43e9-b3f9-69dd89f6d890">
+      <Text>Bring back your wife!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8731e0d3-80e0-4005-91fc-b77dd037672b">
+      <Text>Petey &amp; Milly</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0a3501eb-5213-4fae-bc03-fd1234e8857e">
+      <Text>Don’t be ashamed!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d942f7af-ae8e-4f41-8b40-bd2659a09d9a">
+      <Text>Willy</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f8a76117-d3f9-4064-a2a9-70cbbaafd58f">
+      <Text>It’d be a shame if I make the...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="05e9fba0-b443-4faa-8b49-92212d0984d0">
+      <Text>Petey &amp; MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0bf5281b-903f-4c36-9726-a2febb28a2c3">
+      <Text>There is no shame.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f3821f22-8b38-4f4b-8331-bba8de76a127">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="416434b3-096c-4665-bb7a-98d9119cd42b">
+      <Text>Bring back your son!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="758b89b2-c926-4051-b2ef-180c5074e38b">
+      <Text>WilLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c5aad746-132c-4d96-9753-1427897bee7e">
+      <Text>It’d be a shame if I make the same...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="31d885a5-4d99-49ef-a75d-f02317754c23">
+      <Text>PetEY, MILLY, WAYLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="063e842c-16c7-4f1b-ad8b-d6aef4bd25bf">
+      <Text>Nothing stays the same...</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="dbaa8750-bebe-4667-84ff-eb246327f912">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="e3004508-d458-4f22-952f-b58ed26543f4">
+          <Text>WilLY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="2b195340-836b-4c79-a1a3-694982eca083">
+          <Text>It’d be shame if I make the same mistake...</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="50829ae5-4766-4a7b-9b5f-cc0bcc183f18">
+          <Text>WayLAND</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="b0283dcd-3479-41c0-a38a-ac20096a05f8">
+          <Text>It’d be a shame if you made the same...</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="32ad1c47-5d6d-40d4-bb2d-7124327c1d56">
+      <Text>PetEY, MILLY, WAYLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="06cd2717-e1b5-4a06-8d39-98d8b5910616">
+      <Text>It’d be a shame!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="df868c92-dacc-4612-970f-0db1c8a67acd">
+      <Text>Willy tries to hug Milly and Petey. But they disappear. Instead, he hugs a tablet with their photos. The tablet displays a contract. He holds the e-pen.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">It’d be a Shame</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
+      <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
+      <SceneProperties Length="1/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2022 - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
+      <SceneProperties Length="1 1/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JASPER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU &amp; PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">6. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dad Tax</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3878ce69-e192-4d7b-b79b-f9340044227d">
+      <Text>Jasper finishes setting up Lulu and Petoskey’s tents.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7968c8e1-0b96-46ea-9512-1b63e73745e8">
+      <Text>Shelby and Lizzie stare in awe as Lulu and Petoskey feel awful.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="925a06bd-b395-4678-ab73-1523ed948520">
+      <Text>Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="26bb4f01-2c39-4622-8ea6-9ffbd07fd418">
+      <Text>Thanks for everything, Jasper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c9f131de-96ae-442a-ba75-ae1f78b715c3">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ed8453af-5b0e-4e43-809e-ab680db945eb">
+      <Text>I really did not need your help.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4aff2b0a-5aa0-4637-97a8-97a70000c626">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d11c20a8-a2a8-4eae-9ea5-a8be54cc9528">
+      <Text>You needed all the help you can get, Lulu.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="540c5545-450f-4929-8cc3-0c935e1356e4">
+      <Text>JASPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7f52f028-452c-40fd-8e48-7395c8634c90">
+      <Text>And you needed some manpower.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3b4e907a-5533-4f66-a0f5-29a9784f289f">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="557b31af-bce2-43db-b6ac-ace238c46c99">
+      <Text>Ha! He called you a sissy, Petoskey!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="504a6d98-2fd4-49c7-a67f-a6083c919444">
+      <Text>Lizzie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="511a607b-e4b4-40d4-af04-cdbb467190e0">
+      <Text>How could we ever repay you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8db77b1f-842f-44dc-a292-8061552418f2">
+      <Text>JaspER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6b2fe0e3-e0f5-4593-bc09-0d6070aba8ae">
+      <Text>Your sweetness is good ‘</Text>
+      <Text AdornmentStyle="-1">nough</Text>
+      <Text> for me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8f7d8fe1-0fd5-4574-bde5-5d94805b7957">
+      <Text>Jasper nabs a handful of candy from Lulu and Petoskey’s box.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4677a486-9731-458b-9e13-4e1cffbc28af">
+      <Text>Lulu &amp; PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="27a12845-23bb-43e6-884e-b20921a0218d">
+      <Text>That’s </Text>
+      <Text Style="Italic">my</Text>
+      <Text> candy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fe3b74c1-e9f0-4fb1-a442-358567e3ae86">
+      <Text>Lulu and Petoskey stare down one another as they fight for the box.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="106a1917-8964-4dfa-9898-ed495a9ca277">
+      <Text>Lulu &amp; Petoskey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="50c2de72-5637-4e26-8b04-40e60b829e93">
+      <Text>Mine! My sweets! Sugar! Mine!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8ce617f6-cb86-4a88-960c-12d5416f71dd">
+      <Text>Jasper takes their box away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="90073f92-a825-465a-b6cb-946be7a0f02b">
+      <Text>JaspER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dce46cb2-77ea-4d45-9147-ef07f5675107">
+      <Text>In the jurisdiction vested by the council of fathers and godfathers, everything is mine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3f73201f-2b1e-4e7c-b72d-6cba202a113e">
+      <Text>LULU &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b0a09e2c-b065-4100-81ef-0b63fb0d1f33">
+      <Text>What jurisdiction?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="80d05901-8ae5-46ea-a498-d21964abe2ba">
+      <Text>JASPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="69be132c-cd53-4ee9-8a89-5f5b2f30b4c2">
+      <Text>[sings about the dad tax]</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2066bc34-942f-47c9-8da1-f8a034dc80db">
+      <Text>CherRY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dace39de-368f-44c8-97e8-b242cd8f508a">
+      <Text>[sings about the mom tax]</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dad Tax</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
+      <Text>Act </Text>
+      <Text AdornmentStyle="-1">II</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
+      <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1e31d07f-008d-4da5-9ae9-d6b79243a3ca">
+      <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Text>    </Paragraph>
+    <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
+      <Text Style="Bold+Underline+AllCaps">Scene +</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Text>    </Paragraph>
+    <Paragraph Type="Action" id="f6968e55-92f9-46ff-af3c-83edd0e29a94">
+      <Text>Liz gets in the Ford Model T. Petoskey joins her on the passenger side.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a0bab618-533a-46d4-a349-2524a177b9fc">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c579bea8-4e6b-44ee-8a55-84cfdc74f94b">
+      <Text>Son... We’re taking the shortcut.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
+      <Text Style="Bold+Underline+AllCaps">Scene +</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
+      <SceneProperties Length="1/8" Page="19" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
+      <SceneProperties Length="6/8" Page="19" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE &amp; PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">20. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Spirits Under the Bridge</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="124a05bc-4ca1-4408-8b27-15546de56622">
+      <Text>On the foggy bridge is the broken Petoskey necklace.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="124a05bc-4ca1-4408-8b27-15546de56622">
+      <Text>Liz drives towards the outskirts of the bridge. She motions for Petoskey to stay put. She walks alone on the bridge.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8530d219-0bcd-46c3-acf8-c596ad7ce55f">
+      <Text>Liz wears one mitten and accidentally lets another fly off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="de8b1dec-b164-4eeb-915d-4b3a13e7a3e9">
+      <Text>Lizzie</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="9e023018-da99-4076-ae53-11bb3063efe1">
+      <Text>(Teary)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="738ef1b5-56a2-4b41-8f45-1bfad859e0e0">
+      <Text>Wakey </Text>
+      <Text AdornmentStyle="-1">wakey</Text>
+      <Text>, hun.
+Let’s wear my mitten-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2fc35b6b-4761-4781-8cd3-b27fe93814ed">
+      <Text>Petey (V.o.)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8c4df262-867f-4516-9371-a416ec8ec9ff">
+      <Text>Our mittens...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0d8461cd-9e8f-4dd5-9b5f-80d9c1512faf">
+      <Text>Liz senses a presence. She picks up the broken Petoskey necklace.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="910ba427-7ce2-4523-9d6c-61532f55feb4">
+      <Text>Lizzie &amp; Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="90a2c3a9-c6ed-4fa3-ae8d-75376c4c3234">
+      <Text>and fill our chest with lotsa lovin’
+for our godsend...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="09cc2858-bb04-4edb-b919-b24d42779038">
+      <Text>The Michiganders hold hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f2b56271-401d-4280-9429-c21ca600be74">
+      <Text>LizzIE &amp; PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="738ef1b5-56a2-4b41-8f45-1bfad859e0e0">
+      <Text>Michigan!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b9d3ace2-da94-4c1a-8bec-be72e366b0f3">
+      <Text>Liz pulls Petey out of the fog. After fourteen years, the lovers embrace. They kiss.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="56b61090-5072-4805-a503-97a8f0976b86">
+      <Text>Lizzie (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="bc48f837-7425-4fc2-be63-c39ba2d78a19">
+      <Text>(Narrating)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Spirits under the Bridge</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
+      <Text>Act </Text>
+      <Text AdornmentStyle="-1">III</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
+      <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
+      <SceneProperties Length="1/8" Page="20" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
+      <SceneProperties Length="1/8" Page="20" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">21. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Michigan</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="151c6d83-afc8-41d2-abe3-5f28c3773e95">
+      <SceneProperties Length="1/8" Page="20" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" OutlineLevel="1" RightIndent="-0.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	Michigan	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="1.50" Type="Left"/>
+          <Tabstop Position="7.50" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="54" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#ACACA8A89999" TopMargin="63" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="90" Selection="11623,11623" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.38" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.00" RightIndent="6.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="7.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.75" RightIndent="6.38" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Character" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="4.00" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Act Info" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Break">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Break"/>
+    <Behavior PaginateAs="Action" ReturnKey="Act Break" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Titled">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Titled"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Scene Info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Lyrics"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End Of Act Info">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="End Of Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="No" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Michigan</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Book, Music, and Lyrics by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">8/15/2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In Honor of</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The MacGregor Family</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">&amp;</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In Loving Memory of</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Andrew "Andy" Van </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Otteren</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">March 17, 1994 - July 12, 2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Tiffany Marie </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Emmerty</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">April 29, 1996 - January 19, 2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">James Emmert</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">May 5, 1991 - January 19, 2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Thanks to you all, David and countless others love musical theatre and Michigan</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="223,223" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Petey</Character>
+      <Character>Lizzie</Character>
+      <Character>Shelby</Character>
+      <Character>Perry</Character>
+      <Character>Cherry</Character>
+      <Character>Cherry, Perry, Shelby</Character>
+      <Character>Milly</Character>
+      <Character>Willy</Character>
+      <Character>Willy &amp; Milly</Character>
+      <Character>Vandams</Character>
+      <Character>Jasper</Character>
+      <Character>Benzene &amp; Vinyl</Character>
+      <Character>Investigator</Character>
+      <Character>Petoskey</Character>
+      <Character>Lulu</Character>
+      <Character>Wayland</Character>
+      <Character>Lizzie &amp; Petey</Character>
+      <Character>Petey, Milly, Wayland</Character>
+      <Character>Petey &amp; Milly</Character>
+      <Character>Lulu &amp; Petoskey</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(OFF)</Extension>
+      <Extension>(OFFSTAGE)</Extension>
+      <Extension>(V.O.)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>2</SceneIntro>
+      <SceneIntro>4</SceneIntro>
+      <SceneIntro>5</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>"LIFE IS COMPLETE"</Location>
+      <Location>MACKINAC BRIDGE</Location>
+      <Location>ELK LAKE HOUSE IN ELK RAPIDS, 2019</Location>
+      <Location>"YOOPER"</Location>
+      <Location>"IT'D BE A SHAME"</Location>
+      <Location>ELK RAPIDS, 2037</Location>
+      <Location>ELK LAKE HOUSE IN ELK RAPIDS, AUGUST 2022</Location>
+      <Location>ELK LAKE HOUSE IN ELK RAPIDS, AUGUST 2019</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>DAY</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>AT RISE:</Transition>
+      <Transition>BLACKOUT.</Transition>
+      <Transition>FADE UP:</Transition>
+      <Transition>LIGHTS DIM.</Transition>
+      <Transition>LIGHTS FADE.</Transition>
+      <Transition>LIGHTS OUT.</Transition>
+      <Transition>LIGHTS UP ON:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Parenthetical">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Act Break"/>
+        <ActivateIn Element="Titled"/>
+        <ActivateIn Element="Act Info"/>
+        <ActivateIn Element="Lyrics"/>
+        <ActivateIn Element="Scene Info"/>
+        <ActivateIn Element="End Of Act Info"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Petey"/>
+    <Member Actor="" Character="Lizzie"/>
+    <Member Actor="" Character="Shelby"/>
+    <Member Actor="" Character="Perry"/>
+    <Member Actor="" Character="Cherry"/>
+    <Member Actor="" Character="Cherry, Perry, Shelby"/>
+    <Member Actor="" Character="Milly"/>
+    <Member Actor="" Character="Willy"/>
+    <Member Actor="" Character="Willy &amp; Milly"/>
+    <Member Actor="" Character="Vandams"/>
+    <Member Actor="" Character="Jasper"/>
+    <Member Actor="" Character="Benzene &amp; Vinyl"/>
+    <Member Actor="" Character="Investigator"/>
+    <Member Actor="" Character="Petoskey"/>
+    <Member Actor="" Character="Lulu"/>
+    <Member Actor="" Character="Wayland"/>
+    <Member Actor="" Character="Lizzie &amp; Petey"/>
+    <Member Actor="" Character="Petey, Milly, Wayland"/>
+    <Member Actor="" Character="Petey &amp; Milly"/>
+    <Member Actor="" Character="Lulu &amp; Petoskey"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#CECEDCDCE3E3" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="CHERRY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CHERRY, PERRY, SHELBY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="INVESTIGATOR" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="JASPER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LIZZIE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; PETEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LULU" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; PETOSKEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MILLY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PERRY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PETEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PETEY &amp; MILLY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PETEY, MILLY, WAYLAND" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="PETOSKEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SHELBY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="VANDAMS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="WAYLAND" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="WILLY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="WILLY &amp; MILLY" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="d496572d-904f-4ce9-b320-10126a08fc97"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="06da4865-abe0-4945-8472-2da2dfadf07d" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="37ad8c99-f42d-43aa-9a6e-bc6cb6bfe318" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="f97fe2a6-a64b-4a18-80a0-847c0b9f730e" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="a53ef67b-9d7e-4b26-a603-4ea6fd02981c" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#000095002900" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#E20017003200" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#0000B800C800" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#B80075004D00" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#8700B700BB00" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#FF007D002200" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#FF003F00E600" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#B900C5003200" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#E900B7003C00" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#00008B009200" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#AF0026009300" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="14" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="16" Style="Bold"/>
+      <TagCategory Color="#0000C4007F00" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="17" Style="Bold"/>
+      <TagCategory Color="#FF001A002100" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#990033000000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="18"/>
+      <TagCategory Color="#0000CC00FF00" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="20"/>
+      <TagCategory Color="#99000000FF00" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="21"/>
+      <TagCategory Color="#3300CC006600" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="22"/>
+      <TagCategory Color="#000099009900" Id="148267ae-50ae-4746-8202-659fb7447b55" Name="Miscellaneous" Number="23"/>
+      <TagCategory Color="#000000006600" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="24"/>
+      <TagCategory Color="#D7008300FF00" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="29" Style="Bold"/>
+      <TagCategory Color="#0000CF00FF00" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#0000EE005E00" Id="4a84b619-62f9-4c04-8e46-bf2cd0b7f582" Name="Art Department" Number="15" Style="Bold"/>
+      <TagCategory Color="#FF007E007900" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="25" Style="Bold"/>
+      <TagCategory Color="#7300FC00D600" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="27" Style="Bold"/>
+      <TagCategory Color="#ED00E6000000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="26" Style="Bold"/>
+      <TagCategory Color="#FF008A00D800" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#7300FD00FF00" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="28" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="d496572d-904f-4ce9-b320-10126a08fc97"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
