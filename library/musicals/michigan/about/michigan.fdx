@@ -1728,7 +1728,7 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2022 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 1/8" Page="15" Title="">
+      <SceneProperties Length="2 3/8" Page="15" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1743,6 +1743,9 @@ It would be a shame if I make...</Text>
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LULU &amp; PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU, PETOSKEY, KIDS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PETOSKEY">
@@ -1785,7 +1788,7 @@ It would be a shame if I make...</Text>
       <Text>JASPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="7f52f028-452c-40fd-8e48-7395c8634c90">
-      <Text>And you needed some manpower.</Text>
+      <Text>And you needed manpower.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="3b4e907a-5533-4f66-a0f5-29a9784f289f">
       <Text>Lulu</Text>
@@ -1842,20 +1845,146 @@ It would be a shame if I make...</Text>
     <Paragraph Type="Dialogue" id="b0a09e2c-b065-4100-81ef-0b63fb0d1f33">
       <Text>What jurisdiction?</Text>
     </Paragraph>
+    <Paragraph Type="Action" id="57e8a61f-001e-4f47-a465-221c17cfae24">
+      <Text>Jasper pulls out his “Dad Rules!” book. He opens it for the kids to skim then promptly shuts it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dcc5a0d5-dee7-44cf-a868-a9db9d684a7d">
+      <Text>JaspER</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b55744d3-7c9e-40a4-a902-e5deacc0bdcd">
+      <Text>You kids got no say...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="57aa5cec-7925-42bb-8e9b-d09c79c7fd50">
+      <Text>Lulu, Petoskey, Kids</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1cc7b425-26c3-4bab-84b1-383583fa613f">
+      <Text>So taxation without representation?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8ccc62e1-0508-42c1-b8de-a2f33dadcf8e">
+      <Text>JaSPER</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d8cc15fc-c65b-445d-bb92-bcba92217c66">
+      <Text>It’s good for the community!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bcce4faf-4740-4140-82ba-51dac466d1d4">
+      <Text>LulU, PETOSKEY, KIDS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dab964f4-530a-4f74-8547-363c8764f5fa">
+      <Text>That’s what a communist would say!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c2077829-4bdb-481b-8bf9-94f9c3ee2172">
+      <Text>JaspER</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8cce5e2d-0421-44a6-a863-6de20b7ea457">
+      <Text>Just paya your fair share!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a37e5c08-7033-4629-b393-ea248c6d7338">
+      <Text>LULU, PETOSKEY, KIDS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bc15c55c-ecfe-4fb2-b764-52d9a52cd492">
+      <Text>Never!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="803a78e8-21df-4b1b-b182-63f6065a5149">
+      <Text>CherRY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8b71ee4c-7920-42ec-b083-bba9ed718629">
+      <Text>Dad rules!
+Tax season!
+Camp reasons!
+Come collect:</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="092851fd-e4ae-4f50-bcc4-fac46bfb59e8">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text> aunties tax and collect from the kids on Jasper’s behalf.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="5422ee1c-7cce-4d72-b488-a18a9072990f">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="1677b716-929e-4372-940f-d36522a7d897">
+          <Text>CHERRY, PERRY, SHELBY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="6952ac51-a7a6-472d-84d4-d9dd9398636d">
+          <Text>Your cookies!
+Your candies!
+Your french Fries!
+Your milk shakes!
+Your chicken!
+Your nuggets!
+Your kid’s meals!
+Your Roblox!
+Your Minecraft!
+Your freedom!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="21d8b735-48b7-465f-a8e5-5e59251ab65d">
+          <Text>LulU, PETOSKEY, KIDS</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="3b804b35-a6b3-40df-b6ae-a5c5a839578a">
+          <Text>My cookies!
+My candy!
+My french Fries!
+My milk shake!
+My chicken!
+My nuggets!
+My kid’s meal!
+My Roblox!
+My Minecraft!
+Our civil liberties!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
     <Paragraph Type="Character" id="80d05901-8ae5-46ea-a498-d21964abe2ba">
       <Text>JASPER</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="69be132c-cd53-4ee9-8a89-5f5b2f30b4c2">
-      <Text>[sings about the dad tax]</Text>
+    <Paragraph Type="Lyrics" id="6f04ada8-52a3-4790-ba65-c92b730fc2ba">
+      <Text>You’ve got transportation...
+Drinking water...
+</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="df731dee-ba50-4e7c-800b-9f977117af1c">
+      <Text>Jasper drinks the milk shakes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8d2e8f98-2e4c-43be-b6a4-3f33d8c48134">
+      <Text>JasPER</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="02559e71-ec79-4cb2-92f7-3b6c779818a2">
+      <Text>There’re now camp goods and services...
+All thanks to the dad tax!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b7b8ac37-ac38-4068-9054-0ac998b87ca0">
+      <Text>CHERRY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c586ceaf-b0c1-4d0d-9241-e42bd23f9226">
+      <Text>Pay your dad tax!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="2066bc34-942f-47c9-8da1-f8a034dc80db">
-      <Text>CherRY, PERRY, SHELBY</Text>
+      <Text>Lizzie</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="dace39de-368f-44c8-97e8-b242cd8f508a">
       <Text>[sings about the mom tax]</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
-      <Text Style="Underline">End of “</Text>
+      <Text Style="Underline">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End of “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dad Tax</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
@@ -1982,13 +2111,13 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+Underline+AllCaps">Scene +</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="19" Title="">
+      <SceneProperties Length="1/8" Page="20" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="6/8" Page="19" Title="">
+      <SceneProperties Length="6/8" Page="20" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2076,13 +2205,13 @@ for our godsend...</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="20" Title="">
+      <SceneProperties Length="1/8" Page="21" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1/8" Page="20" Title="">
+      <SceneProperties Length="1/8" Page="21" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2094,7 +2223,7 @@ for our godsend...</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="151c6d83-afc8-41d2-abe3-5f28c3773e95">
-      <SceneProperties Length="1/8" Page="20" Title="">
+      <SceneProperties Length="1/8" Page="21" Title="">
         <SceneArcBeats/>
       </SceneProperties>
     </Paragraph>
@@ -2141,7 +2270,7 @@ for our godsend...</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="11623,11623" ShowInvisibles="No"/>
+  <TextState Scaling="90" Selection="12133,12133" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -2482,6 +2611,7 @@ for our godsend...</Text>
       <Character>Petey, Milly, Wayland</Character>
       <Character>Petey &amp; Milly</Character>
       <Character>Lulu &amp; Petoskey</Character>
+      <Character>Lulu, Petoskey, Kids</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -2956,6 +3086,7 @@ for our godsend...</Text>
     <Member Actor="" Character="Petey, Milly, Wayland"/>
     <Member Actor="" Character="Petey &amp; Milly"/>
     <Member Actor="" Character="Lulu &amp; Petoskey"/>
+    <Member Actor="" Character="Lulu, Petoskey, Kids"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -2975,6 +3106,7 @@ for our godsend...</Text>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; PETEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; PETOSKEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LULU, PETOSKEY, KIDS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="MILLY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY" Visible="No"/>
