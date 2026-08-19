@@ -1727,8 +1727,14 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2022 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 3/8" Page="15" Title="">
+      <SceneProperties Length="5 6/8" Page="15" Title="">
         <SceneArcBeats>
+          <CharacterArcBeat Name="CHERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CHERRY &amp; SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
           <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
@@ -1738,7 +1744,13 @@ It would be a shame if I make...</Text>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE &amp; SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
           <CharacterArcBeat Name="LULU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU &amp; JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LULU &amp; PETOSKEY">
@@ -1747,10 +1759,22 @@ It would be a shame if I make...</Text>
           <CharacterArcBeat Name="LULU, PETOSKEY, KIDS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
+          <CharacterArcBeat Name="MILLY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WAYLAND">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WILLY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -1987,6 +2011,531 @@ End of “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dad Tax</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
+    <Paragraph Type="Action" id="084c1f5f-7c77-434f-b9df-e9b0bd06b48b">
+      <Text>Jasper, the </Text>
+      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text> sisters, and the kids gather by the bonfire.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="227783d9-600e-4793-b7d0-2e839e72536d">
+      <Text>JasPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="97b02e34-65cc-46f6-ae4e-8cd44afefd3a">
+      <Text>Looks during the revolution, you all started the fire! A perfect bonfire to honor Grammy Milly. I’ll go get </Text>
+      <Text AdornmentStyle="-1">Grampy</Text>
+      <Text> Willy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f23a832f-27cc-43cb-819c-2718aa543ac1">
+      <Text>Jasper goes inside the lake house.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fbeeb076-4726-4398-a3dd-1bcac275af8e">
+      <Text>LulU</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c9038dd4-f4db-41dc-a2a2-b6c9a090a437">
+      <Text>One can only wish for a godfather like Jasper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9e7fea9d-4804-4103-9d5f-ba3d62693e95">
+      <Text>PetoskEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="12f56fac-4b2d-432b-aba4-475682a8b0fe">
+      <Text>You just saw him and our moms tax us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="53d63e90-d0d1-4e5e-bbe7-d7ada6b3b433">
+      <Text>LizZie &amp; Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b07e0ee5-150a-45f3-824b-e2d9b2976317">
+      <Text>We gave you welfare in the world, we can tax you out of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5a12e4c2-45af-456d-974b-f76f6e253368">
+      <Text>Jasper enters with Willy. He pulls up a chair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="887bbd9f-9a5a-4990-beef-46f2d2dbcbe3">
+      <Text>JaSPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e9a3ec27-a8b9-4194-be4b-1f29eda374cb">
+      <Text>Why don’t you have a seat here?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ff3431aa-5d71-4ec4-8e8b-9019ade64f76">
+      <Text>Willy sits. Everyone sit down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e60a5c26-de7a-4d83-bc52-da755525ac12">
+      <Text>Cherry</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b9f3c42f-f914-46d9-865d-b5e1507e4b45">
+      <Text>We gather here today to honor the life of Grammy Willy. It’s been a couple years since Milly left this world...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="caef6a9b-21bb-4097-b0e7-3ed9562b1c1e">
+      <Text>Willy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e55e0688-661b-41b5-92bf-b54df24cda3e">
+      <Text>Actually, Milly came back a couple days ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="60d6ebbb-6572-473b-a0ab-593993c61114">
+      <Text>Everyone stares at Willy like an old man who lost his marbles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a3b503bb-134e-494a-9dd9-4381c2b16502">
+      <Text>Perry</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1ec31452-bda0-4334-9552-bf1c130a5730">
+      <Text>Like in your dreams?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="51113c49-4ff1-473c-98ba-1944580030f7">
+      <Text>ShelBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4227cda7-7965-49ae-b9a1-0ed619aaa185">
+      <Text>Putting him in a nursing home is gonna be a nightmare.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="74f5b3f7-a2b0-4c45-89e5-1996f2a5e539">
+      <Text>Willy pulls out a tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="540b189f-49cd-4523-8d2c-347736d8bd70">
+      <Text>WillY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="21dee523-f285-4835-8214-1fc52a73cfcf">
+      <Text>Home is here. So is my favorite nurse... on this phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="80fd62ae-42e0-4f5d-95aa-5b0936fee4e2">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a90f221f-0757-4786-810a-93b6aefeee75">
+      <Text>That’s too big for a phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="edc6750b-fbe7-4d18-b680-6b3e5a8afd62">
+      <Text>CheRRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="43223d5d-759f-4b46-a63a-19b279f96670">
+      <Text>It’s how big they were back then.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4e9827a5-f566-44ca-819a-8cd653dafda1">
+      <Text>ShelBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6b1061d2-92ee-463e-8acc-7b356973b88f">
+      <Text>Dad, you can’t just call the after life.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="97d3b7ee-a2ba-4efc-83ad-58a240a07aa9">
+      <Text>WIlLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b1f79fcd-6c0f-4eef-880a-8f41c6f5bc63">
+      <Text>Milly, please call.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bc5f9ae7-6cae-47fa-a412-27a9bb493024">
+      <Text>Milly appears on the tablet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="876959e6-269a-4446-b082-47be4a5577af">
+      <Text>Milly</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8ae98669-3e58-4185-a1e1-700df95b2ce0">
+      <Text>Way ahead of you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="83b0e134-7d18-450a-be42-9535bf2e4a75">
+      <Text>Everyone is disturbed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d671954-72f4-4eb6-a9be-11e91834dcc8">
+      <Text>Lulu, PETOSKEY, KIDS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c68c5f4f-7276-4ab4-9f43-876e94c30174">
+      <Text>She looks so real!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a174c3d2-c3b4-421e-86af-2153de897183">
+      <Text>WilLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e4d5418-bd75-440a-9212-395f1bf391e5">
+      <Text>She is.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="869aa9f5-df82-4358-9a7f-43b7d2a6d7f4">
+      <Text>Perry</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4c660e00-4d63-4351-95c7-d057c10adc1e">
+      <Text>No, she’s not.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6fb2cb61-acde-45d3-ad10-da62a4e9f7d1">
+      <Text>CherrY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7e3570e7-f50e-4ff7-8404-df5ed334f780">
+      <Text>She... Don’t break dad’s heart again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2447a35f-0ca5-4e01-ad75-3e444eed61b7">
+      <Text>Willy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a0865e23-8e8a-4771-8230-ba4549de2a4b">
+      <Text>You all have seen enough of your mama. I can ask Petey to call.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5fba4f57-7181-4531-9efd-214cdb848bfb">
+      <Text>Liz covers Petey’s eyes and ears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f3e4ba71-45ca-4ed6-8f27-f2f5ec3823a3">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="86a6a6db-75ab-4692-85d7-d56aed41ce5e">
+      <Text>No </Text>
+      <Text AdornmentStyle="-1">no</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">no</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a336b894-0034-4014-abd6-c6d652634276">
+      <Text>JaspER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c05a5b13-0126-4395-93cc-a8b86b731677">
+      <Text>What did this cost?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4ae80819-1622-4f0e-b4b8-583d364961c9">
+      <Text>WilLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c9a35dbb-1c9e-4f29-9ed5-9d9871c99b78">
+      <Text>Very little.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="18adf77e-6038-4607-829b-07701124260b">
+      <Text>CherrY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cea1fe14-5f73-43be-ad56-4915abd0cc65">
+      <Text>How much?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c7ef2c38-f808-4ddb-91fe-5c9a0ba58de4">
+      <Text>WilLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f9bf5e31-8c34-4f79-81f9-70784b55d862">
+      <Text>My son was worth more than...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1521283c-f4d2-45db-b6db-221947ff194c">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2f9ab6a5-49b1-4f1b-ad5f-ae8e6e0adec7">
+      <Text>...the house...?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5897b284-63cc-46af-9cc3-a9a4bef358e8">
+      <Text>Wayland slyly steps in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0c94ffb4-d507-4938-9728-e86c54a011ed">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="337c8d53-40d0-4c69-b00c-fdf73f5805fc">
+      <Text>Yes, </Text>
+      <Text AdornmentStyle="-1">acess</Text>
+      <Text> to Afterlife dot AI was on the house. I see it’s a perfect time to come in when everyone seems fired up. Cherry.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="432c845c-fb77-486a-b32a-d3b5508a0007">
+      <Text>CherRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2a322bcd-135e-4b5f-8a20-cb171dd98b9a">
+      <Text>Amanda...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1a72aff1-62c4-412a-920a-04bc4644cbcb">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6d27c965-0cb6-438a-8270-8578de3a6bc2">
+      <Text>How’s making ‘</Text>
+      <Text AdornmentStyle="-1">em</Text>
+      <Text> kiddy costumes for your dumb Harbor Days parade?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d8988bb9-e343-473c-8460-c805595b0866">
+      <Text>CHERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="147c06a6-2c96-4224-8106-2c2f1b8fc61b">
+      <Text>How’s making anything? That’s right. You can’t.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cdc32957-aca9-44d1-badc-5b24d29f2bc2">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6765c9ed-a30d-4ea6-842f-09d1b91a6640">
+      <Text>Who’s she?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fe595877-06b5-4b41-87d8-589651e76b43">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2c36dc2d-3fd6-49ce-9254-e58c3975074a">
+      <Text>Amanda Wayland was Cherry’s classmate in art school</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="979a6eed-fea4-48b0-823c-64edb0a4424a">
+      <Text>ChERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="717e50cc-8825-43fd-9fb7-033d26834e7b">
+      <Text>Until she was caught cheating with Photoshop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="532696b4-6bd4-44d4-b3e2-a8f3abf35867">
+      <Text>WaYLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3e928c6b-3419-474d-8e85-13551f94d870">
+      <Text>And now everyone’s using Photoshop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="06496197-b641-4c79-a4e4-96391c4f22f9">
+      <Text>Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d21338c0-5e2c-4c9a-900b-d88a75d69f0b">
+      <Text>Don’t you use that, Cherry?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2c0cc9f4-595b-47da-9ee5-44e6395f6417">
+      <Text>CherrY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ff2542ac-0939-494c-a564-83e3ea027e3e">
+      <Text>Shut up. I use Corel.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d78f2e71-edff-45f5-9281-fd40e1d7a9d7">
+      <Text>SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c2a6be34-d351-4a7b-ac22-aab887484012">
+      <Text>You’re such a geezer. Who uses Corel?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="280eef35-23fd-4a4e-abc6-0bd31afc28fa">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d5c6b2db-d24c-4019-a3ac-38d595916a61">
+      <Text>You geezer. Who uses Corel? Snapchats then or now even if your life depended on it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="04a2fa89-3db4-488f-929b-79e1c6275b79">
+      <Text>WaylAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4b462dc7-1bd0-4cad-b6a9-0cc772686143">
+      <Text>Now, everyone around the world depends on me to get through the day, answer questions smart and dumb, answer questions dumb and brilliant, read novels, </Text>
+      <Text AdornmentStyle="-1">wirte</Text>
+      <Text> essays, entire musicals-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8cfc183f-c6b0-4760-9f89-63fd93878cc5">
+      <Text>LuLU &amp; Jacob</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="78700bd9-8588-460e-8d85-b27650e37e1d">
+      <Text>Shut the f-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d249d19d-eba2-4293-b28d-0e146f90c960">
+      <Text>Cherry &amp; Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f59a4a44-bcc7-4b9b-ab02-df46d9652f07">
+      <Text>Language.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2e2828c8-1a37-48da-8f22-44ed68d32098">
+      <Text>WaylAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="20e5be32-89d4-41fb-b610-067b2cd60247">
+      <Text>I didn’t get to the best part of. It does the impossible. It brings the </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="68f104d4-8470-4447-9d68-403068a61df2">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a4cf83a4-e96c-451f-954b-33b2f2303a96">
+      <Text AdornmentStyle="-1">Deadarse</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="afbe72c1-63ac-47cb-b0b9-d1cb8d7bb449">
+      <Text>Everyone stares down Liz.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e18ffb83-53c5-4912-8509-0f368307b41a">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="811e2851-65b8-4fc4-88a8-13781b6e7133">
+      <Text>We Yoopers do not police language.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4443c7ef-3baf-4645-b2b0-19e58df855af">
+      <Text>CherrY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0669b2c6-524c-48ed-8d27-8e4aae7883ad">
+      <Text>Get out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3ed928f5-252e-4058-bc8b-03e4c1c39ede">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4e5ffb69-db7b-4f92-b6b0-845f577d0ef9">
+      <Text>You’re impressed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b8cb4f07-bb5b-463f-83d4-85d7c9ff0d7c">
+      <Text>PerRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d51890a1-6474-43b6-945f-a3b6bb744975">
+      <Text>Depressed. Seriously, get out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c37b462d-acf9-4b75-9630-0d11458f8fb8">
+      <Text>ShelBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="658203ce-bcbb-4000-96a5-00c7a28bf48c">
+      <Text AdornmentStyle="-1">Vamos</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fd56c206-7d16-46b9-bc13-2073e113fb22">
+      <Text>JaspER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c36f9076-c5c7-4766-84db-6ba4a7c7501c">
+      <Text>Willy, implore this amorally </Text>
+      <Text AdornmentStyle="-1">ambigious</Text>
+      <Text> woman to leave the premises.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4c45192-f4ed-4f9d-8e8b-c7899fa888f3">
+      <Text>WaylAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="af633b9e-b737-4c53-910f-f4b51d605108">
+      <Text>The premise is... I own your lake house. There’s a Willy, there’s a way. Wily, thanks for not making the same mistake your son made.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
+      <SceneProperties Length="1 5/8" Page="21" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CHERRY &amp; PERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WAYLAND">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">7. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Affordable</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="28a5de5f-38c0-46f0-915d-757f6151fc4b">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="36a7bd72-05f3-4572-9ba9-2370f0817711">
+      <Text>Can you afford it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c3856b25-defa-479e-b522-2eec2bdef0a2">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e205f167-d3ff-458f-abb5-0770c5c9fc99">
+      <Text>You’re wrong. He’d say the house is like family and worth everything. How about my house near Marquette?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="26deece3-01f7-4873-b8ee-64dccf52f8da">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5374310f-4524-40b6-bc72-ee5a596ec96a">
+      <Text>Mom?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4d47b94c-6d0f-417c-893d-f0a2067897d8">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4cc192fe-d8bf-4a8e-a81a-b3ce13cd7656">
+      <Text>Why would you want a rundown house when you can have one with the latest amenities, including a bidet?
+
+
+
+
+
+</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b466be89-bbc5-4321-810c-3ba607707e91">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e22bcf28-fbc1-47f1-a055-22eaf9e2b157">
+      <Text>No one outgrows collecting cool rocks, especially a Petoskey. This one seems like it’s worth a whole Great Lake.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9f43109-0a2a-474a-b873-019c603687c0">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8d08f797-e23c-4108-956d-a0078fdbc6dc">
+      <Text>It’s my husband’s heirloom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e1327957-e1ec-48d0-b6ca-fd4c2fadf4d7">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8b586d34-087e-432e-9bc7-6c80c8473e80">
+      <Text>The owner is dead. Now, it’s worth two Great Lakes. Unlike him, is it here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9f6bad4-bf69-4429-b2e9-128195d2c298">
+      <Text>Cherry &amp; Perry</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a2ea9634-536a-4242-848e-0d6374b5390f">
+      <Text>Somewhere...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4db242c2-852b-4ed8-9183-4123c59fa6c9">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1ade4d08-1496-4b31-ab26-0f36f7113eb6">
+      <Text>Perfect. Everything on the premise is also mine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5a75b4cc-359a-4f36-94da-7136edf75f68">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a44fb65b-1900-4704-b4b7-65e2c7407c57">
+      <Text>It’s not yours.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="44590c7c-6fb9-49c1-a858-eadf7b2b49f1">
+      <Text>WAYLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="969ee3ec-7063-421a-ab09-bb2c20be1182">
+      <Text>Your son’s trade should be in law.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7be37823-ff18-4fae-a05f-112f4c0701be">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="25eca9c9-1e93-42ec-af12-3d8948182c3c">
+      <Text>Really?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ea87482f-cab2-4dec-a54c-611a7d457288">
+      <Text>WAYLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a50067dc-eb23-474f-bae5-d1310a5d679b">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa423a29-f038-4cbe-86e0-d0cc8356fcae">
+      <Text>Petoskey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="22cff2f1-86d4-4c23-8953-721300c08b6c">
+      <Text>Grammy Milly gave it to me. It’s her last gift.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d57a472-dd51-4b5f-a955-1fe6102d7e45">
+      <Text>WAYLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d2e8a58f-d898-440d-b147-7233f2d0299e">
+      <Text>How about a trade?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7764fe96-5ce1-4e14-8faf-027eb93786a1">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dd8e5e66-36a7-4913-9306-3b9694456814">
+      <Text>The house...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ffbdc0e1-5148-4dad-b1eb-6e831638408b">
+      <Text>WAYLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3a971a49-ae53-4153-ab04-38c6a5f4cdbe">
+      <Text>...for your cool rock. Well, produce it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="630bae53-f08a-4c62-9f90-54ef569a5a24">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="60e4f032-1901-4020-bb2d-95d4d6dfb427">
+      <Text>I wanna put on a show. I need a whole day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="88d015d8-7463-4a62-8842-09f810b6d4d5">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4957f5c5-dca5-41c6-a80b-90a8cfd89c60">
+      <Text>Tomorrow after the parade?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e48336fd-e983-4834-9831-e9fa247a4a05">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="173cbe1c-d9a1-4b18-8fe7-be92e56ba52d">
+      <Text>Tomorrow after the parade.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8f3a2630-d128-4f64-af17-a682e9b009c8">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="089eeb15-ef6d-4806-a325-a420f404c252">
+      <Text>Is the Petoskey back in Skandia?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d34c78ce-5997-4562-82a9-2a5e0103984d">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dc56c715-ab5e-435e-a59f-e51ad2f145e0">
+      <Text>Closer. At the bottom of Elk Lake.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="422fa247-9bdf-4c0f-84b8-66d1e4f588d8">
+      <Text>LiZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f8aea4c9-0c78-4a9a-8ea6-596d02d3cc18">
+      <Text>What’? How did that happen?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8767ca1d-7a33-40ff-a4ab-74929a52acef">
+      <Text>Petoskey imitates Lulu.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="83e9e905-0110-4bf7-b2e9-81e590a5ff12">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fc039302-6c98-471e-93fb-42962612ec81">
+      <Text>Lulu?</Text>
+    </Paragraph>
     <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
       <Text>Act </Text>
       <Text AdornmentStyle="-1">II</Text>
@@ -2110,13 +2659,13 @@ End of “</Text>
       <Text Style="Bold+Underline+AllCaps">Scene +</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="20" Title="">
+      <SceneProperties Length="1/8" Page="26" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="6/8" Page="20" Title="">
+      <SceneProperties Length="6/8" Page="26" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2204,13 +2753,13 @@ for our godsend...</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="21" Title="">
+      <SceneProperties Length="1/8" Page="27" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1/8" Page="21" Title="">
+      <SceneProperties Length="1/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2222,7 +2771,7 @@ for our godsend...</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="151c6d83-afc8-41d2-abe3-5f28c3773e95">
-      <SceneProperties Length="1/8" Page="21" Title="">
+      <SceneProperties Length="1/8" Page="27" Title="">
         <SceneArcBeats/>
       </SceneProperties>
     </Paragraph>
@@ -2269,7 +2818,7 @@ for our godsend...</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="180" Selection="4711,4711" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="16482,16482" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -2611,6 +3160,9 @@ for our godsend...</Text>
       <Character>Petey &amp; Milly</Character>
       <Character>Lulu &amp; Petoskey</Character>
       <Character>Lulu, Petoskey, Kids</Character>
+      <Character>LizZie &amp; Shelby</Character>
+      <Character>Cherry &amp; Shelby</Character>
+      <Character>Cherry &amp; Perry</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -2623,6 +3175,7 @@ for our godsend...</Text>
       <SceneIntro>2</SceneIntro>
       <SceneIntro>4</SceneIntro>
       <SceneIntro>5</SceneIntro>
+      <SceneIntro>7</SceneIntro>
     </SceneIntros>
     <Locations>
       <Location>"LIFE IS COMPLETE"</Location>
@@ -2633,6 +3186,7 @@ for our godsend...</Text>
       <Location>ELK RAPIDS, 2037</Location>
       <Location>ELK LAKE HOUSE IN ELK RAPIDS, AUGUST 2022</Location>
       <Location>ELK LAKE HOUSE IN ELK RAPIDS, AUGUST 2019</Location>
+      <Location>"AFFORDABLE"</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>EVENING</TimeOfDay>
@@ -3086,6 +3640,9 @@ for our godsend...</Text>
     <Member Actor="" Character="Petey &amp; Milly"/>
     <Member Actor="" Character="Lulu &amp; Petoskey"/>
     <Member Actor="" Character="Lulu, Petoskey, Kids"/>
+    <Member Actor="" Character="LizZie &amp; Shelby"/>
+    <Member Actor="" Character="Cherry &amp; Shelby"/>
+    <Member Actor="" Character="Cherry &amp; Perry"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -3098,12 +3655,16 @@ for our godsend...</Text>
 
   <CharacterHighlighting>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CHERRY &amp; PERRY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CHERRY &amp; SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY, PERRY, SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="INVESTIGATOR" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="JASPER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; PETEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; JACOB" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; PETOSKEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU, PETOSKEY, KIDS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="MILLY" Visible="No"/>
