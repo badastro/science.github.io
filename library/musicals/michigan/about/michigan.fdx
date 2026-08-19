@@ -77,7 +77,7 @@ Michigan!</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="76bbb514-e185-421f-ae54-f5cced7d3e2d">
-      <SceneProperties Length="6 6/8" Page="1" Title="">
+      <SceneProperties Length="7" Page="1" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -107,6 +107,9 @@ Michigan!</Text>
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="VANDAMS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="WAYLAND">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="WILLY">
@@ -342,8 +345,8 @@ Let’s include Boxing Day while you’re at it!</Text>
     <Paragraph Type="Lyrics" id="afb1c5ac-9e54-4017-bc9e-f1410cd791cf">
       <Text>Isn’t life somethin’?</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="4df01076-8330-48ff-a4a8-2749d8058601">
-      <Text>Willy-Milly mess with audiences.</Text>
+    <Paragraph Type="Action" id="2e36146e-beb4-4c42-8c08-bf56a5948ea0">
+      <Text>Milly hands out cookies.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="70a14b1d-8fdc-4619-b7ea-55270048ecd4">
       <Text>Milly</Text>
@@ -356,9 +359,6 @@ Let’s include Boxing Day while you’re at it!</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="a0c702cb-29dc-45e6-9168-aa62df29fa89">
       <Text>To the greatest bay in all the great lakes!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="072e4dc8-954b-4904-b40b-baefe0201e22">
-      <Text>Milly hands out cookies.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="55dca278-4621-4902-9d34-9129071f43f5">
       <Text>MiLLY</Text>
@@ -461,9 +461,6 @@ Make yourself comfy.</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="e275d2c0-7dcd-4ecd-b241-efd1fef71b7c">
       <Text>Wet willy!</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="91330083-fba9-4040-8eb8-2ef9b20d4658">
-      <Text>Willy-Milly stroll to the stage.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="5e808d97-1c67-4866-9b65-de97b528d2b2">
       <Text>PETEY</Text>
@@ -765,13 +762,22 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="949810e7-5193-4622-afe6-c0dfb9a94cf5">
-      <Text>Petey and Jasper hop</Text>
-      <Text Size="10"> </Text>
-      <Text>into</Text>
-      <Text Size="10"> </Text>
-      <Text>Elk</Text>
-      <Text Size="10"> </Text>
-      <Text>Lake.</Text>
+      <Text>Petey and Jasper hop into Elk Lake, splashing each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="50ce0327-41fb-490b-bbf5-7e7e50804ec2">
+      <Text Style="AllCaps">Amanda Wayland</Text>
+      <Text> (20s, all business) enters from afar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4420d326-e9ef-42d6-838d-6e2f9f730e81">
+      <Text>WayLAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d2adb82d-fc8c-4e8e-b5df-97ae0097722d">
+      <Text>Such a shame a happy family completes this lake house when it’s missing something. I mean, look at this water. Disgusting. Just freely flowing when it should be cooling my supercomputers. The air... too pure to breathe. It needs the spicy flavor of nuclear power. All families are incomplete without pure dread. The Great Lakes do bring out the worst. The </Text>
+      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text> will burst.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="552f301b-80b3-49ee-b995-f7a17ebb2251">
+      <Text>Wayland leaves into the shadows.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="0b9e0808-e9d5-4efa-a82a-b6eaf3a4eeeb">
       <Text>PeteY</Text>
@@ -783,7 +789,12 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text>JaSPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="0adf7a4b-07d1-4674-9d97-5737be98fde5">
-      <Text>Jasper! Jasper! Jasper!</Text>
+      <Text Style="Italic">Jasper</Text>
+      <Text>! </Text>
+      <Text Style="Italic">Jasper</Text>
+      <Text>! </Text>
+      <Text Style="Italic">Jasper</Text>
+      <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="52b31877-3f3a-42e9-8cf2-089ee07dd53f">
       <Text>LizZIE</Text>
@@ -794,7 +805,10 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text> be a joke...</Text>
     </Paragraph>
     <Paragraph Type="Action" id="3f1139be-97a7-4885-b4d1-9aee6618bed2">
-      <Text>Petey dives in and finds a heart-shaped Petoskey stone with an Elk-like fossil. Time stops. Everyone is in shock at this rare rock.</Text>
+      <Text>Petey dives in and finds a heart-shaped, Elk-marked Petoskey stone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3f1139be-97a7-4885-b4d1-9aee6618bed2">
+      <Text>Time stops. Everyone is in shock at this rare rock.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="a62d3389-3a5f-489f-b015-186d583e222b">
       <Text>LiZZIE</Text>
@@ -932,7 +946,7 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="17683d49-5f99-4150-98f2-644a3bf7af24">
-      <Text>Liz’s flip phone rings. She answers.</Text>
+      <Text>Liz’s flip phone rings. She answers and listens.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="4312a1e9-b956-4f32-9738-1cbc88ea58ff">
       <Text>LizZIE</Text>
@@ -953,7 +967,7 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text>LIZZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="2fba01c4-1883-4282-bff3-494d41a2aec3">
-      <Text>It’s the migrants. The shipyard has fired us and replaced us. 2008 can’t get any better.</Text>
+      <Text>The recession got us too. The shipyard has fired us and replaced us. 2008 can’t get any better. Those darn migrants.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="a6d1a57f-570c-4fa9-8ec6-36a0e30dfbf6">
       <Text>Petey sees Shelby looking fondly at photos of her Arab husband on her phone.</Text>
@@ -987,7 +1001,7 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Night</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="6/8" Page="8" Title="">
+      <SceneProperties Length="5/8" Page="8" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="INVESTIGATOR">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1237,7 +1251,7 @@ and cook ‘</Text>
       <Text> weirdos call home.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
-      <SceneProperties Length="2 5/8" Page="10" Title="">
+      <SceneProperties Length="2 3/8" Page="10" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1260,21 +1274,6 @@ and cook ‘</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2270,7 +2269,7 @@ for our godsend...</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="12133,12133" ShowInvisibles="No"/>
+  <TextState Scaling="180" Selection="4711,4711" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -2681,7 +2680,7 @@ for our godsend...</Text>
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
     </ScriptPanel>
