@@ -141,7 +141,9 @@ But every morning, he’s public enemy number one.</Text>
       <Text>LiZZIE</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="18e923cb-210d-4880-807e-86ee2e59a0d2">
-      <Text>What i meant to say it Petey is family to everyone.</Text>
+      <Text>What i meant to say is </Text>
+      <Text Style="Italic+AllCaps">Petey is family to everyone</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="7a7d74bd-3e41-4880-a443-03302303cbbf">
       <Text>Petey</Text>
@@ -985,7 +987,7 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text>We’re gonna lose our house to a foreclosure. So, don’t be burning bridges...</Text>
     </Paragraph>
     <Paragraph Type="Action" id="8ac08647-4274-47cb-a9e2-7433512579c3">
-      <Text>Petey sobs as everyone leaves.</Text>
+      <Text>Petey sobs, as everyone leaves. He looks as Elk Lake turns into the Mackinac Strait under its bridge.</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
@@ -998,15 +1000,18 @@ Where is your weird husband, baby sister, Shelby?</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Night</Text>
+      <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Evening</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="8" Title="">
+      <SceneProperties Length="2 1/8" Page="8" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="INVESTIGATOR">
+          <CharacterArcBeat Name="DETECTIVE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MACKINAC GHOSTS">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PETEY">
@@ -1022,23 +1027,119 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="ea63b1bf-24a6-45d2-afce-760620b293e5">
-      <Text>Out in the storm, Petey walks onto the foggy creaky bridge. He pulls out the Petoskey, now a necklace.</Text>
+      <Text>Out in the storm, Petey walks onto the foggy creaky bridge.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="fee9559a-5576-415f-a5fb-b1a93bde6227">
+    <Paragraph Type="Character" id="cc7baf2b-c7a9-4d4d-946e-c8327e0eb657">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="16c9082a-a1ff-4c15-aba3-950d9a921f87">
+      <Text>Every living thing is made of water.
+Every machinery needs the flow of water.
+All the weather take the heated water.
+All the seasons bring the cooling water.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4c3818ec-5b87-4a06-8aab-b41e74b79a87">
+      <Text>Petey notices the raindrops.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6170b7d1-bf1d-48c5-a6a1-c3466313bb82">
       <Text>PeteY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="7629cadb-5140-4da5-bae6-3a25a9b6d27f">
-      <Text>No burning bridges. Only saving our house.</Text>
+    <Paragraph Type="Lyrics" id="5e847502-5598-421e-aad1-ce6aa2cbb18a">
+      <Text>I bring nothing to the world unlike water.
+I’ve brought nothing to the world but tears!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5e24705a-1abe-47b1-b3ae-c1099a769cb5">
+      <Text>The Mackinac ghosts appear, resembling those who passed there. They try to hand a mug to Petey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="710467a8-aef0-4aaa-ac4c-65d856bec541">
+      <Text>Mackinac Ghosts</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ca14799f-4c1a-474f-b0aa-3fe036b058d7">
+      <Text>Drink it. Drink the water.
+Think straight. Think straightforward.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a3746364-5333-4efd-8403-259d920bb617">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="e0cb639f-f4a8-48ed-9cb0-8b1aa5144c62">
+      <Text>I bring nothing to the world.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3d9c2131-1f38-4cd0-b30b-e2745a03e7c0">
+      <Text>MacKINAC GHOSTS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="a323d004-edec-49c4-9d2b-aa9bf6578d64">
+      <Text>Cherish. Cherish this one life.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0b1182f5-a4f7-4a0a-806f-ebe60c8585d0">
+      <Text>PETEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="c7d4c310-9599-47a3-aed0-ca9bc1a03614">
+      <Text>Just tears!
+Help!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="36833490-8118-4974-954e-f773b6bbf0c3">
+      <Text>The ghosts steal Petey’s stone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e0c9ee0-fa89-4037-87b1-ef28f5f8bf43">
+      <Text>MacKINAC GHOSTS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="8f202f10-18b8-4892-81eb-b32aa187fd1b">
+      <Text>Help? Hell, help yourself!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fff6f0f9-4b0e-4851-bdb7-bf5edaaae2a3">
+      <Text>A motherly ghost returns with a Petoskey necklace. Petey wears it.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="efaaf29d-b64b-4960-bcf3-ae54235c206a">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="8afd3422-a1d2-49d1-99ce-c3d4798fe68d">
+          <Text>PetEY</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="46627810-e27a-4eb4-aee0-c8983d71ea7c">
+          <Text>I choose life!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="fc38a0b7-19b5-4174-b28d-a610e1fc1db1">
+          <Text>MacKINAC GHOSTS</Text>
+        </Paragraph>
+        <Paragraph Type="Lyrics" id="043523c9-2165-4d4f-b58b-2dfd533f2bc6">
+          <Text>Take it in.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="1b9d2bb2-5b14-4188-b0a5-08249a0393c4">
+      <Text>Petey</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="bfa8e3f2-9af3-4dcb-bf01-c7bc1b71ccbb">
+      <Text>Drink the great lakes water.
+THink pain. Pain you’ll cause.
+Happy wife. Baby in sight. Dying ain’t right.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="91b6f23a-4491-40cd-9d39-d0a963a8c6e5">
+      <Text>MackinAC GHOSTS</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="dabda508-cd44-4dd0-b4ad-578e930d4079">
+      <Text>Drink it. Drink the water.
+Think straight. Think straightforward.
+Cherish. Cherish light.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0602267e-0104-4bbe-9abe-920c775b792f">
+      <Text>PetEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6f1da93a-6d6e-418a-8ef1-89a45ce65d35">
+      <Text>Help myself to this great water!</Text>
     </Paragraph>
     <Paragraph Type="Action" id="ea63b1bf-24a6-45d2-afce-760620b293e5">
-      <Text>Petey leaves and starts the car.</Text>
+      <Text>Petey drinks his mug, starts the car, and drives away.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="81437fff-e1f2-4fe3-a38c-a36203cec0a6">
       <Text>Morning approaches with the emergency vehicles. The orchestra wails the sirens. </Text>
     </Paragraph>
     <Paragraph Type="Action" id="74f971cc-6952-4d68-b752-8f7637491a81">
-      <Text>Liz runs out with an </Text>
-      <Text Style="AllCaps">investigator</Text>
+      <Text>Liz rushes in with the </Text>
+      <Text Style="AllCaps">detective</Text>
       <Text>. She stops in her tracks, kneeling.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="d8f115da-d90e-4619-b81f-b7c193b68236">
@@ -1048,7 +1149,7 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text>Life is a complete... disaster...</Text>
     </Paragraph>
     <Paragraph Type="Character" id="39050aed-a8d8-448c-9b79-a0de8331b83a">
-      <Text>Investigator</Text>
+      <Text>Detective</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="31a69cbb-2c6a-4ae2-b5fd-63fada51f32b">
       <Text>We are sorry to report the vehicle submerged underneath Mackinac Bridge has been identified as yours... and the body-</Text>
@@ -1059,64 +1160,46 @@ Where is your weird husband, baby sister, Shelby?</Text>
     <Paragraph Type="Parenthetical" id="6e98a434-bebf-430b-a752-b0242cbeb2d5">
       <Text>(Narrating)</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="7220863f-4550-40f4-a0fb-edf473f228d1">
-      <Text>-Now of water. The Great Lakes brought out the worst in all of us. A bridge is supposed to unite two lands, not divide two souls... From that day forth, I vowed to never set foot on a bridge that double-crossed my heart. The strait stole my balance, silenced my music, drowned my love, eroded me into a cold, hard...</Text>
+    <Paragraph Type="Lyrics" id="a91c73a6-3a73-4bf1-9850-2accced2af0e">
+      <Text>-Now of water.
+In this body of water...
+Under the bridge...
+WIth my last tear,
+I’m </Text>
+      <Text AdornmentStyle="-1">outta</Text>
+      <Text> water in my body...</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="b79fed5c-3bdd-48ae-9269-b2555af071a6">
-      <SceneProperties Length="3/8" Page="9" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="LIZZIE">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="TIDAL[S]">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Elk LAKE HOUSE IN ELK RAPIDS - Day</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="146e192f-c1ea-4f78-8b84-11334fb862a1">
-      <Text>Shelby, now with a black eye and some bruises, joins Liz’s side. She holds Liz tight.</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="f6e706bb-70ae-4e8d-a180-f5dd61946e9e">
-      <Text>Liz opens her hand to reveal the Petoskey necklace.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="931aaae1-23b7-45e2-82ca-da95a7423687">
-      <Text>Lizzie (V.O.)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="cc6436a0-622d-4e30-847d-cd80f95c5c15">
-      <Text>Every rock has a softness they need to find in themself. Perhaps, it’ll take time in unexpected places... and persons...</Text>
+    <Paragraph Type="Action" id="d72ebc19-97cb-4ec8-9f63-e6b289f17fa9">
+      <Text>The Detective gives the Petoskey necklace to Liz. They leave as Liz breaks down.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="2/8" Page="9" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="TIDAL[S]">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Underline+AllCaps">3a. “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water - Reprise</Text>
-      <Text Style="Underline+AllCaps">”</Text>
+    <Paragraph Type="Character" id="e0441ba7-f820-4ecd-aaea-22711984df91">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7220863f-4550-40f4-a0fb-edf473f228d1">
+      <Text>A bridge is supposed to unite two lands, not divide two souls. The water may be under it, I have vowed to never set foot on a bridge that double-crossed my heart. The strait stole my balance, silenced my music, drowned my love, eroded me into a cold, hard-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="146e192f-c1ea-4f78-8b84-11334fb862a1">
+      <Text>Shelby, now with a black eye and some bruises, hugs Liz. She encourages Liz to open her hand to reveal the Petoskey necklace.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="931aaae1-23b7-45e2-82ca-da95a7423687">
+      <Text>Lizzie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cc6436a0-622d-4e30-847d-cd80f95c5c15">
+      <Text>Every rock has a softness they need to find in themself. Perhaps, it’ll take time in unexpected places... and persons... And yes, in the end, Petey got me to name our baby...</Text>
     </Paragraph>
     <Paragraph Type="Action" id="17b1bb41-0e8b-475c-a395-ab4028affb4c">
-      <Text>Liz places the Petoskey in the center.</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
-      <Text Style="Underline">End of “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water - Reprise</Text>
-      <Text Style="Underline">”</Text>
+      <Text>Liz places the necklace in the center. She leaves.</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="9" Title="">
+      <SceneProperties Length="1/8" Page="10" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1126,7 +1209,7 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2019 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
-      <SceneProperties Length="3 2/8" Page="9" Title="">
+      <SceneProperties Length="3 2/8" Page="10" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1164,13 +1247,13 @@ Where is your weird husband, baby sister, Shelby?</Text>
     </Paragraph>
     <Paragraph Type="Action" id="2905e4bd-218c-4882-9554-3d2df7d38f07">
       <Text Style="AllCaps">Lulu</Text>
-      <Text> (11, city girl in a Hijab) crawls out of her tent and troll Petoskey.</Text>
+      <Text> (11, city girl in a Hijab) crawls out of her tent and trolls Petoskey.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="6b288904-0ea1-4660-948f-7511b20342c2">
       <Text>Lulu</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="d445b832-2849-4d9f-a6e8-bbae0e9aac5d">
-      <Text>Petoskey!</Text>
+      <Text>...Petoskey!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="46d5b972-a97a-4e92-9c44-6e75edb1609c">
       <Text>PetoSKEY</Text>
@@ -1466,7 +1549,7 @@ In 2020, Grammy Milly passes away. Due to COVID, </Text>
       <Text> Willy refuses to host family reunions in 2020 and 2021.]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="4/8" Page="12" Title="">
+      <SceneProperties Length="4/8" Page="13" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1532,13 +1615,13 @@ So, would it mean the world if I went to this year’s Harbor Days? August two <
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5594b819-4a2e-45c7-ae33-47dac613b1ca">
-      <SceneProperties Length="1/8" Page="13" Title="">
+      <SceneProperties Length="1/8" Page="14" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Int. Elk Lake House - Living Room - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
-      <SceneProperties Length="2 5/8" Page="13" Title="">
+      <SceneProperties Length="2 5/8" Page="14" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MILLY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1824,7 +1907,7 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="16" Title="">
+      <SceneProperties Length="1/8" Page="17" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1834,7 +1917,7 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2022 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="5 4/8" Page="16" Title="">
+      <SceneProperties Length="5 4/8" Page="17" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2452,7 +2535,7 @@ All thanks to the dad tax!</Text>
       <Text>The premise is... I own your lake house. There’s a Willy, there’s a way. Wily, thanks for not making the same mistake your son made.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2" Page="21" Title="">
+      <SceneProperties Length="2" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY &amp; PERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2675,13 +2758,13 @@ All thanks to the dad tax!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene +</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="24" Title="">
+      <SceneProperties Length="1/8" Page="25" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="6/8" Page="24" Title="">
+      <SceneProperties Length="6/8" Page="25" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2766,13 +2849,13 @@ for our godsend...</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="26" Title="">
+      <SceneProperties Length="1/8" Page="27" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="2/8" Page="26" Title="">
+      <SceneProperties Length="2/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2841,7 +2924,7 @@ Years later, Willy passes away. Lulu and Petoskey buy and fix up the lake house.
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="20966,20966" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="6773,6773" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3157,35 +3240,36 @@ Years later, Willy passes away. Lulu and Petoskey buy and fix up the lake house.
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Thanks to you all, David and countless others love musical theatre and Michigan</Text>
       </Paragraph>
     </Content>
-    <TextState Scaling="100" Selection="223,223" ShowInvisibles="No"/>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
   </TitlePage>
 
   <SmartType>
     <Characters>
-      <Character>Petey</Character>
-      <Character>Lizzie</Character>
-      <Character>Shelby</Character>
-      <Character>Perry</Character>
-      <Character>Cherry</Character>
-      <Character>Cherry, Perry, Shelby</Character>
-      <Character>Milly</Character>
-      <Character>Willy</Character>
-      <Character>Willy &amp; Milly</Character>
-      <Character>Vandams</Character>
-      <Character>Jasper</Character>
       <Character>Benzene &amp; Vinyl</Character>
-      <Character>Investigator</Character>
-      <Character>Petoskey</Character>
-      <Character>Lulu</Character>
-      <Character>Wayland</Character>
+      <Character>Cherry</Character>
+      <Character>Cherry &amp; Perry</Character>
+      <Character>Cherry &amp; Shelby</Character>
+      <Character>Cherry, Perry, Shelby</Character>
+      <Character>Detective</Character>
+      <Character>Jasper</Character>
+      <Character>Lizzie</Character>
       <Character>Lizzie &amp; Petey</Character>
-      <Character>Petey, Milly, Wayland</Character>
-      <Character>Petey &amp; Milly</Character>
+      <Character>LizZie &amp; Shelby</Character>
+      <Character>Lulu</Character>
       <Character>Lulu &amp; Petoskey</Character>
       <Character>Lulu, Petoskey, Kids</Character>
-      <Character>LizZie &amp; Shelby</Character>
-      <Character>Cherry &amp; Shelby</Character>
-      <Character>Cherry &amp; Perry</Character>
+      <Character>Mackinac Ghosts</Character>
+      <Character>Milly</Character>
+      <Character>Perry</Character>
+      <Character>Petey</Character>
+      <Character>Petey &amp; Milly</Character>
+      <Character>Petey, Milly, Wayland</Character>
+      <Character>Petoskey</Character>
+      <Character>Shelby</Character>
+      <Character>Vandams</Character>
+      <Character>Wayland</Character>
+      <Character>Willy</Character>
+      <Character>Willy &amp; Milly</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -3646,30 +3730,31 @@ Years later, Willy passes away. Lulu and Petoskey buy and fix up the lake house.
       <Element Type="Character"/>
       <Element Type="Dialogue"/>
     </Narrator>
-    <Member Actor="" Character="Petey"/>
-    <Member Actor="" Character="Lizzie"/>
-    <Member Actor="" Character="Shelby"/>
-    <Member Actor="" Character="Perry"/>
-    <Member Actor="" Character="Cherry"/>
-    <Member Actor="" Character="Cherry, Perry, Shelby"/>
-    <Member Actor="" Character="Milly"/>
-    <Member Actor="" Character="Willy"/>
-    <Member Actor="" Character="Willy &amp; Milly"/>
-    <Member Actor="" Character="Vandams"/>
-    <Member Actor="" Character="Jasper"/>
     <Member Actor="" Character="Benzene &amp; Vinyl"/>
-    <Member Actor="" Character="Investigator"/>
-    <Member Actor="" Character="Petoskey"/>
-    <Member Actor="" Character="Lulu"/>
-    <Member Actor="" Character="Wayland"/>
+    <Member Actor="" Character="Cherry"/>
+    <Member Actor="" Character="Cherry &amp; Perry"/>
+    <Member Actor="" Character="Cherry &amp; Shelby"/>
+    <Member Actor="" Character="Cherry, Perry, Shelby"/>
+    <Member Actor="" Character="Detective"/>
+    <Member Actor="" Character="Jasper"/>
+    <Member Actor="" Character="Lizzie"/>
     <Member Actor="" Character="Lizzie &amp; Petey"/>
-    <Member Actor="" Character="Petey, Milly, Wayland"/>
-    <Member Actor="" Character="Petey &amp; Milly"/>
+    <Member Actor="" Character="LizZie &amp; Shelby"/>
+    <Member Actor="" Character="Lulu"/>
     <Member Actor="" Character="Lulu &amp; Petoskey"/>
     <Member Actor="" Character="Lulu, Petoskey, Kids"/>
-    <Member Actor="" Character="LizZie &amp; Shelby"/>
-    <Member Actor="" Character="Cherry &amp; Shelby"/>
-    <Member Actor="" Character="Cherry &amp; Perry"/>
+    <Member Actor="" Character="Mackinac Ghosts"/>
+    <Member Actor="" Character="Milly"/>
+    <Member Actor="" Character="Perry"/>
+    <Member Actor="" Character="Petey"/>
+    <Member Actor="" Character="Petey &amp; Milly"/>
+    <Member Actor="" Character="Petey, Milly, Wayland"/>
+    <Member Actor="" Character="Petoskey"/>
+    <Member Actor="" Character="Shelby"/>
+    <Member Actor="" Character="Vandams"/>
+    <Member Actor="" Character="Wayland"/>
+    <Member Actor="" Character="Willy"/>
+    <Member Actor="" Character="Willy &amp; Milly"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -3685,7 +3770,7 @@ Years later, Willy passes away. Lulu and Petoskey buy and fix up the lake house.
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY &amp; PERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY &amp; SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY, PERRY, SHELBY" Visible="No"/>
-    <Character Color="#RRRRGGGGBBBB" Name="INVESTIGATOR" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="DETECTIVE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="JASPER" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LIZZIE &amp; PETEY" Visible="No"/>
@@ -3694,6 +3779,7 @@ Years later, Willy passes away. Lulu and Petoskey buy and fix up the lake house.
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; JACOB" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU &amp; PETOSKEY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="LULU, PETOSKEY, KIDS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MACKINAC GHOSTS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="MILLY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PERRY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="PETEY" Visible="No"/>
