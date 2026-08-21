@@ -643,8 +643,8 @@ Where is your weird husband, baby sister, Shelby?</Text>
       <Text>JasPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="548a62c5-bbea-45f7-8d02-92757adbf1ee">
-      <Text>And that my fam owns the Viet restaurant, Banh </Text>
-      <Text AdornmentStyle="-1">Miiiiichigan</Text>
+      <Text>And that my fam owns the Viet restaurant, BANH </Text>
+      <Text AdornmentStyle="-1">MIiiiichigan</Text>
       <Text>!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="1c482320-efd9-485b-9787-a81dba1a0530">
@@ -1087,12 +1087,29 @@ Where is your weird husband, baby sister, Shelby?</Text>
     <Paragraph Type="Dialogue" id="cc6436a0-622d-4e30-847d-cd80f95c5c15">
       <Text>Every rock has a softness they need to find in themself. Perhaps, it’ll take time in unexpected places... and persons...</Text>
     </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
+      <SceneProperties Length="2/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">3a. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water - Reprise</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
     <Paragraph Type="Action" id="17b1bb41-0e8b-475c-a395-ab4028affb4c">
       <Text>Liz places the Petoskey in the center.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Body of Water - Reprise</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
@@ -1108,8 +1125,8 @@ Where is your weird husband, baby sister, Shelby?</Text>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2019 - Day</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 1/8" Page="9" Title="">
+    <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
+      <SceneProperties Length="3 2/8" Page="9" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1120,7 +1137,7 @@ Where is your weird husband, baby sister, Shelby?</Text>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="MILLY">
+          <CharacterArcBeat Name="LULU &amp; PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PERRY">
@@ -1132,131 +1149,7 @@ Where is your weird husband, baby sister, Shelby?</Text>
           <CharacterArcBeat Name="SHELBY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
-          <CharacterArcBeat Name="TIDAL[S]">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="WILLY">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text Style="Underline+AllCaps">3a. “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">The Mitten Song - Reprise</Text>
-      <Text Style="Underline+AllCaps">”</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="3925c769-fd1f-4662-ba42-4beea7327409">
-      <Text Style="AllCaps">Petoskey</Text>
-      <Text> (an 11-year-old farm boy) runs to the Petoskey necklace and puts it on.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="243e29d4-7f1f-4649-9b56-730d79342cb5">
-      <Text>Petoskey</Text>
-    </Paragraph>
-    <Paragraph Type="Lyrics" id="aee1e9f7-332a-4c33-aab4-da31549b1a92">
-      <Text>Wakey </Text>
-      <Text AdornmentStyle="-1">wakey</Text>
-      <Text>, sun.
-Let’s wear our mittens
-and cook ‘</Text>
-      <Text AdornmentStyle="-1">em</Text>
-      <Text> eggs with lotsa bacon</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="2905e4bd-218c-4882-9554-3d2df7d38f07">
-      <Text Style="AllCaps">Lulu</Text>
-      <Text> (an 11-year-old city girl in a Hijab) comes out of her tent and bangs pots and pans.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="57594484-c16b-4725-a152-796388e15edf">
-      <Text>Lulu</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="e912d9ac-2a32-4169-ab9b-328b6ef90ece">
-      <Text>Can we like change the last word? Um, bacon seems unhealthy.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="64ce7a0a-44b9-4baa-b4ba-434c8bbdbdbd">
-      <Text>PETOSKEY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="4e94056a-c012-4a61-ae15-fb2a7547134e">
-      <Text>Would croutons give you a heart attack?</Text>
-    </Paragraph>
-    <Paragraph Type="Action" id="cd28cdd1-9f9c-4222-9ee3-361bf271168b">
-      <Text>The </Text>
-      <Text AdornmentStyle="-1">Vandam</Text>
-      <Text> sisters exit their tents.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="e4926dd3-6f77-463a-9357-7234063a5015">
-      <Text>ChERRY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="828bcdc8-86f9-4675-a399-87f186c02ecf">
-      <Text>You gave us all a heart attack!</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="45a9af70-98ea-42e1-85a0-5c6909a9d6bf">
-      <Text>PErry</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="ead7b507-7426-4a16-8f3c-5e22882d25c8">
-      <Text>We haven’t heard that song since...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="c6534277-ce60-461a-af81-0149b5a13320">
-      <Text>Shelby</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="f2fa0a40-9274-4bcc-b6ca-c686a82c7b67">
-      <Text>Our brother, your father.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="ad59a241-b106-4551-87ab-35f9a28d942e">
-      <Text>ChERRY, PERRY, SHELBY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="89b9a5b6-9d6a-4e2d-b172-f2550245155d">
-      <Text>Life’s been incomplete without Pete...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="6a819760-7c96-471b-9ecd-1e6d2cc88252">
-      <Text>WillY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="3f555216-b808-499b-8877-3ab4eee2bb54">
-      <Text>The days of sleeping in... are over... now that you’ve learnt your father’s song.</Text>
-    </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
-      <Text Style="Underline">End of “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">The Mitten Song - Reprise</Text>
-      <Text Style="Underline">”</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="8401b2e1-cdb4-42d6-94ec-70b7518cd163">
-      <Text>LuLU</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="609cbd2c-0432-4405-b0d5-b50e296719ad">
-      <Text>Where’s Granny Milly?</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="401571f9-b25b-4fb5-a394-8d7af12a0895">
-      <Text>WILLY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="90976ff7-c46f-4912-afd2-fe0117f6ba57">
-      <Text>Milly is milling about.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="b32172fb-5f45-43f5-bdc3-b9c14a2896fc">
-      <Text>LULU</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="d7fc81ea-f25e-4962-8125-5e4682063933">
-      <Text>Willy </Text>
-      <Text AdornmentStyle="-1">nilly</Text>
-      <Text> with the jokes.</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="7ec7f43b-2257-4812-b397-db4ad34b012e">
-      <Text>WILLY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="c5f3345a-84b2-4a80-8538-e688a2517a2c">
-      <Text>Milly needs all the rest she can get...</Text>
-    </Paragraph>
-    <Paragraph Type="Character" id="06b80f5a-e75b-4dc3-8c47-f6f7de43323d">
-      <Text>MILLY</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="85fcc221-7f95-42e5-bc41-de53b7b8a6ae">
-      <Text>Nah, I’m fine to drive you home to the Peninsula you and ‘</Text>
-      <Text AdornmentStyle="-1">em</Text>
-      <Text> weirdos call home.</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
-      <SceneProperties Length="2 3/8" Page="10" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="LIZZIE">
-            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
-          </CharacterArcBeat>
-          <CharacterArcBeat Name="PETOSKEY">
+          <CharacterArcBeat Name="WILLY &amp; MILLY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
@@ -1265,115 +1158,328 @@ and cook ‘</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Yoopers and Trolls</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
+    <Paragraph Type="Action" id="3925c769-fd1f-4662-ba42-4beea7327409">
+      <Text Style="AllCaps">Petoskey</Text>
+      <Text> (11, farm boy) crawls out of his tent. He sees the Petoskey necklace and wears it. He puts on mittens and bangs pots and pans.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2905e4bd-218c-4882-9554-3d2df7d38f07">
+      <Text Style="AllCaps">Lulu</Text>
+      <Text> (11, city girl in a Hijab) crawls out of her tent and troll Petoskey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6b288904-0ea1-4660-948f-7511b20342c2">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d445b832-2849-4d9f-a6e8-bbae0e9aac5d">
+      <Text>Petoskey!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="46d5b972-a97a-4e92-9c44-6e75edb1609c">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8f0c9159-d087-4174-a87a-026eae048ff2">
+      <Text>Lulu!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="94edb39b-7f12-4f13-a555-5c8a21494a8f">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="84b1f99a-d5d5-4341-b0ea-1be71bdadf71">
+          <Text>LULU</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="a4d31934-dcc0-427d-aad1-c652e0ee4f56">
+          <Text>Shut... up, Yooper!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="1817269e-253e-4b58-abb8-635a4a9c10dd">
+          <Text>PETOSKEY</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="26879b02-e2cd-4c0e-86f6-4a9379b01cdf">
+          <Text>Pipe... down, Troll.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="2905e4bd-218c-4882-9554-3d2df7d38f07">
+      <Text>Cherry, Perry, and Shelby enter with lawn chairs. They sit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10d9a769-21de-4d20-a2af-577cf8fdcd1e">
+      <Text>ChERRY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0e00994f-5a1f-4ef9-b817-3e3798909cf2">
+      <Text>The kids are at it again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d5f8c31-dcaf-471e-bb3d-fe7262f50d51">
+      <Text>ShelbY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="505049dd-7f98-4c05-b698-3dfa857239eb">
+      <Text>With my daughter, you betcha.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f1b78f5d-01ea-4438-9736-d149ecfaf85d">
+      <Text>PerrY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b7074598-5535-4bf7-9016-4376fa179c2a">
+      <Text>Let’s be responsible... and place some bets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bbdfb9e3-1939-4b89-aba3-6e81818cb969">
+      <Text>SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5d061848-ddc0-46d0-8880-06edfe0ecede">
+      <Text>Let’s go Lulu! Your inheritance in on the line!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f106b388-122d-4f62-8061-a586ca458818">
+      <Text>Petoskey takes off his mittens as Lulu gives troll-like expressions.</Text>
+    </Paragraph>
     <Paragraph Type="Character" id="6a5b9ed7-2658-4e51-9790-fabb3de4c9f9">
       <Text>PetoSKEY</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue" id="383e1b77-5c50-427e-827d-b9594652312b">
-      <Text AdornmentStyle="-1">Yoooooooooooppppppppeeeeeerrrrrrrs</Text>
-      <Text>!</Text>
+    <Paragraph Type="Lyrics" id="274bff92-f727-4723-b153-8833cbc65648">
+      <Text>Holy wah! Another day to go fishing!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f01ecb60-8eb1-4792-9f2d-a83505db3bc4">
+      <Text>LULU</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="4e3b8d50-4ddf-41b7-a942-fe932a3a510d">
+      <Text>Yeah no... Today, we go bird watching.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3cf46395-edc9-47fe-9757-208f3f252867">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="eb877ffb-9560-4461-a809-dec9ae9eb4da">
+      <Text>Aren’t you from eh... Dearborn?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5611455d-1576-4012-8b1b-d745d72e1cb9">
+      <Text>LULU</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="43a3e750-1734-4577-bdc0-d4d4dc7aa82e">
+      <Text>I ain’t into deer, you wild Yoopers...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="165b04f4-9c3a-45c6-ae7b-f12d16b5ed56">
+      <Text>Cherry, Perry, Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f5af0dcd-0423-4f9c-86fd-8807f9995ae3">
+      <Text>Under the bridge.
+OVer the mitten.
+Yoopers and Trolls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="698388c2-ea6a-4cd5-8e33-466cfc7a3983">
+      <Text>PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="581cd1c4-c621-4301-95fe-d00a6219109c">
+      <Text>Eh, crazy trolls...
+Let’s go stargazing!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b5cf0a55-49b9-4ad9-a705-c0a6ce8db7e2">
+      <Text>CherrY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="be5bcdfe-2e45-4b76-87a3-c46bcf4638bb">
+      <Text>What about ‘</Text>
+      <Text AdornmentStyle="-1">em</Text>
+      <Text> mosquitoes?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3b08c883-c677-428c-b83f-9dc221957730">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f2655c79-8dad-4eb9-b9e1-38dbdc3c0b22">
+      <Text>Let’s just watch </Text>
+      <Text AdornmentStyle="-1">WCMU</Text>
+      <Text>-TV!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e49df76d-8fe0-4318-9701-356d63bcee44">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="536612fc-9542-4b8d-b512-27deefe9ed44">
+      <Text AdornmentStyle="-1">WLUC</Text>
+      <Text> is up there!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f8f2b003-b490-4a4c-9e9a-cb7997bb6734">
+      <Text>ChERRY, PERRY, SHELBY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="349358dc-ad46-4933-acd2-97a902097ee9">
+      <Text>Wood-tv 8 is better! (mosquitoes!)</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="33300aa7-146a-4bbf-9d1c-8f4d3ef0cb0b">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="90ec0598-14d0-4262-84f6-dff33b6dc6e6">
+      <Text>I will bite. I am down to go kayaking!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="15fffbfd-dda0-440a-89fa-86df0faa3c28">
+      <Text>Cherry, Perry, Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="97e05acc-c4c5-47f0-9f8f-d3081e36a604">
+      <Text>Under the bridge.
+OVer the mitten!
+Pine river, the fastest in Michigan!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1ab03339-cac9-4f36-a7fa-ff9f77a068e0">
+      <Text>Petoskey draws his water gun, but Lulu shoots hers first.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8b794efd-caf4-4167-9999-c36d937a8d49">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="9546c2ab-b283-4f04-a47b-ffe1290db3f9">
+      <Text>Attack!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="61c532fb-b6d3-4c69-a347-349b2f92479f">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="5c753ad8-8deb-4ec4-9650-4ded40331203">
+      <Text>Too slow!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c07ca9db-ff20-4e4b-be20-a79124a6451b">
+      <Text>PetosKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="d7950faa-f260-46a7-834c-f78168129fef">
+      <Text>I’ve got backup!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a01bb437-c8f8-4096-ba62-e28fe10feffc">
+      <Text Style="AllCaps">Jacob </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Jacobowitz</Text>
+      <Text> (young adult, returned home from acting in NYC) and the </Text>
+      <Text Style="AllCaps">other cousins</Text>
+      <Text> (kids) ambush Lulu with their water guns before retreating.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4bd2aca3-0f42-4e93-82fc-88d13d23226a">
+      <Text>Cherry, Perry, Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1b5c7de4-0b89-4df2-8677-9b9a71a9a0fc">
+      <Text>You will never stay dry!</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="1b5c7de4-0b89-4df2-8677-9b9a71a9a0fc">
+      <Text>Under the bridge.
+OVer the mitten!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a4a4033d-3872-472e-9da6-12b47d7179c0">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="2fd9dfb4-8427-4372-8714-e4e681c9b89d">
+      <Text>Thank you, cousins!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ca297756-9cc5-4591-81e7-19e2b311851c">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="ef5c3406-3dd5-4313-8920-a45545a87dfe">
+      <Text>It is a sin to target your favorite cousin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1478fce5-8170-4fc4-9d5f-6e28f8e538df">
+      <Text>Jacob hands a towel to Lulu. They hug before he exits. She dries up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4bd2aca3-0f42-4e93-82fc-88d13d23226a">
+      <Text>Cherry, Perry, Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="10ceec0a-b076-4555-861a-4c90488375e2">
+      <Text>(Repeating)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="b00e5c52-ad0e-4fd1-970e-35dfdd8671da">
+      <Text>YOopers and Trolls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0f966809-de86-4830-a69d-17a02cfc2fdc">
+      <Text>LULU</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="11bcf359-3906-4c0d-a064-e5a68599d17c">
+      <Text>Holy crap, I hate </Text>
+      <Text AdornmentStyle="-1" Style="Italic+AllCaps">hate</Text>
+      <Text Style="Italic+AllCaps"> </Text>
+      <Text>camping with you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9eedd2bf-a54c-487d-874c-0904206c4f73">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6d6988d1-399b-4f0d-9672-63611ae843b2">
+      <Text>No one likes your hip hop trash.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="61a20149-5ef2-4de6-b8c6-6ac1940cd0bb">
+      <Text>LulU</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="f85222a3-0130-480a-8b18-373966929f14">
+      <Text>Take it back, country boy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74b8aa81-e3e7-4db1-b1bd-b4269ee1a22b">
+      <Text>PetOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="6adc42e1-6f0e-45fd-a5bf-2881adde25b2">
+      <Text>You first, city gal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="54151c6e-c68d-407a-9efa-844611674158">
+      <Text>Lulu &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="36d4e448-4918-4f4c-9343-a9557e897b76">
+      <Text>Another Harbor Days...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9eb7e27b-248a-4f07-bca6-f1ddc6a13ff2">
+      <Text>LulU</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="43b10af0-fd7e-4188-9e02-bde9ce30ea3f">
+      <Text>...with this wild yooper...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7934f29c-5038-43a5-a558-5c9669b311a2">
+      <Text>Lulu wrestles Petoskey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d48aad2-2be7-4462-a45b-ed4c82a3a048">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="0f994c66-90f9-471d-9324-11bb372b28d5">
+      <Text>Stay under the bridge, troll!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4bd2aca3-0f42-4e93-82fc-88d13d23226a">
+      <Text>Cherry, Perry, Shelby</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="669af6a1-5475-4f4e-a3f0-14c4e63b2166">
+      <Text>Yoopers and Trolls form a bridge!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="82a5b31e-b9be-4a6f-b8af-204a7bfb3846">
+      <Text>WillY &amp; MILLY</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="26fc6f23-828b-4589-a165-f5decde99a99">
+      <Text>Stop fighting!</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
-      <Text Style="Underline">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-End of “</Text>
+      <Text Style="Underline">End of “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Yoopers and Trolls</Text>
       <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498">
+      <Text>
+[Liz narrates, sharing the course of actions that take place before July 2022, mainly after August 2019 Harbor Days.
+
+Liz refuses to cross the Mackinac Bridge to attend Harbor Days but hopes Petoskey would get to enjoy it. His aunties - Cherry, Perry, and Shelby - take turns driving Petoskey from Skandia in the Upper Peninsula to Elk Rapids in the Lower.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498"/>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498">
+      <Text>Cherry’s son Jacob gets along with Petoskey, but grows up to become an actor in New York City. He recently did The Addams Family national tour.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498"/>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498">
+      <Text>Shelby’s same-age daughter Lulu however do not get along with Petoskey. It mirrors Shelby’s tumultuous relationship with her late older brother, Petey.
+
+After Harbor Days, Grammy Milly drives Petoskey home. Whenever they cross the Mackinac Bridge, he hears his father singing. He has only seen and heard his father through Perry’s camcorder recordings.
+
+In Petey’s absence, his childhood friend Jasper Tran becomes Petoskey’s godfather during Harbor Days and babysitting. He also becomes a godbrother to the aunties. His Vietnamese restaurant BANH </Text>
+      <Text AdornmentStyle="-1">MIchigan</Text>
+      <Text> is the family </Text>
+      <Text AdornmentStyle="-1">goto</Text>
+      <Text> spot for food.
+
+At the end of August 2019, Petoskey returns heartbroken. Liz does not know but Lulu threw Petey’s heirloom into Elk Lake. It is Petoskey’s spiritual connection to his late father.
+
+In 2020, Grammy Milly passes away. Due to COVID, </Text>
+      <Text AdornmentStyle="-1">Grampy</Text>
+      <Text> Willy refuses to host family reunions in 2020 and 2021.]</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
+      <SceneProperties Length="4/8" Page="12" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LIZZIE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Bold+AllCaps">Int. Home in Skandia, July 2022 - Day</Text>
     </Paragraph>
     <Paragraph Type="Action" id="ce514daa-0ef3-4fa3-9cd4-5f57fee852dc">
       <Text>Petoskey sits sadly, looking at photos of him and Milly.</Text>
@@ -1415,7 +1521,8 @@ So, would it mean the world if I went to this year’s Harbor Days? August two <
     </Paragraph>
     <Paragraph Type="Dialogue" id="8b65ac22-2a5f-41ad-b77a-1bee85aa6721">
       <Text>Let’s get a </Text>
-      <Text AdornmentStyle="-1">moooooove</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">moo</Text>
+      <Text AdornmentStyle="-1">oooove</Text>
       <Text> on. For Milly’s sake.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="4e667da8-f441-43d6-bc69-ff92c08aa55f">
@@ -1454,7 +1561,7 @@ So, would it mean the world if I went to this year’s Harbor Days? August two <
         </SceneArcBeats>
       </SceneProperties>
       <Text Style="Underline+AllCaps">5. “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">It’d Be a Shame</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">It Would Be a Shame</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="Action" id="2e2b1dfb-4314-4e8f-a348-a5e84fdb257d">
@@ -1536,7 +1643,7 @@ It is technology!</Text>
       <Text>MILLY</Text>
     </Paragraph>
     <Paragraph Type="Lyrics" id="9cd215a6-f67c-4da8-b632-3aba67f79a89">
-      <Text>I love you!</Text>
+      <Text>I love you!!</Text>
     </Paragraph>
     <Paragraph Type="Character" id="425f63b0-33da-410d-b97b-fe357f94558c">
       <Text>WayLAND</Text>
@@ -1710,14 +1817,14 @@ It would be a shame if I make...</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
-      <Text Color="#00000000FEFE" Style="Underline+AllCaps">It’d be a Shame</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">It Would be a Shame</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="15" Title="">
+      <SceneProperties Length="1/8" Page="16" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1727,7 +1834,7 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2022 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="5 6/8" Page="15" Title="">
+      <SceneProperties Length="5 4/8" Page="16" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1983,31 +2090,13 @@ All thanks to the dad tax!</Text>
     <Paragraph Type="Lyrics" id="c586ceaf-b0c1-4d0d-9241-e42bd23f9226">
       <Text>Pay your dad tax!</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="2066bc34-942f-47c9-8da1-f8a034dc80db">
-      <Text>Lizzie</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue" id="dace39de-368f-44c8-97e8-b242cd8f508a">
-      <Text>[sings about the mom tax]</Text>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text>[Liz sings about the mom tax. It is more egregious than the dad tax. The kids start a Boston Tea Party-</Text>
+      <Text AdornmentStyle="-1">esque</Text>
+      <Text> revolution due to being dad and mom taxed without kid representation.]</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
-      <Text Style="Underline">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-End of “</Text>
+      <Text Style="Underline">End of “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dad Tax</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
@@ -2363,7 +2452,7 @@ End of “</Text>
       <Text>The premise is... I own your lake house. There’s a Willy, there’s a way. Wily, thanks for not making the same mistake your son made.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 5/8" Page="21" Title="">
+      <SceneProperties Length="2" Page="21" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY &amp; PERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2405,13 +2494,10 @@ End of “</Text>
       <Text>LIZZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="4cc192fe-d8bf-4a8e-a81a-b3ce13cd7656">
-      <Text>Why would you want a rundown house when you can have one with the latest amenities, including a bidet?
-
-
-
-
-
-</Text>
+      <Text>Why would you want a rundown house when you can have one with the latest amenities, including a bidet?</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text>[The family sings about affordability. They make reference to their century-old Ford Model T. No one could afford the house back. Wayland takes a tour of the home where it has walls of photos. She eyes a photo of a young Petoskey wearing his father’s heirloom: a heart-shaped Petoskey stone with a marking of an Elk. Lulu and her mom Shelby are not present to know the importance of this stone to Petoskey and Liz. The lost heirloom is their only chance of saving the lake house. Wayland would trade the deed for it.]</Text>
     </Paragraph>
     <Paragraph Type="Character" id="b466be89-bbc5-4321-810c-3ba607707e91">
       <Text>WayLAND</Text>
@@ -2536,6 +2622,23 @@ End of “</Text>
     <Paragraph Type="Dialogue" id="fc039302-6c98-471e-93fb-42962612ec81">
       <Text>Lulu?</Text>
     </Paragraph>
+    <Paragraph Type="General" id="762b2422-1c67-4cea-a640-3ccfcbd123fe"/>
+    <Paragraph Type="General" id="762b2422-1c67-4cea-a640-3ccfcbd123fe">
+      <Text>[Conveniently, Jasper and Aunt Perry run a scuba diving company. But they could not find the heirloom (“Heirlooms”). The next few nights, Lulu and Petoskey witness deer pass by the bonfire. He wishes to see his dad while she hopes to win this year’s rock collection (“Dearborn”). One day, while Perry teaches fossils to the kids (“Fossils in the Stones”), Lulu separates from the group and discovers a deer drop off the hearty Petoskey necklace and other rare stones on the shore (“The Great Lakes Ballet”).</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="762b2422-1c67-4cea-a640-3ccfcbd123fe"/>
+    <Paragraph Type="General" id="762b2422-1c67-4cea-a640-3ccfcbd123fe">
+      <Text>For Harbor Days’ parade, Broadway actor cousin Jacob </Text>
+      <Text AdornmentStyle="-1">Jacobowitz</Text>
+      <Text> is the MC. So, the theme is theatre. Petoskey dresses as </Text>
+      <Text Style="Italic">Oklahoma</Text>
+      <Text>’s Jud Fry while Lulu plays Evan Hansen. Before marching, she shows her rare stone findings to the family. To spite Petoskey, she breaks his father's necklace, unaware it was their only chance to save the lake house from Wayland. The parade goes wrong as Petoskey beats up Lulu, disqualifying them for the first time (“</Text>
+      <Text AdornmentStyle="-1">Fraudway</Text>
+      <Text>”). After a lecture, he runs away (“Kick Rocks”).]</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="da1b48dc-a3cf-4bcf-9bdc-ed21a5117b1b">
+      <Text>End of ACt I</Text>
+    </Paragraph>
     <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
       <Text>Act </Text>
       <Text AdornmentStyle="-1">II</Text>
@@ -2543,109 +2646,22 @@ End of “</Text>
     <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
-    <Paragraph Type="Action" id="1e31d07f-008d-4da5-9ae9-d6b79243a3ca">
-      <Text>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Text>    </Paragraph>
-    <Paragraph Type="Scene Info" id="bfda984e-c564-4342-b53d-a7ca9637fe52">
-      <Text Style="Bold+Underline+AllCaps">Scene +</Text>
+    <Paragraph Type="General" id="7ceeb8b7-fb36-4c60-bda0-604d0f0f6d08"/>
+    <Paragraph Type="General" id="7ceeb8b7-fb36-4c60-bda0-604d0f0f6d08">
+      <Text>[In the following act, the family revisits a memory of Lulu and Petoskey meeting (“Hands Come in Handy”). Presently, they search for him while Lulu tries to find him at BANH MI (“Petoskey”). Jasper shares his refugee family stayed united despite continents dividing them as well as a time when a Lebanese family bought out his family’s failing restaurant but did not resort to blame as Petey had. The </Text>
+      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text> are only divided by peninsulas. Lulu realizes Petoskey is most likely at the Mackinac Bridge (“North South East West”).</Text>
     </Paragraph>
-    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
-      <Text>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</Text>    </Paragraph>
+    <Paragraph Type="General" id="7ceeb8b7-fb36-4c60-bda0-604d0f0f6d08"/>
+    <Paragraph Type="General" id="7ceeb8b7-fb36-4c60-bda0-604d0f0f6d08">
+      <Text>They drive up to find him. She offers the broken stone as a truce, but he tosses it into the water (“Rock Bottom”). This causes the bridge to fog up where his father’s ghost emerges as a giant elk. Petey shares that stones are special only when rocks are packed together. Like family, rocks come and go to leave a mark (“Family’s in the Fossils”).</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="7ceeb8b7-fb36-4c60-bda0-604d0f0f6d08"/>
+    <Paragraph Type="General" id="7ceeb8b7-fb36-4c60-bda0-604d0f0f6d08">
+      <Text>They return to the fair where Wayland is exhibiting data center models with other developers. Petoskey offers the Ford which she scoffs but is interested in. Jasper then offers his restaurant. The </Text>
+      <Text AdornmentStyle="-1">Vandams</Text>
+      <Text> return with decades of themed costume while Wayland shows how much “better” AI is. But the town rallies for this genuinely creative and weird family, against AI’s goal of turning lakes into data centers. Wayland and the developers refuse and steal the Ford, causing the town to chase after them. She drives it off a bridge, then gets thrown into an asylum by Traverse City. Their contracts are declared void as their party is declared insane (“Leave No Stones Unturned”).]</Text>
+    </Paragraph>
     <Paragraph Type="Action" id="f6968e55-92f9-46ff-af3c-83edd0e29a94">
       <Text>Liz gets in the Ford Model T. Petoskey joins her on the passenger side.</Text>
     </Paragraph>
@@ -2659,13 +2675,13 @@ End of “</Text>
       <Text Style="Bold+Underline+AllCaps">Scene +</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="26" Title="">
+      <SceneProperties Length="1/8" Page="24" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="6/8" Page="26" Title="">
+      <SceneProperties Length="6/8" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2734,16 +2750,13 @@ for our godsend...</Text>
     <Paragraph Type="Action" id="b9d3ace2-da94-4c1a-8bec-be72e366b0f3">
       <Text>Liz pulls Petey out of the fog. After fourteen years, the lovers embrace. They kiss.</Text>
     </Paragraph>
-    <Paragraph Type="Character" id="56b61090-5072-4805-a503-97a8f0976b86">
-      <Text>Lizzie (V.O.)</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical" id="bc48f837-7425-4fc2-be63-c39ba2d78a19">
-      <Text>(Narrating)</Text>
-    </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
       <Text Style="Underline">End of “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Spirits under the Bridge</Text>
       <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="4cf2ff73-d51b-45e2-ba40-17be8bb1c533">
+      <Text>End of Act II</Text>
     </Paragraph>
     <Paragraph Label="Scene 1" Type="New Act" id="03254032-ba6b-4137-a15f-5226dbf7d214">
       <Text>Act </Text>
@@ -2753,13 +2766,13 @@ for our godsend...</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="27" Title="">
+      <SceneProperties Length="1/8" Page="26" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1/8" Page="27" Title="">
+      <SceneProperties Length="2/8" Page="26" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2770,10 +2783,20 @@ for our godsend...</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Michigan</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading" id="151c6d83-afc8-41d2-abe3-5f28c3773e95">
-      <SceneProperties Length="1/8" Page="27" Title="">
-        <SceneArcBeats/>
-      </SceneProperties>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498"/>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498">
+      <Text>[Liz narrates, sharing the course of actions that take place between 2022 and 2037.
+
+Years later, Willy passes away. Lulu and Petoskey buy and fix up the lake house.</Text>
+    </Paragraph>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498"/>
+    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498">
+      <Text>For the 2037 Harbor Days which celebrates two hundred years of statehood (January 26, 1837), the theme is Pure Michigan where the </Text>
+      <Text AdornmentStyle="-1">Vandam</Text>
+      <Text> family resembles the state’s best from Eminem, Aretha Franklin, Charles Lindbergh, Madonna, Malcolm X, Rosa Parks, Stevie Wonder.]</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="b233a95e-ccdc-4664-a63d-a0b4b6024669">
+      <Text>End of Musical</Text>
     </Paragraph>
   </Content>
 
@@ -2818,7 +2841,7 @@ for our godsend...</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="16482,16482" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="20966,20966" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3176,6 +3199,7 @@ for our godsend...</Text>
       <SceneIntro>4</SceneIntro>
       <SceneIntro>5</SceneIntro>
       <SceneIntro>7</SceneIntro>
+      <SceneIntro>3A</SceneIntro>
     </SceneIntros>
     <Locations>
       <Location>"LIFE IS COMPLETE"</Location>
@@ -3187,11 +3211,14 @@ for our godsend...</Text>
       <Location>ELK LAKE HOUSE IN ELK RAPIDS, AUGUST 2022</Location>
       <Location>ELK LAKE HOUSE IN ELK RAPIDS, AUGUST 2019</Location>
       <Location>"AFFORDABLE"</Location>
+      <Location>"BODY OF WATER</Location>
+      <Location>ELK RAPIDS</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>EVENING</TimeOfDay>
       <TimeOfDay>MORNING</TimeOfDay>
       <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>REPRISE"</TimeOfDay>
     </TimesOfDay>
     <Transitions>
       <Transition>AT RISE:</Transition>
