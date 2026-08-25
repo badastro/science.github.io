@@ -1182,12 +1182,15 @@ I’m </Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2019 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="8a75dc57-df67-4dfc-968a-373d7d95060b">
-      <SceneProperties Length="3 2/8" Page="10" Title="">
+      <SceneProperties Length="3 7/8" Page="10" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="CHERRY, PERRY, SHELBY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="LULU">
@@ -1197,6 +1200,9 @@ I’m </Text>
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PERRY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
           <CharacterArcBeat Name="PETOSKEY">
@@ -1497,36 +1503,76 @@ OVer the mitten!</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Yoopers and Trolls</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
-    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498">
-      <Text>
-[Liz narrates, sharing the course of actions that take place before July 2022, mainly after August 2019 Harbor Days.
-
-Liz refuses to cross the Mackinac Bridge to attend Harbor Days but hopes Petoskey would get to enjoy it. His aunties - Cherry, Perry, and Shelby - take turns driving Petoskey from Skandia in the Upper Peninsula to Elk Rapids in the Lower.</Text>
+    <Paragraph Type="Action" id="0e28e38d-fb5c-4a71-99c9-b7d11201721c">
+      <Text>Liz shares the family members.</Text>
     </Paragraph>
-    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498"/>
-    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498">
-      <Text>Cherry’s son Jacob gets along with Petoskey, but grows up to become an actor in New York City. He recently did The Addams Family national tour.</Text>
+    <Paragraph Type="Character" id="b21cba56-d095-4603-8b57-2286ff66df42">
+      <Text>LizZIE</Text>
     </Paragraph>
-    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498"/>
-    <Paragraph Type="General" id="3f17ab61-612a-49e3-9487-211ddd6a8498">
-      <Text>Shelby’s same-age daughter Lulu however do not get along with Petoskey. It mirrors Shelby’s tumultuous relationship with her late older brother, Petey.
+    <Paragraph Type="Parenthetical" id="6471b8ed-a3c7-404c-b6bc-c70ec93ffc2c">
+      <Text>(Narrating)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="57adb668-5455-49cd-a0bd-da48653223bf">
+      <Text>If my Petoskey and his cousin Lulu weren’t fighting, I’d assume they were abducted and replaced by aliens.
 
-After Harbor Days, Grammy Milly drives Petoskey home. Whenever they cross the Mackinac Bridge, he hears his father singing. He has only seen and heard his father through Perry’s camcorder recordings.
+Their cousin Jacob </Text>
+      <Text AdornmentStyle="-1">Jacobowitz</Text>
+      <Text> is making it on Broadway.
 
-In Petey’s absence, his childhood friend Jasper Tran becomes Petoskey’s godfather during Harbor Days and babysitting. He also becomes a godbrother to the aunties. His Vietnamese restaurant BANH </Text>
-      <Text AdornmentStyle="-1">MIchigan</Text>
-      <Text> is the family </Text>
-      <Text AdornmentStyle="-1">goto</Text>
-      <Text> spot for food.
-
-At the end of August 2019, Petoskey returns heartbroken. Liz does not know but Lulu threw Petey’s heirloom into Pine River while they were canoeing. It is Petoskey’s spiritual connection to his late father.
-
-In 2020, Grammy Milly passes away. Due to COVID, </Text>
+Then there are Liberty and Bailey. Twin cousins removed from reality who are from Hell... Michigan. I’ve heard from my in-laws that they are angels.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b08b0a6a-5d76-4f09-aa51-99a9cd95b723">
+      <Text>Liberty and Bailey go wild and chase everyone around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6f31f2c4-8d8a-4d81-88ea-3d171f5436e7">
+      <Text>LizZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4c1ddf3-315d-4fc4-8e83-3ea885492c08">
+      <Text>I don’t remember the other names Petoskey mentioned. They got many cousins, aunts, uncles- I wish I could meet them all but that Mackinac. It’s a bridge I cannot cross. Its watery depths crossed my heart and made many hope to die.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9b51b2c4-d295-4def-b054-c4eda6b93a25">
+      <Text>Cherry drives in. She puts on a Red Wings hockey shirt over Petoskey. Perry shoves Cherry out then gives him homework. Then Shelby shoves Cherry out and Lulu shoves Petoskey out the car. Then Granny Milly respectfully takes over and lets Petoskey in the car.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="97b40690-f875-46a0-8022-0603bcd0b7eb">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4c1ddf3-315d-4fc4-8e83-3ea885492c08">
+      <Text>Fortunately, my son is able to and his aunties had no problem taking turns driving him from Skandia in the U P to the L P. After Harbor Days, Granny Milly would drive him home. He is said to hear a man’s voice whenever they cross-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="90d0e8c2-f56a-4a7a-9d22-1328e006cc93">
+      <Text>As Petey naps in the car, he awakens to Petey’s song.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fa329934-a8e0-461a-9810-b7c96c021c11">
+      <Text>Petey (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Lyrics" id="142d2340-c4fc-4e95-82fd-ab360e72b05b">
+      <Text>Wakey </Text>
+      <Text AdornmentStyle="-1">wakey</Text>
+      <Text>, son...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d27b40e2-ae54-4145-bfce-d23e4d7ed32d">
+      <Text>Jasper takes over for Milly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cbaf0b22-bc0b-422f-812a-5ed545dd8e62">
+      <Text>LIZZIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba64ae48-9adc-40a3-89c0-f5ce3e65c701">
+      <Text>Whenever Milly was feeling well, Petoskey was Jasper’s problem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1ba8c67e-6905-4a3b-ae1c-fcaa6e144ddf">
+      <Text>Jasper drops off and goofs off with Petoskey in Skandia. Liz awaits them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="23f68c99-1c80-455f-97c6-681f4f33d4d2">
+      <Text>LizzIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db3a9f1e-f41c-4a9e-9a0e-819fec875793">
+      <Text>Boys... Then the real problem came in 2020.
+We didn’t see it coming. We no longer saw another one of Milly’s inventions from her automatic toilet to the electromagnetic pet hair remover. We no longer heard another idea from her. </Text>
       <Text AdornmentStyle="-1">Grampy</Text>
-      <Text> Willy refuses to host family reunions in 2020 and 2021.]</Text>
+      <Text> Willy cancelled the 2020 and 2021 family reunion. He wanted to grieve alone. I worry about him and the lake house. I’m thankful for our home, living off my Petey’s life insurance. But no one can rest assured of what lives life will take away from us next. I really wanted to see everyone.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="4/8" Page="13" Title="">
+      <SceneProperties Length="4/8" Page="14" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1878,7 +1924,7 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="16" Title="">
+      <SceneProperties Length="1/8" Page="17" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -1888,7 +1934,7 @@ It would be a shame if I make...</Text>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House in Elk Rapids, August 2022 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="5 4/8" Page="16" Title="">
+      <SceneProperties Length="5 4/8" Page="17" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2522,7 +2568,7 @@ All thanks to the dad tax!</Text>
       <Text>The premise is... I own your lake house. There’s a Willy, there’s a way. Wily, thanks for not making the same mistake your son made.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 1/8" Page="22" Title="">
+      <SceneProperties Length="2 1/8" Page="23" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY &amp; PERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2747,13 +2793,13 @@ All thanks to the dad tax!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene +</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="25" Title="">
+      <SceneProperties Length="1/8" Page="26" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 2/8" Page="25" Title="">
+      <SceneProperties Length="1 2/8" Page="26" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2917,13 +2963,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="28" Title="">
+      <SceneProperties Length="1/8" Page="29" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="2/8" Page="28" Title="">
+      <SceneProperties Length="2/8" Page="29" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="TIDAL[S]">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2992,7 +3038,7 @@ Years later, Willy passes away. Lulu and Petoskey buy and fix up the lake house.
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="100" Selection="909,909" ShowInvisibles="No"/>
+  <TextState Scaling="100" Selection="12168,12168" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3414,7 +3460,7 @@ Years later, Willy passes away. Lulu and Petoskey buy and fix up the lake house.
     <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="2552">
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
     <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
     </ScriptPanel>
