@@ -293,7 +293,7 @@ Let’s include Boxing Day while you’re at it!</Text>
         <Paragraph Type="Character" id="b6e06daf-a22a-4705-80b6-32350debbbd8">
           <Text>Willy</Text>
         </Paragraph>
-        <Paragraph Type="Lyrics" id="42518579-1731-4304-9f66-ddec760dca7b">
+        <Paragraph Type="Lyrics" id="ccb5f10a-d879-46ea-a0a9-14d689a3ce0a">
           <Text>Granny Milly.</Text>
         </Paragraph>
         <Paragraph Type="Lyrics" id="42518579-1731-4304-9f66-ddec760dca7b">
@@ -1361,7 +1361,7 @@ Pine river, the fastest in Michigan!</Text>
       <Text>Cousins</Text>
       <Text Style="AllCaps"> Jacob </Text>
       <Text AdornmentStyle="-1" Style="AllCaps">Jacobowitz</Text>
-      <Text> (adult actor), twins </Text>
+      <Text> (adult actor), Twins </Text>
       <Text Style="AllCaps">Liberty</Text>
       <Text> and </Text>
       <Text Style="AllCaps">Bailey</Text>
@@ -2782,7 +2782,7 @@ Ai does the work for me!</Text>
       <Text> Press.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 4/8" Page="24" Title="">
+      <SceneProperties Length="1 5/8" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY &amp; PERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2936,19 +2936,173 @@ Ai does the work for me!</Text>
       <Text>LizZIE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue" id="fc039302-6c98-471e-93fb-42962612ec81">
-      <Text>Lulu?</Text>
+      <Text>Lulu? Wait, when did you go to Pine River? It has the fastest rapids in the state. It’s dangerous and forbidden! Only Petey and I- Only some of us have canoed there, like Jacob when he was Cherry’s teenager...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="043fc62c-0ab8-46d5-8874-d6b30c611023">
+      <Text>Petoskey</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2d9f23fd-c828-42bd-82cd-8f215526937e">
+      <Text>Well back in 2019, Jacob took us on a little detour... </Text>
     </Paragraph>
     <Paragraph Type="Scene Info" id="c4991dc9-c78e-42e1-985d-061b649af3c4">
       <Text Style="Bold+Underline+AllCaps">Scene 7</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="06da4649-6b94-4082-9ec1-2b3e8a87f1ef">
-      <SceneProperties Length="1/8" Page="25" Title="">
+      <SceneProperties Length="1/8" Page="26" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Bold+AllCaps">Ext. Pine River, August 2019 - Day</Text>
+      <Text Style="Bold+AllCaps">Ext. Lumberjack park, August 2019 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 1/8" Page="25" Title="">
+      <SceneProperties Length="1 4/8" Page="26" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="COUSINS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="JACOB">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="LULU &amp; PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PETOSKEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text Style="Underline+AllCaps">8. “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Wild Midwest</Text>
+      <Text Style="Underline+AllCaps">”</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1d8050b4-9007-4ceb-b1f1-7f5b25ac8786">
+      <Text>Jacob paces like a sergeant as his cousins stand in formation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a408e431-59f9-4c01-b875-832b32b5ab02">
+      <Text>JacoB</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a9e9f9b0-a643-4d7b-b350-6da032e6b9f5">
+      <Text>You all are not supposed to be here, but here we are now. All thanks to...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="25f980c6-b95a-4180-bc37-bb1d422719a9">
+      <Text>Cousins</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3efe5861-0f04-4a60-b06d-6f07c69f8648">
+      <Text>Our favorite cousin Jacob...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="435b8016-695f-4dca-9307-d119d0164ef0">
+      <Text>JACOB</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd59ec2f-c207-425b-9b6e-8b81b8b06607">
+      <Text Style="Italic">Favorite</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f0588ee8-f605-47eb-8d31-dc947b5e47c7">
+      <Text>CouSINS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="24eb5017-419e-42ca-8d19-244838e90703">
+      <Text>The famous actor Jacob </Text>
+      <Text AdornmentStyle="-1">Jacobowitz</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="411ed360-0a36-4165-9e09-b951da79b55f">
+      <Text>JACOB</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1f014976-8578-4e3f-9bb3-2a5e315d73b2">
+      <Text>These rapids downstream are not an act. Uncle Petey used to take us canoeing until he passed away. So blessed to keep this tradition alive. So, </Text>
+      <Text AdornmentStyle="-1">shhhhh</Text>
+      <Text>. Tell your parents and ya dead meat.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f86b3367-4237-48cd-80aa-cd4a6b7c8fe4">
+      <Text>
+Each canoe needs two rowers. I’ll pair you all by ages. Lulu, Petoskey, you’re both ten. Liberty, Bailey-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="87467266-4f79-4646-ba59-f259961c656e">
+      <Text>Jacob pairs up each cousins.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a0080286-eb8a-4b24-8085-c20ad3be0e1a">
+      <Text>Lulu sticks her tongue out at Petoskey in a disgusted manner.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8b83fb23-ebd0-4678-a2d9-96b32bd79ead">
+      <Text>Each team carry in their canoe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4421f14a-9e51-49f9-a496-52e68ffebeda">
+      <Text>Jacob hands out the paddles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7771f4ad-e27b-4f33-ab30-0aabb84598f3">
+      <Text>JacoB</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ef7d1037-ab1c-46c5-a1ce-b4333f2fa243">
+      <Text>Here are your paddles. Now each duo must decide their bow and stern.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5a6c99bf-77b5-4ef3-a849-b121d8a3dce5">
+      <Text>LUlu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b862ba8f-4ce4-4837-88e9-b3bba1a5ad16">
+      <Text>Isn’t the stern like a lotta work?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3e091e3c-b7fe-457e-8152-4fd25bd94cae">
+      <Text>JAcob</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fed7ace5-f7c2-4799-b6cd-a074038a367f">
+      <Text>Affirmative.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3ad71528-a461-4bbf-8837-adc4dab03d8d">
+      <Text>Lulu &amp; PETOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9c37cebe-aa91-476e-b8a4-305ee4e2e701">
+      <Text>I choose the bow! No, you’re stern! You lazy good for nothin’-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="90456a06-eac4-40ed-9d04-f89bb2faecdb">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cb805cd-53d7-48c9-ba2d-76af668adeab">
+      <Text>Whoever gets soaked first...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cd731985-0087-494b-9c57-b32010a2a167">
+      <Text>PetOSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dac8ed34-e059-48be-a053-939e9d32e8e1">
+      <Text>...has to row these rapids...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0e5a19a9-856b-4cb5-b512-7f48f1aaded7">
+      <Text>Jacob</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e1eecafd-c832-4b1c-bcc7-8fb0cd06d93d">
+      <Text>We’ve got ourselves a </Text>
+      <Text Style="AllCaps">Wild Midwest showdown</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f5a026b3-86e0-4321-8296-7637438f51cb">
+      <Text>Lulu and Petoskey walk in opposite directions before turning to face each other. They prepare to draw their water guns.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d4e1390d-ec36-4229-ab25-daabf5de3911">
+      <Text>The Twins leap out and startle Lulu. She sprays them while Petoskey unloads on her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="58e396a1-06fe-49b1-b640-2f15d991b143">
+      <Text>Lulu lies on the ground, defeated.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="74a180a3-5179-4509-a165-e70a6e740bbe">
+      <Text>PetoSKEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="07d6bf54-5b62-455b-bbf6-a3e4fb065551">
+      <Text>Get paddling! What? I promised the twins from Hell I’d cover their dad tax for the rest of Harbor Days.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bd714811-ce1c-488a-83e8-e08e54d3cd40">
+      <Text>Lulu</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="07b84db0-582e-43bb-884b-d8bbaf00e204">
+      <Text>You’re gonna sink, Petoskey...</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="eb856690-b1a3-4f35-8b5f-8c2819a62116">
+      <Text Style="Underline">End of “</Text>
+      <Text Color="#00000000FEFE" Style="Underline+AllCaps">Wild Midwest</Text>
+      <Text Style="Underline">”</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
+      <SceneProperties Length="1 1/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="BAILEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -2964,13 +3118,13 @@ Ai does the work for me!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">8. “</Text>
+      <Text Style="Underline+AllCaps">9. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">More than Fine (I’m Pine)</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
     <Paragraph Type="General" id="762b2422-1c67-4cea-a640-3ccfcbd123fe"/>
     <Paragraph Type="General" id="762b2422-1c67-4cea-a640-3ccfcbd123fe">
-      <Text>[They have a day to find the necklace along Pine River. Petoskey revisits a memory of him canoeing with Lulu in 2019 when she tossed his heirloom, severing his dad’s spiritual ties.]</Text>
+      <Text>[In 2019, Lulu drops the heirloom in the water. They have a day to find the necklace along Pine River. Petoskey revisits a memory of him canoeing with Lulu in 2019 when she tossed his heirloom, severing his dad’s spiritual ties.]</Text>
     </Paragraph>
     <Paragraph Type="Character" id="6d2756bb-8ddc-4f9c-a166-535429a5a7b1">
       <Text>LibERTY &amp; BAILEY</Text>
@@ -3043,7 +3197,7 @@ Ai does the work for me!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 8</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="294eb061-a2b6-4248-854f-106f0e51c061">
-      <SceneProperties Length="4/8" Page="27" Title="">
+      <SceneProperties Length="4/8" Page="28" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Pine River, August 2022 - Day</Text>
@@ -3076,16 +3230,16 @@ Ai does the work for me!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 9</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="359e378d-41c7-4a78-b737-d9c55d576fff">
-      <SceneProperties Length="1/8" Page="27" Title="">
+      <SceneProperties Length="1/8" Page="29" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Sleeping Bear Dunes - Night</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="5/8" Page="27" Title="">
+      <SceneProperties Length="5/8" Page="29" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">9. “</Text>
+      <Text Style="Underline+AllCaps">10. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Dearborn (Dear Deer)</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -3123,16 +3277,16 @@ Ai does the work for me!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 10</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="bd4104a8-52d1-44c9-8490-38b1fffb433a">
-      <SceneProperties Length="1/8" Page="28" Title="">
+      <SceneProperties Length="1/8" Page="29" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Lake Michigan Shores - Morning</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1" Page="28" Title="">
+      <SceneProperties Length="1" Page="29" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">10. “</Text>
+      <Text Style="Underline+AllCaps">11. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Fossils in the Stones</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -3193,10 +3347,10 @@ Ai does the work for me!</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 1/8" Page="29" Title="">
+      <SceneProperties Length="1 1/8" Page="30" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">11. “</Text>
+      <Text Style="Underline+AllCaps">12. “</Text>
       <Text AdornmentStyle="-1" Color="#00000000FEFE" Style="Underline+AllCaps">Gichigamiin</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps"> (The Great Lakes Ballet)</Text>
       <Text Style="Underline+AllCaps">”</Text>
@@ -3265,7 +3419,7 @@ Ai does the work for me!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 11</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="6c191985-dc7e-4bd5-acfb-f6b6e0ad2bb7">
-      <SceneProperties Length="1 7/8" Page="30" Title="">
+      <SceneProperties Length="1 7/8" Page="31" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3338,7 +3492,7 @@ Ai does the work for me!</Text>
       <Text>So, my guy sucks. And your guy’s creepy.</Text>
     </Paragraph>
     <Paragraph Type="Action" id="7a015a81-b84b-4586-b894-8914696d9323">
-      <Text>The twins show up as Elphaba and Glinda.</Text>
+      <Text>The Twins show up as Elphaba and Glinda.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="495bc0b8-e283-4ff4-8fa6-cb23520ab4cd">
       <Text>PetosKEY</Text>
@@ -3347,7 +3501,7 @@ Ai does the work for me!</Text>
       <Text>And those two are like- princess witches?</Text>
     </Paragraph>
     <Paragraph Type="Action" id="c1e84652-4d6e-4235-bdaa-d9f8e44c64ff">
-      <Text>The twins monkey around.</Text>
+      <Text>The Twins monkey around.</Text>
     </Paragraph>
     <Paragraph Type="Character" id="46848824-274b-44cd-973f-0a38d3441446">
       <Text>Lulu</Text>
@@ -3430,7 +3584,7 @@ Ai does the work for me!</Text>
 </Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 4/8" Page="32" Title="">
+      <SceneProperties Length="1 4/8" Page="33" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3446,7 +3600,7 @@ Ai does the work for me!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">12. “</Text>
+      <Text Style="Underline+AllCaps">13. “</Text>
       <Text AdornmentStyle="-1" Color="#00000000FEFE" Style="Underline+AllCaps">Fraudway</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -3577,7 +3731,7 @@ Ai does the work for me!</Text>
       <Text>A Resident removes the award plague from Willy’s grasp.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1 7/8" Page="33" Title="">
+      <SceneProperties Length="1 7/8" Page="35" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3593,7 +3747,7 @@ Ai does the work for me!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">13. “</Text>
+      <Text Style="Underline+AllCaps">14. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Kick Rocks</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -3803,13 +3957,13 @@ Kick rocks!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="36" Title="">
+      <SceneProperties Length="1/8" Page="37" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, August 2016 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 3/8" Page="36" Title="">
+      <SceneProperties Length="2 3/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LULU">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -3822,7 +3976,7 @@ Kick rocks!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">14. “</Text>
+      <Text Style="Underline+AllCaps">15. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Hands Come in Handy</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -4050,7 +4204,7 @@ Hands come in handy!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="4/8" Page="38" Title="">
+      <SceneProperties Length="4/8" Page="39" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4108,7 +4262,7 @@ Hands come in handy!</Text>
       <Text>When did it ever?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="38" Title="">
+      <SceneProperties Length="1/8" Page="39" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Lake House - Day</Text>
@@ -4117,10 +4271,10 @@ Hands come in handy!</Text>
       <Text>Cherry and Perry go outside to find many search parties.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="1" Page="39" Title="">
+      <SceneProperties Length="1" Page="40" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">15. “</Text>
+      <Text Style="Underline+AllCaps">16. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Petoskey</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -4187,7 +4341,7 @@ Hands come in handy!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 3</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="6/8" Page="40" Title="">
+      <SceneProperties Length="6/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4255,7 +4409,7 @@ Hands come in handy!</Text>
       <Text>No, I don’t.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="2b317a2f-acac-442b-b0d3-0eb725b26d30">
-      <SceneProperties Length="2 3/8" Page="40" Title="">
+      <SceneProperties Length="2 3/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4274,7 +4428,7 @@ Hands come in handy!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">16. “</Text>
+      <Text Style="Underline+AllCaps">17. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">North South East West</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -4522,20 +4676,20 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 4</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="43" Title="">
+      <SceneProperties Length="1/8" Page="44" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="1" Page="43" Title="">
+      <SceneProperties Length="1" Page="44" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="PETOSKEY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">17. “</Text>
+      <Text Style="Underline+AllCaps">18. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Rock Bottom</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -4599,7 +4753,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Underline">”</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="2 5/8" Page="44" Title="">
+      <SceneProperties Length="2 5/8" Page="45" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JASPER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4618,7 +4772,7 @@ so long as you listen to the bread.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">18. “</Text>
+      <Text Style="Underline+AllCaps">19. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Family’s in the Fossils</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -4844,13 +4998,13 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 5</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="46" Title="">
+      <SceneProperties Length="1/8" Page="47" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="9db8ffae-33d8-4f33-9d0f-55621098fec0">
-      <SceneProperties Length="5 1/8" Page="46" Title="">
+      <SceneProperties Length="5 1/8" Page="47" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -4914,7 +5068,7 @@ so long as you listen to the bread.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">19. “</Text>
+      <Text Style="Underline+AllCaps">20. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Leave No Stones Unturned</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -5377,7 +5531,7 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 6</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="2 3/8" Page="51" Title="">
+      <SceneProperties Length="2 3/8" Page="52" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AUDIENCE MEMBER">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5651,13 +5805,13 @@ so long as you listen to the bread.</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 7</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="ff2224c8-4acc-4956-867a-17fd275c56b8">
-      <SceneProperties Length="1/8" Page="54" Title="">
+      <SceneProperties Length="1/8" Page="55" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Mackinac Bridge - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1 3/8" Page="54" Title="">
+      <SceneProperties Length="1 3/8" Page="55" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5676,7 +5830,7 @@ so long as you listen to the bread.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">20. “</Text>
+      <Text Style="Underline+AllCaps">21. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Water to My Soul</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -5832,13 +5986,13 @@ You are my soul!</Text>
       <Text Style="Bold+Underline+AllCaps">Scene 1</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="1/8" Page="56" Title="">
+      <SceneProperties Length="1/8" Page="57" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text Style="Bold+AllCaps">Ext. Elk Rapids, 2037 - Day</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="1" Page="56" Title="">
+      <SceneProperties Length="1" Page="57" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LIZZIE">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5851,7 +6005,7 @@ You are my soul!</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">20A. “</Text>
+      <Text Style="Underline+AllCaps">21A. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Life is Complete - Reprise 2</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -5932,7 +6086,7 @@ And Lulu ended up turning our life story into a musical for her high school seni
       <Text Style="Bold+Underline+AllCaps">Scene 2</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="987c3cbc-adb0-4eed-895f-9c2ec73d05c3">
-      <SceneProperties Length="7/8" Page="57" Title="">
+      <SceneProperties Length="7/8" Page="58" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="JACOB">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -5988,7 +6142,7 @@ And here comes Elk Rapids with the world-class </Text>
       <Text>Who are we?!</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading" id="5da96831-1e73-4f5e-baff-daeadd78b157">
-      <SceneProperties Length="5/8" Page="58" Title="">
+      <SceneProperties Length="5/8" Page="59" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="CHERRY">
             <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
@@ -6010,7 +6164,7 @@ And here comes Elk Rapids with the world-class </Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text Style="Underline+AllCaps">21. “</Text>
+      <Text Style="Underline+AllCaps">22. “</Text>
       <Text Color="#00000000FEFE" Style="Underline+AllCaps">Michigan</Text>
       <Text Style="Underline+AllCaps">”</Text>
     </Paragraph>
@@ -6127,7 +6281,7 @@ Winter in our bones.</Text>
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="90" Selection="0,0" ShowInvisibles="No"/>
+  <TextState Scaling="90" Selection="22753,22753" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -6489,6 +6643,7 @@ Winter in our bones.</Text>
       <Character>LiberTY</Character>
       <Character>Audience Member</Character>
       <Character>Michiganders</Character>
+      <Character>Cousins</Character>
     </Characters>
     <Extensions>
       <Extension>(OFF)</Extension>
@@ -6512,6 +6667,7 @@ Winter in our bones.</Text>
       <SceneIntro>8</SceneIntro>
       <SceneIntro>16</SceneIntro>
       <SceneIntro>12</SceneIntro>
+      <SceneIntro>9</SceneIntro>
     </SceneIntros>
     <Locations>
       <Location>"LIFE IS COMPLETE"</Location>
@@ -6541,6 +6697,7 @@ Winter in our bones.</Text>
       <Location>"MORE THAN FINE (I'M PINE)"</Location>
       <Location>"NORTH SOUTH EAST WEST"</Location>
       <Location>"FRAUDWAY"</Location>
+      <Location>"WILD MIDWEST"</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>EVENING</TimeOfDay>
@@ -7016,6 +7173,7 @@ Winter in our bones.</Text>
     <Member Actor="" Character="LiberTY"/>
     <Member Actor="" Character="Audience Member"/>
     <Member Actor="" Character="Michiganders"/>
+    <Member Actor="" Character="Cousins"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -7034,6 +7192,7 @@ Winter in our bones.</Text>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY &amp; SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="CHERRY, PERRY, SHELBY" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="COP" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="COUSINS" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="DETECTIVE" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="FORD" Visible="No"/>
     <Character Color="#RRRRGGGGBBBB" Name="JACOB" Visible="No"/>
